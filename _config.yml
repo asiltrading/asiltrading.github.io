@@ -1,0 +1,70 @@
+title: "Asil Trading FZCO"
+tagline: "Maritime Spare Parts, Dubai"
+description: >-
+  Asil Trading is a Dubai-based B2B supplier of maritime and industrial spare parts.
+  Emergency sourcing, obsolete parts, and full logistics management. IFZA registered.
+url: "https://www.asiltrading.com"
+email: "contact@asiltrading.com"
+locale: "en_AE"
+timezone: "Asia/Dubai"
+
+company:
+  legal_name: "Asil Trading FZCO"
+  address: "Office 35786–001, IFZA Business Park, DDP, Dubai, UAE"
+  trn: "104165890500001"
+  customs_code: "AE-1183222"
+  eori: "NL827475391"
+
+social:
+  email: "contact@asiltrading.com"
+
+# SEO defaults consumed by jekyll-seo-tag
+logo: "/assets/img/logo.png"
+twitter:
+  card: summary_large_image
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /insights/:slug/
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+permalink: /insights/:slug/
+
+# Plugins (all GitHub-Pages-safe)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Build
+markdown: kramdown
+highlighter: rouge
+sass:
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - README.md
+  - "*.gem"
+
+# Insight categories (used by filter UI)
+insight_categories:
+  - Procurement
+  - Product guide
+  - Shipping & docs
+  - Market
