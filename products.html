@@ -1,0 +1,56 @@
+---
+layout: default
+title: "Products"
+description: "A sample of the maritime and industrial spare parts we source: engines, pumps, navigation, sensors, electrical, and auxiliary equipment. Hundreds of brands."
+permalink: /products/
+body_class: products
+---
+
+<section class="hero" aria-labelledby="products-heading">
+  <div class="hero-grid" aria-hidden="true"></div>
+  <div class="hero-inner">
+    <div class="hero-eyebrow">
+      <span class="hero-dot" aria-hidden="true"></span>
+      <span class="hero-eyebrow-text">What we supply</span>
+    </div>
+    <h1 id="products-heading">Hundreds of brands.<br><em>One supplier.</em></h1>
+    <p class="hero-body">A sample of what we source: engines, pumps, navigation, sensors, electrical, and auxiliary equipment. If it's a maritime or industrial part, we can find it.</p>
+    <div class="hero-btns">
+      <a href="{{ '/contact/' | relative_url }}" class="btn-primary">Request parts</a>
+    </div>
+  </div>
+</section>
+
+{% for cat in site.data.brands.categories %}
+  {% assign mod = forloop.index0 | modulo: 2 %}
+  {% assign idx = forloop.index %}
+  <section class="products-block{% if mod == 1 %} section-alt{% endif %}" id="{{ cat.id }}" aria-labelledby="cat-{{ cat.id }}">
+    <div class="products-block-inner">
+      <div class="products-block-head">
+        <h2 id="cat-{{ cat.id }}">{{ cat.title }}</h2>
+        <p>{{ cat.description }}</p>
+      </div>
+
+      <div class="products-block-body">
+        {% for group in cat.groups %}
+          <div class="products-list-block">
+            <h3>{{ group.heading }}</h3>
+            <div class="brand-tags">
+              {% for item in group.items %}
+                <span class="brand-tag">{{ item }}</span>
+              {% endfor %}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+{% endfor %}
+
+<section class="cta-simple" aria-labelledby="products-cta-heading">
+  <div class="cta-simple-inner">
+    <h2 id="products-cta-heading">Need something not listed?</h2>
+    <p>Tell us what you need.</p>
+    <a href="{{ '/contact/' | relative_url }}" class="btn-primary btn-wide">Contact us</a>
+  </div>
+</section>

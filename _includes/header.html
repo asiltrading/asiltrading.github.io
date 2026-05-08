@@ -1,0 +1,22 @@
+<nav class="nav" aria-label="Primary">
+  <div class="nav-inner">
+    <a href="{{ '/' | relative_url }}" class="nav-brand" aria-label="Asil Trading – Home">
+      <img src="{{ '/assets/img/logo-small.png' | relative_url }}" alt="" class="nav-logo" width="38" height="38">
+      <span class="brand-name">ASIL TRADING</span>
+    </a>
+
+    <button class="nav-toggle" aria-expanded="false" aria-controls="primary-nav" aria-label="Toggle menu">
+      <span></span><span></span><span></span>
+    </button>
+
+    <div class="nav-collapse" id="primary-nav">
+      <div class="nav-links">
+        <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+        <a href="{{ '/products/' | relative_url }}"{% if page.url contains '/products' %} aria-current="page"{% endif %}>Products</a>
+        <a href="{{ '/parts/' | relative_url }}"{% if page.url contains '/parts' %} aria-current="page"{% endif %}>Parts</a>
+      </div>
+      <a href="{{ '/contact/' | relative_url }}" class="nav-cta">Contact</a>
+    </div>
+  </div>
+</nav>
+

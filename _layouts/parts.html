@@ -1,0 +1,87 @@
+---
+layout: default
+---
+
+<section class="hero" aria-labelledby="part-heading">
+  <div class="hero-grid" aria-hidden="true"></div>
+  <div class="hero-inner">
+    <div class="hero-eyebrow">
+      <span class="hero-dot" aria-hidden="true"></span>
+      <span class="hero-eyebrow-text">{{ page.manufacturer }} &middot; {{ page.category }}</span>
+    </div>
+    <h1 id="part-heading">{{ page.title }}</h1>
+    {% if page.description %}<p class="hero-body">{{ page.description }}</p>{% endif %}
+    {% if page.specs %}
+    <div class="spec-chips">
+      {% for spec in page.specs %}
+        <span class="spec-chip">{{ spec[1] }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</section>
+
+<div class="breadcrumb-bar" id="breadcrumb-bar">
+  <div class="breadcrumb-inner">
+    <a href="{{ '/parts/' | relative_url }}" class="breadcrumb-back">
+      <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 2L4 7l5 5"/></svg>
+      Parts catalog
+    </a>
+  </div>
+</div>
+
+<script>
+  (function() {
+    function pinBreadcrumb() {
+      var nav = document.querySelector('.nav');
+      var bar = document.getElementById('breadcrumb-bar');
+      if (nav && bar) bar.style.top = nav.offsetHeight + 'px';
+    }
+    document.addEventListener('DOMContentLoaded', pinBreadcrumb);
+    window.addEventListener('resize', pinBreadcrumb);
+  })();
+</script>
+
+{% if page.specs %}
+<div class="specs-bar-outer">
+  <div class="specs-bar">
+    {% for spec in page.specs %}
+    <div class="spec-item">
+      <div class="spec-label">{{ spec[0] | replace: "_", " " }}</div>
+      <div class="spec-value">{{ spec[1] }}</div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
+<div class="parts-content">
+  <div class="parts-info">
+    <strong>How to use this list:</strong> Part numbers match OEM service manuals. Use the request button below to ask about availability and pricing. Include the part number, quantity, and delivery port.
+  </div>
+  {{ content }}
+</div>
+
+<button class="back-to-top" id="back-to-top" aria-label="Back to top">
+  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 10L8 5l5 5"/></svg>
+</button>
+
+<script>
+  (function() {
+    var btn = document.getElementById('back-to-top');
+    window.addEventListener('scroll', function() {
+      btn.classList.toggle('is-visible', window.scrollY > 400);
+    }, { passive: true });
+    btn.addEventListener('click', function() {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  })();
+</script>
+
+<section class="cta-simple" aria-labelledby="parts-cta-heading">
+  <div class="cta-simple-inner">
+    <h2 id="parts-cta-heading">Request parts from this equipment</h2>
+    <p>Tell us what you need.</p>
+    <a href="{{ '/contact/' | relative_url }}?subject=Parts request – {{ page.title }}" class="btn-primary btn-wide">Contact us</a>
+  </div>
+</section>

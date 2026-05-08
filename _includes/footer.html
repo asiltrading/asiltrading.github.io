@@ -1,0 +1,22 @@
+<footer class="footer">
+  <div class="footer-inner">
+    <div class="footer-col footer-about">
+      <a href="{{ '/' | relative_url }}" class="footer-brand">
+        <img src="{{ '/assets/img/logo-small.png' | relative_url }}" alt="" width="28" height="28">
+        <span>ASIL TRADING</span>
+      </a>
+      <p>We source and deliver maritime and industrial spare parts globally. Engine components, pumps, navigation equipment, sensors, electrical, and auxiliary equipment. Emergency timelines and obsolete items handled.</p>
+      <p class="footer-copy">© {{ 'now' | date: '%Y' }} {{ site.company.legal_name }}</p>
+    </div>
+
+    <div class="footer-col">
+      <h4>Contact</h4>
+      <ul class="footer-meta">
+        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        <li><a href="tel:{{ site.company.phone | remove: ' ' }}">{{ site.company.phone }}</a></li>
+        <li>Office 35786–001, IFZA Business Park, DDP</li>
+        <li>Dubai, United Arab Emirates</li>
+      </ul>
+    </div>
+  </div>
+</footer>
