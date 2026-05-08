@@ -658,7 +658,7 @@ ul { list-style: none; }
 
 // ===== breadcrumb bar (parts equipment pages) =====
 .breadcrumb-bar {
-  background: #0891b2;
+  background: var(--primary-blue);
   position: sticky;
   top: 62px;
   z-index: 40;
@@ -683,8 +683,8 @@ ul { list-style: none; }
   transition: background .15s ease, border-color .15s ease;
 }
 .breadcrumb-back:hover {
-  background: rgba(255,255,255,.25);
-  border-color: rgba(255,255,255,.55);
+  background: rgba(255,255,255,1);
+  border-color: rgba(255,255,255,1);
 }
 
 // ===== spec chips (parts hero) =====
