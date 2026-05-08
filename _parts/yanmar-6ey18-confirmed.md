@@ -3,7 +3,7 @@ title: "Yanmar 6EY18(A)LW (Confirmed OEM)"
 model: "6EY18(A)LW"
 manufacturer: "Yanmar"
 category: "Engine"
-description: "Confirmed OEM spare parts for the Yanmar 6EY18(A)LW marine diesel (180×280 mm bore × stroke, 400–800 kW). Sources: PartfinderMarine, Yanmar specification PDF."
+description: "Confirmed OEM spare parts for the Yanmar 6EY18(A)LW marine diesel (180×280 mm bore × stroke, 400–800 kW)."
 ---
 
 <div class="parts-table-wrap">

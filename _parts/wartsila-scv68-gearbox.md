@@ -3,7 +3,7 @@ title: "Wärtsilä SCV 68 Gearbox"
 model: "SCV 68"
 manufacturer: "Wärtsilä"
 category: "Auxiliary Equipment"
-description: "Spare parts for the Wärtsilä SCV 68 reduction gearbox — bearings, seals, and shaft components."
+description: "Spare parts for the Wärtsilä SCV 68 reduction gearbox – bearings, seals, and shaft components."
 ---
 
 <div class="parts-table-wrap">

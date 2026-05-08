@@ -3,11 +3,11 @@ title: "DESMI NSL / NSLV / NSLH Centrifugal Pump"
 model: "NSL / NSLV / NSLH 65–250 (-265/-330)"
 manufacturer: "DESMI"
 category: "Pumps & Valves"
-description: "Confirmed OEM spare parts for DESMI NSL / NSLV / NSLH vertical in-line centrifugal pumps (sizes 65–250 mm). Source: DESMI service-kit PDFs."
+description: "Confirmed OEM spare parts for DESMI NSL / NSLV / NSLH vertical in-line centrifugal pumps (sizes 65–250 mm)."
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SPARE PARTS KIT 677584 — NSL/NSLV/NSLH 65–200 × 265 <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">SPARE PARTS KIT 677584 – NSL/NSLV/NSLH 65–200 × 265 <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -33,7 +33,7 @@ description: "Confirmed OEM spare parts for DESMI NSL / NSLV / NSLH vertical in-
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SPARE PARTS KIT 677570 — NSL/NSLV 65–250 × 265 <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">SPARE PARTS KIT 677570 – NSL/NSLV 65–250 × 265 <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -49,13 +49,13 @@ description: "Confirmed OEM spare parts for DESMI NSL / NSLV / NSLH vertical in-
       <tr><td><span class="pnum">110571</span></td><td>Gasket (qty 4 – manifold/cover)</td></tr>
       <tr><td><span class="pnum">731100</span></td><td>Pointed Screw (cover retention)</td></tr>
       <tr><td><span class="pnum">114173-02</span></td><td>Tool – Replacement of Mechanical Shaft Seal</td></tr>
-      <tr><td><span class="pnum">—see 677584—</span></td><td>(Shared alternate seal parts same as kit 677584 – 712239, 721935, 704188, 708119, 700018, 706814, 707124)</td></tr>
+      <tr><td><span class="pnum">–see 677584–</span></td><td>(Shared alternate seal parts same as kit 677584 – 712239, 721935, 704188, 708119, 700018, 706814, 707124)</td></tr>
     </tbody>
   </table>
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SPARE PARTS KIT 677573 — NSL/NSLV 150–250 × 330 <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">SPARE PARTS KIT 677573 – NSL/NSLV 150–250 × 330 <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -71,7 +71,7 @@ description: "Confirmed OEM spare parts for DESMI NSL / NSLV / NSLH vertical in-
       <tr><td><span class="pnum">110571</span></td><td>Gasket (qty 4)</td></tr>
       <tr><td><span class="pnum">731100</span></td><td>Pointed Screw</td></tr>
       <tr><td><span class="pnum">114173-04</span></td><td>Tool – Replacement of Mechanical Shaft Seal (size 04)</td></tr>
-      <tr><td><span class="pnum">—see 677584—</span></td><td>(Shared alternate seal parts: 712239, 721935, 704188, 708119, 700018, 706814, 707124, 708161/711364)</td></tr>
+      <tr><td><span class="pnum">–see 677584–</span></td><td>(Shared alternate seal parts: 712239, 721935, 704188, 708119, 700018, 706814, 707124, 708161/711364)</td></tr>
     </tbody>
   </table>
 </div>
@@ -91,7 +91,7 @@ description: "Confirmed OEM spare parts for DESMI NSL / NSLV / NSLH vertical in-
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">DESMI ROTAN INTERNAL GEAR PUMP — POSITION CODES <span class="parts-cnt">19</span></div>
+  <div class="parts-section-label">DESMI ROTAN INTERNAL GEAR PUMP – POSITION CODES <span class="parts-cnt">19</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>

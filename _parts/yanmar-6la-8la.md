@@ -3,7 +3,7 @@ title: "Yanmar 6LA / 8LA"
 model: "6LA / 8LA"
 manufacturer: "Yanmar"
 category: "Engine"
-description: "Confirmed OEM spare parts for the Yanmar 6LA / 8LA marine diesel (150–350 kW). Public sources are limited — only one part publicly confirmed; remaining numbers must come from the onboard parts catalogue."
+description: "Confirmed OEM spare parts for the Yanmar 6LA / 8LA marine diesel (150–350 kW)."
 ---
 
 <div class="parts-table-wrap">

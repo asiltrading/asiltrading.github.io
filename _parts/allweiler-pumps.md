@@ -7,7 +7,7 @@ description: "Confirmed OEM spare parts for Allweiler progressing-cavity (SN/SNP
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PROGRESSIVE CAVITY PUMPS — SN / SNP / SEP SERIES <span class="parts-cnt">4</span></div>
+  <div class="parts-section-label">PROGRESSIVE CAVITY PUMPS – SN / SNP / SEP SERIES <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -20,7 +20,7 @@ description: "Confirmed OEM spare parts for Allweiler progressing-cavity (SN/SNP
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CENTRIFUGAL PUMPS — NB / NT SERIES <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">CENTRIFUGAL PUMPS – NB / NT SERIES <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -34,8 +34,8 @@ description: "Confirmed OEM spare parts for Allweiler progressing-cavity (SN/SNP
       <tr><td><span class="pnum">Pos. 903.01 / 903.02 / 903.04</span></td><td>Screw Plug (various)</td></tr>
       <tr><td><span class="pnum">Pos. 914.01 / 914.02 / 914.06 / 914.10</span></td><td>Cheese Head Screw (various)</td></tr>
       <tr><td><span class="pnum">Pos. 920.01 / 920.03</span></td><td>Nut (various)</td></tr>
-      <tr><td><span class="pnum">—contact CIRCOR / MPCC—</span></td><td>Mechanical Seal (NB series – shaft size determines seal no.)</td></tr>
-      <tr><td><span class="pnum">—contact CIRCOR / Trisun—</span></td><td>Mechanical Seal (NTT thermal oil series – contact CIRCOR)</td></tr>
+      <tr><td><span class="pnum">–contact CIRCOR / MPCC–</span></td><td>Mechanical Seal (NB series – shaft size determines seal no.)</td></tr>
+      <tr><td><span class="pnum">–contact CIRCOR / Trisun–</span></td><td>Mechanical Seal (NTT thermal oil series – contact CIRCOR)</td></tr>
     </tbody>
   </table>
 </div>
@@ -45,13 +45,13 @@ description: "Confirmed OEM spare parts for Allweiler progressing-cavity (SN/SNP
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
-      <tr><td><span class="pnum">—model only—</span></td><td>NB 25-160 / NB 25-200 / NB 40-160 / NB 80-160 (general service centrifugal)</td></tr>
-      <tr><td><span class="pnum">—model only—</span></td><td>NT 100-315 / NT 150-315 / NT 200-400 / NT 250-250 (hot water / thermal centrifugal)</td></tr>
-      <tr><td><span class="pnum">—model only—</span></td><td>NIM 65-250 / NIM 80-200 / NIM 200-315 (motor-integrated centrifugal)</td></tr>
-      <tr><td><span class="pnum">—model only—</span></td><td>NSL 300-425-502 (large in-line centrifugal)</td></tr>
-      <tr><td><span class="pnum">—model only—</span></td><td>CLT 50-315 (chemical centrifugal)</td></tr>
-      <tr><td><span class="pnum">—model only—</span></td><td>LV 50/5 / LV 50/6 (side channel pump)</td></tr>
-      <tr><td><span class="pnum">—model only—</span></td><td>SLS 440 ER (submersible screw pump)</td></tr>
+      <tr><td><span class="pnum">–model only–</span></td><td>NB 25-160 / NB 25-200 / NB 40-160 / NB 80-160 (general service centrifugal)</td></tr>
+      <tr><td><span class="pnum">–model only–</span></td><td>NT 100-315 / NT 150-315 / NT 200-400 / NT 250-250 (hot water / thermal centrifugal)</td></tr>
+      <tr><td><span class="pnum">–model only–</span></td><td>NIM 65-250 / NIM 80-200 / NIM 200-315 (motor-integrated centrifugal)</td></tr>
+      <tr><td><span class="pnum">–model only–</span></td><td>NSL 300-425-502 (large in-line centrifugal)</td></tr>
+      <tr><td><span class="pnum">–model only–</span></td><td>CLT 50-315 (chemical centrifugal)</td></tr>
+      <tr><td><span class="pnum">–model only–</span></td><td>LV 50/5 / LV 50/6 (side channel pump)</td></tr>
+      <tr><td><span class="pnum">–model only–</span></td><td>SLS 440 ER (submersible screw pump)</td></tr>
     </tbody>
   </table>
 </div>

@@ -3,11 +3,11 @@ title: "MAN B&W S35MC Marine Diesel"
 model: "S35MC"
 manufacturer: "MAN B&W"
 category: "Engine"
-description: "OEM spare parts and maintenance tool components for the MAN B&W S35MC two-stroke marine diesel engine — extracted from the MAN B&W Diesel A/S Volume II (Maintenance) manual. Includes engine components and service tool part numbers. Part numbers combine Plate and item number (e.g. 90101-018)."
+description: "OEM spare parts and maintenance tool components for the MAN B&W S35MC two-stroke marine diesel engine."
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90151 — CYLINDER COVER PANEL <span class="parts-cnt">10</span></div>
+  <div class="parts-section-label">PLATE 90151 – CYLINDER COVER PANEL <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -26,7 +26,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90161 — CYLINDER COVER - TOOLS <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">PLATE 90161 – CYLINDER COVER - TOOLS <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -43,7 +43,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90251 — PISTON AND PISTON ROD PANEL <span class="parts-cnt">14</span></div>
+  <div class="parts-section-label">PLATE 90251 – PISTON AND PISTON ROD PANEL <span class="parts-cnt">14</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -66,7 +66,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90261 — PISTON AND ROD - TOOLS <span class="parts-cnt">1</span></div>
+  <div class="parts-section-label">PLATE 90261 – PISTON AND ROD - TOOLS <span class="parts-cnt">1</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -76,7 +76,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90264 — PISTON AND PISTON ROD - EXTRA TOOLS <span class="parts-cnt">2</span></div>
+  <div class="parts-section-label">PLATE 90264 – PISTON AND PISTON ROD - EXTRA TOOLS <span class="parts-cnt">2</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -87,7 +87,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90265 — PISTON AND PISTON ROD - SUPPORT TOOLS <span class="parts-cnt">1</span></div>
+  <div class="parts-section-label">PLATE 90265 – PISTON AND PISTON ROD - SUPPORT TOOLS <span class="parts-cnt">1</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -97,7 +97,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90266 — PISTON - LIFTING TOOLS <span class="parts-cnt">1</span></div>
+  <div class="parts-section-label">PLATE 90266 – PISTON - LIFTING TOOLS <span class="parts-cnt">1</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -107,7 +107,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90361 — CYLINDER LINER - TOOLS <span class="parts-cnt">1</span></div>
+  <div class="parts-section-label">PLATE 90361 – CYLINDER LINER - TOOLS <span class="parts-cnt">1</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -117,7 +117,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90366 — CYLINDER LINER - LIFTING TOOLS <span class="parts-cnt">1</span></div>
+  <div class="parts-section-label">PLATE 90366 – CYLINDER LINER - LIFTING TOOLS <span class="parts-cnt">1</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -127,7 +127,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90451 — CONNECTING ROD AND CROSSHEAD PANEL <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">PLATE 90451 – CONNECTING ROD AND CROSSHEAD PANEL <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -149,7 +149,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90461 — CONNECTING ROD - HYDRAULIC TOOLS <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">PLATE 90461 – CONNECTING ROD - HYDRAULIC TOOLS <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -166,7 +166,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90464 — CROSSHEAD - HYDRAULIC TOOLS <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">PLATE 90464 – CROSSHEAD - HYDRAULIC TOOLS <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -183,7 +183,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90551 — CRANKSHAFT, THRUST ETC. SHAFT, PANEL MAIN BEARING, <span class="parts-cnt">9</span></div>
+  <div class="parts-section-label">PLATE 90551 – CRANKSHAFT, THRUST ETC. SHAFT, PANEL MAIN BEARING, <span class="parts-cnt">9</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -201,7 +201,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90561 — MAIN BEARING - HYDRAULIC TOOLS <span class="parts-cnt">10</span></div>
+  <div class="parts-section-label">PLATE 90561 – MAIN BEARING - HYDRAULIC TOOLS <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -220,7 +220,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90562 — CRANKSHAFT - TOOLS <span class="parts-cnt">3</span></div>
+  <div class="parts-section-label">PLATE 90562 – CRANKSHAFT - TOOLS <span class="parts-cnt">3</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -232,7 +232,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90564 — CRANKSHAFT CRANKSHAFT CRANKSHAFT CRANKSHAFT CRANKSHAFT - - - - - MEASURING MEASURING MEASURING MEASURING MEASURING T T TOOLS T T OOLS OOLS OOLS OOLS <span class="parts-cnt">1</span></div>
+  <div class="parts-section-label">PLATE 90564 – CRANKSHAFT CRANKSHAFT CRANKSHAFT CRANKSHAFT CRANKSHAFT - - - - - MEASURING MEASURING MEASURING MEASURING MEASURING T T TOOLS T T OOLS OOLS OOLS OOLS <span class="parts-cnt">1</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -242,7 +242,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90572 — MAIN BEARING - MEASURING TOOLS <span class="parts-cnt">4</span></div>
+  <div class="parts-section-label">PLATE 90572 – MAIN BEARING - MEASURING TOOLS <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -255,7 +255,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90651 — CHAIN DRIVE AND CAMSHAFT PANEL <span class="parts-cnt">6</span></div>
+  <div class="parts-section-label">PLATE 90651 – CHAIN DRIVE AND CAMSHAFT PANEL <span class="parts-cnt">6</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -270,7 +270,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90664 — CRANKSHAFT - PIN GAUGE <span class="parts-cnt">1</span></div>
+  <div class="parts-section-label">PLATE 90664 – CRANKSHAFT - PIN GAUGE <span class="parts-cnt">1</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -280,7 +280,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90668 — CAMSHAFT - PIN GAUGE <span class="parts-cnt">1</span></div>
+  <div class="parts-section-label">PLATE 90668 – CAMSHAFT - PIN GAUGE <span class="parts-cnt">1</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -290,7 +290,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90851 — EXHAUST VALVE - PANEL <span class="parts-cnt">10</span></div>
+  <div class="parts-section-label">PLATE 90851 – EXHAUST VALVE - PANEL <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -309,7 +309,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90861 — EXHAUST VALVE - TOOLS <span class="parts-cnt">1</span></div>
+  <div class="parts-section-label">PLATE 90861 – EXHAUST VALVE - TOOLS <span class="parts-cnt">1</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -319,7 +319,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90862 — EXHAUST VALVE - HYDRAULIC TOOLS <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">PLATE 90862 – EXHAUST VALVE - HYDRAULIC TOOLS <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -336,7 +336,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90863 — EXHAUST VALVE - EXTRA TOOLS <span class="parts-cnt">1</span></div>
+  <div class="parts-section-label">PLATE 90863 – EXHAUST VALVE - EXTRA TOOLS <span class="parts-cnt">1</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -346,7 +346,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90951 — FUEL VALVE AND FUEL PUMP PANEL <span class="parts-cnt">16</span></div>
+  <div class="parts-section-label">PLATE 90951 – FUEL VALVE AND FUEL PUMP PANEL <span class="parts-cnt">16</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -371,7 +371,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90961 — FUEL VALVE - TOOLS <span class="parts-cnt">16</span></div>
+  <div class="parts-section-label">PLATE 90961 – FUEL VALVE - TOOLS <span class="parts-cnt">16</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -396,7 +396,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90966 — FUEL VALVE NOZZLE - TOOLS <span class="parts-cnt">6</span></div>
+  <div class="parts-section-label">PLATE 90966 – FUEL VALVE NOZZLE - TOOLS <span class="parts-cnt">6</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -411,7 +411,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90968 — FUEL VALVE - INSPECTION TOOLS <span class="parts-cnt">1</span></div>
+  <div class="parts-section-label">PLATE 90968 – FUEL VALVE - INSPECTION TOOLS <span class="parts-cnt">1</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -421,7 +421,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90974 — FUEL VALVE NOZZLE - CLEANING TOOLS <span class="parts-cnt">4</span></div>
+  <div class="parts-section-label">PLATE 90974 – FUEL VALVE NOZZLE - CLEANING TOOLS <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -434,7 +434,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90980 — MOUNTING TOOLS - AIR PISTON SEALS <span class="parts-cnt">6</span></div>
+  <div class="parts-section-label">PLATE 90980 – MOUNTING TOOLS - AIR PISTON SEALS <span class="parts-cnt">6</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -449,7 +449,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91063 — AIR COOLER - TOOLS <span class="parts-cnt">2</span></div>
+  <div class="parts-section-label">PLATE 91063 – AIR COOLER - TOOLS <span class="parts-cnt">2</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -460,7 +460,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91064 — TRAVELLING TROLLEY <span class="parts-cnt">1</span></div>
+  <div class="parts-section-label">PLATE 91064 – TRAVELLING TROLLEY <span class="parts-cnt">1</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -470,7 +470,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91066 — AIR COOLER - LIFTING TOOLS <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">PLATE 91066 – AIR COOLER - LIFTING TOOLS <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -484,7 +484,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91261 — LARGE PARTS - TOOLS <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">PLATE 91261 – LARGE PARTS - TOOLS <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -501,7 +501,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91263 — HYDRAULIC END CHOCK TOOLS BOLTS - HOLDING-DOWN (EPOXY CHOCKS) AND <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">PLATE 91263 – HYDRAULIC END CHOCK TOOLS BOLTS - HOLDING-DOWN (EPOXY CHOCKS) AND <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -521,7 +521,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91351 — ACCESSORIES FOR HYDRAULIC TOOLS <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">PLATE 91351 – ACCESSORIES FOR HYDRAULIC TOOLS <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -542,7 +542,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91356 — LIFTING TOOLS, ETC. <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">PLATE 91356 – LIFTING TOOLS, ETC. <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -562,7 +562,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91357 — OPEN ENDED SPANNERS <span class="parts-cnt">1</span></div>
+  <div class="parts-section-label">PLATE 91357 – OPEN ENDED SPANNERS <span class="parts-cnt">1</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -572,7 +572,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91358 — OPEN-ENDED SLUGGING SPANNERS <span class="parts-cnt">2</span></div>
+  <div class="parts-section-label">PLATE 91358 – OPEN-ENDED SLUGGING SPANNERS <span class="parts-cnt">2</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -583,7 +583,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91359 — TORQUE SPANNERS <span class="parts-cnt">4</span></div>
+  <div class="parts-section-label">PLATE 91359 – TORQUE SPANNERS <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -596,7 +596,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91360 — PLIERS <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">PLATE 91360 – PLIERS <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -612,7 +612,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91361 — COMBINATION COMBINATION COMBINATION COMBINATION COMBINATION SPANNERS SPANNERS SPANNERS SPANNERS SPANNERS <span class="parts-cnt">23</span></div>
+  <div class="parts-section-label">PLATE 91361 – COMBINATION COMBINATION COMBINATION COMBINATION COMBINATION SPANNERS SPANNERS SPANNERS SPANNERS SPANNERS <span class="parts-cnt">23</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -644,7 +644,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91362 — RING SLUGGING SPANNERS <span class="parts-cnt">10</span></div>
+  <div class="parts-section-label">PLATE 91362 – RING SLUGGING SPANNERS <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -663,7 +663,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91363 — SPANNERS <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">PLATE 91363 – SPANNERS <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -679,7 +679,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91364 — OPEN-ENDED SPANNERS <span class="parts-cnt">2</span></div>
+  <div class="parts-section-label">PLATE 91364 – OPEN-ENDED SPANNERS <span class="parts-cnt">2</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -690,7 +690,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91366 — INSTRUMENTS <span class="parts-cnt">4</span></div>
+  <div class="parts-section-label">PLATE 91366 – INSTRUMENTS <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -703,7 +703,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90101 — CYLINDER COVER <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">PLATE 90101 – CYLINDER COVER <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -723,7 +723,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90103 — INDICATOR COCK - MOUNTING <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">PLATE 90103 – INDICATOR COCK - MOUNTING <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -745,7 +745,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90201 — PISTON AND PISTON ROD <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">PLATE 90201 – PISTON AND PISTON ROD <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -767,7 +767,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90205 — PISTON ROD STUFFING BOX <span class="parts-cnt">25</span></div>
+  <div class="parts-section-label">PLATE 90205 – PISTON ROD STUFFING BOX <span class="parts-cnt">25</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -801,7 +801,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90301 — CYLINDER FRAME <span class="parts-cnt">39</span></div>
+  <div class="parts-section-label">PLATE 90301 – CYLINDER FRAME <span class="parts-cnt">39</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -849,7 +849,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90302 — CYLINDER LINER AND COOLING JACKET <span class="parts-cnt">15</span></div>
+  <div class="parts-section-label">PLATE 90302 – CYLINDER LINER AND COOLING JACKET <span class="parts-cnt">15</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -873,7 +873,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90304 — CYLINDER LINER - DETAILS <span class="parts-cnt">4</span></div>
+  <div class="parts-section-label">PLATE 90304 – CYLINDER LINER - DETAILS <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -886,7 +886,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90305 — CYLINDER LUBRICATORS <span class="parts-cnt">35</span></div>
+  <div class="parts-section-label">PLATE 90305 – CYLINDER LUBRICATORS <span class="parts-cnt">35</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -930,7 +930,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90309 — CYLINDER LUBRICATION SYSTEM - DETAILS <span class="parts-cnt">14</span></div>
+  <div class="parts-section-label">PLATE 90309 – CYLINDER LUBRICATION SYSTEM - DETAILS <span class="parts-cnt">14</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -953,7 +953,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90401 — CONNECTING ROD AND CROSSHEAD <span class="parts-cnt">36</span></div>
+  <div class="parts-section-label">PLATE 90401 – CONNECTING ROD AND CROSSHEAD <span class="parts-cnt">36</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -998,7 +998,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90501 — CRANKSHAFT <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">PLATE 90501 – CRANKSHAFT <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1014,7 +1014,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90502 — ARRANGEMENT OF FORE END <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">PLATE 90502 – ARRANGEMENT OF FORE END <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1036,7 +1036,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90503 — ARRANGEMENT OF ANGLE ENCODER <span class="parts-cnt">18</span></div>
+  <div class="parts-section-label">PLATE 90503 – ARRANGEMENT OF ANGLE ENCODER <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1063,7 +1063,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90504 — AXIAL VIBRATION MONITOR <span class="parts-cnt">6</span></div>
+  <div class="parts-section-label">PLATE 90504 – AXIAL VIBRATION MONITOR <span class="parts-cnt">6</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1078,7 +1078,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90505 — THRUST AND GUIDE BEARING <span class="parts-cnt">29</span></div>
+  <div class="parts-section-label">PLATE 90505 – THRUST AND GUIDE BEARING <span class="parts-cnt">29</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1116,7 +1116,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90510 — TURNING GEAR <span class="parts-cnt">24</span></div>
+  <div class="parts-section-label">PLATE 90510 – TURNING GEAR <span class="parts-cnt">24</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1149,7 +1149,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90511 — TURNING WHEEL <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">PLATE 90511 – TURNING WHEEL <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1166,7 +1166,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90512 — TURNING GEAR - DETAILS <span class="parts-cnt">21</span></div>
+  <div class="parts-section-label">PLATE 90512 – TURNING GEAR - DETAILS <span class="parts-cnt">21</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1196,7 +1196,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90513 — TACHO SYSTEM <span class="parts-cnt">18</span></div>
+  <div class="parts-section-label">PLATE 90513 – TACHO SYSTEM <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1223,7 +1223,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90601 — CHAIN DRIVE AND GUIDE BARS <span class="parts-cnt">27</span></div>
+  <div class="parts-section-label">PLATE 90601 – CHAIN DRIVE AND GUIDE BARS <span class="parts-cnt">27</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1259,7 +1259,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90602 — CHAIN DRIVE - LUBRICATION <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">PLATE 90602 – CHAIN DRIVE - LUBRICATION <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1273,7 +1273,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90603 — CHAIN TIGHTENER <span class="parts-cnt">25</span></div>
+  <div class="parts-section-label">PLATE 90603 – CHAIN TIGHTENER <span class="parts-cnt">25</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1307,7 +1307,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90611 — CAMSHAFT AND CHAIN WHEEL <span class="parts-cnt">14</span></div>
+  <div class="parts-section-label">PLATE 90611 – CAMSHAFT AND CHAIN WHEEL <span class="parts-cnt">14</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1330,7 +1330,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90612 — ARRANGEMENT OF INDICATOR SYSTEM <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">PLATE 90612 – ARRANGEMENT OF INDICATOR SYSTEM <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1351,7 +1351,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90613 — CAMSHAFT BEARING <span class="parts-cnt">14</span></div>
+  <div class="parts-section-label">PLATE 90613 – CAMSHAFT BEARING <span class="parts-cnt">14</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1374,7 +1374,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90615 — ARRANGEMENT OF GOVERNOR <span class="parts-cnt">29</span></div>
+  <div class="parts-section-label">PLATE 90615 – ARRANGEMENT OF GOVERNOR <span class="parts-cnt">29</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1412,7 +1412,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90618 — REGULATING SHAFT <span class="parts-cnt">37</span></div>
+  <div class="parts-section-label">PLATE 90618 – REGULATING SHAFT <span class="parts-cnt">37</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1458,7 +1458,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90620 — ENGINE SIDE CONTROL CONSOLE <span class="parts-cnt">42</span></div>
+  <div class="parts-section-label">PLATE 90620 – ENGINE SIDE CONTROL CONSOLE <span class="parts-cnt">42</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1509,7 +1509,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90621 — ENGINE - SIDE CONTROL CONSOLE, DETAILS <span class="parts-cnt">32</span></div>
+  <div class="parts-section-label">PLATE 90621 – ENGINE - SIDE CONTROL CONSOLE, DETAILS <span class="parts-cnt">32</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1550,7 +1550,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90648 — PNEUMATIC COMPONENTS <span class="parts-cnt">29</span></div>
+  <div class="parts-section-label">PLATE 90648 – PNEUMATIC COMPONENTS <span class="parts-cnt">29</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1588,7 +1588,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90702 — MAIN MAIN MAIN MAIN MAIN STARTING STARTING STARTING STARTING STARTING V V VALVE V V ALVE ALVE ALVE ALVE <span class="parts-cnt">47</span></div>
+  <div class="parts-section-label">PLATE 90702 – MAIN MAIN MAIN MAIN MAIN STARTING STARTING STARTING STARTING STARTING V V VALVE V V ALVE ALVE ALVE ALVE <span class="parts-cnt">47</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1644,7 +1644,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90703 — STARTING AIR DISTRIBUTOR <span class="parts-cnt">32</span></div>
+  <div class="parts-section-label">PLATE 90703 – STARTING AIR DISTRIBUTOR <span class="parts-cnt">32</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1685,7 +1685,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90704 — STARTING VALVE <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">PLATE 90704 – STARTING VALVE <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1707,7 +1707,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90801 — EXHAUST VALVE - LOWER PARTS <span class="parts-cnt">20</span></div>
+  <div class="parts-section-label">PLATE 90801 – EXHAUST VALVE - LOWER PARTS <span class="parts-cnt">20</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1736,7 +1736,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90802 — EXHAUST VALVE - DETAILS <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">PLATE 90802 – EXHAUST VALVE - DETAILS <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1762,7 +1762,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90803 — EXHAUST VALVE - UPPER PARTS <span class="parts-cnt">43</span></div>
+  <div class="parts-section-label">PLATE 90803 – EXHAUST VALVE - UPPER PARTS <span class="parts-cnt">43</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1814,7 +1814,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90804 — EXHAUST EXHAUST EXHAUST EXHAUST EXHAUST V V VALVE V V ALVE ALVE ALVE ALVE - - - - - UPPER UPPER UPPER UPPER UPPER PARTS, PARTS, PARTS, PARTS, PARTS, DETAILS DETAILS DETAILS DETAILS DETAILS <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">PLATE 90804 – EXHAUST EXHAUST EXHAUST EXHAUST EXHAUST V V VALVE V V ALVE ALVE ALVE ALVE - - - - - UPPER UPPER UPPER UPPER UPPER PARTS, PARTS, PARTS, PARTS, PARTS, DETAILS DETAILS DETAILS DETAILS DETAILS <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1828,7 +1828,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90805 — VALVE GEAR <span class="parts-cnt">23</span></div>
+  <div class="parts-section-label">PLATE 90805 – VALVE GEAR <span class="parts-cnt">23</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1860,7 +1860,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90806 — VALVE GEAR - DETAILS <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">PLATE 90806 – VALVE GEAR - DETAILS <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1886,7 +1886,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90810 — ARRANGEMENT OF COOLING WATER PIPES <span class="parts-cnt">15</span></div>
+  <div class="parts-section-label">PLATE 90810 – ARRANGEMENT OF COOLING WATER PIPES <span class="parts-cnt">15</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1910,7 +1910,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90902 — FUEL PUMP GEAR <span class="parts-cnt">49</span></div>
+  <div class="parts-section-label">PLATE 90902 – FUEL PUMP GEAR <span class="parts-cnt">49</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1968,7 +1968,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90910 — FUEL VALVE <span class="parts-cnt">21</span></div>
+  <div class="parts-section-label">PLATE 90910 – FUEL VALVE <span class="parts-cnt">21</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1998,7 +1998,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90913 — HIGH-PRESSURE PIPES <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">PLATE 90913 – HIGH-PRESSURE PIPES <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2024,7 +2024,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90914 — FUEL OIL SYSTEM <span class="parts-cnt">21</span></div>
+  <div class="parts-section-label">PLATE 90914 – FUEL OIL SYSTEM <span class="parts-cnt">21</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2054,7 +2054,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90915 — FUEL OIL SYSTEM - DETAILS <span class="parts-cnt">30</span></div>
+  <div class="parts-section-label">PLATE 90915 – FUEL OIL SYSTEM - DETAILS <span class="parts-cnt">30</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2093,7 +2093,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91001 — SCAVENGE AIR RECEIVER <span class="parts-cnt">16</span></div>
+  <div class="parts-section-label">PLATE 91001 – SCAVENGE AIR RECEIVER <span class="parts-cnt">16</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2118,7 +2118,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91002 — ARRANGEMENT OF CHARGING AIR PIPE <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">PLATE 91002 – ARRANGEMENT OF CHARGING AIR PIPE <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2135,7 +2135,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91003 — EXHAUST PIPES AND RECEIVER <span class="parts-cnt">22</span></div>
+  <div class="parts-section-label">PLATE 91003 – EXHAUST PIPES AND RECEIVER <span class="parts-cnt">22</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2166,7 +2166,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91004 — EXHAUST PIPES AND RECEIVER <span class="parts-cnt">18</span></div>
+  <div class="parts-section-label">PLATE 91004 – EXHAUST PIPES AND RECEIVER <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2193,7 +2193,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91005 — AIR COOLER <span class="parts-cnt">16</span></div>
+  <div class="parts-section-label">PLATE 91005 – AIR COOLER <span class="parts-cnt">16</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2218,7 +2218,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91006 — ARRANGEMENT OF AUXILIARY BLOWER <span class="parts-cnt">14</span></div>
+  <div class="parts-section-label">PLATE 91006 – ARRANGEMENT OF AUXILIARY BLOWER <span class="parts-cnt">14</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2241,7 +2241,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91009 — CLEANING OF AIR COOLER <span class="parts-cnt">31</span></div>
+  <div class="parts-section-label">PLATE 91009 – CLEANING OF AIR COOLER <span class="parts-cnt">31</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2281,7 +2281,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91010 — AIR COOLER - FRAME <span class="parts-cnt">27</span></div>
+  <div class="parts-section-label">PLATE 91010 – AIR COOLER - FRAME <span class="parts-cnt">27</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2317,7 +2317,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91018 — AIR COOLER SYSTEM <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">PLATE 91018 – AIR COOLER SYSTEM <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2338,7 +2338,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91101 — SAFETY SAFETY SAFETY SAFETY SAFETY V V VALVE V V ALVE ALVE ALVE ALVE - - - - - CYLINDER CYLINDER CYLINDER CYLINDER CYLINDER <span class="parts-cnt">10</span></div>
+  <div class="parts-section-label">PLATE 91101 – SAFETY SAFETY SAFETY SAFETY SAFETY V V VALVE V V ALVE ALVE ALVE ALVE - - - - - CYLINDER CYLINDER CYLINDER CYLINDER CYLINDER <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2357,7 +2357,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91102 — RELIEF VALVE <span class="parts-cnt">4</span></div>
+  <div class="parts-section-label">PLATE 91102 – RELIEF VALVE <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2370,7 +2370,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91103 — SAFETY VALVE - SCAVENGE AIR SYSTEM <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">PLATE 91103 – SAFETY VALVE - SCAVENGE AIR SYSTEM <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2391,7 +2391,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91104 — ARRANGEMENT OF SAFETY CAP <span class="parts-cnt">15</span></div>
+  <div class="parts-section-label">PLATE 91104 – ARRANGEMENT OF SAFETY CAP <span class="parts-cnt">15</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2415,7 +2415,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91201 — ARRANGEMENT OF STAY BOLTS <span class="parts-cnt">10</span></div>
+  <div class="parts-section-label">PLATE 91201 – ARRANGEMENT OF STAY BOLTS <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2434,7 +2434,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91205 — FRAME BOX <span class="parts-cnt">28</span></div>
+  <div class="parts-section-label">PLATE 91205 – FRAME BOX <span class="parts-cnt">28</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2471,7 +2471,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91207 — ARRANGEMENT OF PISTON COOLING <span class="parts-cnt">16</span></div>
+  <div class="parts-section-label">PLATE 91207 – ARRANGEMENT OF PISTON COOLING <span class="parts-cnt">16</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2496,7 +2496,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91208 — CHAIN WHEEL FRAME - UPPER <span class="parts-cnt">16</span></div>
+  <div class="parts-section-label">PLATE 91208 – CHAIN WHEEL FRAME - UPPER <span class="parts-cnt">16</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2521,7 +2521,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91209 — CHAIN WHEEL FRAME - LOWER <span class="parts-cnt">15</span></div>
+  <div class="parts-section-label">PLATE 91209 – CHAIN WHEEL FRAME - LOWER <span class="parts-cnt">15</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2545,7 +2545,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91210 — BEDPLATE <span class="parts-cnt">43</span></div>
+  <div class="parts-section-label">PLATE 91210 – BEDPLATE <span class="parts-cnt">43</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2597,7 +2597,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91211 — AXIAL VIBRATION DAMPER <span class="parts-cnt">15</span></div>
+  <div class="parts-section-label">PLATE 91211 – AXIAL VIBRATION DAMPER <span class="parts-cnt">15</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2621,7 +2621,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91216 — HOLDING-DOWN (EPOXY BOLTS AND CHOCKS) END-CHOCK BOLTS <span class="parts-cnt">18</span></div>
+  <div class="parts-section-label">PLATE 91216 – HOLDING-DOWN (EPOXY BOLTS AND CHOCKS) END-CHOCK BOLTS <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -2648,7 +2648,7 @@ description: "OEM spare parts and maintenance tool components for the MAN B&W S3
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91217 — TOP BRACING - ARRANGEMENT <span class="parts-cnt">14</span></div>
+  <div class="parts-section-label">PLATE 91217 – TOP BRACING - ARRANGEMENT <span class="parts-cnt">14</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>

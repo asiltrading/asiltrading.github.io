@@ -3,7 +3,7 @@ title: "Wärtsilä 20"
 model: "Wärtsilä 20"
 manufacturer: "Wärtsilä"
 category: "Engine"
-description: "Comprehensive spare parts reference for the Wärtsilä 20 series — sourced from the OEM parts catalogue covering cylinder heads, fuel system, lubrication, cooling, and electrical."
+description: "Comprehensive spare parts reference for the Wärtsilä 20 series."
 ---
 
 <div class="parts-table-wrap">

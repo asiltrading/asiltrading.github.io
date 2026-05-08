@@ -3,7 +3,7 @@ title: "Phoenix Contact Relay Modules"
 model: "PLC-BSC / REL-MR Series"
 manufacturer: "Phoenix Contact"
 category: "Electrical"
-description: "Phoenix Contact PLC-BSC and REL-MR series relay modules and bases — 24 VDC, single relay, AU contacts."
+description: "Phoenix Contact PLC-BSC and REL-MR series relay modules and bases – 24 VDC, single relay, AU contacts."
 ---
 
 <div class="parts-table-wrap">

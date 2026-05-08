@@ -3,7 +3,7 @@ title: "Yanmar 8N280M-EV"
 model: "8N280M-EV"
 manufacturer: "Yanmar"
 category: "Engine"
-description: "Comprehensive spare parts reference for the Yanmar 8N280M-EV — sourced from the OEM parts catalogue (2012) covering every subsystem of the medium-speed marine diesel."
+description: "Comprehensive spare parts reference for the Yanmar 8N280M-EV."
 ---
 
 <div class="parts-table-wrap">

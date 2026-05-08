@@ -3,7 +3,7 @@ title: "Volvo Penta TAMD-165A"
 model: "TAMD-165A"
 manufacturer: "Volvo Penta"
 category: "Engine"
-description: "Spare parts for the Volvo Penta TAMD-165A marine diesel — pistons, liners, gaskets, injectors, and overhaul components."
+description: "Spare parts for the Volvo Penta TAMD-165A marine diesel – pistons, liners, gaskets, injectors, and overhaul components."
 ---
 
 <div class="parts-table-wrap">

@@ -3,7 +3,7 @@ title: "Wärtsilä 6L20"
 model: "6L20"
 manufacturer: "Wärtsilä"
 category: "Engine"
-description: "Spare parts for the Wärtsilä 6L20 — cylinder liners, bearings, valve gear, fuel injection, and overhaul kits."
+description: "Spare parts for the Wärtsilä 6L20 – cylinder liners, bearings, valve gear, fuel injection, and overhaul kits."
 ---
 
 <div class="parts-table-wrap">

@@ -3,7 +3,7 @@ title: "Cummins NTA855-G3"
 model: "NTA855-G3"
 manufacturer: "Cummins"
 category: "Engine"
-description: "Spare parts for the Cummins NTA855-G3 generator-set engine — liners, gasket kits, bearings, injectors, and overhaul components."
+description: "Spare parts for the Cummins NTA855-G3 generator-set engine – liners, gasket kits, bearings, injectors, and overhaul components."
 ---
 
 <div class="parts-table-wrap">

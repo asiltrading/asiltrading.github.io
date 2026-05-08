@@ -3,11 +3,11 @@ title: "Grundfos CR / CRI / CRN Vertical Multistage Pump"
 model: "CR / CRI / CRN 1–255"
 manufacturer: "Grundfos"
 category: "Pumps & Valves"
-description: "Confirmed OEM service-kit and spare parts for Grundfos CR / CRI / CRN vertical multistage centrifugal pumps. Source: Grundfos Service Kit Catalogue 2017."
+description: "Confirmed OEM service-kit and spare parts for Grundfos CR / CRI / CRN vertical multistage centrifugal pumps."
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">GASKET KITS — CR/CRI/CRN 1 &amp; 3 <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">GASKET KITS – CR/CRI/CRN 1 &amp; 3 <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -28,7 +28,7 @@ description: "Confirmed OEM service-kit and spare parts for Grundfos CR / CRI / 
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SHAFT SEALS — CR/CRI/CRN 1 &amp; 3 <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">SHAFT SEALS – CR/CRI/CRN 1 &amp; 3 <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -48,7 +48,7 @@ description: "Confirmed OEM service-kit and spare parts for Grundfos CR / CRI / 
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">WEAR PARTS KITS — CR/CRI/CRN 1 &amp; 3 <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">WEAR PARTS KITS – CR/CRI/CRN 1 &amp; 3 <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -70,7 +70,7 @@ description: "Confirmed OEM service-kit and spare parts for Grundfos CR / CRI / 
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CHAMBER STACK COMPLETE — CR/CRI 1 <span class="parts-cnt">22</span></div>
+  <div class="parts-section-label">CHAMBER STACK COMPLETE – CR/CRI 1 <span class="parts-cnt">22</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -101,7 +101,7 @@ description: "Confirmed OEM service-kit and spare parts for Grundfos CR / CRI / 
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CHAMBER STACK COMPLETE — CRN 1 <span class="parts-cnt">22</span></div>
+  <div class="parts-section-label">CHAMBER STACK COMPLETE – CRN 1 <span class="parts-cnt">22</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -132,7 +132,7 @@ description: "Confirmed OEM service-kit and spare parts for Grundfos CR / CRI / 
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CHAMBER STACK COMPLETE — CR/CRI 3 <span class="parts-cnt">23</span></div>
+  <div class="parts-section-label">CHAMBER STACK COMPLETE – CR/CRI 3 <span class="parts-cnt">23</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -164,7 +164,7 @@ description: "Confirmed OEM service-kit and spare parts for Grundfos CR / CRI / 
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">COUPLING KITS — CR/CRI/CRN 1 &amp; 3 <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">COUPLING KITS – CR/CRI/CRN 1 &amp; 3 <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -180,7 +180,7 @@ description: "Confirmed OEM service-kit and spare parts for Grundfos CR / CRI / 
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">LARGER CR/CRN MODELS — CONFIRMED PART NUMBERS <span class="parts-cnt">21</span></div>
+  <div class="parts-section-label">LARGER CR/CRN MODELS – CONFIRMED PART NUMBERS <span class="parts-cnt">21</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>

@@ -3,7 +3,7 @@ title: "Wärtsilä 26"
 model: "Wärtsilä 26"
 manufacturer: "Wärtsilä"
 category: "Engine"
-description: "Comprehensive spare parts reference for the Wärtsilä 26 series — sourced from the OEM parts catalogue covering every subsystem of the medium-speed marine diesel."
+description: "Comprehensive spare parts reference for the Wärtsilä 26 series."
 ---
 
 <div class="parts-table-wrap">

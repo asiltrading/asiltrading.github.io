@@ -3,7 +3,7 @@ title: "IMO ACE / ACG / ACF / ACD Triple Screw Pump"
 model: "ACE / ACG / ACF / ACD"
 manufacturer: "IMO (Circor)"
 category: "Pumps & Valves"
-description: "Confirmed OEM spare parts for IMO (Circor / Colfax) ACE, ACG, ACF, ACD low-pressure triple-screw pumps — LO circulating, fuel, hydraulic, and transfer service."
+description: "Confirmed OEM spare parts for IMO (Circor / Colfax) ACE, ACG, ACF, ACD low-pressure triple-screw pumps – LO circulating, fuel, hydraulic, and transfer service."
 ---
 
 <div class="parts-table-wrap">
@@ -27,7 +27,7 @@ description: "Confirmed OEM spare parts for IMO (Circor / Colfax) ACE, ACG, ACF,
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">ACD 025 — CONFIRMED PART NUMBERS <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">ACD 025 – CONFIRMED PART NUMBERS <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -35,16 +35,16 @@ description: "Confirmed OEM spare parts for IMO (Circor / Colfax) ACE, ACG, ACF,
       <tr><td><span class="pnum">062893</span></td><td>G012 Rotor Set – ACD 025 Low lead (pump form L6)</td></tr>
       <tr><td><span class="pnum">190848</span></td><td>G050 Complete Shaft Seal – ACD version xVxx</td></tr>
       <tr><td><span class="pnum">190810</span></td><td>G050 Complete Shaft Seal – ACD version xTxx</td></tr>
-      <tr><td><span class="pnum">—calc: 190848+183681—</span></td><td>G053 Minor Kit – ACD (= G050 + G057)</td></tr>
+      <tr><td><span class="pnum">–calc: 190848+183681–</span></td><td>G053 Minor Kit – ACD (= G050 + G057)</td></tr>
       <tr><td><span class="pnum">183681</span></td><td>G057 Joint Kit – ACD 025</td></tr>
       <tr><td><span class="pnum">018523</span></td><td>615 – Valve Spring (bypass valve)</td></tr>
-      <tr><td><span class="pnum">—order components—</span></td><td>G054 Major Kit – ACD (= G012 + G050 + G057 + 615)</td></tr>
+      <tr><td><span class="pnum">–order components–</span></td><td>G054 Major Kit – ACD (= G012 + G050 + G057 + 615)</td></tr>
     </tbody>
   </table>
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">ACE / ACG SERIES — CONFIRMED PART NUMBERS <span class="parts-cnt">21</span></div>
+  <div class="parts-section-label">ACE / ACG SERIES – CONFIRMED PART NUMBERS <span class="parts-cnt">21</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>

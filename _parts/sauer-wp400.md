@@ -3,7 +3,7 @@ title: "Sauer WP400 Air Compressor"
 model: "WP400"
 manufacturer: "Sauer"
 category: "Auxiliary Equipment"
-description: "Spare parts for the Sauer WP400 air compressor — sourced from the OEM operations manual covering valves, piston assemblies, cylinder liners, and overhaul components."
+description: "Spare parts for the Sauer WP400 air compressor."
 ---
 
 <div class="parts-table-wrap">

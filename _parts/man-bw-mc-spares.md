@@ -3,7 +3,7 @@ title: "MAN B&W MC Series Spares"
 model: "MC Series (mixed)"
 manufacturer: "MAN B&W"
 category: "Engine"
-description: "Spare parts for MAN B&W MC-series large-bore marine engines — piston rings, suction and puncture valves, cylinder liner, fuel pump components, and stuffing-box parts. Part-number prefixes (90201, 90302, 90801, 90803, etc.) span multiple bore sizes; quote with the engine model when requesting."
+description: "Spare parts for MAN B&W MC-series large-bore marine engines – piston rings, suction and puncture valves, cylinder liner, fuel pump components, and stuffing-box parts. Part-number prefixes (90201, 90302, 90801, 90803, etc.) span multiple bore sizes; quote with the engine model when requesting."
 ---
 
 <div class="parts-table-wrap">

@@ -3,7 +3,7 @@ title: "Deutz TBD 234"
 model: "TBD 234"
 manufacturer: "Deutz"
 category: "Engine"
-description: "Spare parts for the Deutz TBD 234 — pistons, liners, valves, bearings, and overhaul components."
+description: "Spare parts for the Deutz TBD 234 – pistons, liners, valves, bearings, and overhaul components."
 ---
 
 <div class="parts-table-wrap">

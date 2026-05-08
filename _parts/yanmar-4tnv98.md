@@ -3,7 +3,7 @@ title: "Yanmar 4TNV98"
 model: "4TNV98"
 manufacturer: "Yanmar"
 category: "Engine"
-description: "Spare parts for the Yanmar 4TNV98 industrial diesel — pistons, liners, gaskets, injectors, and overhaul components."
+description: "Spare parts for the Yanmar 4TNV98 industrial diesel – pistons, liners, gaskets, injectors, and overhaul components."
 ---
 
 <div class="parts-table-wrap">

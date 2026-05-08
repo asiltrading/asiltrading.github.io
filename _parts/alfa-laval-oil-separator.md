@@ -3,7 +3,7 @@ title: "Alfa Laval PU-100 Oil Separator"
 model: "PU-100 / MMB"
 manufacturer: "Alfa Laval"
 category: "Auxiliary Equipment"
-description: "Spare parts for the Alfa Laval PU-100 / MMB oil separator — service kits, bowl spindle, bearings, operating slide, and inlet pipe with paring disc."
+description: "Spare parts for the Alfa Laval PU-100 / MMB oil separator – service kits, bowl spindle, bearings, operating slide, and inlet pipe with paring disc."
 ---
 
 <div class="parts-table-wrap">

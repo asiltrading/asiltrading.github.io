@@ -3,7 +3,7 @@ title: "Yanmar 6EY18"
 model: "6EY18"
 manufacturer: "Yanmar"
 category: "Engine"
-description: "Comprehensive spare parts reference for the Yanmar 6EY18(A)L — sourced from the OEM parts manual covering every subsystem of the medium-speed marine diesel."
+description: "Comprehensive spare parts reference for the Yanmar 6EY18(A)L."
 ---
 
 <div class="parts-table-wrap">

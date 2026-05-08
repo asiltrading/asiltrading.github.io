@@ -3,7 +3,7 @@ title: "Perkins DJ51434"
 model: "DJ51434"
 manufacturer: "Perkins"
 category: "Engine"
-description: "Spare parts for the Perkins DJ51434 — piston kit, bearings, valve gear, filters, fuel system, and water pump."
+description: "Spare parts for the Perkins DJ51434 – piston kit, bearings, valve gear, filters, fuel system, and water pump."
 ---
 
 <div class="parts-table-wrap">

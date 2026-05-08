@@ -3,7 +3,7 @@ title: "Sauer WP33L Air Compressor"
 model: "WP33L"
 manufacturer: "Sauer"
 category: "Auxiliary Equipment"
-description: "Spare parts for the Sauer WP33L air compressor — sourced from the OEM service manual covering valves, piston rings, bearings, gaskets, and seals."
+description: "Spare parts for the Sauer WP33L air compressor."
 ---
 
 <div class="parts-table-wrap">

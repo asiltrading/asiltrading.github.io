@@ -3,7 +3,7 @@ title: "Cummins QSK60"
 model: "QSK60"
 manufacturer: "Cummins"
 category: "Engine"
-description: "Comprehensive spare parts reference for the Cummins QSK60 — sourced from the OEM parts manual, covering every subsystem of the V16 high-horsepower diesel."
+description: "Comprehensive spare parts reference for the Cummins QSK60."
 ---
 
 <div class="parts-table-wrap">
