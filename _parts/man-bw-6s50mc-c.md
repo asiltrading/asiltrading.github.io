@@ -3,7 +3,7 @@ title: "MAN B&W 6S50MC-C Marine Diesel"
 model: "6S50MC-C"
 manufacturer: "MAN B&W"
 category: "Engine"
-description: "Confirmed OEM spare parts for the MAN B&W 6S50MC-C two-stroke marine diesel engine."
+description: "Spare parts for the MAN B&W 6S50MC-C two-stroke marine diesel engine."
 ---
 
 <div class="parts-table-wrap">

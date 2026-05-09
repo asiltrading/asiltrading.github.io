@@ -3,7 +3,7 @@ title: "Yanmar 6EY22(A)LW"
 model: "6EY22(A)LW"
 manufacturer: "Yanmar"
 category: "Engine"
-description: "Confirmed OEM spare parts for the Yanmar 6EY22(A)LW marine diesel (220×320 mm bore × stroke, 660–1,370 kW)."
+description: "Spare parts for the Yanmar 6EY22(A)LW marine diesel (220×320 mm bore × stroke, 660–1,370 kW)."
 ---
 
 <div class="parts-table-wrap">

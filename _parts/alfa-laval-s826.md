@@ -3,7 +3,7 @@ title: "Alfa Laval S 826 Separator"
 model: "S 826"
 manufacturer: "Alfa Laval"
 category: "Auxiliary Equipment"
-description: "Confirmed OEM spare parts for the Alfa Laval S 826 disc-stack separator."
+description: "Spare parts for the Alfa Laval S 826 disc-stack separator."
 ---
 
 <div class="parts-table-wrap">

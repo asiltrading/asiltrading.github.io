@@ -3,7 +3,7 @@ title: "Grundfos CR / CRI / CRN Vertical Multistage Pump"
 model: "CR / CRI / CRN 1–255"
 manufacturer: "Grundfos"
 category: "Pumps & Valves"
-description: "Confirmed OEM service-kit and spare parts for Grundfos CR / CRI / CRN vertical multistage centrifugal pumps."
+description: "Service kits and spare parts for Grundfos CR / CRI / CRN vertical multistage centrifugal pumps."
 ---
 
 <div class="parts-table-wrap">
@@ -180,7 +180,7 @@ description: "Confirmed OEM service-kit and spare parts for Grundfos CR / CRI / 
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">LARGER CR/CRN MODELS – CONFIRMED PART NUMBERS <span class="parts-cnt">21</span></div>
+  <div class="parts-section-label">LARGER CR/CRN MODELS NUMBERS <span class="parts-cnt">21</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>

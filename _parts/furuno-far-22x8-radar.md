@@ -3,7 +3,7 @@ title: "Furuno FAR-22x8 / FAR-23x8 Radar"
 model: "FAR-2218 / 2228 / 2238S / 2258 / 2318 / 2328 / 2338S"
 manufacturer: "Furuno"
 category: "Navigation & Electronics"
-description: "Confirmed OEM spare parts for Furuno FAR-22x8 / FAR-23x8 series X-band and S-band marine radars – magnetrons, scanner units, and processor parts."
+description: "Spare parts for Furuno FAR-22x8 / FAR-23x8 series X-band and S-band marine radars – magnetrons, scanner units, and processor parts."
 ---
 
 <div class="parts-table-wrap">

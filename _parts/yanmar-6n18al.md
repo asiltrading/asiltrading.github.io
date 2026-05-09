@@ -3,7 +3,7 @@ title: "Yanmar 6N18AL"
 model: "6N18AL"
 manufacturer: "Yanmar"
 category: "Engine"
-description: "Confirmed OEM spare parts for the Yanmar 6N18AL marine diesel (180×280 mm bore × stroke, ~450–750 kW)."
+description: "Spare parts for the Yanmar 6N18AL marine diesel (180×280 mm bore × stroke, ~450–750 kW)."
 ---
 
 <div class="parts-table-wrap">

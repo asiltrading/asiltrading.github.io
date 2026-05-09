@@ -3,7 +3,7 @@ title: "Boll & Kirch Duplex / Simplex Candle Filters"
 model: "Duplex / simplex candle-type"
 manufacturer: "Boll & Kirch"
 category: "Auxiliary Equipment"
-description: "Confirmed OEM spare parts for Boll & Kirch BOLLFILTER duplex and simplex candle-type filters."
+description: "Spare parts for Boll & Kirch BOLLFILTER duplex and simplex candle-type filters."
 ---
 
 <div class="parts-table-wrap">

@@ -3,11 +3,10 @@ title: "Alfa Laval OS Twin Screw Pump"
 model: "OS series"
 manufacturer: "Alfa Laval"
 category: "Pumps & Valves"
-description: "Confirmed OEM spare parts for Alfa Laval OS twin-screw pumps."
+description: "Spare parts for Alfa Laval OS twin-screw pumps."
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">ALFA LAVAL OS TWIN SCREW PUMP – CONFIRMED PARTS <span class="parts-cnt">3</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>

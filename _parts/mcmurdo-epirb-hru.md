@@ -3,7 +3,7 @@ title: "McMurdo SmartFind EPIRB & HRU"
 model: "SmartFind G8 / E8 / E3 / G4 / E5 / G5"
 manufacturer: "McMurdo (Survitec)"
 category: "Deck Equipment"
-description: "Confirmed OEM spare parts for McMurdo (Survitec) SmartFind EPIRBs – replacement battery packs and Auto-Cat-I HRU kits."
+description: "Spare parts for McMurdo (Survitec) SmartFind EPIRBs – replacement battery packs and Auto-Cat-I HRU kits."
 ---
 
 <div class="parts-table-wrap">

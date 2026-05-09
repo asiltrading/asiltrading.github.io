@@ -3,7 +3,7 @@ title: "JRC JMA-5300MK2 Radar"
 model: "JMA-5312 / 5322 / 5332"
 manufacturer: "JRC"
 category: "Navigation & Electronics"
-description: "Confirmed OEM spare parts for JRC JMA-5300MK2 series marine radars – scanner units, displays, magnetrons."
+description: "Spare parts for JRC JMA-5300MK2 series marine radars – scanner units, displays, magnetrons."
 ---
 
 <div class="parts-table-wrap">

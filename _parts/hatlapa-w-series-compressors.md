@@ -3,7 +3,7 @@ title: "Hatlapa W-Series Air Compressors"
 model: "W55 / W80 / W110 / W140 / W220"
 manufacturer: "Hatlapa"
 category: "Auxiliary Equipment"
-description: "Confirmed OEM part-number ranges for Hatlapa W-series air compressors (W55–W220) – valve plates, gaskets, springs, seats, pistons, rings. Numbers are family ranges; exact PN depends on model and part configuration."
+description: "Spare parts for Hatlapa W-series air compressors (W55–W220) – valve plates, gaskets, springs, seats, pistons, rings."
 ---
 
 <div class="parts-table-wrap">

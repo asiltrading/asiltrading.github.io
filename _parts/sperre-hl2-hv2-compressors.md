@@ -3,7 +3,7 @@ title: "Sperre HL2 / HV2 Air Compressors"
 model: "HL2/140 · HL2/105 · HV2/210"
 manufacturer: "Sperre"
 category: "Auxiliary Equipment"
-description: "Confirmed OEM maintenance kits and spare parts for Sperre HL2 / HV2 series air compressors – gasket kits, valve kits, crankshaft kits."
+description: "Maintenance kits and spare parts for Sperre HL2 / HV2 series air compressors – gasket kits, valve kits, crankshaft kits."
 ---
 
 <div class="parts-table-wrap">

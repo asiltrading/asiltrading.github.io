@@ -3,7 +3,7 @@ title: "Taiko Kikai EMC Centrifugal Pump"
 model: "EMC-125 / 150 / 200 / 250 / 260 (MCT / MD)"
 manufacturer: "Taiko Kikai Industries"
 category: "Pumps & Valves"
-description: "Confirmed OEM spare parts for Taiko Kikai EMC-series marine centrifugal pumps (S.W. cooling, F.W. cooling, ballast). Position numbers from Kangdex confirmed listings."
+description: "Spare parts for Taiko Kikai EMC-series marine centrifugal pumps (S.W. cooling, F.W. cooling, ballast)."
 ---
 
 <div class="parts-table-wrap">

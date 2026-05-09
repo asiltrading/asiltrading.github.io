@@ -3,7 +3,7 @@ title: "Boll & Kirch Type 6.64 DN100 Automatic Filter"
 model: "Type 6.64 DN100"
 manufacturer: "Boll & Kirch"
 category: "Auxiliary Equipment"
-description: "Confirmed OEM spare parts for the Boll & Kirch BOLLFILTER Type 6.64 DN100 automatic backflushing filter."
+description: "Spare parts for the Boll & Kirch BOLLFILTER Type 6.64 DN100 automatic backflushing filter."
 ---
 
 <div class="parts-table-wrap">

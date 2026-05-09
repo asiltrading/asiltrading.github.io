@@ -7,7 +7,6 @@ description: "Confirmed Shinko complete pump-unit references for cargo/ballast/o
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SHINKO – COMPLETE PUMP UNITS CONFIRMED <span class="parts-cnt">9</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>

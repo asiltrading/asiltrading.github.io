@@ -3,11 +3,9 @@ title: "Hyundai-MAN B&W 6S60MC-C Marine Diesel"
 model: "6S60MC-C"
 manufacturer: "Hyundai-MAN B&W"
 category: "Engine"
-description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C two-stroke marine diesel engine."
+description: "Spare parts for the Hyundai-built MAN B&W 6S60MC-C two-stroke marine diesel engine."
 ---
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90101 – CYLINDER COVER <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -32,8 +30,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90201 – PISTON AND PISTON ROD <span class="parts-cnt">15</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -56,8 +52,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90205 – PISTON ROD STUFFING BOX <span class="parts-cnt">15</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -80,8 +74,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90301 – CYLINDER FRAME <span class="parts-cnt">39</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -128,8 +120,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90302 – CYLINDER LINER AND COOLING JACKET <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -155,8 +145,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90305 – CYLINDER LUBRICATOR DRIVE <span class="parts-cnt">20</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -184,8 +172,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90306 – LOAD CHANGE DEVICE <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -203,8 +189,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90401 – CONNECTING ROD AND CROSSHEAD <span class="parts-cnt">33</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -245,8 +229,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90501 – CRANKSHAFT <span class="parts-cnt">14</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -268,8 +250,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90505 – THRUST BEARING <span class="parts-cnt">42</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -319,8 +299,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90603 – CHAIN TIGHTENER <span class="parts-cnt">24</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -352,8 +330,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90605 – INTERMEDIATE SHAFT <span class="parts-cnt">23</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -384,8 +360,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90610 – CHAIN WHEEL ON CAMSHAFT <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -403,8 +377,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90611 – CAMSHAFT <span class="parts-cnt">14</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -426,8 +398,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90612 – INDICATOR DRIVE <span class="parts-cnt">39</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -474,8 +444,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90613 – ARRANGEMENT OF CAMSHAFT <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -495,8 +463,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90615 – ELECTRICAL GOVERNOR <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -515,8 +481,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90618 – REGULATING SHAFT <span class="parts-cnt">25</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -549,8 +513,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90621 – ARRANGEMENT OF LAYSHAFT <span class="parts-cnt">33</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -591,8 +553,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90631 – CHAIN DRIVE-UPPER PART <span class="parts-cnt">6</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -606,8 +566,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90632 – CHAIN DRIVE-LOWER PART <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -627,8 +585,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90633 – CHAIN DRIVER-LUBRICATION UPPER PART <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -640,8 +596,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90634 – CHAIN DRIVE-LUBRICATION LOWER PART <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -656,8 +610,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90702 – MAIN STARTING VALVE <span class="parts-cnt">37</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -702,8 +654,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90703 – STARTING AIR DISTRIBUTOR <span class="parts-cnt">24</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -735,8 +685,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90704 – STARTING VALVE <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -754,8 +702,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90801 – EXHAUST VALVE <span class="parts-cnt">48</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -811,8 +757,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90802 – EXHAUST VALVE - DETAILS <span class="parts-cnt">19</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -839,8 +783,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90805 – VALVE GEAR <span class="parts-cnt">27</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -875,8 +817,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90806 – VALVE GEAR - DETAILS <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -901,8 +841,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90810 – COOLING WATER OUTLET <span class="parts-cnt">15</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -925,8 +863,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90902 – FUEL PUMP GEAR <span class="parts-cnt">44</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -978,8 +914,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90905 – REVERSING MECHANISM <span class="parts-cnt">23</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1010,8 +944,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90913 – HIGH-PRESSURE PIPES <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1037,8 +969,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90915 – OVERFLOW VALVE <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1057,8 +987,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91001 – SCAVENGE AIR RECEIVER <span class="parts-cnt">29</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1095,8 +1023,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91003 – EXHAUST PIPES AND RECEIVER <span class="parts-cnt">41</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1145,8 +1071,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91005 – AIR COOLER <span class="parts-cnt">15</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1169,8 +1093,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91002 – ARRANGEMENT OF CHARGING AIR PIPE <span class="parts-cnt">33</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1211,8 +1133,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91009 – CLEANING OF AIR COOLER <span class="parts-cnt">28</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1248,8 +1168,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91101 – SAFETY VALVE <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1267,8 +1185,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91102 – RELIEF VALVE <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1280,8 +1196,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91103 – SAFETY VALVE <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1301,8 +1215,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91201 – ARRANGEMENT OF STAY BOLTS <span class="parts-cnt">6</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1316,8 +1228,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91204 – FRAME - DETAILS <span class="parts-cnt">25</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1350,8 +1260,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91207 – ARRANGEMENT OF PISTON COOLING <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1376,8 +1284,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91210 – BEDPLATE <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1398,8 +1304,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91211 – AXIAL VIBRATION DAMPER <span class="parts-cnt">19</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1426,8 +1330,6 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91215 – HOLDING-DOWN BOLTS AND END-CHOCK BOLTS <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1453,7 +1355,105 @@ description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S60MC-C t
 </div>
 
 <div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90101 – CYLINDER COVER <span class="parts-cnt">17</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90201 – PISTON AND PISTON ROD <span class="parts-cnt">15</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90205 – PISTON ROD STUFFING BOX <span class="parts-cnt">15</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90301 – CYLINDER FRAME <span class="parts-cnt">39</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90302 – CYLINDER LINER AND COOLING JACKET <span class="parts-cnt">18</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90305 – CYLINDER LUBRICATOR DRIVE <span class="parts-cnt">20</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90306 – LOAD CHANGE DEVICE <span class="parts-cnt">10</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90401 – CONNECTING ROD AND CROSSHEAD <span class="parts-cnt">33</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90501 – CRANKSHAFT <span class="parts-cnt">14</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90505 – THRUST BEARING <span class="parts-cnt">42</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90603 – CHAIN TIGHTENER <span class="parts-cnt">24</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90605 – INTERMEDIATE SHAFT <span class="parts-cnt">23</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90610 – CHAIN WHEEL ON CAMSHAFT <span class="parts-cnt">10</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90611 – CAMSHAFT <span class="parts-cnt">14</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90612 – INDICATOR DRIVE <span class="parts-cnt">39</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90613 – ARRANGEMENT OF CAMSHAFT <span class="parts-cnt">12</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90615 – ELECTRICAL GOVERNOR <span class="parts-cnt">11</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90618 – REGULATING SHAFT <span class="parts-cnt">25</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90621 – ARRANGEMENT OF LAYSHAFT <span class="parts-cnt">33</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90631 – CHAIN DRIVE-UPPER PART <span class="parts-cnt">6</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90632 – CHAIN DRIVE-LOWER PART <span class="parts-cnt">12</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90633 – CHAIN DRIVER-LUBRICATION UPPER PART <span class="parts-cnt">4</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90634 – CHAIN DRIVE-LUBRICATION LOWER PART <span class="parts-cnt">7</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90702 – MAIN STARTING VALVE <span class="parts-cnt">37</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90703 – STARTING AIR DISTRIBUTOR <span class="parts-cnt">24</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90704 – STARTING VALVE <span class="parts-cnt">10</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90801 – EXHAUST VALVE <span class="parts-cnt">48</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90802 – EXHAUST VALVE - DETAILS <span class="parts-cnt">19</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90805 – VALVE GEAR <span class="parts-cnt">27</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90806 – VALVE GEAR - DETAILS <span class="parts-cnt">17</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90810 – COOLING WATER OUTLET <span class="parts-cnt">15</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90902 – FUEL PUMP GEAR <span class="parts-cnt">44</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90905 – REVERSING MECHANISM <span class="parts-cnt">23</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90913 – HIGH-PRESSURE PIPES <span class="parts-cnt">18</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 90915 – OVERFLOW VALVE <span class="parts-cnt">11</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 91001 – SCAVENGE AIR RECEIVER <span class="parts-cnt">29</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 91002 – ARRANGEMENT OF CHARGING AIR PIPE <span class="parts-cnt">33</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 91003 – EXHAUST PIPES AND RECEIVER <span class="parts-cnt">41</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 91005 – AIR COOLER <span class="parts-cnt">15</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 91009 – CLEANING OF AIR COOLER <span class="parts-cnt">28</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 91101 – SAFETY VALVE <span class="parts-cnt">10</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 91102 – RELIEF VALVE <span class="parts-cnt">4</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 91103 – SAFETY VALVE <span class="parts-cnt">12</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 91201 – ARRANGEMENT OF STAY BOLTS <span class="parts-cnt">6</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 91204 – FRAME - DETAILS <span class="parts-cnt">25</span></div>
+<div class="parts-table-wrap">
   <div class="parts-section-label">PLATE 91205 – FRAME <span class="parts-cnt">44</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 91207 – ARRANGEMENT OF PISTON COOLING <span class="parts-cnt">17</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 91210 – BEDPLATE <span class="parts-cnt">13</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 91211 – AXIAL VIBRATION DAMPER <span class="parts-cnt">19</span></div>
+<div class="parts-table-wrap">
+  <div class="parts-section-label">PLATE 91215 – HOLDING-DOWN BOLTS AND END-CHOCK BOLTS <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>

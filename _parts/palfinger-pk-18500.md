@@ -3,7 +3,7 @@ title: "Palfinger PK 18500 Crane"
 model: "PK 18500"
 manufacturer: "Palfinger"
 category: "Deck Equipment"
-description: "Confirmed OEM spare parts for the Palfinger PK 18500 knuckle-boom crane – circlips, bearings, folding-arrow indicator."
+description: "Spare parts for the Palfinger PK 18500 knuckle-boom crane – circlips, bearings, folding-arrow indicator."
 ---
 
 <div class="parts-table-wrap">

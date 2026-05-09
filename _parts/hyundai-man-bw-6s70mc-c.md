@@ -3,7 +3,7 @@ title: "Hyundai-MAN B&W 6S70MC-C Marine Diesel"
 model: "6S70MC-C"
 manufacturer: "Hyundai-MAN B&W"
 category: "Engine"
-description: "Confirmed OEM spare parts for the Hyundai-built MAN B&W 6S70MC-C two-stroke marine diesel engine."
+description: "Spare parts for the Hyundai-built MAN B&W 6S70MC-C two-stroke marine diesel engine."
 ---
 
 <div class="parts-table-wrap">
