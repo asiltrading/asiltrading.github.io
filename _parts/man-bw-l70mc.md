@@ -6,6 +6,7 @@ category: "Engine"
 description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stroke marine diesel engine."
 ---
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -35,6 +36,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -56,6 +58,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -79,6 +82,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -136,6 +140,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -164,6 +169,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -206,6 +212,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -245,6 +252,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -295,6 +303,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -338,6 +347,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -369,6 +379,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -399,6 +410,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -420,6 +432,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -448,6 +461,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -482,6 +496,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -502,6 +517,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -524,6 +540,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -565,6 +582,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -622,6 +640,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -679,6 +698,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -725,6 +745,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -742,6 +763,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -777,6 +799,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -811,6 +834,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -868,6 +892,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -898,6 +923,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -924,6 +950,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -975,6 +1002,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1016,6 +1044,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1044,6 +1073,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1059,6 +1089,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1075,6 +1106,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1124,6 +1156,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1141,6 +1174,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1153,6 +1187,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1184,6 +1219,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1198,6 +1234,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1243,6 +1280,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1270,6 +1308,7 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
+<div class="parts-table-wrap">
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1306,84 +1345,6 @@ description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stro
   </table>
 </div>
 
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90101 – CYLINDER COVER <span class="parts-cnt">22</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90201 – PISTON AND PISTON ROD <span class="parts-cnt">14</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90205 – PISTON ROD STUFFING BOX <span class="parts-cnt">16</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90301 – CYLINDER FRAME <span class="parts-cnt">50</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90302 – CYLINDER LINER AND COOLING JACKET <span class="parts-cnt">21</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90305 – MOUNTING OF LUBRICATORS <span class="parts-cnt">35</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90401 – CONNECTING ROD AND CROSSHEAD <span class="parts-cnt">32</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90505 – THRUST BEARING <span class="parts-cnt">43</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90510 – TURNING GEAR <span class="parts-cnt">36</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90601 – CHAIN DRIVE AND GUIDE BARS <span class="parts-cnt">24</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90602 – CHAIN DRIVE - LUBRICATION <span class="parts-cnt">20</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90603 – CHAIN TIGHTENER <span class="parts-cnt">23</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90605 – LUBRICATOR DRIVE <span class="parts-cnt">14</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90610 – CHAIN WHEEL ON CAMSHAFT <span class="parts-cnt">21</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90613 – CAMSHAFT BEARING AND ROLLER GUIDE HOUSING <span class="parts-cnt">27</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90615 – ELECTRICAL GOVERNOR <span class="parts-cnt">13</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90619 – LOAD TRANSMITTER <span class="parts-cnt">15</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90620 – EMERGENCY CONSOLE <span class="parts-cnt">34</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90622 – ARRANGEMENT OF LAYSHAFT <span class="parts-cnt">50</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90702 – MAIN STARTING VALVE <span class="parts-cnt">50</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90703 – STARTING AIR DISTRIBUTOR <span class="parts-cnt">39</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90704 – STARTING VALVE <span class="parts-cnt">10</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90805 – VALVE GEAR <span class="parts-cnt">28</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90810 – COOLING WATER OUTLET <span class="parts-cnt">27</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90902 – FUEL PUMP GEAR <span class="parts-cnt">50</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90903 – FUEL PUMP GEAR - <span class="parts-cnt">29</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90904 – FUEL PUMP - DETAILS <span class="parts-cnt">29</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90905 – REVERSING MECHANISM <span class="parts-cnt">23</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90910 – FUEL VALVE <span class="parts-cnt">19</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91001 – SCAVENGE AIR SYSTEM <span class="parts-cnt">44</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91003 – EXHAUST PIPES AND RECEIVER <span class="parts-cnt">34</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91004 – EXHAUST RECEIVER <span class="parts-cnt">21</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91005 – AIR COOLER <span class="parts-cnt">8</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91007 – BUTTERFLY VALVE <span class="parts-cnt">9</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91009 – CLEANING OF AIR COOLER <span class="parts-cnt">42</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91101 – SAFETY VALVE 200 BAR +I-5 BAR ABS <span class="parts-cnt">10</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91102 – RELIEF VALVE <span class="parts-cnt">5</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91104 – ARRANGEMENT OF SAFETY CAP <span class="parts-cnt">24</span></div>
-<div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91201 – ARRANGEMENT OF STAY BOLTS <span class="parts-cnt">7</span></div>
 <div class="parts-table-wrap">
   <div class="parts-section-label">PLATE 91205 – FRAME BOX <span class="parts-cnt">38</span></div>
   <table>
