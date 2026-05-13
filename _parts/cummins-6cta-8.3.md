@@ -4,6 +4,8 @@ model: "6CTA 8.3D(M)"
 manufacturer: "Cummins"
 category: "Engine"
 description: "Spare parts for the Cummins 6CTA 8.3D(M) marine diesel – liners, pistons, valves, gaskets, water pump, turbocharger, and overhaul kits."
+image: "/assets/img/og/cummins-6cta-8.3.png"
+
 ---
 
 <div class="parts-table-wrap">

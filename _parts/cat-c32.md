@@ -4,6 +4,8 @@ model: "C32"
 manufacturer: "Caterpillar"
 category: "Engine"
 description: "Spare parts for the Caterpillar C32 marine diesel – injectors, filters, gaskets, water pump, turbocharger, aftercooler, and reman options."
+image: "/assets/img/og/cat-c32.png"
+
 ---
 
 <div class="parts-table-wrap">

@@ -4,6 +4,8 @@ model: "C32 SDN"
 manufacturer: "Caterpillar"
 category: "Engine"
 description: "Spare parts reference for the Caterpillar C32 SDN marine diesel engine."
+image: "/assets/img/og/cat-c32-sdn.png"
+
 ---
 
 <div class="parts-table-wrap">

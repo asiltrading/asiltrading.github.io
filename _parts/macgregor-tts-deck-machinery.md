@@ -4,6 +4,8 @@ model: "Cargo cranes, mooring winches"
 manufacturer: "MacGregor"
 category: "Deck Equipment"
 description: "Spare parts for MacGregor and TTS Marine deck machinery – cargo crane hydraulic pumps, valve blocks, mooring winch components."
+image: "/assets/img/og/macgregor-tts-deck-machinery.png"
+
 ---
 
 <div class="parts-table-wrap">

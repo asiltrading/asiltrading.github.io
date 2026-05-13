@@ -4,6 +4,8 @@ model: "QSM11-645"
 manufacturer: "Cummins"
 category: "Engine"
 description: "Spare parts for the Cummins QSM11-645 marine diesel – pistons, liners, gasket kits, injectors, water pump, and turbocharger."
+image: "/assets/img/og/cummins-qsm11.png"
+
 ---
 
 <div class="parts-table-wrap">

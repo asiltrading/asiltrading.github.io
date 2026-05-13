@@ -4,6 +4,8 @@ model: "Duplex / simplex candle-type"
 manufacturer: "Boll & Kirch"
 category: "Auxiliary Equipment"
 description: "Spare parts for Boll & Kirch BOLLFILTER duplex and simplex candle-type filters."
+image: "/assets/img/og/boll-kirch-duplex-candle.png"
+
 ---
 
 <div class="parts-table-wrap">

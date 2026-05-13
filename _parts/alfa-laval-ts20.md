@@ -4,6 +4,8 @@ model: "TS20 MFG"
 manufacturer: "Alfa Laval"
 category: "Auxiliary Equipment"
 description: "Spare parts for the Alfa Laval TS20 MFG plate-type heat exchanger – end plates, channel plates, and field gaskets."
+image: "/assets/img/og/alfa-laval-ts20.png"
+
 ---
 
 <div class="parts-table-wrap">

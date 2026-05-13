@@ -4,6 +4,8 @@ model: "6S50MC-C"
 manufacturer: "MAN B&W"
 category: "Engine"
 description: "Spare parts for the MAN B&W 6S50MC-C two-stroke marine diesel engine."
+image: "/assets/img/og/man-bw-6s50mc-c.png"
+
 ---
 
 <div class="parts-table-wrap">

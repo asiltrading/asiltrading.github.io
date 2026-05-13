@@ -4,6 +4,8 @@ model: "S 826"
 manufacturer: "Alfa Laval"
 category: "Auxiliary Equipment"
 description: "Spare parts for the Alfa Laval S 826 disc-stack separator."
+image: "/assets/img/og/alfa-laval-s826.png"
+
 ---
 
 <div class="parts-table-wrap">

@@ -4,6 +4,8 @@ model: "6LA / 8LA"
 manufacturer: "Yanmar"
 category: "Engine"
 description: "Spare parts for the Yanmar 6LA / 8LA marine diesel (150–350 kW)."
+image: "/assets/img/og/yanmar-6la-8la.png"
+
 ---
 
 <div class="parts-table-wrap">

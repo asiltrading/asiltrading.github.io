@@ -4,6 +4,8 @@ model: "ACE / ACG / ACF / ACD"
 manufacturer: "IMO (Circor)"
 category: "Pumps & Valves"
 description: "Spare parts for IMO (Circor / Colfax) ACE, ACG, ACF, ACD low-pressure triple-screw pumps – LO circulating, fuel, hydraulic, and transfer service."
+image: "/assets/img/og/imo-ace-acg-acd.png"
+
 ---
 
 <div class="parts-table-wrap">

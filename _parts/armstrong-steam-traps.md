@@ -4,6 +4,8 @@ model: "F&T 15B / 30B / 75A / 125A / 175A · 880 / TS-3 / Disc series"
 manufacturer: "Armstrong International"
 category: "Pumps & Valves"
 description: "Spare parts for Armstrong International float-and-thermostatic, inverted-bucket, and disc steam traps."
+image: "/assets/img/og/armstrong-steam-traps.png"
+
 ---
 
 <div class="parts-table-wrap">

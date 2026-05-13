@@ -4,6 +4,8 @@ model: "SRP / Rudder Propeller"
 manufacturer: "Schottel"
 category: "Auxiliary Equipment"
 description: "Spare parts for Schottel SRP rudder propellers / azimuth thrusters – bearings, seals, gears, and propulsion components."
+image: "/assets/img/og/schottel-thruster.png"
+
 ---
 
 <div class="parts-table-wrap">

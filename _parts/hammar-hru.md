@@ -4,6 +4,8 @@ model: "H20R / H20RX / H20E"
 manufacturer: "Hammar"
 category: "Deck Equipment"
 description: "Spare parts for Hammar SOLAS hydrostatic release units – H20R, H20RX (extended-interval), and H20E (EPIRB)."
+image: "/assets/img/og/hammar-hru.png"
+
 ---
 
 <div class="parts-table-wrap">

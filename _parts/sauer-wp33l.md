@@ -4,6 +4,8 @@ model: "WP33L"
 manufacturer: "Sauer"
 category: "Auxiliary Equipment"
 description: "Spare parts for the Sauer WP33L air compressor."
+image: "/assets/img/og/sauer-wp33l.png"
+
 ---
 
 <div class="parts-table-wrap">

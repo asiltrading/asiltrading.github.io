@@ -4,6 +4,8 @@ model: "9L26"
 manufacturer: "Wärtsilä"
 category: "Engine"
 description: "Spare parts for the Wärtsilä 9L26 – cylinder heads, valves, bearings, and overhaul components."
+image: "/assets/img/og/wartsila-9l26.png"
+
 ---
 
 <div class="parts-table-wrap">

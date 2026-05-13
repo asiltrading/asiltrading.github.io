@@ -4,6 +4,8 @@ model: "WP400"
 manufacturer: "Sauer"
 category: "Auxiliary Equipment"
 description: "Spare parts for the Sauer WP400 air compressor."
+image: "/assets/img/og/sauer-wp400.png"
+
 ---
 
 <div class="parts-table-wrap">

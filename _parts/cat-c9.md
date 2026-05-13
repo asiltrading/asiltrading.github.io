@@ -4,6 +4,8 @@ model: "C9"
 manufacturer: "Caterpillar"
 category: "Engine"
 description: "Spare parts reference for the Caterpillar C9 marine diesel engine."
+image: "/assets/img/og/cat-c9.png"
+
 ---
 
 <div class="parts-table-wrap">

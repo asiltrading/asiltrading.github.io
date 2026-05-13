@@ -4,6 +4,8 @@ model: "W55 / W80 / W110 / W140 / W220"
 manufacturer: "Hatlapa"
 category: "Auxiliary Equipment"
 description: "Spare parts for Hatlapa W-series air compressors (W55–W220) – valve plates, gaskets, springs, seats, pistons, rings."
+image: "/assets/img/og/hatlapa-w-series-compressors.png"
+
 ---
 
 <div class="parts-table-wrap">

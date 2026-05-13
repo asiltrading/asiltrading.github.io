@@ -4,6 +4,8 @@ model: "NT855"
 manufacturer: "Cummins"
 category: "Engine"
 description: "Spare parts for the Cummins NT855 marine diesel – liners, pistons, gasket kits, injectors, valve gear, and water pump."
+image: "/assets/img/og/cummins-nt855.png"
+
 ---
 
 <div class="parts-table-wrap">

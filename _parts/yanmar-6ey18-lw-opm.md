@@ -4,6 +4,8 @@ model: "6EY18(A)LW"
 manufacturer: "Yanmar"
 category: "Engine"
 description: "Spare parts for the Yanmar 6EY18(A)LW marine diesel engine (HFO variant), covering all major subsystems from cylinder block through starting system and instruments."
+image: "/assets/img/og/yanmar-6ey18-lw-opm.png"
+
 ---
 
 <div class="parts-table-wrap">

@@ -4,6 +4,8 @@ model: "LKH 10 / 15 / 20 / 25 / 35 / 40 / 50 / 60"
 manufacturer: "Alfa Laval"
 category: "Pumps & Valves"
 description: "Spare parts for Alfa Laval LKH hygienic centrifugal pumps – seal kits and agitator/spare-part kits."
+image: "/assets/img/og/alfa-laval-lkh.png"
+
 ---
 
 <div class="parts-table-wrap">

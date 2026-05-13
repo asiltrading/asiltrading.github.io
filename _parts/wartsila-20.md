@@ -4,6 +4,8 @@ model: "Wärtsilä 20"
 manufacturer: "Wärtsilä"
 category: "Engine"
 description: "Comprehensive spare parts reference for the Wärtsilä 20 series."
+image: "/assets/img/og/wartsila-20.png"
+
 ---
 
 <div class="parts-table-wrap">

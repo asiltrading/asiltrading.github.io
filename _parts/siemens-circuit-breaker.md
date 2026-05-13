@@ -4,6 +4,8 @@ model: "3RV1142 Series"
 manufacturer: "Siemens"
 category: "Electrical"
 description: "Siemens SIRIUS 3RV1142 motor-protection circuit breaker, S3 frame, screw terminal, increased switching capacity. Phased-out – successor is SIRIUS 3RV2."
+image: "/assets/img/og/siemens-circuit-breaker.png"
+
 ---
 
 <div class="parts-table-wrap">

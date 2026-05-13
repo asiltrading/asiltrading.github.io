@@ -4,6 +4,8 @@ model: "6EY26LW / 8EY26LW"
 manufacturer: "Yanmar"
 category: "Engine"
 description: "Spare parts for the Yanmar 6EY26LW / 8EY26LW marine diesel (260×385 mm bore × stroke, 1,030–2,060 kW)."
+image: "/assets/img/og/yanmar-6ey26.png"
+
 ---
 
 <div class="parts-table-wrap">

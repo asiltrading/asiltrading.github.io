@@ -4,6 +4,8 @@ model: "S35MC"
 manufacturer: "MAN B&W"
 category: "Engine"
 description: "OEM spare parts and maintenance tool components for the MAN B&W S35MC two-stroke marine diesel engine."
+image: "/assets/img/og/man-bw-s35mc.png"
+
 ---
 
 <div class="parts-table-wrap">

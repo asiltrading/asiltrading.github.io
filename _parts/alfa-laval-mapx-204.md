@@ -4,6 +4,8 @@ model: "MAPX 204 / 204 TGT-24"
 manufacturer: "Alfa Laval"
 category: "Auxiliary Equipment"
 description: "Spare parts for the Alfa Laval MAPX 204 disc-stack separator – bowl lock ring, gaskets, paring disc, seal rings, and major service items."
+image: "/assets/img/og/alfa-laval-mapx-204.png"
+
 ---
 
 <div class="parts-table-wrap">

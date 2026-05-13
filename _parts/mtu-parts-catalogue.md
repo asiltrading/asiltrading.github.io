@@ -4,6 +4,8 @@ model: "16V2000 P82"
 manufacturer: "MTU"
 category: "Engine"
 description: "Spare parts reference for the MTU 16V2000 P82."
+image: "/assets/img/og/mtu-parts-catalogue.png"
+
 ---
 
 <div class="parts-table-wrap">

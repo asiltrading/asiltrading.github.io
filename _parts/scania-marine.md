@@ -4,6 +4,8 @@ model: "DC13"
 manufacturer: "Scania"
 category: "Engine"
 description: "Spare parts for the Scania DC13 marine diesel – pistons, liners, valves, gaskets, fuel system, and overhaul components."
+image: "/assets/img/og/scania-marine.png"
+
 ---
 
 <div class="parts-table-wrap">

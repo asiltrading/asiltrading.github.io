@@ -4,6 +4,8 @@ model: "OS series"
 manufacturer: "Alfa Laval"
 category: "Pumps & Valves"
 description: "Spare parts for Alfa Laval OS twin-screw pumps."
+image: "/assets/img/og/alfa-laval-os.png"
+
 ---
 
 <div class="parts-table-wrap">

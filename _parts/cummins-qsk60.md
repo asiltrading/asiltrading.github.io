@@ -4,6 +4,8 @@ model: "QSK60"
 manufacturer: "Cummins"
 category: "Engine"
 description: "Comprehensive spare parts reference for the Cummins QSK60."
+image: "/assets/img/og/cummins-qsk60.png"
+
 ---
 
 <div class="parts-table-wrap">

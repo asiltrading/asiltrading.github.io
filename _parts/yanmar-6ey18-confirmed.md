@@ -4,6 +4,8 @@ model: "6EY18(A)LW"
 manufacturer: "Yanmar"
 category: "Engine"
 description: "Spare parts for the Yanmar 6EY18(A)LW marine diesel (180×280 mm bore × stroke, 400–800 kW)."
+image: "/assets/img/og/yanmar-6ey18-confirmed.png"
+
 ---
 
 <div class="parts-table-wrap">

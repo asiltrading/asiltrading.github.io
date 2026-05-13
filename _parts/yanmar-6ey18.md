@@ -4,6 +4,8 @@ model: "6EY18"
 manufacturer: "Yanmar"
 category: "Engine"
 description: "Comprehensive spare parts reference for the Yanmar 6EY18(A)L."
+image: "/assets/img/og/yanmar-6ey18.png"
+
 ---
 
 <div class="parts-table-wrap">

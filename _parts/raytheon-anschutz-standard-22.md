@@ -4,6 +4,8 @@ model: "Standard 20 / 22 / 22NX"
 manufacturer: "Raytheon Anschütz"
 category: "Navigation & Electronics"
 description: "Spare parts for Raytheon Anschütz Standard 22 (and 20/22NX) gyrocompass systems – gyrosphere, main unit, service packs, supporting liquid."
+image: "/assets/img/og/raytheon-anschutz-standard-22.png"
+
 ---
 
 <div class="parts-table-wrap">

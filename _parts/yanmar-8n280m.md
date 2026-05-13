@@ -4,6 +4,8 @@ model: "8N280M-EV"
 manufacturer: "Yanmar"
 category: "Engine"
 description: "Comprehensive spare parts reference for the Yanmar 8N280M-EV."
+image: "/assets/img/og/yanmar-8n280m.png"
+
 ---
 
 <div class="parts-table-wrap">

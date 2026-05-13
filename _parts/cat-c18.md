@@ -4,6 +4,8 @@ model: "C18"
 manufacturer: "Caterpillar"
 category: "Engine"
 description: "Spare parts reference for the Caterpillar C18 marine diesel engine."
+image: "/assets/img/og/cat-c18.png"
+
 ---
 
 <div class="parts-table-wrap">

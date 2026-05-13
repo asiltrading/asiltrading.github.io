@@ -4,6 +4,8 @@ model: "Vacuum Blower"
 manufacturer: "Becker"
 category: "Auxiliary Equipment"
 description: "Spare parts for Becker vacuum blowers used in marine sewage systems – carbon vanes and filter cartridges."
+image: "/assets/img/og/becker-sewage-system.png"
+
 ---
 
 <div class="parts-table-wrap">

@@ -4,6 +4,8 @@ model: "VTR 304-11"
 manufacturer: "ABB"
 category: "Auxiliary Equipment"
 description: "Spare parts for the ABB VTR 304-11 turbocharger – bearings, seals, rotor and casing components."
+image: "/assets/img/og/vtr-304-turbocharger.png"
+
 ---
 
 <div class="parts-table-wrap">

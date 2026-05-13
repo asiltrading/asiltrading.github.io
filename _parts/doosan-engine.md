@@ -4,6 +4,8 @@ model: "P158"
 manufacturer: "Doosan"
 category: "Engine"
 description: "Spare parts for the Doosan P158 marine diesel – pistons, liners, gasket kits, bearings, fuel system, and cooling."
+image: "/assets/img/og/doosan-engine.png"
+
 ---
 
 <div class="parts-table-wrap">

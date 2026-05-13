@@ -4,6 +4,8 @@ model: "WP81L"
 manufacturer: "Sauer"
 category: "Auxiliary Equipment"
 description: "Spare parts for the Sauer WP81L marine air compressor, covering the recommended spare parts range B+A (operating and plant spares) and pressure switches."
+image: "/assets/img/og/sauer-wp81l.png"
+
 ---
 
 <div class="parts-table-wrap">

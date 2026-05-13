@@ -4,6 +4,8 @@ model: "KTA38-M2"
 manufacturer: "Cummins"
 category: "Engine"
 description: "Spare parts for the Cummins KTA38-M2 marine diesel – liner kits, piston kits, bearings, gasket kits, valve gear, and turbochargers."
+image: "/assets/img/og/cummins-kta38-m2.png"
+
 ---
 
 <div class="parts-table-wrap">

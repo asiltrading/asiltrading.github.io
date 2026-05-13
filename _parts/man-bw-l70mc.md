@@ -4,6 +4,8 @@ model: "L70MC"
 manufacturer: "MAN B&W"
 category: "Engine"
 description: "Comprehensive spare parts reference for the MAN B&W L70MC two-stroke marine diesel engine."
+image: "/assets/img/og/man-bw-l70mc.png"
+
 ---
 
 <div class="parts-table-wrap">

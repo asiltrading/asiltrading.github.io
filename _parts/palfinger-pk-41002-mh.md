@@ -4,6 +4,8 @@ model: "PK 41002 MH"
 manufacturer: "Palfinger"
 category: "Deck Equipment"
 description: "Spare parts for the Palfinger PK 41002 MH knuckle-boom crane – filters, valves, seal kits."
+image: "/assets/img/og/palfinger-pk-41002-mh.png"
+
 ---
 
 <div class="parts-table-wrap">

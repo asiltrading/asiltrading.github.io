@@ -4,6 +4,8 @@ model: "C32 RNY"
 manufacturer: "Caterpillar"
 category: "Engine"
 description: "Spare parts reference for the Caterpillar C32 RNY marine diesel engine."
+image: "/assets/img/og/cat-c32-rny.png"
+
 ---
 
 <div class="parts-table-wrap">

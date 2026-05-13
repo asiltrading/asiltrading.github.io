@@ -4,6 +4,8 @@ model: "C44"
 manufacturer: "Caterpillar"
 category: "Engine"
 description: "Spare parts reference for the Caterpillar C44 marine diesel engine."
+image: "/assets/img/og/cat-c44.png"
+
 ---
 
 <div class="parts-table-wrap">

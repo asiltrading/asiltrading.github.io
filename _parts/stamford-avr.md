@@ -4,6 +4,8 @@ model: "AS440 / SX460"
 manufacturer: "Stamford"
 category: "Electrical"
 description: "Stamford AVR (AS440 / SX460) and diodes for marine generators."
+image: "/assets/img/og/stamford-avr.png"
+
 ---
 
 <div class="parts-table-wrap">

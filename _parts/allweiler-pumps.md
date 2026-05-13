@@ -4,6 +4,8 @@ model: "SN / SNP / SEP / NB / NT series"
 manufacturer: "Allweiler (Circor)"
 category: "Pumps & Valves"
 description: "Spare parts for Allweiler progressing-cavity (SN/SNP/SEP) and NB/NT centrifugal pumps."
+image: "/assets/img/og/allweiler-pumps.png"
+
 ---
 
 <div class="parts-table-wrap">
