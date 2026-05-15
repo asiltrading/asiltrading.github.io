@@ -1,22 +1,75 @@
+{%- assign page_lang = page.lang | default: "en" -%}
+{%- if page_lang == "ru" -%}
+  {%- assign home_url = "/ru/" -%}
+  {%- assign products_url = "/ru/products/" -%}
+  {%- assign parts_url = "/ru/parts/" -%}
+  {%- assign contact_url = "/ru/contact/" -%}
+  {%- assign label_home = "Главная" -%}
+  {%- assign label_products = "Продукция" -%}
+  {%- assign label_parts = "Запчасти" -%}
+  {%- assign label_contact = "Контакты" -%}
+  {%- assign brand_aria = "Asil Trading – Главная" -%}
+  {%- if page.alt_en -%}
+    {%- assign alt_url = page.alt_en -%}
+  {%- elsif page.url contains "/ru/parts/" -%}
+    {%- assign alt_url = page.url | remove_first: "/ru" -%}
+  {%- else -%}
+    {%- assign alt_url = "/" -%}
+  {%- endif -%}
+  {%- assign alt_label = "EN" -%}
+  {%- assign alt_lang_attr = "en" -%}
+{%- else -%}
+  {%- assign home_url = "/" -%}
+  {%- assign products_url = "/products/" -%}
+  {%- assign parts_url = "/parts/" -%}
+  {%- assign contact_url = "/contact/" -%}
+  {%- assign label_home = "Home" -%}
+  {%- assign label_products = "Products" -%}
+  {%- assign label_parts = "Parts" -%}
+  {%- assign label_contact = "Contact" -%}
+  {%- assign brand_aria = "Asil Trading – Home" -%}
+  {%- if page.alt_ru -%}
+    {%- assign alt_url = page.alt_ru -%}
+  {%- elsif page.url contains "/parts/" and page.url != "/parts/" -%}
+    {%- assign alt_url = "/ru" | append: page.url -%}
+  {%- else -%}
+    {%- assign alt_url = "/ru/" -%}
+  {%- endif -%}
+  {%- assign alt_label = "RU" -%}
+  {%- assign alt_lang_attr = "ru" -%}
+{%- endif -%}
 <nav class="nav" aria-label="Primary">
   <div class="nav-inner">
-    <a href="{{ '/' | relative_url }}" class="nav-brand" aria-label="Asil Trading – Home">
+    <a href="{{ home_url | relative_url }}" class="nav-brand" aria-label="{{ brand_aria }}">
       <img src="{{ '/assets/img/logo-small.png' | relative_url }}" alt="" class="nav-logo" width="38" height="38">
       <span class="brand-name">ASIL TRADING</span>
     </a>
 
-    <button class="nav-toggle" aria-expanded="false" aria-controls="primary-nav" aria-label="Toggle menu">
-      <span></span><span></span><span></span>
-    </button>
-
-    <div class="nav-collapse" id="primary-nav">
-      <div class="nav-links">
-        <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
-        <a href="{{ '/products/' | relative_url }}"{% if page.url contains '/products' %} aria-current="page"{% endif %}>Products</a>
-        <a href="{{ '/parts/' | relative_url }}"{% if page.url contains '/parts' %} aria-current="page"{% endif %}>Parts</a>
+    <div class="nav-end">
+      <div class="nav-lang-toggle" role="navigation" aria-label="Language">
+        {%- if page_lang == "ru" -%}
+          <a href="{{ alt_url | relative_url }}" hreflang="en" lang="en">🇬🇧 EN</a>
+          <span class="nav-lang-sep">·</span>
+          <span class="nav-lang-current" aria-current="true">🇷🇺 RU</span>
+        {%- else -%}
+          <span class="nav-lang-current" aria-current="true">🇬🇧 EN</span>
+          <span class="nav-lang-sep">·</span>
+          <a href="{{ alt_url | relative_url }}" hreflang="ru" lang="ru">🇷🇺 RU</a>
+        {%- endif -%}
       </div>
-      <a href="{{ '/contact/' | relative_url }}" class="nav-cta">Contact</a>
+
+      <button class="nav-toggle" aria-expanded="false" aria-controls="primary-nav" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+
+      <div class="nav-collapse" id="primary-nav">
+        <div class="nav-links">
+          <a href="{{ home_url | relative_url }}"{% if page.url == home_url %} aria-current="page"{% endif %}>{{ label_home }}</a>
+          <a href="{{ products_url | relative_url }}"{% if page.url contains 'products' %} aria-current="page"{% endif %}>{{ label_products }}</a>
+          <a href="{{ parts_url | relative_url }}"{% if page.url contains 'parts' %} aria-current="page"{% endif %}>{{ label_parts }}</a>
+        </div>
+        <a href="{{ contact_url | relative_url }}" class="nav-cta">{{ label_contact }}</a>
+      </div>
     </div>
   </div>
 </nav>
-

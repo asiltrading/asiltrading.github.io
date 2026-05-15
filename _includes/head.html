@@ -1,5 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+{%- assign page_lang = page.lang | default: "en" -%}
+{%- if page_lang == "ru" -%}
+  {%- assign og_locale = "ru_RU" -%}
+{%- else -%}
+  {%- assign og_locale = "en_AE" -%}
+{%- endif -%}
+<html lang="{{ page_lang }}">
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,6 +21,29 @@
 
   {%- seo -%}
   <meta name="twitter:card" content="summary_large_image">
+  <meta property="og:locale" content="{{ og_locale }}">
+  <meta property="og:image:alt" content="Asil Trading FZCO – maritime and industrial spare parts supplier, Dubai">
+
+  {%- comment -%} llms.txt – plain-text site summary for AI crawlers {%- endcomment -%}
+  <link rel="alternate" type="text/plain" title="LLM-friendly site summary" href="{{ '/llms.txt' | relative_url }}">
+
+  {%- comment -%} hreflang alternates – explicit frontmatter, or auto-derived for parts pages {%- endcomment -%}
+  {%- assign alt_en = page.alt_en -%}
+  {%- assign alt_ru = page.alt_ru -%}
+  {%- if alt_en == nil and alt_ru == nil -%}
+    {%- if page.url contains "/ru/parts/" -%}
+      {%- assign alt_ru = page.url -%}
+      {%- assign alt_en = page.url | remove_first: "/ru" -%}
+    {%- elsif page.url contains "/parts/" and page.url != "/parts/" -%}
+      {%- assign alt_en = page.url -%}
+      {%- assign alt_ru = "/ru" | append: page.url -%}
+    {%- endif -%}
+  {%- endif -%}
+  {%- if alt_en or alt_ru -%}
+    {%- if alt_en -%}<link rel="alternate" hreflang="en" href="{{ site.url }}{{ alt_en }}">{%- endif -%}
+    {%- if alt_ru -%}<link rel="alternate" hreflang="ru" href="{{ site.url }}{{ alt_ru }}">{%- endif -%}
+    {%- if alt_en -%}<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ alt_en }}">{%- endif -%}
+  {%- endif -%}
 
   {%- comment -%} Organization JSON-LD for richer search/AI results {%- endcomment -%}
   <script type="application/ld+json">
@@ -25,13 +54,55 @@
     "url": "{{ site.url }}",
     "logo": "{{ site.url }}{{ '/assets/img/logo.png' | relative_url }}",
     "email": "{{ site.email }}",
+    "telephone": "{{ site.company.phone }}",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Office 35786–001, IFZA Business Park, DDP",
+      "streetAddress": "Office 35786-001, IFZA Business Park, DDP",
       "addressLocality": "Dubai",
       "addressCountry": "AE"
     },
     "vatID": "{{ site.company.trn }}",
+    "iso6523Code": "0199:{{ site.company.eori }}",
+    "areaServed": [
+      { "@type": "Country", "name": "United Arab Emirates" },
+      { "@type": "Country", "name": "Azerbaijan" },
+      { "@type": "Country", "name": "Russia" },
+      { "@type": "Country", "name": "Kazakhstan" },
+      { "@type": "Country", "name": "Turkmenistan" },
+      { "@type": "Country", "name": "Georgia" },
+      { "@type": "Place", "name": "Worldwide" }
+    ],
+    "availableLanguage": ["English", "Russian"],
+    "knowsLanguage": ["en", "ru"],
+    "knowsAbout": [
+      "Maritime spare parts",
+      "Marine engine spare parts",
+      "Obsolete and discontinued marine parts sourcing",
+      "Emergency marine spare parts delivery",
+      "Two-stroke marine engines",
+      "Four-stroke marine engines",
+      "MAN B&W engine parts",
+      "Wärtsilä engine parts",
+      "Caterpillar marine engine parts",
+      "Cummins marine engine parts",
+      "Deutz engine parts",
+      "Yanmar engine parts",
+      "Volvo Penta engine parts",
+      "Perkins engine parts",
+      "MTU engine parts",
+      "Marine pumps and valves",
+      "Marine navigation electronics",
+      "Marine auxiliary equipment",
+      "Ship spare parts logistics",
+      "Marine customs clearance",
+      "Dubai free zone re-export",
+      "Caspian Sea port deliveries",
+      "Marine spare parts supplier Dubai",
+      "Russian-language marine parts procurement",
+      "Ship spares supplier for Caspian and CIS",
+      "OEM and aftermarket marine spare parts"
+    ]{%- if site.social.links and site.social.links != empty -%},
+    "sameAs": {{ site.social.links | jsonify }}{%- endif -%},
     "description": "{{ site.description | strip_newlines | strip }}"
   }
   </script>

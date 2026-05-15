@@ -1,0 +1,52 @@
+# Asil Trading FZCO
+
+> Dubai-based B2B supplier of maritime, offshore, and industrial spare parts. Specialises in emergency sourcing, obsolete/discontinued items, and full logistics management (land, sea, air, customs). Serves Russian-speaking buyers and companies across Azerbaijan, Russia, Kazakhstan, Turkmenistan, and Georgia, with regular deliveries to Caspian ports.
+
+Asil Trading FZCO is a free-zone trading company registered with IFZA (Dubai, UAE). The company sources OEM, OEM-equivalent, aftermarket, and quality-tested used parts for ship engines, pumps and valves, navigation electronics, sensors and solenoids, electrical equipment, and auxiliary equipment (separators, compressors, boilers, coolers, sewage treatment). It serves shipowners, fleet operators, technical superintendents, ship managers, port agents, and industrial buyers globally, with Russian-language support for CIS-based clients.
+
+## Contact
+
+- Email: contact@asiltrading.com
+- Phone: +971 4 216 0792
+- Address: Office 35786-001, IFZA Business Park, DDP, Dubai, UAE
+- Website: https://asiltrading.com
+- Russian site: https://asiltrading.com/ru/
+
+## Key pages – English
+
+- [Home](https://asiltrading.com/): Overview of services and capabilities
+- [Products](https://asiltrading.com/products/): Brand and category index – engines, pumps & valves, navigation & comms, sensors & solenoids, electrical, auxiliary equipment
+- [Parts catalog](https://asiltrading.com/parts/): Reference list of equipment for which we maintain part-number cross-references
+- [Contact](https://asiltrading.com/contact/): Enquiry form
+
+## Key pages – Russian
+
+- [Главная](https://asiltrading.com/ru/): Обзор услуг
+- [Продукция](https://asiltrading.com/ru/products/): Каталог брендов и категорий
+- [Каталог запчастей](https://asiltrading.com/ru/parts/): Справочник по оборудованию
+- [Контакты](https://asiltrading.com/ru/contact/)
+
+## Equipment brands covered (representative, not exhaustive)
+
+Engines: MAN B&W, Wärtsilä (Sulzer), Caterpillar, Cummins, Perkins, Bergen, MTU, Daihatsu, Yanmar, Deutz, Volvo Penta, Scania, Doosan, Hyundai, Kawasaki, Mitsubishi, Pielstick, Niigata, MAK.
+
+Pumps & valves: Desmi, Allweiler, KSB, Sulzer, Grundfos, IMO, Bornemann, Azcue, Speck, Wilden.
+
+Navigation & comms: Furuno, Sperry, JRC, Raytheon-Anschutz, Garmin, Cobham, Jotron, Transas, Tokyo-Keiki, Thales, Hatteland, Raymarine.
+
+Sensors & solenoids: ABB, Danfoss, Honeywell, Emerson, Hydac, Parker Hannifin, ASCO, Endress+Hauser, Krohne, Eaton.
+
+Electrical: Siemens, ABB, Schneider, Leroy Somer, Stamford, Weidmuller, Omron, WAGO, Phoenix Contact, Kohler, WEG.
+
+Auxiliary equipment: Alfa Laval, Atlas Copco, GEA Westfalia, Sperre, Kelvion, Evac, Miura, Ingersoll Rand, Boll & Kirch, Clayton, BAUER, Sauer.
+
+## Logistics
+
+Deliveries to Caspian ports: Baku (Alat), Aktau, Kuryk, Turkmenbashi, Makhachkala, Astrakhan. Land, sea, and air freight. Full customs documentation, certificates of origin, EORI for EU-origin shipments (NL827475391), Dubai free-zone customs code AE-1183222, TRN 104165890500001.
+
+## How buyers typically search
+
+Buyers reach this company by searching:
+- Manufacturer part numbers (Caterpillar 7-character codes, MAN B&W item numbers, Cummins kit numbers, etc.)
+- Equipment model designations (CAT C32, Cummins KTA50-M2, Wärtsilä 6L20, MAN B&W 6S50MC-C)
+- "Spare parts for [model]" in English or Russian

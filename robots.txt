@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.asiltrading.com/sitemap.xml
+Sitemap: https://asiltrading.com/sitemap.xml

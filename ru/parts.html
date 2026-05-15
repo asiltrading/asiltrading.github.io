@@ -1,0 +1,101 @@
+---
+layout: default
+title: "Справочный каталог запчастей – морские двигатели, насосы, оборудование"
+description: "Справочник запасных частей для морского и промышленного оборудования. Номера деталей сверены с сервисными руководствами OEM: двигатели, насосы, навигация, электрика и вспомогательное оборудование."
+permalink: /ru/parts/
+body_class: parts-index
+lang: ru
+alt_en: /parts/
+alt_ru: /ru/parts/
+---
+
+<section class="hero" aria-labelledby="parts-index-heading">
+  <div class="hero-grid" aria-hidden="true"></div>
+  <div class="hero-inner">
+    <div class="hero-eyebrow">
+      <span class="hero-dot" aria-hidden="true"></span>
+      <span class="hero-eyebrow-text">Справочник запчастей</span>
+    </div>
+    <h1 id="parts-index-heading">Запчасти<br><em>справочный каталог</em></h1>
+    <p class="hero-body">Номера деталей сверены с сервисными руководствами OEM по двигателям, насосам, электронике и вспомогательному оборудованию. Найдите нужную деталь в каталоге, а затем свяжитесь с нами для запроса цены и наличия.</p>
+  </div>
+</section>
+
+<section class="section" aria-labelledby="catalog-heading">
+  <div class="section-inner">
+    <h2 class="sr-only" id="catalog-heading">Каталог запчастей</h2>
+
+    {%- assign used_cats = site.parts_ru | map: "category" | uniq -%}
+    <div class="cat-filter" role="group" aria-label="Фильтр по категории">
+      <button class="is-active" data-cat="all">Всё оборудование</button>
+      {% for cat in site.part_categories %}
+        {%- if used_cats contains cat %}
+        <button data-cat="{{ cat }}">
+          {%- case cat -%}
+            {%- when "Engine" -%}Двигатели
+            {%- when "Pumps & Valves" -%}Насосы и клапаны
+            {%- when "Navigation & Electronics" -%}Навигация и электроника
+            {%- when "Electrical" -%}Электрооборудование
+            {%- when "Auxiliary Equipment" -%}Вспомогательное оборудование
+            {%- when "Deck Equipment" -%}Палубное оборудование
+            {%- else -%}{{ cat }}
+          {%- endcase -%}
+        </button>
+        {%- endif %}
+      {% endfor %}
+    </div>
+
+    <div class="parts-grid">
+      {% assign sorted_parts = site.parts_ru | sort: "manufacturer" %}
+      {% for part in sorted_parts %}
+      <a href="{{ part.url | relative_url }}" class="parts-card" data-category="{{ part.category }}">
+        <div class="parts-card-eyebrow">{{ part.manufacturer }}</div>
+        <h3>{{ part.model }}</h3>
+        <p class="parts-card-category">
+          {%- case part.category -%}
+            {%- when "Engine" -%}Двигатели
+            {%- when "Pumps & Valves" -%}Насосы и клапаны
+            {%- when "Navigation & Electronics" -%}Навигация и электроника
+            {%- when "Electrical" -%}Электрооборудование
+            {%- when "Auxiliary Equipment" -%}Вспомогательное оборудование
+            {%- when "Deck Equipment" -%}Палубное оборудование
+            {%- else -%}{{ part.category }}
+          {%- endcase -%}
+        </p>
+        {% if part.specs %}
+        <div class="parts-card-specs">
+          {% for spec in part.specs limit: 3 %}
+          <span>{{ spec[0] | replace: "_", " " | capitalize }}: {{ spec[1] }}</span>
+          {% endfor %}
+        </div>
+        {% endif %}
+        <span class="parts-card-link">Смотреть список запчастей &rarr;</span>
+      </a>
+      {% endfor %}
+    </div>
+
+  </div>
+</section>
+
+<section class="cta-simple" aria-labelledby="parts-cta-heading">
+  <div class="cta-simple-inner">
+    <h2 id="parts-cta-heading">Не нашли нужного?</h2>
+    <p>Сообщите нам, что вам нужно.</p>
+    <a href="{{ '/ru/contact/' | relative_url }}" class="btn-primary btn-wide">Связаться с нами</a>
+  </div>
+</section>
+
+<script>
+  const btns = document.querySelectorAll('.cat-filter button');
+  const cards = document.querySelectorAll('.parts-card');
+  btns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      btns.forEach(b => b.classList.remove('is-active'));
+      btn.classList.add('is-active');
+      const cat = btn.dataset.cat;
+      cards.forEach(card => {
+        card.style.display = (cat === 'all' || card.dataset.category === cat) ? '' : 'none';
+      });
+    });
+  });
+</script>

@@ -10,7 +10,7 @@ timezone: "Asia/Dubai"
 
 company:
   legal_name: "Asil Trading FZCO"
-  address: "Office 35786–001, IFZA Business Park, DDP, Dubai, UAE"
+  address: "Office 35786-001, IFZA Business Park, DDP, Dubai, UAE"
   phone: "+971 4 216 0792"
   trn: "104165890500001"
   customs_code: "AE-1183222"
@@ -27,6 +27,9 @@ collections:
   parts:
     output: true
     permalink: /parts/:slug/
+  parts_ru:
+    output: true
+    permalink: /ru/parts/:slug/
 
 defaults:
   - scope:
@@ -43,6 +46,17 @@ defaults:
       type: "parts"
     values:
       layout: "parts"
+      lang: "en"
+  - scope:
+      path: ""
+      type: "parts_ru"
+    values:
+      layout: "parts"
+      lang: "ru"
+  - scope:
+      path: "ru"
+    values:
+      lang: "ru"
 
 # Plugins (all GitHub-Pages-safe)
 plugins:

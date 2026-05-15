@@ -1,0 +1,50 @@
+---
+layout: default
+title: "Связаться с Asil Trading"
+description: "Свяжитесь с Asil Trading. Запросы на запчасти, вопросы по логистике и общие обращения."
+permalink: /ru/contact/
+body_class: contact
+lang: ru
+alt_en: /contact/
+alt_ru: /ru/contact/
+---
+
+<section class="hero" aria-labelledby="contact-heading">
+  <div class="hero-grid" aria-hidden="true"></div>
+  <div class="hero-inner">
+    <div class="hero-eyebrow">
+      <span class="hero-dot" aria-hidden="true"></span>
+      <span class="hero-eyebrow-text">Контакты</span>
+    </div>
+    <h1 id="contact-heading">Свяжитесь с нами.</h1>
+    <p class="hero-body">Запросы на запчасти, вопросы по логистике или общие обращения.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="contact-form-wrap">
+    <p class="contact-email-pre">Предпочитаете email? Пишите на <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+
+    <form class="form" action="https://formspree.io/f/mnjwkwve" method="POST" aria-label="Контактная форма">
+      <div class="form-row">
+        <label for="name">Имя</label>
+        <input id="name" name="name" type="text" required autocomplete="name">
+      </div>
+      <div class="form-row">
+        <label for="company">Компания</label>
+        <input id="company" name="company" type="text" required autocomplete="organization">
+      </div>
+      <div class="form-row">
+        <label for="email">Email</label>
+        <input id="email" name="email" type="email" required autocomplete="email">
+      </div>
+      <div class="form-row">
+        <label for="message">Сообщение</label>
+        <textarea id="message" name="message" required></textarea>
+      </div>
+      <input type="hidden" name="_subject" value="Новый запрос – asiltrading.com (RU)">
+      <input type="hidden" name="_language" value="ru">
+      <button type="submit" class="btn-primary">Отправить сообщение</button>
+    </form>
+  </div>
+</section>

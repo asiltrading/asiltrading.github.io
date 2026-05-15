@@ -1,0 +1,120 @@
+---
+layout: default
+title: "Морские и промышленные запасные части – бренды и категории"
+description: "Образцы морских и промышленных запасных частей, которые мы поставляем: двигатели, насосы, навигация, датчики, электрика и вспомогательное оборудование. Сотни брендов."
+permalink: /ru/products/
+body_class: products
+lang: ru
+alt_en: /products/
+alt_ru: /ru/products/
+---
+
+{%- assign cat_titles = "Запчасти двигателей|Насосы и клапаны|Навигация и связь|Датчики и соленоиды|Электрооборудование|Вспомогательное оборудование" | split: "|" -%}
+{%- assign cat_groups = "Двухтактные двигатели|Четырёхтактные двигатели|Насосы|Клапаны|Бренды|Оборудование|Бренды|Бренды|Компоненты|Бренды|Оборудование" | split: "|" -%}
+
+<section class="hero" aria-labelledby="products-heading">
+  <div class="hero-grid" aria-hidden="true"></div>
+  <div class="hero-inner">
+    <div class="hero-eyebrow">
+      <span class="hero-dot" aria-hidden="true"></span>
+      <span class="hero-eyebrow-text">Что мы поставляем</span>
+    </div>
+    <h1 id="products-heading">Сотни брендов.<br><em>Один поставщик.</em></h1>
+    <p class="hero-body">Примеры того, что мы поставляем: двигатели, насосы, навигация, датчики, электрика и вспомогательное оборудование. Если это морская или промышленная деталь – мы её найдём.</p>
+    <div class="hero-btns">
+      <a href="{{ '/ru/contact/' | relative_url }}" class="btn-primary">Запросить запчасти</a>
+    </div>
+  </div>
+</section>
+
+{% for cat in site.data.brands.categories %}
+  {% assign mod = forloop.index0 | modulo: 2 %}
+  {% assign idx = forloop.index0 %}
+  <section class="products-block{% if mod == 1 %} section-alt{% endif %}" id="{{ cat.id }}" aria-labelledby="cat-{{ cat.id }}">
+    <div class="products-block-inner">
+      <div class="products-block-head">
+        <h2 id="cat-{{ cat.id }}">
+          {%- case cat.id -%}
+            {%- when "engine-parts" -%}Запчасти двигателей
+            {%- when "pumps-valves" -%}Насосы и клапаны
+            {%- when "navigation-comms" -%}Навигация и связь
+            {%- when "sensors-solenoids" -%}Датчики и соленоиды
+            {%- when "electrical" -%}Электрооборудование
+            {%- when "auxiliary" -%}Вспомогательное оборудование
+            {%- else -%}{{ cat.title }}
+          {%- endcase -%}
+        </h2>
+        <p>
+          {%- case cat.id -%}
+            {%- when "engine-parts" -%}Запчасти двух- и четырёхтактных двигателей – поршни, гильзы, подшипники, компоненты топливной аппаратуры, турбокомпрессоры, прокладки, уплотнения, клапанный механизм, топливные насосы и комплекты капремонта.
+            {%- when "pumps-valves" -%}Покрываем системы льяльной, балластной, противопожарной, топливной, охлаждения, грузовой и санитарной воды.
+            {%- when "navigation-comms" -%}Поставляем как новые приборы, так и запчасти к уже установленным системам.
+            {%- when "sensors-solenoids" -%}Датчики давления, температуры, расхода и уровня; соленоидные клапаны; переключатели для двигателей и систем автоматизации.
+            {%- when "electrical" -%}Электрические компоненты морского исполнения для генерации, распределения и автоматизации.
+            {%- when "auxiliary" -%}Сепараторы, компрессоры, котлы, охладители, фильтрация, очистка сточных вод.
+            {%- else -%}{{ cat.description }}
+          {%- endcase -%}
+        </p>
+      </div>
+
+      <div class="products-block-body">
+        {% for group in cat.groups %}
+          <div class="products-list-block">
+            <h3>
+              {%- case group.heading -%}
+                {%- when "Two-stroke engines" -%}Двухтактные двигатели
+                {%- when "Four-stroke engines" -%}Четырёхтактные двигатели
+                {%- when "Pumps" -%}Насосы
+                {%- when "Valves" -%}Клапаны
+                {%- when "Brands" -%}Бренды
+                {%- when "Equipment" -%}Оборудование
+                {%- when "Components" -%}Компоненты
+                {%- else -%}{{ group.heading }}
+              {%- endcase -%}
+            </h3>
+            <div class="brand-tags">
+              {% for item in group.items %}
+                <span class="brand-tag">
+                  {%- case item -%}
+                    {%- when "PTFE-lined" -%}С PTFE-футеровкой
+                    {%- when "Butterfly" -%}Дисковые
+                    {%- when "Globe" -%}Запорные
+                    {%- when "Non-return" -%}Обратные
+                    {%- when "Gate" -%}Задвижки
+                    {%- when "Quick-closing" -%}Быстрозапорные
+                    {%- when "Gyrocompass" -%}Гирокомпас
+                    {%- when "Radar" -%}Радар
+                    {%- when "Magnetron" -%}Магнетрон
+                    {%- when "Displays" -%}Дисплеи
+                    {%- when "Motors" -%}Электродвигатели
+                    {%- when "Alternators" -%}Генераторы
+                    {%- when "Relays" -%}Реле
+                    {%- when "Contactors" -%}Контакторы
+                    {%- when "Breakers" -%}Автоматы защиты
+                    {%- when "Cables" -%}Кабели
+                    {%- when "Tools" -%}Инструмент
+                    {%- when "Purifiers" -%}Сепараторы
+                    {%- when "Compressors" -%}Компрессоры
+                    {%- when "Coolers" -%}Охладители
+                    {%- when "Boilers" -%}Котлы
+                    {%- when "Filtration" -%}Фильтрация
+                    {%- when "Sewage treatment plants" -%}Установки очистки сточных вод
+                    {%- else -%}{{ item }}
+                  {%- endcase -%}
+                </span>
+              {% endfor %}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+{% endfor %}
+
+<section class="cta-simple" aria-labelledby="products-cta-heading">
+  <div class="cta-simple-inner">
+    <h2 id="products-cta-heading">Не нашли нужного?</h2>
+    <p>Сообщите нам, что вам нужно.</p>
+    <a href="{{ '/ru/contact/' | relative_url }}" class="btn-primary btn-wide">Связаться с нами</a>
+  </div>
+</section>

@@ -1,16 +1,106 @@
 ---
 layout: default
 ---
+{%- assign part_image_url = page.image | default: '/assets/img/og-image.png' -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": {{ page.title | jsonify }},
+  "model": {{ page.model | jsonify }},
+  "mpn": {{ page.model | jsonify }},
+  "category": {{ page.category | jsonify }},
+  "description": {{ page.description | jsonify }},
+  "image": "{{ site.url }}{{ part_image_url | relative_url }}",
+  "url": "{{ site.url }}{{ page.url }}",
+  "brand": {
+    "@type": "Brand",
+    "name": {{ page.manufacturer | jsonify }}
+  },
+  "offers": {
+    "@type": "Offer",
+    "availability": "https://schema.org/InStock",
+    "priceCurrency": "USD",
+    "url": "{{ site.url }}{{ page.url }}",
+    "seller": {
+      "@type": "Organization",
+      "name": "{{ site.company.legal_name }}",
+      "url": "{{ site.url }}"
+    }
+  }
+}
+</script>
+{%- if page.lang == "ru" -%}
+  {%- assign bc_home_name = "Главная" -%}
+  {%- assign bc_home_url = "/ru/" -%}
+  {%- assign bc_parts_name = "Каталог запчастей" -%}
+  {%- assign bc_parts_url = "/ru/parts/" -%}
+{%- else -%}
+  {%- assign bc_home_name = "Home" -%}
+  {%- assign bc_home_url = "/" -%}
+  {%- assign bc_parts_name = "Parts catalog" -%}
+  {%- assign bc_parts_url = "/parts/" -%}
+{%- endif -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "{{ bc_home_name }}", "item": "{{ site.url }}{{ bc_home_url }}" },
+    { "@type": "ListItem", "position": 2, "name": "{{ bc_parts_name }}", "item": "{{ site.url }}{{ bc_parts_url }}" },
+    { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": "{{ site.url }}{{ page.url }}" }
+  ]
+}
+</script>
+{%- assign page_lang = page.lang | default: "en" -%}
+{%- if page_lang == "ru" -%}
+  {%- assign parts_index_url = "/ru/parts/" -%}
+  {%- assign contact_url = "/ru/contact/" -%}
+  {%- assign label_back = "Каталог запчастей" -%}
+  {%- assign label_howto_strong = "Как пользоваться этим списком:" -%}
+  {%- assign label_howto = "Номера деталей соответствуют сервисным руководствам OEM. Используйте кнопку запроса ниже, чтобы узнать цену и наличие. Укажите номер детали, количество и порт доставки." -%}
+  {%- assign label_cta_heading = "Запросить запчасти для этого оборудования" -%}
+  {%- assign label_cta_body = "Сообщите нам, что вам нужно." -%}
+  {%- assign label_cta_btn = "Связаться с нами" -%}
+  {%- assign label_subject_prefix = "Запрос запчастей" -%}
+{%- else -%}
+  {%- assign parts_index_url = "/parts/" -%}
+  {%- assign contact_url = "/contact/" -%}
+  {%- assign label_back = "Parts catalog" -%}
+  {%- assign label_howto_strong = "How to use this list:" -%}
+  {%- assign label_howto = "Part numbers match OEM service manuals. Use the request button below to ask about availability and pricing. Include the part number, quantity, and delivery port." -%}
+  {%- assign label_cta_heading = "Request parts from this equipment" -%}
+  {%- assign label_cta_body = "Tell us what you need." -%}
+  {%- assign label_cta_btn = "Contact us" -%}
+  {%- assign label_subject_prefix = "Parts request" -%}
+{%- endif -%}
 
 <section class="hero" aria-labelledby="part-heading">
   <div class="hero-grid" aria-hidden="true"></div>
   <div class="hero-inner">
     <div class="hero-eyebrow">
       <span class="hero-dot" aria-hidden="true"></span>
-      <span class="hero-eyebrow-text">{{ page.manufacturer }} &middot; {{ page.category }}</span>
+      <span class="hero-eyebrow-text">
+        {{- page.manufacturer }} &middot;
+        {%- if page_lang == "ru" -%}
+          {%- case page.category -%}
+            {%- when "Engine" -%}Двигатель
+            {%- when "Pumps & Valves" -%}Насосы и клапаны
+            {%- when "Navigation & Electronics" -%}Навигация и электроника
+            {%- when "Electrical" -%}Электрооборудование
+            {%- when "Auxiliary Equipment" -%}Вспомогательное оборудование
+            {%- when "Deck Equipment" -%}Палубное оборудование
+            {%- else -%}{{ page.category }}
+          {%- endcase -%}
+        {%- else -%}
+          {{- page.category }}
+        {%- endif -%}
+      </span>
     </div>
     <h1 id="part-heading">{{ page.title }}</h1>
-    {% if page.description %}<p class="hero-body">{{ page.description }}</p>{% endif %}
+    {%- if page.description -%}
+      <p class="hero-body">{{ page.description }}</p>
+    {%- endif -%}
     {% if page.specs %}
     <div class="spec-chips">
       {% for spec in page.specs %}
@@ -23,9 +113,9 @@ layout: default
 
 <div class="breadcrumb-bar" id="breadcrumb-bar">
   <div class="breadcrumb-inner">
-    <a href="{{ '/parts/' | relative_url }}" class="breadcrumb-back">
+    <a href="{{ parts_index_url | relative_url }}" class="breadcrumb-back">
       <svg width="14" height="14" viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 2L4 7l5 5"/></svg>
-      Parts catalog
+      {{ label_back }}
     </a>
   </div>
 </div>
@@ -57,7 +147,7 @@ layout: default
 
 <div class="parts-content">
   <div class="parts-info">
-    <strong>How to use this list:</strong> Part numbers match OEM service manuals. Use the request button below to ask about availability and pricing. Include the part number, quantity, and delivery port.
+    <strong>{{ label_howto_strong }}</strong> {{ label_howto }}
   </div>
   {{ content }}
 </div>
@@ -80,8 +170,8 @@ layout: default
 
 <section class="cta-simple" aria-labelledby="parts-cta-heading">
   <div class="cta-simple-inner">
-    <h2 id="parts-cta-heading">Request parts from this equipment</h2>
-    <p>Tell us what you need.</p>
-    <a href="{{ '/contact/' | relative_url }}?subject=Parts request – {{ page.title }}" class="btn-primary btn-wide">Contact us</a>
+    <h2 id="parts-cta-heading">{{ label_cta_heading }}</h2>
+    <p>{{ label_cta_body }}</p>
+    <a href="{{ contact_url | relative_url }}?subject={{ label_subject_prefix }} – {{ page.title }}" class="btn-primary btn-wide">{{ label_cta_btn }}</a>
   </div>
 </section>
