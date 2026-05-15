@@ -48,13 +48,13 @@
     <div class="nav-end">
       <div class="nav-lang-toggle" role="navigation" aria-label="Language">
         {%- if page_lang == "ru" -%}
-          <a href="{{ alt_url | relative_url }}" hreflang="en" lang="en">🇬🇧 EN</a>
+          <a href="{{ alt_url | relative_url }}" hreflang="en" lang="en"><span class="nav-lang-flag" aria-hidden="true">🇬🇧</span> EN</a>
           <span class="nav-lang-sep">·</span>
-          <span class="nav-lang-current" aria-current="true">🇷🇺 RU</span>
+          <span class="nav-lang-current" aria-current="true"><span class="nav-lang-flag" aria-hidden="true">🇷🇺</span> RU</span>
         {%- else -%}
-          <span class="nav-lang-current" aria-current="true">🇬🇧 EN</span>
+          <span class="nav-lang-current" aria-current="true"><span class="nav-lang-flag" aria-hidden="true">🇬🇧</span> EN</span>
           <span class="nav-lang-sep">·</span>
-          <a href="{{ alt_url | relative_url }}" hreflang="ru" lang="ru">🇷🇺 RU</a>
+          <a href="{{ alt_url | relative_url }}" hreflang="ru" lang="ru"><span class="nav-lang-flag" aria-hidden="true">🇷🇺</span> RU</a>
         {%- endif -%}
       </div>
 

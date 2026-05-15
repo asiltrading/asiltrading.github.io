@@ -181,6 +181,7 @@ ul { list-style: none; }
   font-weight: 600;
   color: #fff;
   letter-spacing: 0.07em;
+  white-space: nowrap;
 }
 .nav-end { display: flex; align-items: center; gap: 20px; }
 .nav-collapse { display: flex; align-items: center; gap: 28px; }
@@ -220,6 +221,12 @@ ul { list-style: none; }
 }
 .nav-lang-sep { color: rgba(255,255,255,0.2); }
 .nav-lang-current { color: rgba(255,255,255,0.25); cursor: default; }
+.nav-lang-flag { font-size: 13px; }
+@media (max-width: 420px) {
+  .nav-end { gap: 14px; }
+  .nav-lang-flag { display: none; }
+  .nav-lang-toggle { font-size: 11px; gap: 4px; }
+}
 .nav-cta {
   font-size: 13px;
   padding: 8px 18px;
