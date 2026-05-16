@@ -4,7 +4,7 @@ model: "S 826"
 manufacturer: "Alfa Laval"
 category: "Auxiliary Equipment"
 description: "Запчасти для Alfa Laval S 826. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/alfa-laval-s826.png"
+image: "/assets/img/og-ru/alfa-laval-s826.png"
 
 ---
 

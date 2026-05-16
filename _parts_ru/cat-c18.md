@@ -4,7 +4,7 @@ model: "C18"
 manufacturer: "Caterpillar"
 category: "Engine"
 description: "Запчасти для Caterpillar C18. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-c18.png"
+image: "/assets/img/og-ru/cat-c18.png"
 
 ---
 

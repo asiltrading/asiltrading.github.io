@@ -4,7 +4,7 @@ model: "SmartFind G8 / E8 / E3 / G4 / E5 / G5"
 manufacturer: "McMurdo (Survitec)"
 category: "Deck Equipment"
 description: "Запчасти для McMurdo (Survitec) SmartFind G8 / E8 / E3 / G4 / E5 / G5. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/mcmurdo-epirb-hru.png"
+image: "/assets/img/og-ru/mcmurdo-epirb-hru.png"
 
 ---
 

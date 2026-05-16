@@ -4,7 +4,7 @@ model: "TS20 MFG"
 manufacturer: "Alfa Laval"
 category: "Auxiliary Equipment"
 description: "Запчасти для Alfa Laval TS20 MFG. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/alfa-laval-ts20.png"
+image: "/assets/img/og-ru/alfa-laval-ts20.png"
 
 ---
 

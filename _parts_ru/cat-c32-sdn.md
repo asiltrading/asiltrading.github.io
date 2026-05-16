@@ -4,7 +4,7 @@ model: "C32 SDN"
 manufacturer: "Caterpillar"
 category: "Engine"
 description: "Запчасти для Caterpillar C32 SDN. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-c32-sdn.png"
+image: "/assets/img/og-ru/cat-c32-sdn.png"
 
 ---
 

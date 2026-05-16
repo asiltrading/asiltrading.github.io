@@ -4,7 +4,7 @@ model: "SCV 68"
 manufacturer: "Wärtsilä"
 category: "Auxiliary Equipment"
 description: "Запчасти для Wärtsilä SCV 68. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/wartsila-scv68-gearbox.png"
+image: "/assets/img/og-ru/wartsila-scv68-gearbox.png"
 
 ---
 

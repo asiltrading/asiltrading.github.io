@@ -4,7 +4,7 @@ model: "OB 3000 Series"
 manufacturer: "Scanjet / OB"
 category: "Deck Equipment"
 description: "Запчасти для Scanjet / OB OB 3000 Series. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/tank-washing-machine.png"
+image: "/assets/img/og-ru/tank-washing-machine.png"
 
 ---
 

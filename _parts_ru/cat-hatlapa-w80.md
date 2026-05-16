@@ -4,7 +4,7 @@ model: "W 80"
 manufacturer: "Hatlapa"
 category: "Auxiliary Equipment"
 description: "Запчасти для Hatlapa W 80. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-hatlapa-w80.png"
+image: "/assets/img/og-ru/cat-hatlapa-w80.png"
 
 ---
 

@@ -4,7 +4,7 @@ model: "NA70/T9"
 manufacturer: "MAN B&W"
 category: "Engine"
 description: "Запчасти для MAN B&W NA70/T9. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-man-bw-na70-t9.png"
+image: "/assets/img/og-ru/cat-man-bw-na70-t9.png"
 
 ---
 

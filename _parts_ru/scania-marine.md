@@ -4,7 +4,7 @@ model: "DC13"
 manufacturer: "Scania"
 category: "Engine"
 description: "Запчасти для Scania DC13. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/scania-marine.png"
+image: "/assets/img/og-ru/scania-marine.png"
 
 ---
 

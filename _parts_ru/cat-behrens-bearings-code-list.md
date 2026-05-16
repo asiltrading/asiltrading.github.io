@@ -4,7 +4,7 @@ model: "Behrens master code list (34 pump positions)"
 manufacturer: "Heinrich Behrens Pumpenfabrik"
 category: "Pumps & Valves"
 description: "Запчасти для Heinrich Behrens Pumpenfabrik Behrens master code list (34 pump positions). Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-behrens-bearings-code-list.png"
+image: "/assets/img/og-ru/cat-behrens-bearings-code-list.png"
 
 ---
 

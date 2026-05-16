@@ -4,7 +4,7 @@ model: "Standard 20 / 22 / 22NX"
 manufacturer: "Raytheon Anschütz"
 category: "Navigation & Electronics"
 description: "Запчасти для Raytheon Anschütz Standard 20 / 22 / 22NX. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/raytheon-anschutz-standard-22.png"
+image: "/assets/img/og-ru/raytheon-anschutz-standard-22.png"
 
 ---
 

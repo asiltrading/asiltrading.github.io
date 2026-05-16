@@ -4,7 +4,7 @@ model: "HL2/140 · HL2/105 · HV2/210"
 manufacturer: "Sperre"
 category: "Auxiliary Equipment"
 description: "Запчасти для Sperre HL2/140 · HL2/105 · HV2/210. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/sperre-hl2-hv2-compressors.png"
+image: "/assets/img/og-ru/sperre-hl2-hv2-compressors.png"
 
 ---
 

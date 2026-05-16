@@ -4,7 +4,7 @@ model: "NTA855-G3"
 manufacturer: "Cummins"
 category: "Engine"
 description: "Запчасти для Cummins NTA855-G3. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cummins-nta855-g3.png"
+image: "/assets/img/og-ru/cummins-nta855-g3.png"
 
 ---
 

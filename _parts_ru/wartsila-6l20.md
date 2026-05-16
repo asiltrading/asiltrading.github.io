@@ -4,7 +4,7 @@ model: "6L20"
 manufacturer: "Wärtsilä"
 category: "Engine"
 description: "Запчасти для Wärtsilä 6L20. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/wartsila-6l20.png"
+image: "/assets/img/og-ru/wartsila-6l20.png"
 
 ---
 

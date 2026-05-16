@@ -4,7 +4,7 @@ model: "NT855"
 manufacturer: "Cummins"
 category: "Engine"
 description: "Запчасти для Cummins NT855. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cummins-nt855.png"
+image: "/assets/img/og-ru/cummins-nt855.png"
 
 ---
 

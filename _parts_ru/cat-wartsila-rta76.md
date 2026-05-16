@@ -4,7 +4,7 @@ model: "RTA-76"
 manufacturer: "Wärtsilä (Sulzer)"
 category: "Engine"
 description: "Запчасти для Wärtsilä (Sulzer) RTA-76. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-wartsila-rta76.png"
+image: "/assets/img/og-ru/cat-wartsila-rta76.png"
 
 ---
 

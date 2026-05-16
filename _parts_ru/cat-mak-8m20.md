@@ -4,7 +4,7 @@ model: "Type M20 (8-cylinder)"
 manufacturer: "Caterpillar Motoren (MaK)"
 category: "Engine"
 description: "Запчасти для Caterpillar Motoren (MaK) Type M20 (8-cylinder). Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-mak-8m20.png"
+image: "/assets/img/og-ru/cat-mak-8m20.png"
 
 ---
 

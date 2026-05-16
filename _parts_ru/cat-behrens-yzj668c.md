@@ -4,7 +4,7 @@ model: "Order 224755 / Hull YZJ2003-668C (34 pumps)"
 manufacturer: "Heinrich Behrens Pumpenfabrik"
 category: "Pumps & Valves"
 description: "Запчасти для Heinrich Behrens Pumpenfabrik Order 224755 / Hull YZJ2003-668C (34 pumps). Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-behrens-yzj668c.png"
+image: "/assets/img/og-ru/cat-behrens-yzj668c.png"
 
 ---
 

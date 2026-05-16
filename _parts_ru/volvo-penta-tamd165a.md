@@ -4,7 +4,7 @@ model: "TAMD-165A"
 manufacturer: "Volvo Penta"
 category: "Engine"
 description: "Запчасти для Volvo Penta TAMD-165A. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/volvo-penta-tamd165a.png"
+image: "/assets/img/og-ru/volvo-penta-tamd165a.png"
 
 ---
 

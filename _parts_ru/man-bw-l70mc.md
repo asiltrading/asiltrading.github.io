@@ -4,7 +4,7 @@ model: "L70MC"
 manufacturer: "MAN B&W"
 category: "Engine"
 description: "Запчасти для MAN B&W L70MC. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/man-bw-l70mc.png"
+image: "/assets/img/og-ru/man-bw-l70mc.png"
 
 ---
 

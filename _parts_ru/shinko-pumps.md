@@ -4,7 +4,7 @@ model: "RVP / SVA / SVS / SAE / SVB series"
 manufacturer: "Shinko"
 category: "Pumps & Valves"
 description: "Запчасти для Shinko RVP / SVA / SVS / SAE / SVB series. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/shinko-pumps.png"
+image: "/assets/img/og-ru/shinko-pumps.png"
 
 ---
 

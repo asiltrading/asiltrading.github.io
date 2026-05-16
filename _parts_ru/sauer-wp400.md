@@ -4,7 +4,7 @@ model: "WP400"
 manufacturer: "Sauer"
 category: "Auxiliary Equipment"
 description: "Запчасти для Sauer WP400. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/sauer-wp400.png"
+image: "/assets/img/og-ru/sauer-wp400.png"
 
 ---
 

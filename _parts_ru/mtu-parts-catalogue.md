@@ -4,7 +4,7 @@ model: "16V2000 P82"
 manufacturer: "MTU"
 category: "Engine"
 description: "Запчасти для MTU 16V2000 P82. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/mtu-parts-catalogue.png"
+image: "/assets/img/og-ru/mtu-parts-catalogue.png"
 
 ---
 

@@ -4,7 +4,7 @@ model: "Type M20 (6-cylinder)"
 manufacturer: "Caterpillar Motoren (MaK)"
 category: "Engine"
 description: "Запчасти для Caterpillar Motoren (MaK) Type M20 (6-cylinder). Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-mak-6m20.png"
+image: "/assets/img/og-ru/cat-mak-6m20.png"
 
 ---
 

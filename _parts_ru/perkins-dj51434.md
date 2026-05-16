@@ -4,7 +4,7 @@ model: "DJ51434"
 manufacturer: "Perkins"
 category: "Engine"
 description: "Запчасти для Perkins DJ51434. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/perkins-dj51434.png"
+image: "/assets/img/og-ru/perkins-dj51434.png"
 
 ---
 

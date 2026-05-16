@@ -4,7 +4,7 @@ model: "RT-flex58T-B"
 manufacturer: "Wärtsilä (Sulzer)"
 category: "Engine"
 description: "Запчасти для Wärtsilä (Sulzer) RT-flex58T-B. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-wartsila-rtflex58tb.png"
+image: "/assets/img/og-ru/cat-wartsila-rtflex58tb.png"
 
 ---
 

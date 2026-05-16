@@ -4,7 +4,7 @@ model: "6S50MC-C"
 manufacturer: "MAN B&W"
 category: "Engine"
 description: "Запчасти для MAN B&W 6S50MC-C. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/man-bw-6s50mc-c.png"
+image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 
 ---
 

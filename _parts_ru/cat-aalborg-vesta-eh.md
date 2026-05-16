@@ -4,7 +4,7 @@ model: "VESTA EH"
 manufacturer: "Aalborg Industries"
 category: "Auxiliary Equipment"
 description: "Запчасти для Aalborg Industries VESTA EH. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-aalborg-vesta-eh.png"
+image: "/assets/img/og-ru/cat-aalborg-vesta-eh.png"
 
 ---
 

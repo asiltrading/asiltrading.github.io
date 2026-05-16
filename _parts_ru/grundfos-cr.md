@@ -4,7 +4,7 @@ model: "CR / CRI / CRN 1–255"
 manufacturer: "Grundfos"
 category: "Pumps & Valves"
 description: "Запчасти для Grundfos CR / CRI / CRN 1–255. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/grundfos-cr.png"
+image: "/assets/img/og-ru/grundfos-cr.png"
 
 ---
 

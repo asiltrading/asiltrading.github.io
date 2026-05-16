@@ -4,7 +4,7 @@ model: "PLC-BSC / REL-MR Series"
 manufacturer: "Phoenix Contact"
 category: "Electrical"
 description: "Запчасти для Phoenix Contact PLC-BSC / REL-MR Series. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/phoenix-contact-relays.png"
+image: "/assets/img/og-ru/phoenix-contact-relays.png"
 
 ---
 

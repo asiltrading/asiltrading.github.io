@@ -4,7 +4,7 @@ model: "SU 300 / SU 400 (E / EL / S / SF / SL variants)"
 manufacturer: "Alfa Laval"
 category: "Auxiliary Equipment"
 description: "Запчасти для Alfa Laval SU 300 / SU 400 (E / EL / S / SF / SL variants). Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-alfalaval-su-series.png"
+image: "/assets/img/og-ru/cat-alfalaval-su-series.png"
 
 ---
 

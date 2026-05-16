@@ -4,7 +4,7 @@ model: "PK 18500"
 manufacturer: "Palfinger"
 category: "Deck Equipment"
 description: "Запчасти для Palfinger PK 18500. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/palfinger-pk-18500.png"
+image: "/assets/img/og-ru/palfinger-pk-18500.png"
 
 ---
 

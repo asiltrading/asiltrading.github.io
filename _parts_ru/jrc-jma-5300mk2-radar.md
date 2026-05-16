@@ -4,7 +4,7 @@ model: "JMA-5312 / 5322 / 5332"
 manufacturer: "JRC"
 category: "Navigation & Electronics"
 description: "Запчасти для JRC JMA-5312 / 5322 / 5332. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/jrc-jma-5300mk2-radar.png"
+image: "/assets/img/og-ru/jrc-jma-5300mk2-radar.png"
 
 ---
 

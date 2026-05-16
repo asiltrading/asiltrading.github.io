@@ -4,7 +4,7 @@ model: "MISSION OC 3150"
 manufacturer: "Aalborg Industries"
 category: "Auxiliary Equipment"
 description: "Запчасти для Aalborg Industries MISSION OC 3150. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-aalborg-mission-oc-3150.png"
+image: "/assets/img/og-ru/cat-aalborg-mission-oc-3150.png"
 
 ---
 

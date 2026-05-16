@@ -4,7 +4,7 @@ model: "L 220"
 manufacturer: "Hatlapa"
 category: "Auxiliary Equipment"
 description: "Запчасти для Hatlapa L 220. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-hatlapa-l220.png"
+image: "/assets/img/og-ru/cat-hatlapa-l220.png"
 
 ---
 

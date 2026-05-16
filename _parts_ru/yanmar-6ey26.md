@@ -4,7 +4,7 @@ model: "6EY26LW / 8EY26LW"
 manufacturer: "Yanmar"
 category: "Engine"
 description: "Запчасти для Yanmar 6EY26LW / 8EY26LW. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/yanmar-6ey26.png"
+image: "/assets/img/og-ru/yanmar-6ey26.png"
 
 ---
 

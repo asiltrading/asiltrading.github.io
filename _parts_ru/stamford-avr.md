@@ -4,7 +4,7 @@ model: "AS440 / SX460"
 manufacturer: "Stamford"
 category: "Electrical"
 description: "Запчасти для Stamford AS440 / SX460. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/stamford-avr.png"
+image: "/assets/img/og-ru/stamford-avr.png"
 
 ---
 

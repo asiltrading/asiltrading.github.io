@@ -4,7 +4,7 @@ model: "F&T 15B / 30B / 75A / 125A / 175A · 880 / TS-3 / Disc series"
 manufacturer: "Armstrong International"
 category: "Pumps & Valves"
 description: "Запчасти для Armstrong International F&T 15B / 30B / 75A / 125A / 175A · 880 / TS-3 / Disc series. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/armstrong-steam-traps.png"
+image: "/assets/img/og-ru/armstrong-steam-traps.png"
 
 ---
 

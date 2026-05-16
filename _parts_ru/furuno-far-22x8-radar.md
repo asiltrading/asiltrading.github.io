@@ -4,7 +4,7 @@ model: "FAR-2218 / 2228 / 2238S / 2258 / 2318 / 2328 / 2338S"
 manufacturer: "Furuno"
 category: "Navigation & Electronics"
 description: "Запчасти для Furuno FAR-2218 / 2228 / 2238S / 2258 / 2318 / 2328 / 2338S. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/furuno-far-22x8-radar.png"
+image: "/assets/img/og-ru/furuno-far-22x8-radar.png"
 
 ---
 

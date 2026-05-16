@@ -4,7 +4,7 @@ model: "HTL 180 (Atlas Copco GA 11-30C)"
 manufacturer: "Hatlapa / Atlas Copco"
 category: "Auxiliary Equipment"
 description: "Запчасти для Hatlapa / Atlas Copco HTL 180 (Atlas Copco GA 11-30C). Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-hatlapa-htl180.png"
+image: "/assets/img/og-ru/cat-hatlapa-htl180.png"
 
 ---
 

@@ -22,10 +22,26 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(__file__).resolve().parents[2]
-PARTS_DIR = ROOT / "_parts"
-OUT_DIR = ROOT / "assets" / "img" / "og"
+PARTS_DIR_EN = ROOT / "_parts"
+PARTS_DIR_RU = ROOT / "_parts_ru"
+OUT_DIR_EN = ROOT / "assets" / "img" / "og"
+OUT_DIR_RU = ROOT / "assets" / "img" / "og-ru"
 LOGO_PATH = ROOT / "assets" / "img" / "logo.png"
 FONT_DIR = Path(__file__).resolve().parent / "fonts"
+
+# Russian translations for the parts-catalogue OG image
+SUBTITLE = {
+    "en": "Spare Parts Catalogue",
+    "ru": "Каталог запчастей",
+}
+CATEGORY_RU = {
+    "Engine": "Двигатель",
+    "Pumps & Valves": "Насосы и арматура",
+    "Navigation & Electronics": "Навигация и электроника",
+    "Electrical": "Электрооборудование",
+    "Auxiliary Equipment": "Вспомогательное оборудование",
+    "Deck Equipment": "Палубное оборудование",
+}
 
 W, H = 1200, 630
 
@@ -118,11 +134,13 @@ def fit_title(text: str, max_width: int, max_lines: int, draw: ImageDraw.ImageDr
     return font, lines[:max_lines]
 
 
-def render(part: dict, out_path: Path) -> None:
+def render(part: dict, out_path: Path, lang: str = "en") -> None:
     title = part.get("title", "").strip() or "Marine Spare Parts"
     manufacturer = part.get("manufacturer", "").strip()
     model = part.get("model", "").strip()
     category = part.get("category", "").strip()
+    if lang == "ru" and category:
+        category = CATEGORY_RU.get(category, category)
 
     img = make_background()
     draw = ImageDraw.Draw(img, "RGBA")
@@ -163,7 +181,7 @@ def render(part: dict, out_path: Path) -> None:
 
     # Sub-line
     sub_font = load_font("Montserrat-Medium.ttf", 28)
-    sub_text = "Spare Parts Catalogue"
+    sub_text = SUBTITLE.get(lang, SUBTITLE["en"])
     draw.text((100, sub_y), sub_text, font=sub_font, fill=(200, 215, 235))
 
     # Category chip
@@ -196,20 +214,24 @@ def render(part: dict, out_path: Path) -> None:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("files", nargs="*", help="Specific _parts/*.md files. Default: all.")
+    parser.add_argument("files", nargs="*", help="Specific _parts/*.md or _parts_ru/*.md files. Default: all in the chosen lang.")
     parser.add_argument("--force", action="store_true", help="Regenerate even if the output already exists.")
+    parser.add_argument("--lang", choices=("en", "ru"), default="en", help="Language for the rendered text (subtitle and category chip).")
     args = parser.parse_args()
 
-    paths = [Path(p) for p in args.files] if args.files else sorted(PARTS_DIR.glob("*.md"))
+    parts_dir = PARTS_DIR_RU if args.lang == "ru" else PARTS_DIR_EN
+    out_dir = OUT_DIR_RU if args.lang == "ru" else OUT_DIR_EN
+
+    paths = [Path(p) for p in args.files] if args.files else sorted(parts_dir.glob("*.md"))
     if not paths:
         print("No part files found.", file=sys.stderr)
         return 1
 
-    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    out_dir.mkdir(parents=True, exist_ok=True)
     generated = skipped = 0
     for path in paths:
         slug = path.stem
-        out = OUT_DIR / f"{slug}.png"
+        out = out_dir / f"{slug}.png"
         if out.exists() and not args.force:
             skipped += 1
             continue
@@ -217,7 +239,7 @@ def main() -> int:
         if not fm:
             print(f"skip (no front matter): {path}")
             continue
-        render(fm, out)
+        render(fm, out, lang=args.lang)
         generated += 1
         print(f"  wrote {out.relative_to(ROOT)}")
 

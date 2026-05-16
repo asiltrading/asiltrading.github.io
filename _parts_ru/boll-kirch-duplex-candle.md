@@ -4,7 +4,7 @@ model: "Duplex / simplex candle-type"
 manufacturer: "Boll & Kirch"
 category: "Auxiliary Equipment"
 description: "Запчасти для Boll & Kirch Duplex / simplex candle-type. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/boll-kirch-duplex-candle.png"
+image: "/assets/img/og-ru/boll-kirch-duplex-candle.png"
 
 ---
 

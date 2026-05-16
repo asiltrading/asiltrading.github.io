@@ -4,7 +4,7 @@ model: "KTA38-M2"
 manufacturer: "Cummins"
 category: "Engine"
 description: "Запчасти для Cummins KTA38-M2. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cummins-kta38-m2.png"
+image: "/assets/img/og-ru/cummins-kta38-m2.png"
 
 ---
 

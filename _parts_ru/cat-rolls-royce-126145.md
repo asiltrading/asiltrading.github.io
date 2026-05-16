@@ -4,7 +4,7 @@ model: "Order 126145 / Hull YZJ2003-668C"
 manufacturer: "Rolls-Royce Marine - Frydenbø"
 category: "Auxiliary Equipment"
 description: "Запчасти для Rolls-Royce Marine - Frydenbø Order 126145 / Hull YZJ2003-668C. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-rolls-royce-126145.png"
+image: "/assets/img/og-ru/cat-rolls-royce-126145.png"
 
 ---
 

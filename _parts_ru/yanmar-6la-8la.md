@@ -4,7 +4,7 @@ model: "6LA / 8LA"
 manufacturer: "Yanmar"
 category: "Engine"
 description: "Запчасти для Yanmar 6LA / 8LA. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/yanmar-6la-8la.png"
+image: "/assets/img/og-ru/yanmar-6la-8la.png"
 
 ---
 

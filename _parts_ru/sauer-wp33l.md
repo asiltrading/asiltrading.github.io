@@ -4,7 +4,7 @@ model: "WP33L"
 manufacturer: "Sauer"
 category: "Auxiliary Equipment"
 description: "Запчасти для Sauer WP33L. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/sauer-wp33l.png"
+image: "/assets/img/og-ru/sauer-wp33l.png"
 
 ---
 

@@ -4,7 +4,7 @@ model: "8N280M-EV"
 manufacturer: "Yanmar"
 category: "Engine"
 description: "Запчасти для Yanmar 8N280M-EV. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/yanmar-8n280m.png"
+image: "/assets/img/og-ru/yanmar-8n280m.png"
 
 ---
 

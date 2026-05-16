@@ -4,7 +4,7 @@ model: "Cargo cranes, mooring winches"
 manufacturer: "MacGregor"
 category: "Deck Equipment"
 description: "Запчасти для MacGregor Cargo cranes, mooring winches. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/macgregor-tts-deck-machinery.png"
+image: "/assets/img/og-ru/macgregor-tts-deck-machinery.png"
 
 ---
 

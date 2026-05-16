@@ -4,7 +4,7 @@ model: "ACE / ACG / ACF / ACD"
 manufacturer: "IMO (Circor)"
 category: "Pumps & Valves"
 description: "Запчасти для IMO (Circor) ACE / ACG / ACF / ACD. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/imo-ace-acg-acd.png"
+image: "/assets/img/og-ru/imo-ace-acg-acd.png"
 
 ---
 

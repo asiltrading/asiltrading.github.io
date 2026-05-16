@@ -4,7 +4,7 @@ model: "TD42 / UTD30 / FT14 / FTS14 / BPS32"
 manufacturer: "Spirax Sarco"
 category: "Pumps & Valves"
 description: "Запчасти для Spirax Sarco TD42 / UTD30 / FT14 / FTS14 / BPS32. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/spirax-sarco.png"
+image: "/assets/img/og-ru/spirax-sarco.png"
 
 ---
 

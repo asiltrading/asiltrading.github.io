@@ -4,7 +4,7 @@ model: "OS series"
 manufacturer: "Alfa Laval"
 category: "Pumps & Valves"
 description: "Запчасти для Alfa Laval OS series. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/alfa-laval-os.png"
+image: "/assets/img/og-ru/alfa-laval-os.png"
 
 ---
 

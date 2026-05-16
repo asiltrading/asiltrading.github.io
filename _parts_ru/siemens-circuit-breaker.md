@@ -4,7 +4,7 @@ model: "3RV1142 Series"
 manufacturer: "Siemens"
 category: "Electrical"
 description: "Запчасти для Siemens 3RV1142 Series. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/siemens-circuit-breaker.png"
+image: "/assets/img/og-ru/siemens-circuit-breaker.png"
 
 ---
 

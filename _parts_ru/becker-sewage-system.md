@@ -4,7 +4,7 @@ model: "Vacuum Blower"
 manufacturer: "Becker"
 category: "Auxiliary Equipment"
 description: "Запчасти для Becker Vacuum Blower. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/becker-sewage-system.png"
+image: "/assets/img/og-ru/becker-sewage-system.png"
 
 ---
 

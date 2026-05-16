@@ -4,7 +4,7 @@ model: "FB40 (drawing A-8771)"
 manufacturer: "Rolls-Royce Marine - Tenfjord"
 category: "Auxiliary Equipment"
 description: "Запчасти для Rolls-Royce Marine - Tenfjord FB40 (drawing A-8771). Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-rolls-royce-fb40.png"
+image: "/assets/img/og-ru/cat-rolls-royce-fb40.png"
 
 ---
 

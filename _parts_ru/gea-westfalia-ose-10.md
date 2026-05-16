@@ -4,7 +4,7 @@ model: "OSE 10 (and OSE/OSB shared parts)"
 manufacturer: "GEA Westfalia"
 category: "Auxiliary Equipment"
 description: "Запчасти для GEA Westfalia OSE 10 (and OSE/OSB shared parts). Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/gea-westfalia-ose-10.png"
+image: "/assets/img/og-ru/gea-westfalia-ose-10.png"
 
 ---
 

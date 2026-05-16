@@ -4,7 +4,7 @@ model: "QSK60"
 manufacturer: "Cummins"
 category: "Engine"
 description: "Запчасти для Cummins QSK60. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cummins-qsk60.png"
+image: "/assets/img/og-ru/cummins-qsk60.png"
 
 ---
 

@@ -4,7 +4,7 @@ model: "K98ME"
 manufacturer: "MAN B&W"
 category: "Engine"
 description: "Запчасти для MAN B&W K98ME. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-man-bw-k98me.png"
+image: "/assets/img/og-ru/cat-man-bw-k98me.png"
 
 ---
 

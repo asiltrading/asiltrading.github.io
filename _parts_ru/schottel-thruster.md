@@ -4,7 +4,7 @@ model: "SRP / Rudder Propeller"
 manufacturer: "Schottel"
 category: "Auxiliary Equipment"
 description: "Запчасти для Schottel SRP / Rudder Propeller. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/schottel-thruster.png"
+image: "/assets/img/og-ru/schottel-thruster.png"
 
 ---
 

@@ -4,7 +4,7 @@ model: "6CTA 8.3D(M)"
 manufacturer: "Cummins"
 category: "Engine"
 description: "Запчасти для Cummins 6CTA 8.3D(M). Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cummins-6cta-8.3.png"
+image: "/assets/img/og-ru/cummins-6cta-8.3.png"
 
 ---
 

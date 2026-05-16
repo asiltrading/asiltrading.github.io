@@ -4,7 +4,7 @@ model: "H20R / H20RX / H20E"
 manufacturer: "Hammar"
 category: "Deck Equipment"
 description: "Запчасти для Hammar H20R / H20RX / H20E. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/hammar-hru.png"
+image: "/assets/img/og-ru/hammar-hru.png"
 
 ---
 

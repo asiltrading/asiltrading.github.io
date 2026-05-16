@@ -4,7 +4,7 @@ model: "MC Series (mixed)"
 manufacturer: "MAN B&W"
 category: "Engine"
 description: "Запчасти для MAN B&W MC Series (mixed). Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/man-bw-mc-spares.png"
+image: "/assets/img/og-ru/man-bw-mc-spares.png"
 
 ---
 

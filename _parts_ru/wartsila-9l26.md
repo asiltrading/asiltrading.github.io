@@ -4,7 +4,7 @@ model: "9L26"
 manufacturer: "Wärtsilä"
 category: "Engine"
 description: "Запчасти для Wärtsilä 9L26. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/wartsila-9l26.png"
+image: "/assets/img/og-ru/wartsila-9l26.png"
 
 ---
 

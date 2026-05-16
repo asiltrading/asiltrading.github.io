@@ -4,7 +4,7 @@ model: "VTR 304-11"
 manufacturer: "ABB"
 category: "Engine"
 description: "Запчасти для ABB VTR 304-11. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/vtr-304-turbocharger.png"
+image: "/assets/img/og-ru/vtr-304-turbocharger.png"
 
 ---
 

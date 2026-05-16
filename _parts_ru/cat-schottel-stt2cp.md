@@ -4,7 +4,7 @@ model: "STT 2 CP (STT 170-1010 CP series)"
 manufacturer: "SCHOTTEL GmbH & Co. KG"
 category: "Auxiliary Equipment"
 description: "Запчасти для SCHOTTEL GmbH & Co. KG STT 2 CP (STT 170-1010 CP series). Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-schottel-stt2cp.png"
+image: "/assets/img/og-ru/cat-schottel-stt2cp.png"
 
 ---
 

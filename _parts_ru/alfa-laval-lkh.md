@@ -4,7 +4,7 @@ model: "LKH 10 / 15 / 20 / 25 / 35 / 40 / 50 / 60"
 manufacturer: "Alfa Laval"
 category: "Pumps & Valves"
 description: "Запчасти для Alfa Laval LKH 10 / 15 / 20 / 25 / 35 / 40 / 50 / 60. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/alfa-laval-lkh.png"
+image: "/assets/img/og-ru/alfa-laval-lkh.png"
 
 ---
 

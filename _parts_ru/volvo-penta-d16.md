@@ -4,7 +4,7 @@ model: "D16C-A MG"
 manufacturer: "Volvo Penta"
 category: "Engine"
 description: "Запчасти для Volvo Penta D16C-A MG. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/volvo-penta-d16.png"
+image: "/assets/img/og-ru/volvo-penta-d16.png"
 
 ---
 

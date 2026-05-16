@@ -4,7 +4,7 @@ model: "P158"
 manufacturer: "Doosan"
 category: "Engine"
 description: "Запчасти для Doosan P158. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/doosan-engine.png"
+image: "/assets/img/og-ru/doosan-engine.png"
 
 ---
 

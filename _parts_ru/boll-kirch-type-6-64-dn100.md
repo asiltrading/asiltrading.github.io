@@ -4,7 +4,7 @@ model: "Type 6.64 DN100"
 manufacturer: "Boll & Kirch"
 category: "Auxiliary Equipment"
 description: "Запчасти для Boll & Kirch Type 6.64 DN100. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/boll-kirch-type-6-64-dn100.png"
+image: "/assets/img/og-ru/boll-kirch-type-6-64-dn100.png"
 
 ---
 

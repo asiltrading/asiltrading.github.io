@@ -4,7 +4,7 @@ model: "CENTRI-PACK 9913-0486-000 / 9913-2486-020"
 manufacturer: "GEA Westfalia Separator"
 category: "Auxiliary Equipment"
 description: "Запчасти для GEA Westfalia Separator CENTRI-PACK 9913-0486-000 / 9913-2486-020. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-westfalia-hfo-do-plant.png"
+image: "/assets/img/og-ru/cat-westfalia-hfo-do-plant.png"
 
 ---
 

@@ -4,7 +4,7 @@ model: "FCM 1000 / 2000 / 3000 series"
 manufacturer: "Alfa Laval"
 category: "Auxiliary Equipment"
 description: "Запчасти для Alfa Laval FCM 1000 / 2000 / 3000 series. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-alfalaval-fcm.png"
+image: "/assets/img/og-ru/cat-alfalaval-fcm.png"
 
 ---
 

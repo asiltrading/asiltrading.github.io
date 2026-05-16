@@ -4,7 +4,7 @@ model: "TBD 234"
 manufacturer: "Deutz"
 category: "Engine"
 description: "Запчасти для Deutz TBD 234. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/deutz-engine.png"
+image: "/assets/img/og-ru/deutz-engine.png"
 
 ---
 

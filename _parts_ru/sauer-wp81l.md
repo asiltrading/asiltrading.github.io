@@ -4,7 +4,7 @@ model: "WP81L"
 manufacturer: "Sauer"
 category: "Auxiliary Equipment"
 description: "Запчасти для Sauer WP81L. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/sauer-wp81l.png"
+image: "/assets/img/og-ru/sauer-wp81l.png"
 
 ---
 

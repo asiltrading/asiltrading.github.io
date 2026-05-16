@@ -4,7 +4,7 @@ model: "D 10"
 manufacturer: "GEA Westfalia Separator"
 category: "Auxiliary Equipment"
 description: "Запчасти для GEA Westfalia Separator D 10. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-westfalia-d10.png"
+image: "/assets/img/og-ru/cat-westfalia-d10.png"
 
 ---
 

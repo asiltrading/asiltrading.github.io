@@ -4,7 +4,7 @@ model: "SN / SNP / SEP / NB / NT series"
 manufacturer: "Allweiler (Circor)"
 category: "Pumps & Valves"
 description: "Запчасти для Allweiler (Circor) SN / SNP / SEP / NB / NT series. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/allweiler-pumps.png"
+image: "/assets/img/og-ru/allweiler-pumps.png"
 
 ---
 

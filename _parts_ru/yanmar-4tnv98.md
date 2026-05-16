@@ -4,7 +4,7 @@ model: "4TNV98"
 manufacturer: "Yanmar"
 category: "Engine"
 description: "Запчасти для Yanmar 4TNV98. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/yanmar-4tnv98.png"
+image: "/assets/img/og-ru/yanmar-4tnv98.png"
 
 ---
 

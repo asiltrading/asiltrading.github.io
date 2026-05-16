@@ -4,7 +4,7 @@ model: "L 14"
 manufacturer: "Hatlapa"
 category: "Auxiliary Equipment"
 description: "Запчасти для Hatlapa L 14. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-hatlapa-l14.png"
+image: "/assets/img/og-ru/cat-hatlapa-l14.png"
 
 ---
 

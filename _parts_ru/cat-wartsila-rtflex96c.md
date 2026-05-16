@@ -4,7 +4,7 @@ model: "RT-flex96C"
 manufacturer: "Wärtsilä (Sulzer)"
 category: "Engine"
 description: "Запчасти для Wärtsilä (Sulzer) RT-flex96C. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/cat-wartsila-rtflex96c.png"
+image: "/assets/img/og-ru/cat-wartsila-rtflex96c.png"
 
 ---
 

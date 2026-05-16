@@ -4,7 +4,7 @@ model: "PK 41002 MH"
 manufacturer: "Palfinger"
 category: "Deck Equipment"
 description: "Запчасти для Palfinger PK 41002 MH. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/palfinger-pk-41002-mh.png"
+image: "/assets/img/og-ru/palfinger-pk-41002-mh.png"
 
 ---
 

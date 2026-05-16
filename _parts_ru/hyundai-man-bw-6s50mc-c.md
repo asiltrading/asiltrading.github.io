@@ -4,7 +4,7 @@ model: "6S50MC-C (Hyundai-built)"
 manufacturer: "Hyundai-MAN B&W"
 category: "Engine"
 description: "Запчасти для Hyundai-MAN B&W 6S50MC-C (Hyundai-built). Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
-image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
+image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 
 ---
 
