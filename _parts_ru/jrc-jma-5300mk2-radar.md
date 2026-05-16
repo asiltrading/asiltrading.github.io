@@ -10,7 +10,7 @@ image: "/assets/img/og/jrc-jma-5300mk2-radar.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">NKE-2103-6</span></td><td>Scanner Unit, 6 ft X-band (JMA-5312-6/6HS) – JMA-5312-6 / 6HS</td></tr>
       <tr><td><span class="pnum">NKE-2254-7</span></td><td>Scanner Unit, 7 ft X-band (JMA-5322-7)</td></tr>

@@ -11,7 +11,7 @@ image: "/assets/img/og/sauer-wp81l.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">SPARE PARTS RANGE B+A <span class="parts-cnt">21</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">060 266</span></td><td>PACKING</td></tr>
       <tr><td><span class="pnum">063 059</span></td><td>PACKING</td></tr>
@@ -41,7 +41,7 @@ image: "/assets/img/og/sauer-wp81l.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">PRESSURE SWITCHES <span class="parts-cnt">3</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">035 221</span></td><td>PRESSURE SWITCH, 1–16 BAR</td></tr>
       <tr><td><span class="pnum">035 222</span></td><td>PRESSURE SWITCH, 2–32 BAR</td></tr>

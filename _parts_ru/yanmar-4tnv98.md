@@ -10,7 +10,7 @@ image: "/assets/img/og/yanmar-4tnv98.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">119574-53050</span></td><td>Valve Ass., Injection</td></tr>
       <tr><td><span class="pnum">729907-92780</span></td><td>GASKET SET</td></tr>

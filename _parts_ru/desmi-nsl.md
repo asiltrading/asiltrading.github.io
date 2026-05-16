@@ -11,7 +11,7 @@ image: "/assets/img/og/desmi-nsl.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">SPARE PARTS KIT 677584 – NSL/NSLV/NSLH 65–200 × 265 <span class="parts-cnt">17</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">677584</span></td><td>Kit complete – NSL 80–200-265 designs /02 &amp; /16 (covers 30 pump variants)</td></tr>
       <tr><td><span class="pnum">712098</span></td><td>Mechanical Shaft Seal (standard nitrile – primary seal type)</td></tr>
@@ -37,7 +37,7 @@ image: "/assets/img/og/desmi-nsl.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">SPARE PARTS KIT 677570 – NSL/NSLV 65–250 × 265 <span class="parts-cnt">13</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">677570</span></td><td>Kit complete – NSL 65–250 × 265 designs /14 &amp; /15</td></tr>
       <tr><td><span class="pnum">712098</span></td><td>Mechanical Shaft Seal (nitrile – primary)</td></tr>
@@ -59,7 +59,7 @@ image: "/assets/img/og/desmi-nsl.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">SPARE PARTS KIT 677573 – NSL/NSLV 150–250 × 330 <span class="parts-cnt">13</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">677573</span></td><td>Kit complete – NSL 150–250 × 330 design /14</td></tr>
       <tr><td><span class="pnum">712100</span></td><td>Mechanical Shaft Seal (nitrile – primary)</td></tr>
@@ -81,7 +81,7 @@ image: "/assets/img/og/desmi-nsl.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">DESMI NSL COMPLETE PUMP UNITS <span class="parts-cnt">5</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">NSL80-265/A02</span></td><td>NSL 80-265/A02 complete pump – Type 672770 – 90 m³/h (alt: 672770)</td></tr>
       <tr><td><span class="pnum">NSL150-265/D16</span></td><td>NSL 150-265/D16 complete pump (Bilge pump application) (alt: 675681)</td></tr>
@@ -95,7 +95,7 @@ image: "/assets/img/og/desmi-nsl.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">DESMI ROTAN INTERNAL GEAR PUMP – POSITION CODES <span class="parts-cnt">19</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">Pos. A</span></td><td>Pump Casing</td></tr>
       <tr><td><span class="pnum">Pos. J</span></td><td>Drive Screw (main rotor)</td></tr>

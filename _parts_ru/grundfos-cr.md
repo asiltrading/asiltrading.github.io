@@ -11,7 +11,7 @@ image: "/assets/img/og/grundfos-cr.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">GASKET KITS – CR/CRI/CRN 1 &amp; 3 <span class="parts-cnt">12</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">96455090</span></td><td>Gasket Kit – EPDM (O-ring 137.5×3.3, drain plug O-rings, all elastomers)</td></tr>
       <tr><td><span class="pnum">96455091</span></td><td>Gasket Kit – FKM (Viton)</td></tr>
@@ -32,7 +32,7 @@ image: "/assets/img/og/grundfos-cr.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">SHAFT SEALS – CR/CRI/CRN 1 &amp; 3 <span class="parts-cnt">11</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">96455086</span></td><td>Shaft Seal HUUV* (type 1 – standard, EPDM) (alt: 96455087)</td></tr>
       <tr><td><span class="pnum">96533326</span></td><td>Shaft Seal HUUV* (type 1 – FXM / FFKM) (alt: 96533327)</td></tr>
@@ -52,7 +52,7 @@ image: "/assets/img/og/grundfos-cr.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">WEAR PARTS KITS – CR/CRI/CRN 1 &amp; 3 <span class="parts-cnt">13</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">96455095</span></td><td>Wear Parts Kit – 9 stages (silicon carbide bearings)</td></tr>
       <tr><td><span class="pnum">96455092</span></td><td>Wear Parts Kit – 19 stages (silicon carbide)</td></tr>
@@ -74,7 +74,7 @@ image: "/assets/img/og/grundfos-cr.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CHAMBER STACK COMPLETE – CR/CRI 1 <span class="parts-cnt">22</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">96453485</span></td><td>Chamber Stack – CR/CRI 1 – 2 stages</td></tr>
       <tr><td><span class="pnum">96453486</span></td><td>Chamber Stack – CR/CRI 1 – 3 stages</td></tr>
@@ -105,7 +105,7 @@ image: "/assets/img/og/grundfos-cr.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CHAMBER STACK COMPLETE – CRN 1 <span class="parts-cnt">22</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">96453507</span></td><td>Chamber Stack – CRN 1 – 2 stages</td></tr>
       <tr><td><span class="pnum">96453508</span></td><td>Chamber Stack – CRN 1 – 3 stages</td></tr>
@@ -136,7 +136,7 @@ image: "/assets/img/og/grundfos-cr.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CHAMBER STACK COMPLETE – CR/CRI 3 <span class="parts-cnt">23</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">96453529</span></td><td>Chamber Stack – CR/CRI 3 – 2 stages</td></tr>
       <tr><td><span class="pnum">96453530</span></td><td>Chamber Stack – CR/CRI 3 – 3 stages</td></tr>
@@ -168,7 +168,7 @@ image: "/assets/img/og/grundfos-cr.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">COUPLING KITS – CR/CRI/CRN 1 &amp; 3 <span class="parts-cnt">7</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">415060</span></td><td>Coupling Complete – motor/pump shaft 14/12mm (IEC F85 MG71)</td></tr>
       <tr><td><span class="pnum">415061</span></td><td>Coupling Complete – motor/pump shaft 19/12mm (IEC F100 MG80)</td></tr>
@@ -184,7 +184,7 @@ image: "/assets/img/og/grundfos-cr.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">LARGER CR/CRN MODELS NUMBERS <span class="parts-cnt">21</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">96892684</span></td><td>Chamber Stack Complete – CR/CRI 5-24 (silicon carbide)</td></tr>
       <tr><td><span class="pnum">96893436</span></td><td>Chamber Stack Complete – CRN20-16 SF FKM Back-to-Back</td></tr>

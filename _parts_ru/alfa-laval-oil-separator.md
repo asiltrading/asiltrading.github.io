@@ -10,7 +10,7 @@ image: "/assets/img/og/alfa-laval-oil-separator.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">546670-07</span></td><td>MAJOR SERVICE KIT 50 Hz</td></tr>
       <tr><td><span class="pnum">546669-09</span></td><td>INTERMEDIATE SERVICE KIT</td></tr>

@@ -11,7 +11,7 @@ image: "/assets/img/og/cat-c18.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">ENGINE CORE <span class="parts-cnt">65</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">107-6736</span></td><td>Cover GP-Cylinder Block</td></tr>
       <tr><td><span class="pnum">107-6737</span></td><td>Cover GP-Cylinder Block (OIL Filler)</td></tr>
@@ -85,7 +85,7 @@ image: "/assets/img/og/cat-c18.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">FUEL SYSTEM <span class="parts-cnt">34</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">1P-0436</span></td><td>Lines GP-Fuel</td></tr>
       <tr><td><span class="pnum">6L-2281</span></td><td>Cooler GP-Fuel</td></tr>
@@ -128,7 +128,7 @@ image: "/assets/img/og/cat-c18.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">AIR, EXHAUST &amp; TURBOCHARGER <span class="parts-cnt">44</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">316-5245</span></td><td>Aftercooler GP-RAW Water</td></tr>
       <tr><td><span class="pnum">201-1518</span></td><td>Lines GP-Turbocharger OIL</td></tr>
@@ -181,7 +181,7 @@ image: "/assets/img/og/cat-c18.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">DRIVE TRAIN <span class="parts-cnt">56</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">319-8538</span></td><td>Fastener GP-Flywheel</td></tr>
       <tr><td><span class="pnum">319-6612</span></td><td>Fastener GP-Flywheel</td></tr>
@@ -246,7 +246,7 @@ image: "/assets/img/og/cat-c18.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">PUMPS <span class="parts-cnt">44</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">6L-2280</span></td><td>Pump GP-Auxiliary SEA Water</td></tr>
       <tr><td><span class="pnum">292-5906</span></td><td>Pump GP-Fuel Transfer</td></tr>
@@ -299,7 +299,7 @@ image: "/assets/img/og/cat-c18.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">VALVES &amp; REGULATORS <span class="parts-cnt">59</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">113-5253</span></td><td>Cover GP-Valve Mechanism</td></tr>
       <tr><td><span class="pnum">242-9537</span></td><td>Cover GP-Valve Mechanism</td></tr>
@@ -367,7 +367,7 @@ image: "/assets/img/og/cat-c18.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">SENSORS, SWITCHES &amp; GAUGES <span class="parts-cnt">103</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">212-1404</span></td><td>Mounting GP-Sensor</td></tr>
       <tr><td><span class="pnum">313-3505</span></td><td>Sensor GP-Speed</td></tr>
@@ -479,7 +479,7 @@ image: "/assets/img/og/cat-c18.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">ELECTRICAL <span class="parts-cnt">201</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">9L-6643</span></td><td>Mounting GP-Alternator</td></tr>
       <tr><td><span class="pnum">9L-6645</span></td><td>Mounting GP-Alternator</td></tr>
@@ -689,7 +689,7 @@ image: "/assets/img/og/cat-c18.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">FILTERS &amp; ELEMENTS <span class="parts-cnt">73</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">4N-0015</span></td><td>AIR Cleaner GP</td></tr>
       <tr><td><span class="pnum">177-7375</span></td><td>AIR Cleaner AS</td></tr>
@@ -771,7 +771,7 @@ image: "/assets/img/og/cat-c18.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">BEARINGS &amp; BUSHINGS <span class="parts-cnt">47</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">1B-3867</span></td><td>Ball Bearing</td></tr>
       <tr><td><span class="pnum">5L-9647</span></td><td>Sleeve-Sliding</td></tr>
@@ -827,7 +827,7 @@ image: "/assets/img/og/cat-c18.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">GASKETS &amp; SEALS <span class="parts-cnt">216</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">6V-0128</span></td><td>Seal-Connector</td></tr>
       <tr><td><span class="pnum">8T-8737</span></td><td>Plug-Seal</td></tr>
@@ -1052,7 +1052,7 @@ image: "/assets/img/og/cat-c18.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">COVERS, HOUSINGS &amp; MOUNTS <span class="parts-cnt">187</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">9X-6451</span></td><td>PAN GP-OIL</td></tr>
       <tr><td><span class="pnum">206-7331</span></td><td>PAN GP-OIL</td></tr>
@@ -1248,7 +1248,7 @@ image: "/assets/img/og/cat-c18.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">HOSES, TUBES &amp; FITTINGS <span class="parts-cnt">324</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">313-4606</span></td><td>Fitting GP-Fuel Lines</td></tr>
       <tr><td><span class="pnum">140-6330</span></td><td>Fitting GP-OIL PAN (Rear, LH)</td></tr>
@@ -1581,7 +1581,7 @@ image: "/assets/img/og/cat-c18.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">FASTENERS &amp; HARDWARE <span class="parts-cnt">465</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">4F-7957</span></td><td>Bolt (1/4-20x0.875-IN)</td></tr>
       <tr><td><span class="pnum">9X-2038</span></td><td>Washer (7x19x2-MM THK)</td></tr>
@@ -2055,7 +2055,7 @@ image: "/assets/img/og/cat-c18.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">OTHER <span class="parts-cnt">633</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">036-1865</span></td><td>Heat Exchanger GP-SEA Water</td></tr>
       <tr><td><span class="pnum">125-5274</span></td><td>Heat Exchanger GP-SEA Water</td></tr>

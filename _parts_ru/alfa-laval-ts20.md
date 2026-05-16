@@ -10,7 +10,7 @@ image: "/assets/img/og/alfa-laval-ts20.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">3950048876</span></td><td>END PLATE I TS20M2-316-0.6 FKMT/C-0H</td></tr>
       <tr><td><span class="pnum">3900055214</span></td><td>FIELD GASKET TS20M-FKMT-C/RIB</td></tr>

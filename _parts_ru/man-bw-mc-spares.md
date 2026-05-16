@@ -10,7 +10,7 @@ image: "/assets/img/og/man-bw-mc-spares.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90201-0201-060</span></td><td>Piston ring No.1 (NPR;DARCAST Alu-coatGT CL RING)</td></tr>
       <tr><td><span class="pnum">90201-0201-072</span></td><td>Piston ring No.2 and 4 (NPR; CF5 Alu-Coat, Left cut 8mm)</td></tr>

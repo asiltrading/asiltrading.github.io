@@ -11,7 +11,7 @@ image: "/assets/img/og/cat-westfalia-osd18.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">FRAME &amp; BRAKE <span class="parts-cnt">11</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">2059-1100-000</span></td><td>Frame, complete</td></tr>
       <tr><td><span class="pnum">2059-1001-000</span></td><td>Frame lower</td></tr>
@@ -31,7 +31,7 @@ image: "/assets/img/og/cat-westfalia-osd18.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">DRIVE &amp; SPINDLE <span class="parts-cnt">11</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">2059-3300-000</span></td><td>Drive, complete</td></tr>
       <tr><td><span class="pnum">2059-3429-000</span></td><td>Spindle assembly</td></tr>
@@ -55,7 +55,7 @@ image: "/assets/img/og/cat-westfalia-osd18.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CENTRIFUGAL CLUTCH <span class="parts-cnt">7</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">2059-3385-000</span></td><td>Centrifugal clutch, complete</td></tr>
       <tr><td><span class="pnum">2059-3365-000</span></td><td>Clutch drum</td></tr>
@@ -71,7 +71,7 @@ image: "/assets/img/og/cat-westfalia-osd18.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">BOWL ASSEMBLY (2048-6600-090) <span class="parts-cnt">12</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">2048-6600-090</span></td><td>Bowl, complete</td></tr>
       <tr><td><span class="pnum">2048-6604-010</span></td><td>Bowl bottom</td></tr>
@@ -92,7 +92,7 @@ image: "/assets/img/og/cat-westfalia-osd18.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">DISK STACK &amp; CENTRIPETAL PUMP <span class="parts-cnt">6</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">2048-6660-000</span></td><td>Disk stack, complete</td></tr>
       <tr><td><span class="pnum">2126-6663-000</span></td><td>Disk (90 pcs)</td></tr>

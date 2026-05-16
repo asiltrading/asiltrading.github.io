@@ -10,7 +10,7 @@ image: "/assets/img/og/hammar-hru.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">HR-0100</span></td><td>Hydrostatic Release Unit – replace every 2 years; no service required – H20R – Standard SOLAS</td></tr>
       <tr><td><span class="pnum">HR-0200</span></td><td>Hydrostatic Release Unit – replace every 2 years – H20R – Small Rafts</td></tr>

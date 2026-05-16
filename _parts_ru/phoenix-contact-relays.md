@@ -10,7 +10,7 @@ image: "/assets/img/og/phoenix-contact-relays.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">PLC-BSC-24DC/21-21</span></td><td>Relay base</td></tr>
       <tr><td><span class="pnum">PLC-BSC-24DC/21</span></td><td>Relay base</td></tr>

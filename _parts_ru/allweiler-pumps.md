@@ -11,7 +11,7 @@ image: "/assets/img/og/allweiler-pumps.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">PROGRESSIVE CAVITY PUMPS – SN / SNP / SEP SERIES <span class="parts-cnt">4</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">00110585</span></td><td>Stator – Allweiler SEP 50.1  (pos. 402 per drawing)</td></tr>
       <tr><td><span class="pnum">00110150</span></td><td>Stator – Allweiler SNP/SEP 25.1  (pos. 402 per drawing)</td></tr>
@@ -24,7 +24,7 @@ image: "/assets/img/og/allweiler-pumps.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CENTRIFUGAL PUMPS – NB / NT SERIES <span class="parts-cnt">12</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">Pos. 102.01</span></td><td>Volute Casing</td></tr>
       <tr><td><span class="pnum">Pos. 108.01</span></td><td>Stage Casing</td></tr>
@@ -45,7 +45,7 @@ image: "/assets/img/og/allweiler-pumps.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">ALLWEILER COMMON PUMP SERIES ON BOARD SHIPS <span class="parts-cnt">7</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">–model only–</span></td><td>NB 25-160 / NB 25-200 / NB 40-160 / NB 80-160 (general service centrifugal)</td></tr>
       <tr><td><span class="pnum">–model only–</span></td><td>NT 100-315 / NT 150-315 / NT 200-400 / NT 250-250 (hot water / thermal centrifugal)</td></tr>

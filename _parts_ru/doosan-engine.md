@@ -10,7 +10,7 @@ image: "/assets/img/og/doosan-engine.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">65.02401-6020</span></td><td>CONNECTING ROD</td></tr>
       <tr><td><span class="pnum">65.02411-0008</span></td><td>BOLT:CONNECTING ROD</td></tr>

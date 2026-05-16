@@ -11,7 +11,7 @@ image: "/assets/img/og/yanmar-6n18al.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">MAJOR ENGINE COMPONENTS <span class="parts-cnt">5</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">146673-11050</span></td><td>Cylinder Head Complete (overhauled)</td></tr>
       <tr><td><span class="pnum">146673-01150</span></td><td>Cylinder Liner (sleeve) – sold as 6-piece set</td></tr>
@@ -25,7 +25,7 @@ image: "/assets/img/og/yanmar-6n18al.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CYLINDER HEAD <span class="parts-cnt">1</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">746673-15104</span></td><td>Indicator Cock Assembly (alt: 746673-15104-S)</td></tr>
     </tbody>
@@ -35,7 +35,7 @@ image: "/assets/img/og/yanmar-6n18al.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">TURBOCHARGER <span class="parts-cnt">1</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">35209-01110</span></td><td>Turbocharger Complete – IHI RH143</td></tr>
     </tbody>
@@ -45,7 +45,7 @@ image: "/assets/img/og/yanmar-6n18al.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">INSTRUMENTS <span class="parts-cnt">3</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">46150-053950</span></td><td>Resistance Thermometer (CW / LO temp)</td></tr>
       <tr><td><span class="pnum">46150-050121</span></td><td>Pressure Transmitter 6K</td></tr>

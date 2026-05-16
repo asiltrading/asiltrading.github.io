@@ -10,7 +10,7 @@ image: "/assets/img/og/raytheon-anschutz-standard-22.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">111-006</span></td><td>Gyrosphere (core sensor) – Standard 20 / 22 / 22NX</td></tr>
       <tr><td><span class="pnum">110-233.NG002</span></td><td>Main Unit – Standard 22</td></tr>

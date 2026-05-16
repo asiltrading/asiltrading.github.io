@@ -11,7 +11,7 @@ image: "/assets/img/og/armstrong-steam-traps.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">FLOAT &amp; THERMOSTATIC TRAPS - 15B / 30B / 75A / 125A / 175A SERIES <span class="parts-cnt">13</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">A5572</span></td><td>Vacuum Breaker - 15B2-5, 30A3-5, 75A3-5, 125A3-5, 175A3-5 (all pressures)</td></tr>
       <tr><td><span class="pnum">A5628</span></td><td>Vacuum Breaker - 15B6/8, 30B6/8, 30A6/8, 75A6/8, 125A6/8, 175A6/8</td></tr>
@@ -33,7 +33,7 @@ image: "/assets/img/og/armstrong-steam-traps.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">TS SERIES + DISC TRAPS <span class="parts-cnt">2</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">D24907</span></td><td>Replacement Capsule - TS-3 thermostatic radiator trap</td></tr>
       <tr><td><span class="pnum">D60516</span></td><td>Diaphragm Disc - disc type trap</td></tr>
@@ -44,7 +44,7 @@ image: "/assets/img/og/armstrong-steam-traps.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">INVERTED BUCKET TRAPS - 880/881/882/883 SERIES <span class="parts-cnt">2</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">880</span></td><td>Complete trap 880 series 1/2&quot; with integral strainer</td></tr>
       <tr><td><span class="pnum">881</span></td><td>Complete trap 881 series 3/4&quot; with integral strainer (specify orifice)</td></tr>

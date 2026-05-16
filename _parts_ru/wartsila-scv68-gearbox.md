@@ -10,7 +10,7 @@ image: "/assets/img/og/wartsila-scv68-gearbox.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">1850303</span></td><td>Gasket</td></tr>
       <tr><td><span class="pnum">1850321</span></td><td>O-ring</td></tr>

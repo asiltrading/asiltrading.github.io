@@ -11,7 +11,7 @@ image: "/assets/img/og/cat-wartsila-rta76.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CLU CYLINDER LUBRICATION RETROFIT KITS <span class="parts-cnt">2</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">TO 21500</span></td><td>Accumulator Lubrication Retrofit Kit (standard cylinder liner) - includes non-return valve with new filling pin, piston, compression spring, diaphragm, 2-piece gasket</td></tr>
       <tr><td><span class="pnum">TO 21500-B</span></td><td>Accumulator Lubrication Retrofit Kit (Balcony-type cylinder liner) - includes new filling pin, piston, compression spring, diaphragm, 2-piece gasket</td></tr>

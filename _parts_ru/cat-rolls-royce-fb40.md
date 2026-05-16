@@ -11,7 +11,7 @@ image: "/assets/img/og/cat-rolls-royce-fb40.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">FB40 ASSEMBLY <span class="parts-cnt">24</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">63750-8748</span></td><td>Bracket</td></tr>
       <tr><td><span class="pnum">61350-8756</span></td><td>Shaft, FB40</td></tr>

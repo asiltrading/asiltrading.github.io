@@ -10,7 +10,7 @@ image: "/assets/img/og/boll-kirch-duplex-candle.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">1340079</span></td><td>Candle filter element (OEM 1) – Duplex / simplex filters</td></tr>
       <tr><td><span class="pnum">1340100</span></td><td>Candle filter element (OEM 2) – Duplex / simplex filters</td></tr>

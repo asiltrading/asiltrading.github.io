@@ -11,7 +11,7 @@ image: "/assets/img/og/cat-westfalia-osd6.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">RECOMMENDED SPARE PARTS SETS <span class="parts-cnt">5</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">2058-9902-000</span></td><td>Set of spare parts "bowl/hood" — 1 year / 8000 h (~20 gaskets)</td></tr>
       <tr><td><span class="pnum">2058-9902-010</span></td><td>Set of spare parts "drive" 50 Hz — 1 year / 8000 h</td></tr>
@@ -25,7 +25,7 @@ image: "/assets/img/og/cat-westfalia-osd6.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">BOWL/HOOD KIT GASKETS (within 2058-9902-000) <span class="parts-cnt">17</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">0007-3541-750</span></td><td>Gasket</td></tr>
       <tr><td><span class="pnum">0007-2129-760</span></td><td>Gasket</td></tr>
@@ -51,7 +51,7 @@ image: "/assets/img/og/cat-westfalia-osd6.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">DRIVE KIT COMPONENTS <span class="parts-cnt">8</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">0008-3533-000</span></td><td>Rubber-metal cushion</td></tr>
       <tr><td><span class="pnum">0007-2581-750</span></td><td>Gasket</td></tr>

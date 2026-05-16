@@ -11,7 +11,7 @@ image: "/assets/img/og/cat-wartsila-rtflex96c.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CYLINDER LINER &amp; LUBRICATION (21) <span class="parts-cnt">10</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">DF 21243</span></td><td>Cylinder liner, complete, without joint ring and O-rings</td></tr>
       <tr><td><span class="pnum">DF 21270</span></td><td>Joint ring and O-rings (set for 1 liner)</td></tr>
@@ -30,7 +30,7 @@ image: "/assets/img/og/cat-wartsila-rtflex96c.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CYLINDER COVER &amp; VALVES (27) <span class="parts-cnt">17</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">DF 27102</span></td><td>Cylinder cover, complete, without valves</td></tr>
       <tr><td><span class="pnum">DF 21075</span></td><td>Elastic stud for cyl. cover</td></tr>
@@ -60,7 +60,7 @@ image: "/assets/img/og/cat-wartsila-rtflex96c.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CONNECTING ROD BEARINGS (33) <span class="parts-cnt">8</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">DF 33120</span></td><td>Upper bearing half for top end bearing, white metal lined</td></tr>
       <tr><td><span class="pnum">DF 33150</span></td><td>Bearing shell, lower half, for top end bearing</td></tr>
@@ -77,7 +77,7 @@ image: "/assets/img/og/cat-wartsila-rtflex96c.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">PISTON (34) / CROSSHEAD (36) <span class="parts-cnt">7</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">DF 34000</span></td><td>Piston, complete (head, skirt, rod, screws — no rings)</td></tr>
       <tr><td><span class="pnum">DF 34065</span></td><td>Piston head</td></tr>
@@ -93,7 +93,7 @@ image: "/assets/img/og/cat-wartsila-rtflex96c.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">GLAND BOX (23) <span class="parts-cnt">6</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">DF 23150</span></td><td>Gland box piston rod, complete, casing in 2 parts</td></tr>
       <tr><td><span class="pnum">DF 23161</span></td><td>Tension spring (set for 1 gland)</td></tr>
@@ -107,7 +107,7 @@ image: "/assets/img/og/cat-wartsila-rtflex96c.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">SCAVENGE / HYDRAULIC / FUEL PIPING <span class="parts-cnt">10</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">DF 64220</span></td><td>Scavenge air receiver flap</td></tr>
       <tr><td><span class="pnum">DF 64221</span></td><td>Scavenge air receiver flap</td></tr>
@@ -127,7 +127,7 @@ image: "/assets/img/og/cat-wartsila-rtflex96c.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CONTROL SYSTEM (WECS-9500 / DENIS-9) <span class="parts-cnt">26</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">DF 96310</span></td><td>Spare parts for engine control system DENIS-9</td></tr>
       <tr><td><span class="pnum">DF 96330</span></td><td>Spare parts for alarm system DENIS-9</td></tr>
@@ -170,7 +170,7 @@ image: "/assets/img/og/cat-wartsila-rtflex96c.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">SUPPLY UNIT (FUEL / SERVO OIL) <span class="parts-cnt">14</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">DF 55480</span></td><td>Pinion to pump drive servo oil</td></tr>
       <tr><td><span class="pnum">DF 55482</span></td><td>Shaft</td></tr>

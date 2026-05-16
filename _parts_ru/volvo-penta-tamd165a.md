@@ -10,7 +10,7 @@ image: "/assets/img/og/volvo-penta-tamd165a.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">21347696</span></td><td>Volvo Penta Seawater Pump</td></tr>
       <tr><td><span class="pnum">276924-8</span></td><td>Rubber seals for cover, set</td></tr>

@@ -11,7 +11,7 @@ image: "/assets/img/og/cat-man-bw-na70-t9.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">GAS-ADMISSION CASING (501) <span class="parts-cnt">8</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">501.000</span></td><td>Gas-admission casing, complete</td></tr>
       <tr><td><span class="pnum">501.001</span></td><td>Gas-admission casing</td></tr>
@@ -28,7 +28,7 @@ image: "/assets/img/og/cat-man-bw-na70-t9.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">GAS OUTLET CASING (506) <span class="parts-cnt">30</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">506.000</span></td><td>Gas outlet casing, complete</td></tr>
       <tr><td><span class="pnum">506.001</span></td><td>Gas outlet casing</td></tr>
@@ -67,7 +67,7 @@ image: "/assets/img/og/cat-man-bw-na70-t9.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">GAS OUTLET DIFFUSER (509) <span class="parts-cnt">7</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">509.000</span></td><td>Gas outlet diffuser, complete</td></tr>
       <tr><td><span class="pnum">509.001</span></td><td>Diffuser outside wall</td></tr>
@@ -84,7 +84,7 @@ image: "/assets/img/og/cat-man-bw-na70-t9.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">TURBINE NOZZLE RING (513) <span class="parts-cnt">10</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">513.000</span></td><td>Turbine nozzle ring, complete</td></tr>
       <tr><td><span class="pnum">513.001</span></td><td>Nozzle ring</td></tr>
@@ -104,7 +104,7 @@ image: "/assets/img/og/cat-man-bw-na70-t9.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">BEARING CASING (517) <span class="parts-cnt">39</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">517.000</span></td><td>Bearing casing, complete</td></tr>
       <tr><td><span class="pnum">517.001</span></td><td>Bearing casing</td></tr>
@@ -153,7 +153,7 @@ image: "/assets/img/og/cat-man-bw-na70-t9.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CASING FEET (518) <span class="parts-cnt">4</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">518.000</span></td><td>Casing feet, complete</td></tr>
       <tr><td><span class="pnum">518.001</span></td><td>Casing foot</td></tr>
@@ -166,7 +166,7 @@ image: "/assets/img/og/cat-man-bw-na70-t9.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">ROTOR COMPLETE (520) <span class="parts-cnt">11</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">520.000</span></td><td>Rotor complete</td></tr>
       <tr><td><span class="pnum">520.001</span></td><td>Turbine rotor</td></tr>
@@ -187,7 +187,7 @@ image: "/assets/img/og/cat-man-bw-na70-t9.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">INSERT (540) <span class="parts-cnt">4</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">540.000</span></td><td>Insert, complete</td></tr>
       <tr><td><span class="pnum">540.001</span></td><td>Insert</td></tr>
@@ -201,7 +201,7 @@ image: "/assets/img/og/cat-man-bw-na70-t9.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">DIFFUSER (542) <span class="parts-cnt">1</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">542.001</span></td><td>Diffuser</td></tr>
     </tbody>
@@ -211,7 +211,7 @@ image: "/assets/img/og/cat-man-bw-na70-t9.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">SILENCER (544) <span class="parts-cnt">20</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">544.000</span></td><td>Silencer, complete</td></tr>
       <tr><td><span class="pnum">544.010</span></td><td>Flange</td></tr>
@@ -241,7 +241,7 @@ image: "/assets/img/og/cat-man-bw-na70-t9.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">COMPRESSOR CASING (546) <span class="parts-cnt">15</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">546.000</span></td><td>Compressor casing, complete</td></tr>
       <tr><td><span class="pnum">546.001</span></td><td>Compressor casing</td></tr>
@@ -268,7 +268,7 @@ image: "/assets/img/og/cat-man-bw-na70-t9.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">POST LUBRICATION TANK (554) <span class="parts-cnt">42</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">554.000</span></td><td>Post lubrication tank, complete</td></tr>
       <tr><td><span class="pnum">554.001</span></td><td>Tank</td></tr>
@@ -318,7 +318,7 @@ image: "/assets/img/og/cat-man-bw-na70-t9.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">SPEED MEASURING DEVICE (562) <span class="parts-cnt">11</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">562.000</span></td><td>Speed measuring device, complete</td></tr>
       <tr><td><span class="pnum">562.003</span></td><td>Permanent seal (Hylomar M)</td></tr>
@@ -340,7 +340,7 @@ image: "/assets/img/og/cat-man-bw-na70-t9.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CLEANING DEVICE - TURBINE WET (578.01) <span class="parts-cnt">5</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">578.01.000</span></td><td>Cleaning device for turbine, complete (wet cleaning - nozzle)</td></tr>
       <tr><td><span class="pnum">578.01.001</span></td><td>Spray nozzle</td></tr>
@@ -355,7 +355,7 @@ image: "/assets/img/og/cat-man-bw-na70-t9.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CLEANING DEVICE - TURBINE DRY (578.03) <span class="parts-cnt">17</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">578.03.000</span></td><td>Cleaning device for turbine, complete (dry cleaning)</td></tr>
       <tr><td><span class="pnum">578.03.001</span></td><td>Tank</td></tr>
@@ -382,7 +382,7 @@ image: "/assets/img/og/cat-man-bw-na70-t9.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CLEANING DEVICE - COMPRESSOR (579) <span class="parts-cnt">25</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">579.000</span></td><td>Cleaning device for compressor, complete</td></tr>
       <tr><td><span class="pnum">579.029</span></td><td>Tank / Pressure sprayer</td></tr>

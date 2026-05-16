@@ -10,7 +10,7 @@ image: "/assets/img/og/wartsila-6l20.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">1100005</span></td><td>V-ring</td></tr>
       <tr><td><span class="pnum">218006W20</span></td><td>Air starter</td></tr>

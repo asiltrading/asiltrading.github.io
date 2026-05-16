@@ -11,7 +11,7 @@ image: "/assets/img/og/cat-rolls-royce-126145.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">SP-34012 ELECTRICAL SPARES KIT (2-YEAR) <span class="parts-cnt">7</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">5139-5X25-4A</span></td><td>Fuse (MC) - 5 pcs</td></tr>
       <tr><td><span class="pnum">5139-5X20-4A</span></td><td>Fuse (MC) - 5 pcs</td></tr>

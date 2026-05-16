@@ -10,7 +10,7 @@ image: "/assets/img/og/vtr-304-turbocharger.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">32100</span></td><td>Bearing CE SNR</td></tr>
       <tr><td><span class="pnum">34100</span></td><td>Bearing TE SNR</td></tr>

@@ -10,7 +10,7 @@ image: "/assets/img/og/cat-c32.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">435-8538</span></td><td>Harness As</td></tr>
       <tr><td><span class="pnum">618-0750</span></td><td>Injector Gp</td></tr>

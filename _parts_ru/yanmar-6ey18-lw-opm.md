@@ -11,7 +11,7 @@ image: "/assets/img/og/yanmar-6ey18-lw-opm.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CYLINDER BLOCK &amp; FRAME <span class="parts-cnt">51</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">746623-01560</span></td><td>BLOCK, CYLINDER</td></tr>
       <tr><td><span class="pnum">146673-01200</span></td><td>BOLT, CYLINDER HEAD</td></tr>
@@ -71,7 +71,7 @@ image: "/assets/img/og/yanmar-6ey18-lw-opm.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CYLINDER HEAD <span class="parts-cnt">41</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">146673-11950</span></td><td>PLUG, CYLINDER HEAD</td></tr>
       <tr><td><span class="pnum">146673-11960</span></td><td>PACKING, PLUG</td></tr>
@@ -121,7 +121,7 @@ image: "/assets/img/og/yanmar-6ey18-lw-opm.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">PISTONS &amp; RINGS <span class="parts-cnt">9</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">126630-22100</span></td><td>PISTON RING</td></tr>
       <tr><td><span class="pnum">146623-22020</span></td><td>PISTON</td></tr>
@@ -139,7 +139,7 @@ image: "/assets/img/og/yanmar-6ey18-lw-opm.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CONNECTING ROD <span class="parts-cnt">5</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">138613-23290</span></td><td>WASHER, BELLEVILLE</td></tr>
       <tr><td><span class="pnum">146673-23220</span></td><td>BOLT, CONNECTING ROD</td></tr>
@@ -153,7 +153,7 @@ image: "/assets/img/og/yanmar-6ey18-lw-opm.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CRANKSHAFT &amp; BEARINGS <span class="parts-cnt">16</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">146673-02070</span></td><td>BOLT, METAL CAP</td></tr>
       <tr><td><span class="pnum">146673-02080</span></td><td>BOLT, SIDEA</td></tr>
@@ -178,7 +178,7 @@ image: "/assets/img/og/yanmar-6ey18-lw-opm.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">FLYWHEEL <span class="parts-cnt">4</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">146623-07310</span></td><td>POINTER, FLYWHEEL</td></tr>
       <tr><td><span class="pnum">146673-07150</span></td><td>LABEL, VALVE</td></tr>
@@ -191,7 +191,7 @@ image: "/assets/img/og/yanmar-6ey18-lw-opm.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CAMSHAFT &amp; TIMING GEAR <span class="parts-cnt">19</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">146623-14531</span></td><td>BRACKET, IDLE</td></tr>
       <tr><td><span class="pnum">146623-14541</span></td><td>PLATE, CAM IDLE</td></tr>
@@ -219,7 +219,7 @@ image: "/assets/img/og/yanmar-6ey18-lw-opm.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">AIR &amp; EXHAUST SYSTEM <span class="parts-cnt">89</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">146623-18151</span></td><td>AIR COOLER</td></tr>
       <tr><td><span class="pnum">146623-18090</span></td><td>CORE COMP, 1.5P 2</td></tr>
@@ -317,7 +317,7 @@ image: "/assets/img/og/yanmar-6ey18-lw-opm.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">FUEL OIL SYSTEM <span class="parts-cnt">197</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">153672-59980</span></td><td>WASHER, SEAL 16X1.2</td></tr>
       <tr><td><span class="pnum">133670-54310</span></td><td>STUD</td></tr>
@@ -523,7 +523,7 @@ image: "/assets/img/og/yanmar-6ey18-lw-opm.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">LUBRICATION SYSTEM <span class="parts-cnt">121</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">146623-39630</span></td><td>FLANGE, OVAL</td></tr>
       <tr><td><span class="pnum">46623-32100</span></td><td>PUMP ASSY, LUB.OIL 6EY18AL</td></tr>
@@ -653,7 +653,7 @@ image: "/assets/img/og/yanmar-6ey18-lw-opm.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CRANKCASE &amp; LO MIST <span class="parts-cnt">13</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">142613-03541</span></td><td>GASKET, VALVE</td></tr>
       <tr><td><span class="pnum">153623-03750</span></td><td>VALVE ASSY, RELIEF</td></tr>
@@ -675,7 +675,7 @@ image: "/assets/img/og/yanmar-6ey18-lw-opm.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">COOLING WATER SYSTEM <span class="parts-cnt">80</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">194151-47760</span></td><td>WASHER12</td></tr>
       <tr><td><span class="pnum">153605-49940</span></td><td>VALVE, BALL A</td></tr>
@@ -764,7 +764,7 @@ image: "/assets/img/og/yanmar-6ey18-lw-opm.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">SEA WATER COOLING PUMP <span class="parts-cnt">15</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">146623-09090</span></td><td>SUPPORT, PUMP COVER</td></tr>
       <tr><td><span class="pnum">146673-09101</span></td><td>COVER, UPPER A</td></tr>
@@ -788,7 +788,7 @@ image: "/assets/img/og/yanmar-6ey18-lw-opm.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">STARTING SYSTEM <span class="parts-cnt">99</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">165001-77500</span></td><td>BOLT 12</td></tr>
       <tr><td><span class="pnum">165001-77510</span></td><td>PUNCHING PLATE</td></tr>
@@ -896,7 +896,7 @@ image: "/assets/img/og/yanmar-6ey18-lw-opm.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">GOVERNOR &amp; SPEED CONTROL <span class="parts-cnt">197</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">137600-64260</span></td><td>SPACER</td></tr>
       <tr><td><span class="pnum">136610-66410</span></td><td>LOCK NUT (HANDLE)</td></tr>
@@ -1102,7 +1102,7 @@ image: "/assets/img/og/yanmar-6ey18-lw-opm.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">INSTRUMENTS &amp; SENSORS <span class="parts-cnt">38</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">152623-91200</span></td><td>SUPPORT, PIPE A</td></tr>
       <tr><td><span class="pnum">152623-91210</span></td><td>SUPPORT, PIPE A</td></tr>
@@ -1149,7 +1149,7 @@ image: "/assets/img/og/yanmar-6ey18-lw-opm.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">SPECIAL TOOLS <span class="parts-cnt">67</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">153602-92950</span></td><td>PLUG</td></tr>
       <tr><td><span class="pnum">153602-92900</span></td><td>WASHER UNIT, BLOWER</td></tr>

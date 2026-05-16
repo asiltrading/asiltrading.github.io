@@ -11,7 +11,7 @@ image: "/assets/img/og/taiko-kikai-emc.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">TAIKO EMC-250MCT <span class="parts-cnt">6</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">Pos. 101</span></td><td>Shaft (pump shaft SUS304 – pos. 101)</td></tr>
       <tr><td><span class="pnum">Pos. 301</span></td><td>Coupling (pump-motor coupling – pos. 301)</td></tr>
@@ -26,7 +26,7 @@ image: "/assets/img/og/taiko-kikai-emc.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">TAIKO EMC-250MD <span class="parts-cnt">5</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">Pos. 101</span></td><td>Shaft SUS304 (pos. 101)</td></tr>
       <tr><td><span class="pnum">Pos. 003</span></td><td>Impeller CAC502A (pos. 003)</td></tr>
@@ -40,7 +40,7 @@ image: "/assets/img/og/taiko-kikai-emc.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">TAIKO EMC-200MD <span class="parts-cnt">5</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">Pos. 003</span></td><td>Impeller (pos. 003 – EMC-200MD)</td></tr>
       <tr><td><span class="pnum">Pos. 020</span></td><td>Casing Ring – first (pos. 020 – EMC-200MD)</td></tr>
@@ -54,7 +54,7 @@ image: "/assets/img/og/taiko-kikai-emc.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">TAIKO STANDARD POSITION NUMBERS <span class="parts-cnt">25</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">Pos. 001</span></td><td>Pump Casing (volute casing)</td></tr>
       <tr><td><span class="pnum">Pos. 003</span></td><td>Impeller (main wear item)</td></tr>
@@ -88,7 +88,7 @@ image: "/assets/img/og/taiko-kikai-emc.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">TAIKO COMPLETE PUMP MODELS <span class="parts-cnt">8</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">EMC-xxx</span></td><td>EMC centrifugal series – all sizes (100/125/150/200/250/260)</td></tr>
       <tr><td><span class="pnum">ESC-xxx</span></td><td>ESC centrifugal series (100/125/150/200/250/260)</td></tr>

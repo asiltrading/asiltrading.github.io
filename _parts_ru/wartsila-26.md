@@ -10,7 +10,7 @@ image: "/assets/img/og/wartsila-26.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">100 0001</span></td><td>Engine block</td></tr>
       <tr><td><span class="pnum">100 0002</span></td><td>Main bearing shell upper</td></tr>

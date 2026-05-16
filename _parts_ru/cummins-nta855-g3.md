@@ -10,7 +10,7 @@ image: "/assets/img/og/cummins-nta855-g3.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">4915453</span></td><td>FUEL PUMP</td></tr>
       <tr><td><span class="pnum">3049187</span></td><td>GASKET RKR LEVER HOUSTING</td></tr>

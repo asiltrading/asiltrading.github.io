@@ -11,7 +11,7 @@ image: "/assets/img/og/cat-c32-rny.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">ENGINE CORE <span class="parts-cnt">62</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">297-4270</span></td><td>Cover GP-Camshaft</td></tr>
       <tr><td><span class="pnum">324-8029</span></td><td>Cover GP-Cylinder Block</td></tr>
@@ -82,7 +82,7 @@ image: "/assets/img/og/cat-c32-rny.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">FUEL SYSTEM <span class="parts-cnt">19</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">301-5352</span></td><td>Rocker ARM GP (Unit Injector)</td></tr>
       <tr><td><span class="pnum">300-0540</span></td><td>Cooler GP-Fuel</td></tr>
@@ -110,7 +110,7 @@ image: "/assets/img/og/cat-c32-rny.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">AIR, EXHAUST &amp; TURBOCHARGER <span class="parts-cnt">31</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">305-3729</span></td><td>Aftercooler GP-RAW Water</td></tr>
       <tr><td><span class="pnum">295-8279</span></td><td>Lines GP-Turbocharger OIL</td></tr>
@@ -150,7 +150,7 @@ image: "/assets/img/og/cat-c32-rny.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">DRIVE TRAIN <span class="parts-cnt">42</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">127-5728</span></td><td>Cover GP-Flywheel Housing</td></tr>
       <tr><td><span class="pnum">133-3089</span></td><td>Cover GP-Flywheel Housing</td></tr>
@@ -201,7 +201,7 @@ image: "/assets/img/og/cat-c32-rny.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">PUMPS <span class="parts-cnt">37</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">247-6990</span></td><td>Pump & MTG GP-Fuel Transfer</td></tr>
       <tr><td><span class="pnum">119-8583</span></td><td>Fastener GP-OIL Pump Mounting</td></tr>
@@ -247,7 +247,7 @@ image: "/assets/img/og/cat-c32-rny.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">VALVES &amp; REGULATORS <span class="parts-cnt">46</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">126-0577</span></td><td>Cover GP-Valve Mechanism</td></tr>
       <tr><td><span class="pnum">282-9105</span></td><td>Cover GP-Valve Mechanism</td></tr>
@@ -302,7 +302,7 @@ image: "/assets/img/og/cat-c32-rny.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">SENSORS, SWITCHES &amp; GAUGES <span class="parts-cnt">54</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">310-4939</span></td><td>Sensor GP-Engine</td></tr>
       <tr><td><span class="pnum">2W-3681</span></td><td>Indicator AS (Engine OIL Pressure)</td></tr>
@@ -365,7 +365,7 @@ image: "/assets/img/og/cat-c32-rny.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">ELECTRICAL <span class="parts-cnt">161</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">9L-6641</span></td><td>Mounting GP-Alternator</td></tr>
       <tr><td><span class="pnum">9X-9720</span></td><td>Battery GP</td></tr>
@@ -535,7 +535,7 @@ image: "/assets/img/og/cat-c32-rny.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">FILTERS &amp; ELEMENTS <span class="parts-cnt">47</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">269-7041</span></td><td>AIR Cleaner GP</td></tr>
       <tr><td><span class="pnum">8N-6309</span></td><td>AIR Cleaner GP</td></tr>
@@ -591,7 +591,7 @@ image: "/assets/img/og/cat-c32-rny.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">BEARINGS &amp; BUSHINGS <span class="parts-cnt">55</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">5L-9647</span></td><td>Sleeve-Sliding</td></tr>
       <tr><td><span class="pnum">1P-4693</span></td><td>CUP-Bearing</td></tr>
@@ -655,7 +655,7 @@ image: "/assets/img/og/cat-c32-rny.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">GASKETS &amp; SEALS <span class="parts-cnt">221</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">3P-0655</span></td><td>Seal-O-Ring</td></tr>
       <tr><td><span class="pnum">6V-0128</span></td><td>Seal-Connector</td></tr>
@@ -885,7 +885,7 @@ image: "/assets/img/og/cat-c32-rny.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">COVERS, HOUSINGS &amp; MOUNTS <span class="parts-cnt">199</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">7C-9906</span></td><td>Tank GP-Expansion</td></tr>
       <tr><td><span class="pnum">336-2022</span></td><td>Recovery GP-Coolant</td></tr>
@@ -1093,7 +1093,7 @@ image: "/assets/img/og/cat-c32-rny.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">HOSES, TUBES &amp; FITTINGS <span class="parts-cnt">209</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">324-5505</span></td><td>Fitting GP-Fuel Lines</td></tr>
       <tr><td><span class="pnum">3L-8049</span></td><td>Ring-Drive (72-Teeth)</td></tr>
@@ -1311,7 +1311,7 @@ image: "/assets/img/og/cat-c32-rny.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">FASTENERS &amp; HARDWARE <span class="parts-cnt">454</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">5P-0076</span></td><td>Bolt-12 Point Head (3/8-16x1.5-IN)</td></tr>
       <tr><td><span class="pnum">100-5218</span></td><td>Clip</td></tr>
@@ -1774,7 +1774,7 @@ image: "/assets/img/og/cat-c32-rny.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">OTHER <span class="parts-cnt">555</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">125-5274</span></td><td>Heat Exchanger GP-SEA Water</td></tr>
       <tr><td><span class="pnum">5B-9169</span></td><td>Lines GP-Auxiliary SEA Water</td></tr>

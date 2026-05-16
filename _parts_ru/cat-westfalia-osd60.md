@@ -11,7 +11,7 @@ image: "/assets/img/og/cat-westfalia-osd60.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">FRAME &amp; SPINDLE ASSEMBLIES <span class="parts-cnt">7</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">2060-1100-020</span></td><td>Frame, complete (lower section 2060-1001-010 + upper 2044-1002-020)</td></tr>
       <tr><td><span class="pnum">2057-1031-000</span></td><td>Brake bolt, complete</td></tr>
@@ -30,7 +30,7 @@ image: "/assets/img/og/cat-westfalia-osd60.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">SPINDLE (2060-3429-000) <span class="parts-cnt">11</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">2060-3429-000</span></td><td>Spindle, complete</td></tr>
       <tr><td><span class="pnum">2060-3410-000</span></td><td>Spindle</td></tr>
@@ -49,7 +49,7 @@ image: "/assets/img/og/cat-westfalia-osd60.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">DRIVE (CENTRIFUGAL CLUTCH) <span class="parts-cnt">11</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">2060-3050-000</span></td><td>Set of drive parts 50 Hz (motor size 180)</td></tr>
       <tr><td><span class="pnum">2060-3050-010</span></td><td>Set of drive parts 50 Hz (motor size 200)</td></tr>
@@ -76,7 +76,7 @@ image: "/assets/img/og/cat-westfalia-osd60.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">SOLENOID VALVE BLOCK <span class="parts-cnt">12</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">2048-8105-000</span></td><td>Solenoid valve block, complete</td></tr>
       <tr><td><span class="pnum">0018-6897-000</span></td><td>Solenoid valve block</td></tr>
@@ -99,7 +99,7 @@ image: "/assets/img/og/cat-westfalia-osd60.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">BOWL ASSEMBLY (2044-6600-170) <span class="parts-cnt">11</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">2044-6600-170</span></td><td>Bowl, complete</td></tr>
       <tr><td><span class="pnum">2044-6604-030</span></td><td>Bowl bottom</td></tr>
@@ -120,7 +120,7 @@ image: "/assets/img/og/cat-westfalia-osd60.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">RECOMMENDED SPARE PARTS SETS <span class="parts-cnt">5</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">2060-9902-040</span></td><td>Set of spare parts "bowl/hood" — 1 year / 8000 h (~22 gaskets + 100g grease 0015-0082-000)</td></tr>
       <tr><td><span class="pnum">2060-9902-000</span></td><td>Set of spare parts "drive" 50 Hz — 1 year / 8000 h</td></tr>
@@ -134,7 +134,7 @@ image: "/assets/img/og/cat-westfalia-osd60.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">MISC <span class="parts-cnt">3</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">0024-4310-010</span></td><td>Set of plates (adhesive labels)</td></tr>
       <tr><td><span class="pnum">0024-3413-010</span></td><td>Nameplate</td></tr>

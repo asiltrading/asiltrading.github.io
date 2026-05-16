@@ -11,7 +11,7 @@ image: "/assets/img/og/imo-ace-acg-acd.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">IMO SPARE PARTS KIT CODING SYSTEM <span class="parts-cnt">11</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">G011</span></td><td>G011 – Rotor Set (CCW rotation only)</td></tr>
       <tr><td><span class="pnum">G012</span></td><td>G012 – Rotor Set (CW rotation, standard)</td></tr>
@@ -31,7 +31,7 @@ image: "/assets/img/og/imo-ace-acg-acd.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">ACD 025 NUMBERS <span class="parts-cnt">8</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">062885</span></td><td>G012 Rotor Set – ACD 025 Normal lead (pump form N6)</td></tr>
       <tr><td><span class="pnum">062893</span></td><td>G012 Rotor Set – ACD 025 Low lead (pump form L6)</td></tr>
@@ -48,7 +48,7 @@ image: "/assets/img/og/imo-ace-acg-acd.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">ACE / ACG SERIES NUMBERS <span class="parts-cnt">21</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">189964</span></td><td>G050 Shaft Seal – ACE/ACG xVxx version</td></tr>
       <tr><td><span class="pnum">190501</span></td><td>G053 Minor Kit – ACE/ACG xVxx (= G050 189964 + G057)</td></tr>
@@ -78,7 +78,7 @@ image: "/assets/img/og/imo-ace-acg-acd.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">IMO AFTERMARKET / OEM CROSS-REFERENCE PART NUMBERS <span class="parts-cnt">15</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">PP047BM</span></td><td>Bearing (replaces IMO OEM)</td></tr>
       <tr><td><span class="pnum">PP047BD</span></td><td>Bearing (alt. size – replaces IMO OEM)</td></tr>
@@ -102,7 +102,7 @@ image: "/assets/img/og/imo-ace-acg-acd.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">IMO COMPONENT POSITION REFERENCE <span class="parts-cnt">16</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">Pos. 1020</span></td><td>Power Rotor (drive spindle) – CW rotation</td></tr>
       <tr><td><span class="pnum">Pos. 201/202</span></td><td>Idler Rotors (qty 2 per pump)</td></tr>

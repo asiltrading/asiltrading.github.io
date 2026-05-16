@@ -10,7 +10,7 @@ image: "/assets/img/og/shinko-pumps.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">M2QA280M4B</span></td><td>RVP 200 MS – pump unit (New Surplus) (alt: 1065287)</td></tr>
       <tr><td><span class="pnum">M2QA250M4B</span></td><td>HJ40-2M – pump unit (New Surplus, qty 2) (alt: 1065283)</td></tr>

@@ -10,7 +10,7 @@ image: "/assets/img/og/macgregor-tts-deck-machinery.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">289 0840-801</span></td><td>Balance Valve, Hose Handling Crane – Cargo Crane</td></tr>
       <tr><td><span class="pnum">289 1833-801</span></td><td>Hydraulic Hoisting Pump (item A) – Cargo Crane</td></tr>

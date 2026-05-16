@@ -10,7 +10,7 @@ image: "/assets/img/og/stamford-avr.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">E000-24403</span></td><td>AVR STAMFORD AS440</td></tr>
       <tr><td><span class="pnum">ZX36-14</span></td><td>DIODE POSITIVE SWITCHING</td></tr>

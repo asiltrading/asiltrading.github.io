@@ -10,7 +10,7 @@ image: "/assets/img/og/sauer-wp400.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">000041</span></td><td>Hexagon head screw</td></tr>
       <tr><td><span class="pnum">000048</span></td><td>Hexagon head screw</td></tr>

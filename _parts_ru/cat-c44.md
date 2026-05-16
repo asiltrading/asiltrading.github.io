@@ -11,7 +11,7 @@ image: "/assets/img/og/cat-c44.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">ENGINE CORE <span class="parts-cnt">46</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">264-8940</span></td><td>Breather GP (Crankcase)</td></tr>
       <tr><td><span class="pnum">268-8625</span></td><td>Breather GP (Crankcase)</td></tr>
@@ -66,7 +66,7 @@ image: "/assets/img/og/cat-c44.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">FUEL SYSTEM <span class="parts-cnt">21</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">267-7069</span></td><td>Lines GP-Fuel</td></tr>
       <tr><td><span class="pnum">263-8003</span></td><td>Lines GP-Flexible Fuel</td></tr>
@@ -96,7 +96,7 @@ image: "/assets/img/og/cat-c44.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">AIR, EXHAUST &amp; TURBOCHARGER <span class="parts-cnt">34</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">265-7802</span></td><td>Aftercooler GP</td></tr>
       <tr><td><span class="pnum">268-4268</span></td><td>Manifold GP-Exhaust</td></tr>
@@ -139,7 +139,7 @@ image: "/assets/img/og/cat-c44.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">DRIVE TRAIN <span class="parts-cnt">22</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">269-9117</span></td><td>V-Belt GP</td></tr>
       <tr><td><span class="pnum">263-7929</span></td><td>Coupling GP-Generator</td></tr>
@@ -170,7 +170,7 @@ image: "/assets/img/og/cat-c44.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">PUMPS <span class="parts-cnt">30</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">230-7578</span></td><td>Pump GP-Engine OIL</td></tr>
       <tr><td><span class="pnum">272-2222</span></td><td>Pump GP-Fuel Injection</td></tr>
@@ -209,7 +209,7 @@ image: "/assets/img/og/cat-c44.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">VALVES &amp; REGULATORS <span class="parts-cnt">24</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">136-3608</span></td><td>Cover GP-Valve Mechanism</td></tr>
       <tr><td><span class="pnum">130-9888</span></td><td>Cover GP-Valve Mechanism</td></tr>
@@ -242,7 +242,7 @@ image: "/assets/img/og/cat-c44.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">SENSORS, SWITCHES &amp; GAUGES <span class="parts-cnt">40</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">8H-5306</span></td><td>Switch GP-Disconnect</td></tr>
       <tr><td><span class="pnum">270-3880</span></td><td>Sensor GP-Speed (Engine)</td></tr>
@@ -291,7 +291,7 @@ image: "/assets/img/og/cat-c44.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">ELECTRICAL <span class="parts-cnt">120</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">274-1239</span></td><td>Wiring GP-Engine</td></tr>
       <tr><td><span class="pnum">274-1240</span></td><td>Wiring GP-Engine</td></tr>
@@ -420,7 +420,7 @@ image: "/assets/img/og/cat-c44.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">FILTERS &amp; ELEMENTS <span class="parts-cnt">42</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">110-6326</span></td><td>AIR Cleaner GP</td></tr>
       <tr><td><span class="pnum">233-5182</span></td><td>AIR Cleaner GP</td></tr>
@@ -471,7 +471,7 @@ image: "/assets/img/og/cat-c44.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">BEARINGS &amp; BUSHINGS <span class="parts-cnt">8</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">225-7772</span></td><td>Bearing SET-Main (Standard)</td></tr>
       <tr><td><span class="pnum">298-4524</span></td><td>KIT-Bearing</td></tr>
@@ -488,7 +488,7 @@ image: "/assets/img/og/cat-c44.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">GASKETS &amp; SEALS <span class="parts-cnt">80</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">277-5156</span></td><td>KIT-Gasket (TOP)</td></tr>
       <tr><td><span class="pnum">272-2232</span></td><td>KIT-Gasket (Bottom)</td></tr>
@@ -577,7 +577,7 @@ image: "/assets/img/og/cat-c44.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">COVERS, HOUSINGS &amp; MOUNTS <span class="parts-cnt">146</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">7C-0351</span></td><td>PAN GP-OIL</td></tr>
       <tr><td><span class="pnum">230-5119</span></td><td>Tank GP-Coolant</td></tr>
@@ -732,7 +732,7 @@ image: "/assets/img/og/cat-c44.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">HOSES, TUBES &amp; FITTINGS <span class="parts-cnt">192</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">269-5153</span></td><td>Elbow GP-Exhaust</td></tr>
       <tr><td><span class="pnum">263-5805</span></td><td>Elbow GP-Exhaust</td></tr>
@@ -933,7 +933,7 @@ image: "/assets/img/og/cat-c44.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">FASTENERS &amp; HARDWARE <span class="parts-cnt">254</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">8T-9381</span></td><td>Bolt (7/16-20x1-IN)</td></tr>
       <tr><td><span class="pnum">3E-4988</span></td><td>Lockwasher</td></tr>
@@ -1196,7 +1196,7 @@ image: "/assets/img/og/cat-c44.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">SERVICE TOOLS <span class="parts-cnt">1</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">263-5844</span></td><td>Tool-Barring</td></tr>
     </tbody>
@@ -1206,7 +1206,7 @@ image: "/assets/img/og/cat-c44.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">OTHER <span class="parts-cnt">373</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">254-2268</span></td><td>Connection GP-Water</td></tr>
       <tr><td><span class="pnum">254-2267</span></td><td>Connection GP-Water</td></tr>

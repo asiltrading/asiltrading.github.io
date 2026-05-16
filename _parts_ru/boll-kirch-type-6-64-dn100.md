@@ -10,7 +10,7 @@ image: "/assets/img/og/boll-kirch-type-6-64-dn100.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">2000036</span></td><td>Hexagon screw – Type 6.64 DN100</td></tr>
       <tr><td><span class="pnum">2000132</span></td><td>Hexagon socket head cap screw – Type 6.64 DN100</td></tr>

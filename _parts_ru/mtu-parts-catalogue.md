@@ -10,7 +10,7 @@ image: "/assets/img/og/mtu-parts-catalogue.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">000000000667</span></td><td>CLAMP</td></tr>
       <tr><td><span class="pnum">000000000670</span></td><td>CLAMP</td></tr>

@@ -10,7 +10,7 @@ image: "/assets/img/og/alfa-laval-s826.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">564509 01</span></td><td>Bowl spindle – S 826</td></tr>
       <tr><td><span class="pnum">548747 01</span></td><td>Ball bearing (top) – S 826</td></tr>

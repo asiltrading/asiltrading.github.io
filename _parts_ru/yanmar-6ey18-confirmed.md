@@ -11,7 +11,7 @@ image: "/assets/img/og/yanmar-6ey18-confirmed.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CYLINDER HEAD <span class="parts-cnt">2</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">746621-11100C</span></td><td>Cylinder Cover Complete – c/w inlet+exhaust valve seat, valve, guide, springs (alt: 746623-11100C)</td></tr>
       <tr><td><span class="pnum">746673-15104</span></td><td>Indicator Cock Assembly (alt: 746673-15104-S)</td></tr>
@@ -22,7 +22,7 @@ image: "/assets/img/og/yanmar-6ey18-confirmed.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">FUEL INJECTION <span class="parts-cnt">1</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">746623-51101</span></td><td>Fuel Injection Pump Complete (per cylinder)</td></tr>
     </tbody>
@@ -32,7 +32,7 @@ image: "/assets/img/og/yanmar-6ey18-confirmed.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">GASKETS &amp; SEALS <span class="parts-cnt">2</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">746623-35450</span></td><td>Paper Insert (air cooler / manifold joint)</td></tr>
       <tr><td><span class="pnum">746623-35460</span></td><td>O-Ring Seal Kit (cylinder head / general engine)</td></tr>
@@ -43,7 +43,7 @@ image: "/assets/img/og/yanmar-6ey18-confirmed.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">ONBOARD TOOLS <span class="parts-cnt">8</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">28110100130</span></td><td>Double Ended Spanner 10×13</td></tr>
       <tr><td><span class="pnum">28110170190</span></td><td>Double Ended Spanner 17×19</td></tr>

@@ -10,7 +10,7 @@ image: "/assets/img/og/tank-washing-machine.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">OB/3025</span></td><td>Seal Insert</td></tr>
       <tr><td><span class="pnum">OB/3026</span></td><td>Seal</td></tr>

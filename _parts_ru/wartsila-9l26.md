@@ -10,7 +10,7 @@ image: "/assets/img/og/wartsila-9l26.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">1050004W26</span></td><td>Cylinder head gasket</td></tr>
       <tr><td><span class="pnum">1130014W26</span></td><td>Piston ring set</td></tr>

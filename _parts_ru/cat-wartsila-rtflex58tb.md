@@ -11,7 +11,7 @@ image: "/assets/img/og/cat-wartsila-rtflex58tb.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CYLINDER LINER &amp; LUBRICATION <span class="parts-cnt">4</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">OF 21355</span></td><td>Lubricating quill, complete, with accumulator (12 per liner)</td></tr>
       <tr><td><span class="pnum">OF 21368</span></td><td>Diaphragm for accumulator</td></tr>
@@ -24,7 +24,7 @@ image: "/assets/img/og/cat-wartsila-rtflex58tb.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CYLINDER COVER &amp; VALVES (27) <span class="parts-cnt">14</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">OF 27100</span></td><td>Cylinder cover, complete, without valves</td></tr>
       <tr><td><span class="pnum">OF 27109</span></td><td>Elastic stud for cyl. cover</td></tr>
@@ -48,7 +48,7 @@ image: "/assets/img/og/cat-wartsila-rtflex58tb.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CONNECTING ROD BEARINGS (33) <span class="parts-cnt">8</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">OF 33120</span></td><td>Upper bearing half for top end bearing, white metal lined</td></tr>
       <tr><td><span class="pnum">OF 33150</span></td><td>Bearing shell, lower half, for top end bearing</td></tr>
@@ -65,7 +65,7 @@ image: "/assets/img/og/cat-wartsila-rtflex58tb.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">PISTON (34) <span class="parts-cnt">5</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">OF 34000</span></td><td>Piston, complete (head, skirt, rod, screws — no rings)</td></tr>
       <tr><td><span class="pnum">OF 34420</span></td><td>Piston rings</td></tr>
@@ -79,7 +79,7 @@ image: "/assets/img/og/cat-wartsila-rtflex58tb.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">GLAND BOX / SCAVENGE / HYDRAULIC PIPING <span class="parts-cnt">10</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">OF 23100</span></td><td>Gland box piston rod, complete, casing in 2 parts</td></tr>
       <tr><td><span class="pnum">OF 64210</span></td><td>Scavenge air receiver flap</td></tr>
@@ -99,7 +99,7 @@ image: "/assets/img/og/cat-wartsila-rtflex58tb.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CONTROL SYSTEM (WECS-9500 / DENIS-9) <span class="parts-cnt">22</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">OF 96310</span></td><td>Spare parts for engine control system DENIS-9</td></tr>
       <tr><td><span class="pnum">OF 96330</span></td><td>Spare parts for alarm system DENIS-9</td></tr>
@@ -137,7 +137,7 @@ image: "/assets/img/og/cat-wartsila-rtflex58tb.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">SUPPLY UNIT (FUEL / SERVO OIL) <span class="parts-cnt">9</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">OF 55516</span></td><td>Pinion to pump drive servo oil</td></tr>
       <tr><td><span class="pnum">OF 55518</span></td><td>Shaft</td></tr>

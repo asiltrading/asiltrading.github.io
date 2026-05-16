@@ -11,7 +11,7 @@ image: "/assets/img/og/alfa-laval-lkh.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">ALFA LAVAL LKH CENTRIFUGAL PUMP – SEAL KITS <span class="parts-cnt">15</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">9611-99-2145</span></td><td>Rotating O-Ring EPDM standard (pos. for multiple LKH sizes)</td></tr>
       <tr><td><span class="pnum">9612-1296-09</span></td><td>C/SC Seal Kit EPDM (carbon/silicon carbide faces)</td></tr>
@@ -35,7 +35,7 @@ image: "/assets/img/og/alfa-laval-lkh.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">ALFA LAVAL LKH – AGITATOR / SPARE PART KITS <span class="parts-cnt">13</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">TE2601000351</span></td><td>Spider PUR (coupling element) – LKH agitator shaft – 25mm shaft (alt: TE2601000352)</td></tr>
       <tr><td><span class="pnum">TE2601000243</span></td><td>O-Ring FEP – shaft size OD 25mm</td></tr>

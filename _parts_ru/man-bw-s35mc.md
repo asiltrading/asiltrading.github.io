@@ -10,7 +10,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90151-010</span></td><td>Panel for tools</td></tr>
       <tr><td><span class="pnum">90151-022</span></td><td>Name plate</td></tr>
@@ -28,7 +28,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90161-027</span></td><td>Hydraulic jack cylinder cover</td></tr>
       <tr><td><span class="pnum">90161-039</span></td><td>Support</td></tr>
@@ -44,7 +44,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90251-014</span></td><td>Panel for tools</td></tr>
       <tr><td><span class="pnum">90251-026</span></td><td>Name plate</td></tr>
@@ -66,7 +66,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90261-019</span></td><td>Guide ring for piston</td></tr>
     </tbody>
@@ -75,7 +75,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90264-015</span></td><td>Collar ring for piston</td></tr>
       <tr><td><span class="pnum">90264-027</span></td><td>Support for tilting tool</td></tr>
@@ -85,7 +85,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90265-010</span></td><td>Support for piston</td></tr>
     </tbody>
@@ -94,7 +94,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90266-016</span></td><td>Lifting tool for piston</td></tr>
     </tbody>
@@ -103,7 +103,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90361-036</span></td><td>Cylinder gauge, complete</td></tr>
     </tbody>
@@ -112,7 +112,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90366-021</span></td><td>Crossbar for cylinder liner</td></tr>
     </tbody>
@@ -121,7 +121,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90451-011</span></td><td>Panel for tools</td></tr>
       <tr><td><span class="pnum">90451-023</span></td><td>Name plate</td></tr>
@@ -142,7 +142,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90461-028</span></td><td>Hydraulic jack</td></tr>
       <tr><td><span class="pnum">90461-030</span></td><td>Support</td></tr>
@@ -158,7 +158,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90464-024</span></td><td>Jack-hydrualic, complete</td></tr>
       <tr><td><span class="pnum">90464-036</span></td><td>Support</td></tr>
@@ -174,7 +174,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90551-015</span></td><td>Panel for tools</td></tr>
       <tr><td><span class="pnum">90551-027</span></td><td>Name plate</td></tr>
@@ -191,7 +191,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90561-021</span></td><td>Hydraulic jack, upper, complete</td></tr>
       <tr><td><span class="pnum">90561-033</span></td><td>Hydraulic jack, lower, complete</td></tr>
@@ -209,7 +209,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90562-015</span></td><td>Support</td></tr>
       <tr><td><span class="pnum">90562-027</span></td><td>Screw with special head</td></tr>
@@ -220,7 +220,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90564-016</span></td><td>Measuring tool for axial movement</td></tr>
     </tbody>
@@ -229,7 +229,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90572-010</span></td><td>Measuring tool main bearing</td></tr>
       <tr><td><span class="pnum">90572-021</span></td><td>Calibration tool</td></tr>
@@ -241,7 +241,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90651-019</span></td><td>Panel for tools</td></tr>
       <tr><td><span class="pnum">90651-020</span></td><td>Name plate</td></tr>
@@ -255,7 +255,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90664-010</span></td><td>Pin gauge for crankshaft</td></tr>
     </tbody>
@@ -264,7 +264,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90668-011</span></td><td>Pin gauge for camshaft</td></tr>
     </tbody>
@@ -273,7 +273,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90851-016</span></td><td>Panel for tools</td></tr>
       <tr><td><span class="pnum">90851-028</span></td><td>Name plate</td></tr>
@@ -291,7 +291,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90861-010</span></td><td>Support grinding machine*</td></tr>
     </tbody>
@@ -300,7 +300,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90862-028</span></td><td>Hydraulic jack, complete</td></tr>
       <tr><td><span class="pnum">90862-030</span></td><td>Support</td></tr>
@@ -316,7 +316,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90863-011</span></td><td>Worktable</td></tr>
     </tbody>
@@ -325,7 +325,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90951-010</span></td><td>Panel for tools</td></tr>
       <tr><td><span class="pnum">90951-021</span></td><td>Name plate</td></tr>
@@ -349,7 +349,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90961-014</span></td><td>Connection piece</td></tr>
       <tr><td><span class="pnum">90961-026</span></td><td>Test rig</td></tr>
@@ -373,7 +373,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90966-011</span></td><td>Tool box</td></tr>
       <tr><td><span class="pnum">90966-023</span></td><td>Extractor for atomizer</td></tr>
@@ -387,7 +387,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90968-012</span></td><td>Probe light with magnifier, complete</td></tr>
     </tbody>
@@ -396,7 +396,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90974-015</span></td><td>Drill*</td></tr>
       <tr><td><span class="pnum">90974-027</span></td><td>Test mandrel*</td></tr>
@@ -408,7 +408,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90980-018</span></td><td>Cone</td></tr>
       <tr><td><span class="pnum">90980-020</span></td><td>Pushing tool</td></tr>
@@ -422,7 +422,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91063-015</span></td><td>Guide rail, air cooler fore end</td></tr>
       <tr><td><span class="pnum">91063-027</span></td><td>Guide rail, air cooler fore end</td></tr>
@@ -432,7 +432,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91064-010</span></td><td>Travelling trolley*</td></tr>
     </tbody>
@@ -441,7 +441,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91066-011</span></td><td>Lifting attachment air cooler fore end,</td></tr>
       <tr><td><span class="pnum">91066-023</span></td><td>Screw</td></tr>
@@ -454,7 +454,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91261-023</span></td><td>Hydraulic jack, complete</td></tr>
       <tr><td><span class="pnum">91261-035</span></td><td>Support</td></tr>
@@ -470,7 +470,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91263-024</span></td><td>Hydraulic jack for end-chock bolt M48</td></tr>
       <tr><td><span class="pnum">91263-036</span></td><td>Hydraulic jack for holding-down bolt</td></tr>
@@ -489,7 +489,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91351-010</span></td><td>Hydraulic pump, pneumatic operated</td></tr>
       <tr><td><span class="pnum">91351-046</span></td><td>Hose with unions (1500mm), complete</td></tr>
@@ -509,7 +509,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91356-018</span></td><td>Forged-bent screw shackle, 8mm</td></tr>
       <tr><td><span class="pnum">91356-020</span></td><td>Forged-bent screw shackle, 10mm</td></tr>
@@ -528,7 +528,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91357-013</span></td><td>Open-ended spanner, size NV65mm</td></tr>
     </tbody>
@@ -537,7 +537,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91358-020</span></td><td>Open-ended slugging spanner, size</td></tr>
       <tr><td><span class="pnum">91358-081</span></td><td>Open-ended slugging spanner, size</td></tr>
@@ -547,7 +547,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91359-014</span></td><td>Torque wrench, 8 - 400Nm</td></tr>
       <tr><td><span class="pnum">91359-026</span></td><td>Adapter for socket wrench, 10 x 12.5</td></tr>
@@ -559,7 +559,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91360-010</span></td><td>Pliers for retaining ring, size 0.9mm</td></tr>
       <tr><td><span class="pnum">91360-021</span></td><td>Pliers for retaining ring, size 1.3mm</td></tr>
@@ -574,7 +574,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91361-015</span></td><td>Combination spanners, size NV10mm</td></tr>
       <tr><td><span class="pnum">91361-027</span></td><td>Combination spanners, size NV11mm</td></tr>
@@ -605,7 +605,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91362-010</span></td><td>Slugging spanners, ring size NV30mm</td></tr>
       <tr><td><span class="pnum">91362-022</span></td><td>Slugging spanners, ring size NV32mm</td></tr>
@@ -623,7 +623,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91363-016</span></td><td>Tool set, complete, size 10-22 mm</td></tr>
       <tr><td><span class="pnum">91363-028</span></td><td>Tool set, complete, size 24-46 mm</td></tr>
@@ -638,7 +638,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91364-011</span></td><td>Open ring wrench, 14 - 17mm</td></tr>
       <tr><td><span class="pnum">91364-023</span></td><td>Open ring wrench, 19 - 22mm</td></tr>
@@ -648,7 +648,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91366-048</span></td><td>Autolog, measuring tool for crankshaft</td></tr>
       <tr><td><span class="pnum">91366-050</span></td><td>Feeler gauge</td></tr>
@@ -660,7 +660,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90101-018</span></td><td>Nut</td></tr>
       <tr><td><span class="pnum">90101-031</span></td><td>Stud</td></tr>
@@ -679,7 +679,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90103-019</span></td><td>Connecting piece</td></tr>
       <tr><td><span class="pnum">90103-032</span></td><td>Extension</td></tr>
@@ -700,7 +700,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90201-011</span></td><td>Screw</td></tr>
       <tr><td><span class="pnum">90201-023</span></td><td>Screw</td></tr>
@@ -721,7 +721,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90205-013</span></td><td>O-ring</td></tr>
       <tr><td><span class="pnum">90205-025</span></td><td>Nut, self-locking</td></tr>
@@ -754,7 +754,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90301-015</span></td><td>Cover</td></tr>
       <tr><td><span class="pnum">90301-027</span></td><td>O-ring</td></tr>
@@ -801,7 +801,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90302-010</span></td><td>Cooling jacket</td></tr>
       <tr><td><span class="pnum">90302-022</span></td><td>Clamp</td></tr>
@@ -824,7 +824,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90304-011</span></td><td>Head, non-return valve</td></tr>
       <tr><td><span class="pnum">90304-023</span></td><td>Non-return valve</td></tr>
@@ -836,7 +836,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90305-017</span></td><td>Guard</td></tr>
       <tr><td><span class="pnum">90305-029</span></td><td>Lubricator</td></tr>
@@ -879,7 +879,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90309-019</span></td><td>Steel pipe</td></tr>
       <tr><td><span class="pnum">90309-020</span></td><td>Banjo coupling</td></tr>
@@ -901,7 +901,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90401-019</span></td><td>Screw</td></tr>
       <tr><td><span class="pnum">90401-020</span></td><td>Telescope pipe</td></tr>
@@ -945,7 +945,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90501-012</span></td><td>Crankshaft</td></tr>
       <tr><td><span class="pnum">90501-024</span></td><td>Chain wheel</td></tr>
@@ -960,7 +960,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90502-018</span></td><td>Cover</td></tr>
       <tr><td><span class="pnum">90502-031</span></td><td>Screw</td></tr>
@@ -981,7 +981,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90503-013</span></td><td>Measuring tool for axial movement,</td></tr>
       <tr><td><span class="pnum">90503-049</span></td><td>Screw</td></tr>
@@ -1007,7 +1007,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90504-019</span></td><td>Bracket</td></tr>
       <tr><td><span class="pnum">90504-020</span></td><td>Axial vibration monitor</td></tr>
@@ -1021,7 +1021,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90505-014</span></td><td>Screw</td></tr>
       <tr><td><span class="pnum">90505-026</span></td><td>Cover</td></tr>
@@ -1058,7 +1058,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90510-011</span></td><td>Turning gear</td></tr>
       <tr><td><span class="pnum">90510-023</span></td><td>Screw</td></tr>
@@ -1090,7 +1090,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90511-017</span></td><td>Screw</td></tr>
       <tr><td><span class="pnum">90511-029</span></td><td>Fitted bolt</td></tr>
@@ -1106,7 +1106,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90512-012</span></td><td>Screw</td></tr>
       <tr><td><span class="pnum">90512-024</span></td><td>Spring washer</td></tr>
@@ -1135,7 +1135,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90513-018</span></td><td>Bracket</td></tr>
       <tr><td><span class="pnum">90513-031</span></td><td>Screw</td></tr>
@@ -1161,7 +1161,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90601-016</span></td><td>Distance pipe</td></tr>
       <tr><td><span class="pnum">90601-028</span></td><td>Bracket</td></tr>
@@ -1196,7 +1196,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90602-011</span></td><td>Lub.oil pipe</td></tr>
       <tr><td><span class="pnum">90602-023</span></td><td>Lub.oil pipe</td></tr>
@@ -1209,7 +1209,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90603-017</span></td><td>Distance piece</td></tr>
       <tr><td><span class="pnum">90603-029</span></td><td>Shaft</td></tr>
@@ -1242,7 +1242,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90611-010</span></td><td>Repair cam - fuel, complete*</td></tr>
       <tr><td><span class="pnum">90611-022</span></td><td>Screw*</td></tr>
@@ -1264,7 +1264,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90612-016</span></td><td>PMI system, user’s guide</td></tr>
       <tr><td><span class="pnum">90612-028</span></td><td>PMI system, installation</td></tr>
@@ -1284,7 +1284,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90613-011</span></td><td>Connecting pipe</td></tr>
       <tr><td><span class="pnum">90613-023</span></td><td>Gasket</td></tr>
@@ -1306,7 +1306,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90615-012</span></td><td>Governor</td></tr>
       <tr><td><span class="pnum">90615-024</span></td><td>Screw</td></tr>
@@ -1343,7 +1343,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90618-019</span></td><td>Bearing, complete</td></tr>
       <tr><td><span class="pnum">90618-020</span></td><td>Nut, self-locking</td></tr>
@@ -1388,7 +1388,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90620-021</span></td><td>Vibration damper</td></tr>
       <tr><td><span class="pnum">90620-033</span></td><td>Bracket</td></tr>
@@ -1438,7 +1438,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90621-015</span></td><td>Nut, self-locking</td></tr>
       <tr><td><span class="pnum">90621-027</span></td><td>Screw</td></tr>
@@ -1478,7 +1478,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90648-012</span></td><td>Assy of valves</td></tr>
       <tr><td><span class="pnum">90648-036</span></td><td>3/2-way valve, pneumatic</td></tr>
@@ -1515,7 +1515,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90702-015</span></td><td>Screw Note: Note: Note: Note: Note:</td></tr>
       <tr><td><span class="pnum">90702-027</span></td><td>Name plate, “working”</td></tr>
@@ -1570,7 +1570,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90703-010</span></td><td>Spring pin</td></tr>
       <tr><td><span class="pnum">90703-022</span></td><td>Screw</td></tr>
@@ -1610,7 +1610,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90704-016</span></td><td>Cover</td></tr>
       <tr><td><span class="pnum">90704-028</span></td><td>Gasket</td></tr>
@@ -1631,7 +1631,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90801-013</span></td><td>Spring pin</td></tr>
       <tr><td><span class="pnum">90801-025</span></td><td>Sealing ring</td></tr>
@@ -1659,7 +1659,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90802-019</span></td><td>Sealing air control unit</td></tr>
       <tr><td><span class="pnum">90802-020</span></td><td>Elbow coupling</td></tr>
@@ -1684,7 +1684,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90803-014</span></td><td>Oil cylinder</td></tr>
       <tr><td><span class="pnum">90803-038</span></td><td>Sealing ring</td></tr>
@@ -1735,7 +1735,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90804-021</span></td><td>Sealing ring</td></tr>
       <tr><td><span class="pnum">90804-033</span></td><td>Valve housing</td></tr>
@@ -1748,7 +1748,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90805-015</span></td><td>Oil cylinder</td></tr>
       <tr><td><span class="pnum">90805-027</span></td><td>Nut</td></tr>
@@ -1779,7 +1779,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90806-010</span></td><td>Thrust flange</td></tr>
       <tr><td><span class="pnum">90806-022</span></td><td>Spring ring</td></tr>
@@ -1804,7 +1804,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90810-012</span></td><td>Flange</td></tr>
       <tr><td><span class="pnum">90810-024</span></td><td>Screw</td></tr>
@@ -1827,7 +1827,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90902-012</span></td><td>Sealing ring Scraper ring, axial</td></tr>
       <tr><td><span class="pnum">90902-024</span></td><td>Spring Screw</td></tr>
@@ -1884,7 +1884,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90910-004</span></td><td>Fuel valve, complete</td></tr>
       <tr><td><span class="pnum">90910-016</span></td><td>Guide pin</td></tr>
@@ -1913,7 +1913,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90913-012</span></td><td>High-pressure pipe, complete</td></tr>
       <tr><td><span class="pnum">90913-024</span></td><td>Spring pin</td></tr>
@@ -1938,7 +1938,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90914-018</span></td><td>Steel pipe</td></tr>
       <tr><td><span class="pnum">90914-031</span></td><td>Steel pipe</td></tr>
@@ -1967,7 +1967,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90915-013</span></td><td>Drain box, complete</td></tr>
       <tr><td><span class="pnum">90915-013</span></td><td>Plug screw</td></tr>
@@ -2005,7 +2005,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91001-017</span></td><td>Screw</td></tr>
       <tr><td><span class="pnum">91001-029</span></td><td>Cover</td></tr>
@@ -2029,7 +2029,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91002-012</span></td><td>Insulation cover*</td></tr>
       <tr><td><span class="pnum">91002-024</span></td><td>Screw</td></tr>
@@ -2045,7 +2045,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91003-018</span></td><td>Screw*</td></tr>
       <tr><td><span class="pnum">91003-031</span></td><td>Washer</td></tr>
@@ -2075,7 +2075,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91004-013</span></td><td>Screw*</td></tr>
       <tr><td><span class="pnum">91004-025</span></td><td>Distance pipe</td></tr>
@@ -2101,7 +2101,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91005-019</span></td><td>Reversing chamber</td></tr>
       <tr><td><span class="pnum">91005-020</span></td><td>Lock washer</td></tr>
@@ -2125,7 +2125,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91006-014</span></td><td>Valve flap</td></tr>
       <tr><td><span class="pnum">91006-026</span></td><td>Support</td></tr>
@@ -2147,7 +2147,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91009-010</span></td><td>Coupling</td></tr>
       <tr><td><span class="pnum">91009-022</span></td><td>Coupling, complete</td></tr>
@@ -2186,7 +2186,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91010-016</span></td><td>Distance pipe</td></tr>
       <tr><td><span class="pnum">91010-028</span></td><td>Screw</td></tr>
@@ -2221,7 +2221,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91018-021</span></td><td>Packing</td></tr>
       <tr><td><span class="pnum">91018-033</span></td><td>Screw</td></tr>
@@ -2241,7 +2241,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91101-010</span></td><td>Spindle</td></tr>
       <tr><td><span class="pnum">91101-022</span></td><td>Spring retainer</td></tr>
@@ -2259,7 +2259,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91102-016</span></td><td>Relief valve (P.C.D. 302mm) *</td></tr>
       <tr><td><span class="pnum">91102-028</span></td><td>Screw*</td></tr>
@@ -2271,7 +2271,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91103-011</span></td><td>Safety valve, complete</td></tr>
       <tr><td><span class="pnum">91103-035</span></td><td>Spindle</td></tr>
@@ -2291,7 +2291,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91104-017</span></td><td>Starting air pipe</td></tr>
       <tr><td><span class="pnum">91104-029</span></td><td>Starting air pipe</td></tr>
@@ -2314,7 +2314,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91201-014</span></td><td>Screw</td></tr>
       <tr><td><span class="pnum">91201-026</span></td><td>Protective cap</td></tr>
@@ -2332,7 +2332,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91205-016</span></td><td>Frame</td></tr>
       <tr><td><span class="pnum">91205-028</span></td><td>Frame door</td></tr>
@@ -2368,7 +2368,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91207-017</span></td><td>Slotted pipe</td></tr>
       <tr><td><span class="pnum">91207-029</span></td><td>Screw</td></tr>
@@ -2392,7 +2392,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91208-012</span></td><td>Screw</td></tr>
       <tr><td><span class="pnum">91208-024</span></td><td>Guide pin</td></tr>
@@ -2416,7 +2416,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91209-018</span></td><td>Cover</td></tr>
       <tr><td><span class="pnum">91209-055</span></td><td>Cover</td></tr>
@@ -2439,7 +2439,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91210-013</span></td><td>Lubricating oil pipe, main bearing</td></tr>
       <tr><td><span class="pnum">91210-025</span></td><td>Gasket</td></tr>
@@ -2490,7 +2490,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91211-019</span></td><td>Spring</td></tr>
       <tr><td><span class="pnum">91211-020</span></td><td>Spring</td></tr>
@@ -2513,7 +2513,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91216-016</span></td><td>Liner</td></tr>
       <tr><td><span class="pnum">91216-028</span></td><td>Nut</td></tr>
@@ -2540,7 +2540,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">PLATE 91366 – INSTRUMENTS <span class="parts-cnt">4</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91217-011</span></td><td>Screw, short*</td></tr>
       <tr><td><span class="pnum">91217-023</span></td><td>Friction shim</td></tr>

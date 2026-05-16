@@ -10,7 +10,7 @@ image: "/assets/img/og/cummins-kta38-m2.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">3007525</span></td><td>Liner KIT, Cylinder</td></tr>
       <tr><td><span class="pnum">3803530</span></td><td>Piston Kit</td></tr>

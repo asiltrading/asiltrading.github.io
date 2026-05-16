@@ -10,7 +10,7 @@ image: "/assets/img/og/cummins-nt855.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">3077201</span></td><td>Aftercooler housing gasket</td></tr>
       <tr><td><span class="pnum">3006456</span></td><td>Valve stem guide</td></tr>

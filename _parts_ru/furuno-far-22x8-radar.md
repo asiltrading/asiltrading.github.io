@@ -10,7 +10,7 @@ image: "/assets/img/og/furuno-far-22x8-radar.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">FNE1201</span></td><td>Magnetron, 12 kW X-band (FAR-2218 / FAR-2318) – FAR-22x8 / FAR-23x8</td></tr>
       <tr><td><span class="pnum">MG5436</span></td><td>Magnetron, 25 kW X-band (FAR-2228 / FAR-2328) – FAR-22x8 / FAR-23x8</td></tr>

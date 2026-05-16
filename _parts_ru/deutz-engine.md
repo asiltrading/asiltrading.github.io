@@ -10,7 +10,7 @@ image: "/assets/img/og/deutz-engine.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">0409 3312</span></td><td>Rectangular ring (New PN: 0409 4639)</td></tr>
       <tr><td><span class="pnum">0409 3313</span></td><td>Taper-faced ring</td></tr>

@@ -10,7 +10,7 @@ image: "/assets/img/og/yanmar-6ey18.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">746623-01560</span></td><td>Block, Cylinder</td></tr>
       <tr><td><span class="pnum">146623-01010</span></td><td>Block, Cylinder</td></tr>

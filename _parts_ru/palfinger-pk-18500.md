@@ -10,7 +10,7 @@ image: "/assets/img/og/palfinger-pk-18500.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">EQ 304</span></td><td>Circlip D 205 DIN 471 – PK 18500</td></tr>
       <tr><td><span class="pnum">HT7778</span></td><td>Folding arrow / indicator – PK 18500</td></tr>

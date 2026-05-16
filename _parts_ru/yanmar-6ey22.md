@@ -11,7 +11,7 @@ image: "/assets/img/og/yanmar-6ey22.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CYLINDER HEAD <span class="parts-cnt">2</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">746623-11100C</span></td><td>Cylinder Cover Complete – c/w valve seat+valve+guide+springs</td></tr>
       <tr><td><span class="pnum">746673-15104</span></td><td>Indicator Cock Assembly (alt: 746673-15104-S)</td></tr>
@@ -22,7 +22,7 @@ image: "/assets/img/og/yanmar-6ey22.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">FUEL INJECTION <span class="parts-cnt">5</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">746623-51101</span></td><td>Fuel Injection Pump Complete (per cylinder)</td></tr>
       <tr><td><span class="pnum">750633-53200</span></td><td>Fuel Injector Complete</td></tr>
@@ -36,7 +36,7 @@ image: "/assets/img/og/yanmar-6ey22.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">GASKETS &amp; SEALS <span class="parts-cnt">2</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">746623-35450</span></td><td>Paper Insert</td></tr>
       <tr><td><span class="pnum">746623-35460</span></td><td>O-Ring Seal Kit</td></tr>
@@ -47,7 +47,7 @@ image: "/assets/img/og/yanmar-6ey22.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">INSTRUMENTS &amp; SENSORS <span class="parts-cnt">7</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">46150-053950</span></td><td>Resistance Thermometer (cooling water / LO temp)</td></tr>
       <tr><td><span class="pnum">46150-065850</span></td><td>Resistance Thermometer (alt.)</td></tr>
@@ -63,7 +63,7 @@ image: "/assets/img/og/yanmar-6ey22.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">BEARINGS <span class="parts-cnt">1</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">40000-018240</span></td><td>Bearing (verify application from engine drawing)</td></tr>
     </tbody>
@@ -73,7 +73,7 @@ image: "/assets/img/og/yanmar-6ey22.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">STANDARD FASTENERS <span class="parts-cnt">5</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">26703-120002</span></td><td>Nut M12 (alt: 26706-120002)</td></tr>
       <tr><td><span class="pnum">26732-160002</span></td><td>Nut M16 (alt: 26772-160002)</td></tr>

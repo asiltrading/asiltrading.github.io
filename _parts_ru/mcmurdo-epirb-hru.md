@@ -10,7 +10,7 @@ image: "/assets/img/og/mcmurdo-epirb-hru.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">23-270</span></td><td>Battery Pack, replacement (3× lithium iron disulphide cells, 10-yr life) – SmartFind G8 / E8 EPIRB</td></tr>
       <tr><td><span class="pnum">23-145A</span></td><td>HRU Replacement Kit – Hammar unit + safety bolt + seals + clip – SmartFind G8 / E8</td></tr>

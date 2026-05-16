@@ -10,7 +10,7 @@ image: "/assets/img/og/alfa-laval-mapx-204.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">528137-02</span></td><td>Lock ring, bowl (left-hand thread) – MAPX 204 TGT-24</td></tr>
       <tr><td><span class="pnum">517774-29</span></td><td>Gasket (large lock ring area) – MAPX 204</td></tr>

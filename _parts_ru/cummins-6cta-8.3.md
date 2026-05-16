@@ -10,7 +10,7 @@ image: "/assets/img/og/cummins-6cta-8.3.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">3907177</span></td><td>Seal - Liner</td></tr>
       <tr><td><span class="pnum">3800328</span></td><td>Liner Kit (New PN: 3948095)</td></tr>

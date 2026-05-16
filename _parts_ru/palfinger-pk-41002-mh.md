@@ -10,7 +10,7 @@ image: "/assets/img/og/palfinger-pk-41002-mh.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">EA2168</span></td><td>High-pressure filter (FFST →SN 100137505) – PK 41002 MH</td></tr>
       <tr><td><span class="pnum">EA2169 / EA4925</span></td><td>Filter element (from BJ 09/2004; SN 100137506→) – PK 41002 MH</td></tr>

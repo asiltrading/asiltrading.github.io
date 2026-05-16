@@ -10,7 +10,7 @@ image: "/assets/img/og/hatlapa-w-series-compressors.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">3902–3980 series</span></td><td>Valve gasket / O-ring – LP valve (various) – W-series</td></tr>
       <tr><td><span class="pnum">3102–3126 series</span></td><td>Valve plate (LP / HP) – standard range – W-series</td></tr>

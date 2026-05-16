@@ -10,7 +10,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90101-018</span></td><td>Disc</td></tr>
       <tr><td><span class="pnum">90101-031</span></td><td>Disc spring</td></tr>
@@ -40,7 +40,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90201-011</span></td><td>Screw</td></tr>
       <tr><td><span class="pnum">90201-035</span></td><td>Screw</td></tr>
@@ -62,7 +62,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90205-013</span></td><td>O-ring</td></tr>
       <tr><td><span class="pnum">90205-025</span></td><td>Top scraper ring</td></tr>
@@ -86,7 +86,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90301-015</span></td><td>Gasket 650 Screw</td></tr>
       <tr><td><span class="pnum">90301-027</span></td><td>Distance pipe, L=80 674 Washer</td></tr>
@@ -144,7 +144,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90302-010</span></td><td>Non-return valve, complete</td></tr>
       <tr><td><span class="pnum">90302-022</span></td><td>Thrust piece</td></tr>
@@ -173,7 +173,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90305-017</span></td><td>Guard</td></tr>
       <tr><td><span class="pnum">90305-029</span></td><td>Screw</td></tr>
@@ -216,7 +216,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90401-019</span></td><td>Screw</td></tr>
       <tr><td><span class="pnum">90401-044</span></td><td>Nut</td></tr>
@@ -256,7 +256,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90505-014</span></td><td>Locking wire</td></tr>
       <tr><td><span class="pnum">90505-026</span></td><td>Screw</td></tr>
@@ -307,7 +307,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90510-011</span></td><td>Bracket</td></tr>
       <tr><td><span class="pnum">90510-023</span></td><td>Nut</td></tr>
@@ -351,7 +351,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90601-016</span></td><td>Locking wire</td></tr>
       <tr><td><span class="pnum">90601-028</span></td><td>Disc</td></tr>
@@ -383,7 +383,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90603-017</span></td><td>Chain wheel</td></tr>
       <tr><td><span class="pnum">90603-029</span></td><td>Cup point screw</td></tr>
@@ -414,7 +414,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90605-018</span></td><td>Chain wheel</td></tr>
       <tr><td><span class="pnum">90605-031</span></td><td>Locking wire</td></tr>
@@ -436,7 +436,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90610-015</span></td><td>Chain wheel</td></tr>
       <tr><td><span class="pnum">90610-027</span></td><td>Chain wheel</td></tr>
@@ -465,7 +465,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90613-011</span></td><td>End cover</td></tr>
       <tr><td><span class="pnum">90613-035</span></td><td>Housing</td></tr>
@@ -500,7 +500,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90615-012</span></td><td>Bracket</td></tr>
       <tr><td><span class="pnum">90615-024</span></td><td>Screw</td></tr>
@@ -521,7 +521,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90619-014</span></td><td>Nut</td></tr>
       <tr><td><span class="pnum">90619-026</span></td><td>Fitted bolt</td></tr>
@@ -544,7 +544,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90620-021</span></td><td>Spring lock</td></tr>
       <tr><td><span class="pnum">90620-033</span></td><td>Screw</td></tr>
@@ -586,7 +586,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90622-010</span></td><td>Handle 619 Screw</td></tr>
       <tr><td><span class="pnum">90622-022</span></td><td>Stud 620 Angle lever</td></tr>
@@ -644,7 +644,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90702-015</span></td><td>Securing plate</td></tr>
       <tr><td><span class="pnum">90702-027</span></td><td>Screw</td></tr>
@@ -702,7 +702,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90703-010</span></td><td>Top guard 632 Pin</td></tr>
       <tr><td><span class="pnum">90703-022</span></td><td>Shaft 644 Circlip</td></tr>
@@ -749,7 +749,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90704-016</span></td><td>Screw</td></tr>
       <tr><td><span class="pnum">90704-028</span></td><td>Locking plate</td></tr>
@@ -767,7 +767,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90805-015</span></td><td>Nut</td></tr>
       <tr><td><span class="pnum">90805-027</span></td><td>Oil cylinder</td></tr>
@@ -803,7 +803,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90810-012</span></td><td>Outlet pipe</td></tr>
       <tr><td><span class="pnum">90810-024</span></td><td>Screw</td></tr>
@@ -838,7 +838,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90902-012</span></td><td>Fuel pump roller guide, complete 695 Retaining ring</td></tr>
       <tr><td><span class="pnum">90902-024</span></td><td>Shaft-pin for link 705 Plug screw</td></tr>
@@ -896,7 +896,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90905-019</span></td><td>Shaft</td></tr>
       <tr><td><span class="pnum">90905-020</span></td><td>Guide for reversing</td></tr>
@@ -927,7 +927,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90910-016</span></td><td>Nozzle</td></tr>
       <tr><td><span class="pnum">90910-028</span></td><td>O-ring</td></tr>
@@ -954,7 +954,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91001-030</span></td><td>Screw</td></tr>
       <tr><td><span class="pnum">91001-042</span></td><td>Nut</td></tr>
@@ -1006,7 +1006,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91003-018</span></td><td>Wing nut</td></tr>
       <tr><td><span class="pnum">91003-031</span></td><td>Washer</td></tr>
@@ -1048,7 +1048,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91004-013</span></td><td>Clamp</td></tr>
       <tr><td><span class="pnum">91004-025</span></td><td>Nut</td></tr>
@@ -1077,7 +1077,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91005-019</span></td><td>Cover</td></tr>
       <tr><td><span class="pnum">91005-020</span></td><td>Screw</td></tr>
@@ -1093,7 +1093,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91007-021</span></td><td>Nut</td></tr>
       <tr><td><span class="pnum">91007-033</span></td><td>Locking plate</td></tr>
@@ -1110,7 +1110,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91009-010</span></td><td>Packing</td></tr>
       <tr><td><span class="pnum">91009-022</span></td><td>Stud</td></tr>
@@ -1160,7 +1160,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91101-010</span></td><td>Spindle</td></tr>
       <tr><td><span class="pnum">91101-022</span></td><td>Spring retainer</td></tr>
@@ -1178,7 +1178,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91102-016</span></td><td>Relief valve</td></tr>
       <tr><td><span class="pnum">91102-028</span></td><td>Screw</td></tr>
@@ -1191,7 +1191,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91104-017</span></td><td>Protective guard, only cylinder 1</td></tr>
       <tr><td><span class="pnum">91104-029</span></td><td>Screw, only cylinder 1</td></tr>
@@ -1223,7 +1223,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91201-014</span></td><td>Screw</td></tr>
       <tr><td><span class="pnum">91201-026</span></td><td>Protective cap</td></tr>
@@ -1238,7 +1238,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">91205-016</span></td><td>Door at chain drive, upper</td></tr>
       <tr><td><span class="pnum">91205-028</span></td><td>Screw</td></tr>
@@ -1284,7 +1284,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90602-001</span></td><td>I Lub.oil pipe</td></tr>
       <tr><td><span class="pnum">90602-035</span></td><td>Lub.oil pipe</td></tr>
@@ -1312,7 +1312,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90903-018</span></td><td>Support</td></tr>
       <tr><td><span class="pnum">90903-031</span></td><td>Spring</td></tr>
@@ -1350,7 +1350,7 @@ image: "/assets/img/og/man-bw-l70mc.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">PLATE 91205 – FRAME BOX <span class="parts-cnt">38</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90904-001</span></td><td>3 Shock absorber, complete</td></tr>
       <tr><td><span class="pnum">90904-049</span></td><td>Gasket</td></tr>

@@ -10,7 +10,7 @@ image: "/assets/img/og/sperre-hl2-hv2-compressors.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">4124</span></td><td>Gasket kit – all flat gaskets, O-rings, sealing rings, valve gaskets – HL2/140</td></tr>
       <tr><td><span class="pnum">1405MK</span></td><td>Crankshaft kit – crankshaft + all bearings, flywheel key &amp; nut, Seeger-rings, endplate, screw – HL2/140</td></tr>

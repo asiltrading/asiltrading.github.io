@@ -10,7 +10,7 @@ image: "/assets/img/og/perkins-dj51434.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">4115P011</span></td><td>PISTON KIT &amp; RINGS</td></tr>
       <tr><td><span class="pnum">UPRK0003</span></td><td>PISTON RING</td></tr>

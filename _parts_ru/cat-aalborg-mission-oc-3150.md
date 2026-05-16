@@ -11,7 +11,7 @@ image: "/assets/img/og/cat-aalborg-mission-oc-3150.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">BOILER <span class="parts-cnt">8</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">8580 000001</span></td><td>Spring for safety valve</td></tr>
       <tr><td><span class="pnum">8590 000001</span></td><td>Glasses for water level gauge incl. gaskets</td></tr>
@@ -28,7 +28,7 @@ image: "/assets/img/og/cat-aalborg-mission-oc-3150.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">BURNER <span class="parts-cnt">5</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">8610 000068</span></td><td>Oil nozzle</td></tr>
       <tr><td><span class="pnum">8600 000002</span></td><td>Nozzle head</td></tr>
@@ -42,7 +42,7 @@ image: "/assets/img/og/cat-aalborg-mission-oc-3150.png"
 <div class="parts-table-wrap">
   <div class="parts-section-label">CONTROL PANEL <span class="parts-cnt">2</span></div>
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">8200 000011</span></td><td>Control box</td></tr>
       <tr><td><span class="pnum">8300 000005</span></td><td>Contactor for burner motor</td></tr>

@@ -10,7 +10,7 @@ image: "/assets/img/og/volvo-penta-d16.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">1079283</span></td><td>Connector</td></tr>
       <tr><td><span class="pnum">11013</span></td><td>Ball bearing</td></tr>

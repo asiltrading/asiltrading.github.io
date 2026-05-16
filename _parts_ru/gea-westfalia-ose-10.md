@@ -10,7 +10,7 @@ image: "/assets/img/og/gea-westfalia-ose-10.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">2065-1001-000</span></td><td>Lower section of frame (Gestellunterteil) – OSE 10-0196-./10</td></tr>
       <tr><td><span class="pnum">0011-8060-000</span></td><td>Spherical plain bearing (Gelenklager) – OSE 10</td></tr>

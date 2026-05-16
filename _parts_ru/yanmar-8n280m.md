@@ -10,7 +10,7 @@ image: "/assets/img/og/yanmar-8n280m.png"
 
 <div class="parts-table-wrap">
   <table>
-    <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
+    <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">101300-51390</span></td><td>Steel Ball</td></tr>
       <tr><td><span class="pnum">105582-34100</span></td><td>Sender, Lub Oil</td></tr>
