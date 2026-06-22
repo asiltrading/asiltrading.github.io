@@ -281,12 +281,6 @@ ul { list-style: none; }
   display: inline-flex; align-items: center; gap: 10px;
   margin-bottom: 26px;
 }
-.hero-dot {
-  width: 6px; height: 6px; border-radius: 50%;
-  background: var(--accent-cyan);
-  flex-shrink: 0;
-  box-shadow: 0 0 0 4px rgba(0, 200, 255, 0.18);
-}
 .hero-eyebrow-text {
   font-size: 11px;
   letter-spacing: 0.1em;
