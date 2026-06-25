@@ -57,8 +57,6 @@ layout: default
   {%- assign parts_index_url = "/ru/parts/" -%}
   {%- assign contact_url = "/ru/contact/" -%}
   {%- assign label_back = "Каталог запчастей" -%}
-  {%- assign label_howto_strong = "Как пользоваться этим списком:" -%}
-  {%- assign label_howto = "Номера деталей соответствуют сервисным руководствам OEM. Используйте кнопку запроса ниже, чтобы узнать цену и наличие. Укажите номер детали, количество и порт доставки." -%}
   {%- assign label_cta_heading = "Запросить запчасти для этого оборудования" -%}
   {%- assign label_cta_body = "Сообщите нам, что вам нужно." -%}
   {%- assign label_cta_btn = "Связаться с нами" -%}
@@ -67,8 +65,6 @@ layout: default
   {%- assign parts_index_url = "/parts/" -%}
   {%- assign contact_url = "/contact/" -%}
   {%- assign label_back = "Parts catalog" -%}
-  {%- assign label_howto_strong = "How to use this list:" -%}
-  {%- assign label_howto = "Part numbers match OEM service manuals. Use the request button below to ask about availability and pricing. Include the part number, quantity, and delivery port." -%}
   {%- assign label_cta_heading = "Request parts from this equipment" -%}
   {%- assign label_cta_body = "Tell us what you need." -%}
   {%- assign label_cta_btn = "Contact us" -%}
@@ -145,9 +141,6 @@ layout: default
 {% endif %}
 
 <div class="parts-content">
-  <div class="parts-info">
-    <strong>{{ label_howto_strong }}</strong> {{ label_howto }}
-  </div>
   {{ content }}
 </div>
 
