@@ -34,7 +34,7 @@ image: "/assets/img/og/volvo-penta-tamd165a.png"
       <tr><td><span class="pnum">3835913-9</span></td><td>INLET MANIFOLD</td></tr>
       <tr><td><span class="pnum">946472-8</span></td><td>Bolt for cooler cover fastening, M10 x 35 mm, material – stainless steel or non-ferrous metal</td></tr>
       <tr><td><span class="pnum">876701-4</span></td><td>Cooling system pipe for sea water circuit</td></tr>
-      <tr><td><span class="pnum">862857</span></td><td>Exhaust gas thermocouple DANFOSS 0…+600°C type</td></tr>
+      <tr><td><span class="pnum">862857</span></td><td>Exhaust gas thermocouple DANFOSS 0...+600°C type</td></tr>
       <tr><td><span class="pnum">6314-2RS2C3</span></td><td>Bearing POLAND</td></tr>
       <tr><td><span class="pnum">865964</span></td><td>CONNECTING ROD VOLVO PENTA</td></tr>
       <tr><td><span class="pnum">3826929</span></td><td>INLET MANIFOLD</td></tr>

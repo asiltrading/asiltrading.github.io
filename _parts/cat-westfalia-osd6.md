@@ -13,11 +13,11 @@ image: "/assets/img/og/cat-westfalia-osd6.png"
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
-      <tr><td><span class="pnum">2058-9902-000</span></td><td>Set of spare parts "bowl/hood" — 1 year / 8000 h (~20 gaskets)</td></tr>
-      <tr><td><span class="pnum">2058-9902-010</span></td><td>Set of spare parts "drive" 50 Hz — 1 year / 8000 h</td></tr>
-      <tr><td><span class="pnum">2058-9902-020</span></td><td>Set of spare parts "drive" 60 Hz — 1 year / 8000 h</td></tr>
-      <tr><td><span class="pnum">2058-9902-030</span></td><td>Set of spare parts "drive" 50 Hz — 2 years / 16000 h</td></tr>
-      <tr><td><span class="pnum">2058-9902-040</span></td><td>Set of spare parts "drive" 60 Hz — 2 years / 16000 h</td></tr>
+      <tr><td><span class="pnum">2058-9902-000</span></td><td>Set of spare parts "bowl/hood" – 1 year / 8000 h (~20 gaskets)</td></tr>
+      <tr><td><span class="pnum">2058-9902-010</span></td><td>Set of spare parts "drive" 50 Hz – 1 year / 8000 h</td></tr>
+      <tr><td><span class="pnum">2058-9902-020</span></td><td>Set of spare parts "drive" 60 Hz – 1 year / 8000 h</td></tr>
+      <tr><td><span class="pnum">2058-9902-030</span></td><td>Set of spare parts "drive" 50 Hz – 2 years / 16000 h</td></tr>
+      <tr><td><span class="pnum">2058-9902-040</span></td><td>Set of spare parts "drive" 60 Hz – 2 years / 16000 h</td></tr>
     </tbody>
   </table>
 </div>

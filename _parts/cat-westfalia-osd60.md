@@ -122,11 +122,11 @@ image: "/assets/img/og/cat-westfalia-osd60.png"
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
-      <tr><td><span class="pnum">2060-9902-040</span></td><td>Set of spare parts "bowl/hood" — 1 year / 8000 h (~22 gaskets + 100g grease 0015-0082-000)</td></tr>
-      <tr><td><span class="pnum">2060-9902-000</span></td><td>Set of spare parts "drive" 50 Hz — 1 year / 8000 h</td></tr>
-      <tr><td><span class="pnum">2060-9902-010</span></td><td>Set of spare parts "drive" 60 Hz — 1 year / 8000 h</td></tr>
-      <tr><td><span class="pnum">2060-9902-020</span></td><td>Set of spare parts "drive" 50 Hz — 2 years / 16000 h (+ bearings, 18 clutch shoes)</td></tr>
-      <tr><td><span class="pnum">2060-9902-030</span></td><td>Set of spare parts "drive" 60 Hz — 2 years / 16000 h (+ bearings, 12 clutch shoes)</td></tr>
+      <tr><td><span class="pnum">2060-9902-040</span></td><td>Set of spare parts "bowl/hood" – 1 year / 8000 h (~22 gaskets + 100g grease 0015-0082-000)</td></tr>
+      <tr><td><span class="pnum">2060-9902-000</span></td><td>Set of spare parts "drive" 50 Hz – 1 year / 8000 h</td></tr>
+      <tr><td><span class="pnum">2060-9902-010</span></td><td>Set of spare parts "drive" 60 Hz – 1 year / 8000 h</td></tr>
+      <tr><td><span class="pnum">2060-9902-020</span></td><td>Set of spare parts "drive" 50 Hz – 2 years / 16000 h (+ bearings, 18 clutch shoes)</td></tr>
+      <tr><td><span class="pnum">2060-9902-030</span></td><td>Set of spare parts "drive" 60 Hz – 2 years / 16000 h (+ bearings, 12 clutch shoes)</td></tr>
     </tbody>
   </table>
 </div>

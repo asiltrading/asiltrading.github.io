@@ -3,7 +3,7 @@ title: "Wärtsilä 26"
 model: "Wärtsilä 26"
 manufacturer: "Wärtsilä"
 category: "Engine"
-description: "Comprehensive spare parts reference for the Wärtsilä 26 series."
+description: "Spare parts reference for the Wärtsilä 26 series."
 image: "/assets/img/og/wartsila-26.png"
 
 ---

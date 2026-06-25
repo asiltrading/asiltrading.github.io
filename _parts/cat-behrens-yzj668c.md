@@ -1,5 +1,5 @@
 ---
-title: "Behrens Pumpen Pump Set — Hull YZJ2003-668C"
+title: "Behrens Pumpen Pump Set – Hull YZJ2003-668C"
 model: "Order 224755 / Hull YZJ2003-668C (34 pumps)"
 manufacturer: "Heinrich Behrens Pumpenfabrik"
 category: "Pumps & Valves"

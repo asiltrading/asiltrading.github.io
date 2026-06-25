@@ -79,7 +79,7 @@ image: "/assets/img/og-ru/cat-wartsila-rtflex96c.png"
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
-      <tr><td><span class="pnum">DF 34000</span></td><td>Piston, complete (head, skirt, rod, screws — no rings)</td></tr>
+      <tr><td><span class="pnum">DF 34000</span></td><td>Piston, complete (head, skirt, rod, screws – no rings)</td></tr>
       <tr><td><span class="pnum">DF 34065</span></td><td>Piston head</td></tr>
       <tr><td><span class="pnum">DF 34095</span></td><td>Piston skirt</td></tr>
       <tr><td><span class="pnum">DF 34425</span></td><td>Piston rings</td></tr>

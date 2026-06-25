@@ -3,7 +3,7 @@ title: "Volvo Penta D16C-A MG"
 model: "D16C-A MG"
 manufacturer: "Volvo Penta"
 category: "Engine"
-description: "Comprehensive spare parts reference for the Volvo Penta D16C-A MG."
+description: "Spare parts reference for the Volvo Penta D16C-A MG."
 image: "/assets/img/og/volvo-penta-d16.png"
 
 ---

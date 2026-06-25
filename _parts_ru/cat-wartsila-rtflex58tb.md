@@ -67,7 +67,7 @@ image: "/assets/img/og-ru/cat-wartsila-rtflex58tb.png"
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
-      <tr><td><span class="pnum">OF 34000</span></td><td>Piston, complete (head, skirt, rod, screws — no rings)</td></tr>
+      <tr><td><span class="pnum">OF 34000</span></td><td>Piston, complete (head, skirt, rod, screws – no rings)</td></tr>
       <tr><td><span class="pnum">OF 34420</span></td><td>Piston rings</td></tr>
       <tr><td><span class="pnum">OF 34421</span></td><td>Piston rings (lower set)</td></tr>
       <tr><td><span class="pnum">OF 34260</span></td><td>O-rings, locking plates, tap washers (set for 1 piston)</td></tr>

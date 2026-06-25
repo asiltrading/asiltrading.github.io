@@ -295,4 +295,4 @@ image: "/assets/img/og/cat-man-bw-k98me.png"
   </table>
 </div>
 
-<p><em>Ordering convention: MAN B&W spare parts are not flat part numbers — order using "Plate No. (P9xxxx-eeee) + Item No. + Engine DS No. (09092965 for this engine)". Example: "Plate P90201-0224, Item 035, DS 09092965 — Piston ring no. 1".</em></p>
+<p><em>Ordering convention: MAN B&W spare parts are not flat part numbers – order using "Plate No. (P9xxxx-eeee) + Item No. + Engine DS No. (09092965 for this engine)". Example: "Plate P90201-0224, Item 035, DS 09092965 – Piston ring no. 1".</em></p>

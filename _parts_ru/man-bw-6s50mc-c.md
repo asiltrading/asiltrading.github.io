@@ -377,7 +377,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
       <tr><td><span class="pnum">90502-317</span></td><td>Nut</td></tr>
       <tr><td><span class="pnum">90502-329</span></td><td>Nut for hydraulic tightening</td></tr>
       <tr><td><span class="pnum">90502-330</span></td><td>Disc</td></tr>
-      <tr><td><span class="pnum">90502-354</span></td><td>Shield “Fore”, complete</td></tr>
+      <tr><td><span class="pnum">90502-354</span></td><td>Shield "Fore", complete</td></tr>
     </tbody>
   </table>
 </div>
@@ -846,7 +846,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
       <tr><td><span class="pnum">90702-015</span></td><td>Screw Note:</td></tr>
       <tr><td><span class="pnum">90702-027</span></td><td>Switch</td></tr>
       <tr><td><span class="pnum">90702-039</span></td><td>Distance pipe * When ordering spare parts for this item,</td></tr>
-      <tr><td><span class="pnum">90702-052</span></td><td>Screw please state manufacturer’s Part No.</td></tr>
+      <tr><td><span class="pnum">90702-052</span></td><td>Screw please state manufacturer's Part No.</td></tr>
       <tr><td><span class="pnum">90702-064</span></td><td>Plate</td></tr>
       <tr><td><span class="pnum">90702-076</span></td><td>Ball valve with actuator*</td></tr>
       <tr><td><span class="pnum">90702-111</span></td><td>Plug screw</td></tr>
@@ -885,7 +885,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
       <tr><td><span class="pnum">90702-517</span></td><td>Housing</td></tr>
       <tr><td><span class="pnum">90702-529</span></td><td>Non-return valve</td></tr>
       <tr><td><span class="pnum">90702-530</span></td><td>Nut</td></tr>
-      <tr><td><span class="pnum">90702-542</span></td><td>Screw, adjusting for “Slow-turning”</td></tr>
+      <tr><td><span class="pnum">90702-542</span></td><td>Screw, adjusting for "Slow-turning"</td></tr>
       <tr><td><span class="pnum">90702-900</span></td><td>Repair kit, actuator*</td></tr>
       <tr><td><span class="pnum">90702-924</span></td><td>Repair kit, ball valve*</td></tr>
     </tbody>
@@ -1356,7 +1356,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
-      <tr><td><span class="pnum">91003-018</span></td><td>Plug screw “T” and MUST NOT be used else-</td></tr>
+      <tr><td><span class="pnum">91003-018</span></td><td>Plug screw "T" and MUST NOT be used else-</td></tr>
       <tr><td><span class="pnum">91003-031</span></td><td>Packing ring where !</td></tr>
       <tr><td><span class="pnum">91003-043</span></td><td>Gas inlet</td></tr>
       <tr><td><span class="pnum">91003-055</span></td><td>Screw*</td></tr>

@@ -19,12 +19,12 @@ image: "/assets/img/og-ru/cat-mak-6m20.png"
       <tr><td><span class="pnum">A4</span></td><td>Operating media / Fuels</td></tr>
       <tr><td><span class="pnum">A5</span></td><td>Maintenance</td></tr>
       <tr><td><span class="pnum">A6</span></td><td>Tools</td></tr>
-      <tr><td><span class="pnum">B0</span></td><td>Spare parts catalogue (separate book — not present)</td></tr>
-      <tr><td><span class="pnum">B1</span></td><td>Spare Parts (separate book — not present)</td></tr>
-      <tr><td><span class="pnum">B2</span></td><td>Stand-by parts (separate book — not present)</td></tr>
+      <tr><td><span class="pnum">B0</span></td><td>Spare parts catalogue (separate book – not present)</td></tr>
+      <tr><td><span class="pnum">B1</span></td><td>Spare Parts (separate book – not present)</td></tr>
+      <tr><td><span class="pnum">B2</span></td><td>Stand-by parts (separate book – not present)</td></tr>
       <tr><td><span class="pnum">C0</span></td><td>External documentation</td></tr>
     </tbody>
   </table>
 </div>
 
-<p><em>Note: Individual spare part numbers are NOT in the supplied operating manual — the Spare Parts catalogue (Book B/B1/B2) is a separate document not bundled with this PDF. To order parts, contact Caterpillar (MaK) quoting engine number 30890 and Type M20.</em></p>
+<p><em>Note: Individual spare part numbers are NOT in the supplied operating manual – the Spare Parts catalogue (Book B/B1/B2) is a separate document not bundled with this PDF. To order parts, contact Caterpillar (MaK) quoting engine number 30890 and Type M20.</em></p>

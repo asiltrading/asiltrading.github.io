@@ -123,7 +123,7 @@ image: "/assets/img/og/cat-wartsila-rtflex60c.png"
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
-      <tr><td><span class="pnum">NF 34000</span></td><td>Piston, complete (head, skirt, rod, screws — no rings)</td></tr>
+      <tr><td><span class="pnum">NF 34000</span></td><td>Piston, complete (head, skirt, rod, screws – no rings)</td></tr>
       <tr><td><span class="pnum">NF 34060</span></td><td>Piston head</td></tr>
       <tr><td><span class="pnum">NF 34095</span></td><td>Piston skirt</td></tr>
       <tr><td><span class="pnum">NF 34420</span></td><td>Piston rings (top)</td></tr>

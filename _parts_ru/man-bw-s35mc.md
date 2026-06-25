@@ -1266,7 +1266,7 @@ image: "/assets/img/og-ru/man-bw-s35mc.png"
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
-      <tr><td><span class="pnum">90612-016</span></td><td>PMI system, user’s guide</td></tr>
+      <tr><td><span class="pnum">90612-016</span></td><td>PMI system, user's guide</td></tr>
       <tr><td><span class="pnum">90612-028</span></td><td>PMI system, installation</td></tr>
       <tr><td><span class="pnum">90612-041</span></td><td>PMI system, mounting</td></tr>
       <tr><td><span class="pnum">90612-053</span></td><td>PMI software</td></tr>
@@ -1518,9 +1518,9 @@ image: "/assets/img/og-ru/man-bw-s35mc.png"
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
       <tr><td><span class="pnum">90702-015</span></td><td>Screw Note: Note: Note: Note: Note:</td></tr>
-      <tr><td><span class="pnum">90702-027</span></td><td>Name plate, “working”</td></tr>
+      <tr><td><span class="pnum">90702-027</span></td><td>Name plate, "working"</td></tr>
       <tr><td><span class="pnum">90702-039</span></td><td>Screw * When ordering spare parts for this item,</td></tr>
-      <tr><td><span class="pnum">90702-040</span></td><td>Switch please state manufacturer’s Part No.</td></tr>
+      <tr><td><span class="pnum">90702-040</span></td><td>Switch please state manufacturer's Part No.</td></tr>
       <tr><td><span class="pnum">90702-052</span></td><td>Distance pipe</td></tr>
       <tr><td><span class="pnum">90702-064</span></td><td>Spindle</td></tr>
       <tr><td><span class="pnum">90702-076</span></td><td>Screw</td></tr>
@@ -1529,7 +1529,7 @@ image: "/assets/img/og-ru/man-bw-s35mc.png"
       <tr><td><span class="pnum">90702-135</span></td><td>Intermediate piece</td></tr>
       <tr><td><span class="pnum">90702-147</span></td><td>Plug screw</td></tr>
       <tr><td><span class="pnum">90702-159</span></td><td>Plug screw</td></tr>
-      <tr><td><span class="pnum">90702-172</span></td><td>Name plate “blocked”</td></tr>
+      <tr><td><span class="pnum">90702-172</span></td><td>Name plate "blocked"</td></tr>
       <tr><td><span class="pnum">90702-184</span></td><td>Nut</td></tr>
       <tr><td><span class="pnum">90702-196</span></td><td>Washer</td></tr>
       <tr><td><span class="pnum">90702-206</span></td><td>Hand wheel</td></tr>
