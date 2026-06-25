@@ -1,5 +1,5 @@
 ---
-title: "Turck Sensors, Signal Conditioners & Safety Relays"
+title: "Turck — Датчики, преобразователи сигналов и реле безопасности"
 model: "Sensors / Connectors"
 manufacturer: "Turck"
 category: "Electrical"

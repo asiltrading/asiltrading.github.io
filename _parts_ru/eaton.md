@@ -1,5 +1,5 @@
 ---
-title: "Eaton Contactors, Circuit Breakers & Relays"
+title: "Eaton — Контакторы, автоматические выключатели и реле"
 model: "Contactors / Breakers / Relays"
 manufacturer: "Eaton"
 category: "Electrical"

@@ -1,5 +1,5 @@
 ---
-title: "STEGO Thermostats"
+title: "STEGO — Термостаты"
 model: "Thermostats / Heaters / Fans"
 manufacturer: "STEGO"
 category: "Electrical"

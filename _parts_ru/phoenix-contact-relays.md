@@ -1,5 +1,5 @@
 ---
-title: "Phoenix Contact Industrial Electronics"
+title: "Phoenix Contact — Промышленная электроника"
 model: "TRIO / QUINT / PLC-BSC / MCR / FL SWITCH"
 manufacturer: "Phoenix Contact"
 category: "Electrical"

@@ -1,5 +1,5 @@
 ---
-title: "Mean Well Power Supplies"
+title: "Mean Well — Блоки питания"
 model: "DR / SDR / RS / NDR Series"
 manufacturer: "Mean Well"
 category: "Electrical"

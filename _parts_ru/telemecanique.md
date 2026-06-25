@@ -1,5 +1,5 @@
 ---
-title: "Telemecanique Relays, Contactors & Circuit Breakers"
+title: "Telemecanique — Реле, контакторы и автоматические выключатели"
 model: "TeSys / Contactors / Relays"
 manufacturer: "Telemecanique"
 category: "Electrical"

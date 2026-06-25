@@ -1,5 +1,5 @@
 ---
-title: "Schneider Electric I/O Modules, Relays & PLCs"
+title: "Schneider Electric — Модули ввода-вывода, реле и ПЛК"
 model: "TeSys / Modicon / Acti9"
 manufacturer: "Schneider Electric"
 category: "Electrical"

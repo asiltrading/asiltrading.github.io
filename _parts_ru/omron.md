@@ -1,5 +1,5 @@
 ---
-title: "Omron Relays, I/O Modules & PLCs"
+title: "Omron — Реле, модули ввода-вывода и ПЛК"
 model: "MY / H3Y / E5 / CJ"
 manufacturer: "Omron"
 category: "Electrical"

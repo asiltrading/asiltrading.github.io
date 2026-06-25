@@ -1,5 +1,5 @@
 ---
-title: "Semikron IGBT Modules"
+title: "Semikron — Силовые модули"
 model: "Power Modules / Thyristors"
 manufacturer: "Semikron"
 category: "Electrical"

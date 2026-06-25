@@ -1,5 +1,5 @@
 ---
-title: "Pilz Safety Relays, I/O Modules & Relays"
+title: "Pilz — Реле безопасности, модули ввода-вывода и реле"
 model: "Safety Relays / PNOZ"
 manufacturer: "Pilz"
 category: "Electrical"

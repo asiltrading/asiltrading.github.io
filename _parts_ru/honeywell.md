@@ -1,5 +1,5 @@
 ---
-title: "Honeywell PLCs, Sensors & I/O Modules"
+title: "Honeywell — ПЛК, датчики и модули ввода-вывода"
 model: "Switches / Sensors / Controls"
 manufacturer: "Honeywell"
 category: "Electrical"

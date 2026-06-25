@@ -1,5 +1,5 @@
 ---
-title: "Fuji Electric PLCs, HMIs & Contactors"
+title: "Fuji Electric — ПЛК, панели оператора и контакторы"
 model: "Contactors / Breakers / Drives"
 manufacturer: "Fuji Electric"
 category: "Electrical"

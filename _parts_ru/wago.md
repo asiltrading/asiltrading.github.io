@@ -1,5 +1,5 @@
 ---
-title: "WAGO I/O Modules, Power Supplies & Ethernet Switches"
+title: "WAGO — Модули ввода-вывода, блоки питания и сетевое оборудование"
 model: "Terminal Blocks / I/O"
 manufacturer: "WAGO"
 category: "Electrical"

@@ -1,5 +1,5 @@
 ---
-title: "Allen-Bradley I/O Modules, Contactors & PLCs"
+title: "Allen-Bradley — Модули ввода-вывода, контакторы и ПЛК"
 model: "Bulletin 100 / 1492 / 1746 / 1769"
 manufacturer: "Allen-Bradley"
 category: "Electrical"

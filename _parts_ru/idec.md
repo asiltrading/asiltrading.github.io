@@ -1,5 +1,5 @@
 ---
-title: "IDEC I/O Modules, Relays & Switches"
+title: "IDEC — Модули ввода-вывода, реле и переключатели"
 model: "Relays / Switches / Timers"
 manufacturer: "IDEC"
 category: "Electrical"

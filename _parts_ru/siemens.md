@@ -1,5 +1,5 @@
 ---
-title: "Siemens I/O Modules, Contactors & PLCs"
+title: "Siemens — Модули ввода-вывода, контакторы и ПЛК"
 model: "SIRIUS / SIMATIC / SITOP / 5S"
 manufacturer: "Siemens"
 category: "Electrical"

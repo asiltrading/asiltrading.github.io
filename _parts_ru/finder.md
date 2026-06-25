@@ -1,5 +1,5 @@
 ---
-title: "Finder Relays"
+title: "Finder — Реле"
 model: "Relays / Timers / Sockets"
 manufacturer: "Finder"
 category: "Electrical"

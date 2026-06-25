@@ -1,5 +1,5 @@
 ---
-title: "Mitsubishi Electric PLCs, I/O Modules & Circuit Breakers"
+title: "Mitsubishi Electric — ПЛК, модули ввода-вывода и автоматические выключатели"
 model: "MELSEC / Contactors / Drives"
 manufacturer: "Mitsubishi Electric"
 category: "Electrical"

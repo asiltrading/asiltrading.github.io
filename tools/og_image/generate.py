@@ -169,7 +169,9 @@ def render(part: dict, out_path: Path, lang: str = "en") -> None:
     headline = model if model else title
     if manufacturer and model and title.lower() != f"{manufacturer} {model}".lower():
         # If the title carries extra qualifier (e.g. "Hyundai MAN B&W 6S50MC-C"), keep full title.
-        headline = title.replace(manufacturer, "").strip() or title
+        # Strip any leading/trailing separator left after removing the manufacturer
+        # (e.g. RU titles like "Allen-Bradley — Модули ввода-вывода").
+        headline = title.replace(manufacturer, "").strip(" —–-:·").strip() or title
 
     max_text_width = 720  # leave room for the logo on the right
     title_font, lines = fit_title(headline, max_text_width, max_lines=2, draw=draw)

@@ -1,5 +1,5 @@
 ---
-title: "Carlo Gavazzi PLCs, Relays & HMIs"
+title: "Carlo Gavazzi — ПЛК, реле и панели оператора"
 model: "Relays / Sensors / Monitoring"
 manufacturer: "Carlo Gavazzi"
 category: "Electrical"

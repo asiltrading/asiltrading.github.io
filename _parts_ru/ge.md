@@ -1,5 +1,5 @@
 ---
-title: "GE I/O Modules, PLCs & Circuit Breakers"
+title: "GE — Модули ввода-вывода, ПЛК и автоматические выключатели"
 model: "Industrial Controls"
 manufacturer: "GE"
 category: "Electrical"

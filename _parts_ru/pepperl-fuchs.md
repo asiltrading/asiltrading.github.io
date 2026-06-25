@@ -1,5 +1,5 @@
 ---
-title: "Pepperl+Fuchs Signal Conditioners, Relays & Surge Protection"
+title: "Pepperl+Fuchs — Преобразователи сигналов, реле и защита от перенапряжений"
 model: "Sensors / Isolators"
 manufacturer: "Pepperl+Fuchs"
 category: "Electrical"

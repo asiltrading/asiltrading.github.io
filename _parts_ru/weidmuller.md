@@ -1,5 +1,5 @@
 ---
-title: "Weidmuller Signal Conditioners, Power Supplies & I/O Modules"
+title: "Weidmuller — Преобразователи сигналов, блоки питания и модули ввода-вывода"
 model: "Terminal Blocks / Relays"
 manufacturer: "Weidmuller"
 category: "Electrical"

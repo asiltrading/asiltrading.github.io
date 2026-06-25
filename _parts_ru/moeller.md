@@ -1,5 +1,5 @@
 ---
-title: "Moeller Circuit Breakers, Relays & Contactors"
+title: "Moeller — Автоматические выключатели, реле и контакторы"
 model: "DIL / PKZ / FAZ / easy"
 manufacturer: "Moeller"
 category: "Electrical"

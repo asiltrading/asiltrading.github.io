@@ -1,5 +1,5 @@
 ---
-title: "ABB I/O Modules, PLCs & Circuit Breakers"
+title: "ABB — Модули ввода-вывода, ПЛК и автоматические выключатели"
 model: "AF / S200 / Tmax / CP"
 manufacturer: "ABB"
 category: "Electrical"
