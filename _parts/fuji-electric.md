@@ -1,6 +1,6 @@
 ---
 title: "Fuji Electric – Spare Parts Catalog"
-model: "Fuji Electric Parts"
+model: "Contactors, relays, circuit breakers, IGBT modules & drives"
 manufacturer: "Fuji Electric"
 category: "Electrical"
 description: "Fuji Electric spare parts including magnetic contactors, thermal overload relays, IGBT modules, variable frequency drives, PLC modules, HMI panels, pressure transmitters, temperature controllers, circuit breakers, and control switches for marine and industrial applications. Request price and availability."

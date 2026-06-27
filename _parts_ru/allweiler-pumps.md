@@ -1,6 +1,6 @@
 ---
-title: "Allweiler Progressive Cavity & Centrifugal Pumps"
-model: "SN / SNP / SEP / NB / NT series"
+title: "Allweiler – винтовые и центробежные насосы"
+model: "Запчасти для одновинтовых и центробежных насосов"
 manufacturer: "Allweiler (Circor)"
 category: "Pumps & Valves"
 description: "Запчасти для Allweiler (Circor) SN / SNP / SEP / NB / NT series. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

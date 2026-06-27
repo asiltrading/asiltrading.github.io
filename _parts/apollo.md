@@ -1,6 +1,6 @@
 ---
 title: "Apollo – Fire Detection Detectors and Accessories"
-model: "Fire Detection Series"
+model: "Smoke & heat detectors and accessories"
 manufacturer: "Apollo"
 category: "Auxiliary Equipment"
 description: "Apollo fire detection components including ionisation smoke detectors, multi-sensor smoke detectors, heat detectors, and detector bases for marine and industrial fire alarm systems. Request price and availability."

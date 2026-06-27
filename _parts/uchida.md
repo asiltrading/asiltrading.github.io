@@ -1,6 +1,6 @@
 ---
 title: "Uchida – Hydraulic Control System Spare Parts"
-model: "U SYS / URP / OILHYD"
+model: "Hydraulic crane controllers & servo valve PCB cards"
 manufacturer: "Uchida"
 category: "Deck Equipment"
 description: "Uchida hydraulic control system components including deck crane controllers, hydraulic servo valve controllers, and PCB cards for marine and industrial applications. Request price and availability."

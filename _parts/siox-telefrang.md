@@ -1,6 +1,6 @@
 ---
 title: "Siox Telefrang – Control System Modules and I/O Cards"
-model: "Analogue Output, Digital I/O, AD Modules & Local Controllers"
+model: "Analogue & digital I/O modules, local controllers"
 manufacturer: "Siox Telefrang"
 category: "Navigation & Electronics"
 description: "Siox Telefrang analogue and digital I/O modules, local controllers, and AD subsystem cards for marine automation and process control systems. Request price and availability."

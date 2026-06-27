@@ -1,6 +1,6 @@
 ---
 title: "Endress+Hauser – Запасные Части и Приборы"
-model: "Endress+Hauser"
+model: "Приборы для измерения уровня, давления, расхода и температуры"
 manufacturer: "Endress+Hauser"
 category: "Navigation & Electronics"
 description: "Приборы и запасные части Endress+Hauser для измерения уровня, давления, расхода и температуры в морских и промышленных системах автоматизации. Запросите цену и наличие."

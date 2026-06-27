@@ -1,5 +1,5 @@
 ---
-title: "MAN B&W NA70/T9 Turbocharger"
+title: "MAN B&W NA70/T9 – турбокомпрессор"
 model: "NA70/T9"
 manufacturer: "MAN B&W"
 category: "Engine"

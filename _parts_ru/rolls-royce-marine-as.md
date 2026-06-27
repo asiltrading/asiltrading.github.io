@@ -1,6 +1,6 @@
 ---
 title: "Rolls-Royce Marine – Системы управления и компоненты подруливающих устройств"
-model: "Aquamaster, CANMAN, Helikon X3, Ulstein, Kamewa"
+model: "Платы управления подруливающими, модули ввода/вывода и компоненты рулевого управления"
 manufacturer: "Rolls-Royce Marine"
 category: "Navigation & Electronics"
 description: "Запасные части Rolls-Royce Marine: карты сети контроллеров CANMAN, контроллеры поворота подруливающих устройств Aquamaster, джойстики и дисплейные системы, платы PCB, модули ввода-вывода и компоненты рулевого устройства для судовых систем управления. Запросите цену и наличие."

@@ -1,6 +1,6 @@
 ---
 title: "Schneider Electric – Модули ввода-вывода, реле и ПЛК"
-model: "TeSys / Modicon / Acti9"
+model: "Контакторы TeSys, ПЛК Modicon, выключатели Acti9 и приводы"
 manufacturer: "Schneider Electric"
 category: "Electrical"
 description: "Запчасти Schneider Electric: модули ввода-вывода, реле и ПЛК и другое. Подбор по OEM-номерам, оригинал и OEM-аналоги, б/у. Запросите цену и наличие."

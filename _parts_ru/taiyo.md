@@ -1,6 +1,6 @@
 ---
 title: "Taiyo Electric – Морские электрические платы управления и запасные части"
-model: "AA-series, ASC-series, SIC-series, ASD, EXU, ERA, PAN"
+model: "Платы PCB и регуляторы напряжения для морской электрики"
 manufacturer: "Taiyo Electric"
 category: "Electrical"
 description: "Taiyo Electric производит платы PCB, автоматические регуляторы напряжения, синхронизаторы, анонсиаторы и управляющие компьютеры для судовых систем выработки электроэнергии и распределительных щитов. Запросите цену и наличие."

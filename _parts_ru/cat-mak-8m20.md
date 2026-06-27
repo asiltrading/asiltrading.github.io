@@ -1,6 +1,6 @@
 ---
-title: "MaK 8M20 Marine Diesel Engine"
-model: "Type M20 (8-cylinder)"
+title: "MaK 8M20 – судовой дизельный двигатель"
+model: "MaK M20 (8-цилиндровый)"
 manufacturer: "Caterpillar Motoren (MaK)"
 category: "Engine"
 description: "Запчасти для Caterpillar Motoren (MaK) Type M20 (8-cylinder). Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

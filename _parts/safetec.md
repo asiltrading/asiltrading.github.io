@@ -1,6 +1,6 @@
 ---
 title: "Safetec Fire and Smoke Detection System Spare Parts for Marine Vessels"
-model: "SDS-6, SDS-48, SDS-R/P, BG01, BG02, BG06, ACS-1"
+model: "Smoke detection systems, PCB cards & power modules"
 manufacturer: "Safetec"
 category: "Navigation & Electronics"
 description: "Safetec supplies fire and smoke detection system components for marine vessels, including SDS series detection panels, control modules, I/O modules, PCB cards, power supply modules, and airflow indicators. Request price and availability."

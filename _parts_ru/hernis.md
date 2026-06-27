@@ -1,6 +1,6 @@
 ---
 title: "Hernis Scan Systems – Запасные части для морских систем видеонаблюдения"
-model: "EX285, EX286, EX290, EX291, PT9, HE-400, 400 MATRIX, 500 MATRIX, S7 MINI"
+model: "Морские CCTV-камеры, платы управления и матричные системы"
 manufacturer: "Hernis Scan Systems"
 category: "Navigation & Electronics"
 description: "Asil Trading поставляет оригинальные запасные части Hernis Scan Systems для морских систем видеонаблюдения, включая взрывозащищённые камеры, PTZ-станции, матричные коммутаторы, платы управления и источники питания для судов всех типов. Запросите цену и наличие."

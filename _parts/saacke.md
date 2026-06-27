@@ -1,6 +1,6 @@
 ---
 title: "Saacke Marine Burner Systems – Spare Parts"
-model: "F-OSA, IMS T200, CMFS1, FLUS 06, FLS09, HDR14, HD60D2"
+model: "Marine burner controllers, flame detectors & I/O modules"
 manufacturer: "Saacke"
 category: "Auxiliary Equipment"
 description: "Saacke manufactures marine burner systems and combustion equipment including controllers, flame scanners, ignition transformers, control valves, and servo drives for boiler and inert gas applications aboard vessels. Request price and availability."

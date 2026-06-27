@@ -1,6 +1,6 @@
 ---
 title: "Stromberg – PCB Cards and Control Panels"
-model: "VD85 / USART85 / DI85 / AUPA / SWTM / SWMG / SDT VKB"
+model: "PCB cards & control panels"
 manufacturer: "Stromberg"
 category: "Electrical"
 description: "Stromberg automation and control system PCB cards and control panels, including memory, communication, digital input, and switching modules for marine and industrial DCS applications. Request price and availability."

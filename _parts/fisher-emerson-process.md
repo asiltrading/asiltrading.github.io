@@ -1,6 +1,6 @@
 ---
 title: "Fisher / Emerson Process – Control Valve & Positioner Parts for Marine Applications"
-model: "DVC6200, DVC6020HC, 99LD, 20B58"
+model: "Control valve internals, positioners & repair kits"
 manufacturer: "Fisher / Emerson Process"
 category: "Pumps & Valves"
 description: "Spare parts for Fisher and Emerson Process control valves, regulators, and digital valve positioners including gasket sets, plug stems, valve cages, seats, packing sets, and DVC6200 series positioner components. Request price and availability."

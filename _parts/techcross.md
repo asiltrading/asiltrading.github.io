@@ -1,6 +1,6 @@
 ---
 title: "Techcross – Ballast Water Treatment System Spare Parts"
-model: "Electro-Cleen ECS, TCL 4, TPC-15, BCM, CIM, ANU-5T"
+model: "Ballast water treatment systems & spares"
 manufacturer: "Techcross"
 category: "Auxiliary Equipment"
 description: "Techcross manufactures the Electro-Cleen ballast water treatment system and supplies original spare parts including control modules, rectifier units, sensors, and neutralization units for commercial marine vessels. Request price and availability."

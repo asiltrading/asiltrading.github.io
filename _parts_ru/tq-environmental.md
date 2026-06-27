@@ -1,6 +1,6 @@
 ---
 title: "TQ Environmental – Запасные части систем обнаружения газа"
-model: "TQ Environmental Gas Detection Systems"
+model: "Системы обнаружения газа, датчики и контроллеры"
 manufacturer: "TQ Environmental"
 category: "Auxiliary Equipment"
 description: "Запасные части для систем обнаружения и мониторинга газа TQ Environmental, включая ПЛК-контроллеры, платы PCB, газовые датчики, инфракрасные детекторы и соленоидные клапаны для морских и промышленных применений. Запросите цену и наличие."

@@ -1,6 +1,6 @@
 ---
 title: "Siox Telefrang – Модули системы управления и платы ввода-вывода"
-model: "Analogue Output, Digital I/O, AD Modules & Local Controllers"
+model: "Аналоговые и цифровые модули ввода-вывода, локальные контроллеры"
 manufacturer: "Siox Telefrang"
 category: "Navigation & Electronics"
 description: "Аналоговые и цифровые модули ввода-вывода, локальные контроллеры и платы AD-подсистем Siox Telefrang для судовых систем автоматизации и управления технологическими процессами. Запросите цену и наличие."

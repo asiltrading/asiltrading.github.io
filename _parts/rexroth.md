@@ -1,6 +1,6 @@
 ---
 title: "Rexroth Hydraulic Drive & Amplifier Cards"
-model: "VT Series, VFC, EFC, EcoDrive"
+model: "Hydraulic amplifier cards, frequency converters & drives"
 manufacturer: "Rexroth"
 category: "Electrical"
 description: "Bosch Rexroth hydraulic and drive control spare parts. Analog amplifier cards, servo amplifiers, frequency converters, PLC modules, and proportional valve electronics. Request price and availability."

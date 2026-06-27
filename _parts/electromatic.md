@@ -1,6 +1,6 @@
 ---
 title: "Electromatic – Timing Relays and Level Relays"
-model: "SB / SM / SC / SA / S / SP / SJ Series"
+model: "Timing relays, recyclers & level relays"
 manufacturer: "Electromatic"
 category: "Electrical"
 description: "Electromatic timing relays, tachometer relays, current level relays, and dividing relays for industrial control and automation applications. Request price and availability."

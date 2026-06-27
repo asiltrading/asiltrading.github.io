@@ -1,6 +1,6 @@
 ---
 title: "Sulzer – PCB Cards, Control Panels & Indicators"
-model: "SSM / RSV / RM / FSA / EWA / EUD / EPP / EBS"
+model: "PCB cards, control panels & indicators"
 manufacturer: "Sulzer"
 category: "Electrical"
 description: "Genuine Sulzer electronic spare parts including PCB cards for control, drive and power modules, ECU control panels, lamp panels, and load indicators for Sulzer marine and industrial systems. Request price and availability."

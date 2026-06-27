@@ -1,6 +1,6 @@
 ---
 title: "Taiyo Electric – Marine Electrical Control & PCB Spares"
-model: "AA-series, ASC-series, SIC-series, ASD, EXU, ERA, PAN"
+model: "Marine electrical PCB cards & AVR units"
 manufacturer: "Taiyo Electric"
 category: "Electrical"
 description: "Taiyo Electric manufactures PCB cards, automatic voltage regulators, synchronizers, annunciators, and control computers for marine power generation and switchboard systems. Request price and availability."

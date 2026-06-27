@@ -1,5 +1,5 @@
 ---
-title: "JRC JMA-5300MK2 Radar"
+title: "JRC JMA-5300MK2 – судовой радар (РЛС)"
 model: "JMA-5312 / 5322 / 5332"
 manufacturer: "JRC"
 category: "Navigation & Electronics"

@@ -1,6 +1,6 @@
 ---
 title: "Rolls-Royce Frydenbø – Электрические запчасти рулевой машины"
-model: "Frydenbø steering gear electrical control spares (SP-34012 kit)"
+model: "Электрические запчасти рулевой машины Frydenbø (комплект SP-34012)"
 manufacturer: "Rolls-Royce Marine - Frydenbø"
 category: "Auxiliary Equipment"
 description: "Двухлетний комплект электрических запчастей (SP-34012) для систем управления гидравлической рулевой машиной Rolls-Royce / Frydenbø. Запросите цену и наличие."

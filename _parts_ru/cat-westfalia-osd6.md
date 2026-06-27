@@ -1,6 +1,6 @@
 ---
-title: "Westfalia OSD 6 Separator"
-model: "OSD 6-91-067 / OSD 6-0196-067"
+title: "Westfalia OSD 6 – сепаратор"
+model: "Сепаратор OSD 6"
 manufacturer: "GEA Westfalia Separator"
 category: "Auxiliary Equipment"
 description: "Запчасти для GEA Westfalia Separator OSD 6-91-067 / OSD 6-0196-067. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

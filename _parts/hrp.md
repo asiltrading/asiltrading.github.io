@@ -1,6 +1,6 @@
 ---
 title: "HRP – Marine Control and Instrumentation Spare Parts"
-model: "TTCS 41M, XL96, AU-12M"
+model: "Thruster control systems, RPM meters & PCB modules"
 manufacturer: "HRP"
 category: "Navigation & Electronics"
 description: "Genuine HRP spare parts for thruster control systems, DP interfaces, RPM and pitch meters, serial relay modules, and PCB assemblies used in marine vessel automation. Request price and availability."

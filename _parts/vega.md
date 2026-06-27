@@ -1,6 +1,6 @@
 ---
 title: "VEGA – Instrumentation Parts"
-model: "VEGAMET / VEGABAR / VEGAPULS / PLICSCOM / VEGACONNECT"
+model: "Level & pressure transmitters, displays & interfaces"
 manufacturer: "VEGA"
 category: "Navigation & Electronics"
 description: "Genuine VEGA instrumentation spare parts including pressure transmitters, radar level probes, signal conditioners, displays, and interface adapters for industrial process measurement. Request price and availability."

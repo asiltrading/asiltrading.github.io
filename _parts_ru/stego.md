@@ -1,6 +1,6 @@
 ---
 title: "STEGO – Термостаты"
-model: "Thermostats / Heaters / Fans"
+model: "Термостаты, нагреватели и вентиляторы для шкафов"
 manufacturer: "STEGO"
 category: "Electrical"
 description: "Запчасти STEGO: термостаты и другое. Подбор по OEM-номерам, оригинал и OEM-аналоги, б/у. Запросите цену и наличие."

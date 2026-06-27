@@ -1,6 +1,6 @@
 ---
-title: "Alfa Laval SU-Type Separator Unit (SU 300 / SU 400)"
-model: "SU 300 / SU 400 (E / EL / S / SF / SL variants)"
+title: "Alfa Laval SU-серия – сепараторная установка (SU 300 / SU 400)"
+model: "Сепараторная установка SU 300 / SU 400"
 manufacturer: "Alfa Laval"
 category: "Auxiliary Equipment"
 description: "Запчасти для Alfa Laval SU 300 / SU 400 (E / EL / S / SF / SL variants). Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

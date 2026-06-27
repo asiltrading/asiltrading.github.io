@@ -1,5 +1,5 @@
 ---
-title: "Stamford AVR & Diodes"
+title: "Stamford – регулятор напряжения (AVR) и диоды"
 model: "AS440 / SX460"
 manufacturer: "Stamford"
 category: "Electrical"

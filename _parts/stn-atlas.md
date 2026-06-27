@@ -1,6 +1,6 @@
 ---
 title: "STN Atlas – Marine Automation and Control System Spare Parts"
-model: "Central, I/O, Control & Relay Modules, Alarm & Engine Control, Bridge Panels"
+model: "Control modules, PCBs & bridge operator panels"
 manufacturer: "STN Atlas"
 category: "Navigation & Electronics"
 description: "STN Atlas marine electronics modules and PCB assemblies for vessel automation, alarm, safety, and propulsion control systems. Request price and availability."

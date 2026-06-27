@@ -1,6 +1,6 @@
 ---
 title: "Trimble Navigation – GPS, GNSS & Survey Equipment Parts"
-model: "SPS361, DSM232, DSM132, MS750, GA530, GA810, GL710, S6"
+model: "GPS & GNSS receivers, antennas & survey equipment"
 manufacturer: "Trimble"
 category: "Navigation & Electronics"
 description: "Genuine and compatible spare parts for Trimble GPS receivers, GNSS antennas, precision lasers, and total stations used in survey, construction, and positioning applications. Request price and availability."

@@ -1,5 +1,5 @@
 ---
-title: "Hyundai-MAN B&W 6S70MC-C Marine Diesel"
+title: "Hyundai-MAN B&W 6S70MC-C – судовой дизель"
 model: "6S70MC-C"
 manufacturer: "Hyundai-MAN B&W"
 category: "Engine"

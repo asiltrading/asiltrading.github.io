@@ -1,6 +1,6 @@
 ---
 title: "Mitsubishi Electric PLCs, I/O Modules & Circuit Breakers"
-model: "MELSEC / Contactors / Drives"
+model: "MELSEC PLCs, contactors, circuit breakers, HMI & drives"
 manufacturer: "Mitsubishi Electric"
 category: "Electrical"
 description: "Mitsubishi Electric PLCs, I/O Modules & Circuit Breakers and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

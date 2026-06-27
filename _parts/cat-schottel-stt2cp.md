@@ -1,6 +1,6 @@
 ---
 title: "Schottel STT 2 CP Bow Thruster"
-model: "STT 2 CP (STT 170-1010 CP series)"
+model: "STT 2 CP Bow Thruster"
 manufacturer: "SCHOTTEL GmbH & Co. KG"
 category: "Auxiliary Equipment"
 description: "Schottel transverse tunnel bow thruster, controllable pitch (STT 2 CP, STT 170-1010 CP series). 750 kW input, 1540 mm propeller diameter, 4 blades, 4.27:1 reduction ratio. Request price and availability."

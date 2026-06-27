@@ -1,6 +1,6 @@
 ---
 title: "Damcos – Hydraulic Valve Actuators and Control Systems for Marine Use"
-model: "LPU, BRC, MD1D, VPI-C"
+model: "Hydraulic valve actuators, positioners & solenoid valves"
 manufacturer: "Damcos"
 category: "Pumps & Valves"
 description: "Damcos manufactures hydraulic actuators, solenoid valves, and local panel units used in marine valve control systems aboard commercial vessels. Request price and availability."

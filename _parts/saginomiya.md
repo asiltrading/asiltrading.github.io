@@ -1,6 +1,6 @@
 ---
 title: "Saginomiya – Pressure Controls, Switches & Thermostats"
-model: "SNS / SPS / DNS / FPS / TDK / E-UJ"
+model: "Pressure controls, pressure switches & thermostats"
 manufacturer: "Saginomiya"
 category: "Pumps & Valves"
 description: "Genuine Saginomiya pressure controls, pressure switches, thermostats, and control circuit panels for refrigeration and HVAC systems. Request price and availability."

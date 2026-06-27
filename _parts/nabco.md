@@ -1,6 +1,6 @@
 ---
 title: "Nabco Marine Telegraph, Governor and Engine Control Spare Parts"
-model: "M-800 II, MG-800, MT-800, ML-800, TLG, TBU, GPAR"
+model: "Telegraph PCBs, governor components & RPM indicators"
 manufacturer: "Nabco"
 category: "Navigation & Electronics"
 description: "Nabco produces engine telegraphs, governor systems, and control electronics for commercial and naval vessels. Request price and availability."

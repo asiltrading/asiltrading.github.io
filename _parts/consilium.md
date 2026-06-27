@@ -1,6 +1,6 @@
 ---
 title: "Consilium Marine Fire Detection & Gas Detection Parts"
-model: "Salwico CS4000, Salwico GS3000, SM13, IBI120, MetAlarm"
+model: "Fire & gas detection panels, detectors & PCB modules"
 manufacturer: "Consilium"
 category: "Auxiliary Equipment"
 description: "Spare parts for Consilium and Salwico marine fire detection, gas detection, and alarm systems including control panels, sensor modules, isolators, and interface units. Request price and availability."

@@ -1,6 +1,6 @@
 ---
 title: "Hatteland – Морские дисплейные системы и панельные компьютеры"
-model: "HD, JH, HM / MMC, MMD, KMC, KSD, TRD, TRS"
+model: "Морские панели дисплеев и панельные компьютеры"
 manufacturer: "Hatteland"
 category: "Navigation & Electronics"
 description: "Hatteland производит защищённые морские дисплейные панели и панельные компьютеры для мостика и систем управления судном. Запросите цену и наличие."

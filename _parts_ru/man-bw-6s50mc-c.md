@@ -1,5 +1,5 @@
 ---
-title: "MAN B&W 6S50MC-C Marine Diesel"
+title: "MAN B&W 6S50MC-C – судовой дизель"
 model: "6S50MC-C"
 manufacturer: "MAN B&W"
 category: "Engine"

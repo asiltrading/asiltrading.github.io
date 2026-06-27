@@ -1,6 +1,6 @@
 ---
 title: "Musasino Marine Level Sensors and Interface Modules"
-model: "MEW-143, MIF-CO, MIF-SB, IF485M"
+model: "Marine level sensors & interface modules"
 manufacturer: "Musasino"
 category: "Navigation & Electronics"
 description: "Genuine Musasino spare parts for marine tank level and temperature sensing systems, including MEW-series sensors and MIF/IF-series interface modules. Request price and availability."

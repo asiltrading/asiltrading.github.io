@@ -1,6 +1,6 @@
 ---
 title: "McMurdo SmartFind EPIRB & HRU"
-model: "EPIRB Hydrostatic Release Units & Accessories"
+model: "SmartFind EPIRB"
 manufacturer: "McMurdo (Survitec)"
 category: "Deck Equipment"
 description: "Spare parts for McMurdo (Survitec) SmartFind EPIRBs – replacement battery packs and Auto-Cat-I HRU kits."

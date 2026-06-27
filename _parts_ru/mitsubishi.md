@@ -1,6 +1,6 @@
 ---
 title: "Mitsubishi Electric – ПЛК, модули ввода-вывода и автоматические выключатели"
-model: "MELSEC / Contactors / Drives"
+model: "ПЛК MELSEC, контакторы, автоматические выключатели, HMI и приводы"
 manufacturer: "Mitsubishi Electric"
 category: "Electrical"
 description: "Запчасти Mitsubishi Electric: ПЛК, модули ввода-вывода и автоматические выключатели и другое. Подбор по OEM-номерам, оригинал и OEM-аналоги, б/у. Запросите цену и наличие."

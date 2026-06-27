@@ -1,6 +1,6 @@
 ---
 title: "Mean Well – Блоки питания"
-model: "DR / SDR / RS / NDR Series"
+model: "Источники питания для DIN-рейки серий DR / SDR / RS / NDR"
 manufacturer: "Mean Well"
 category: "Electrical"
 description: "Запчасти Mean Well: блоки питания и другое. Подбор по OEM-номерам, оригинал и OEM-аналоги, б/у. Запросите цену и наличие."

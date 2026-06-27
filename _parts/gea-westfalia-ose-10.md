@@ -1,6 +1,6 @@
 ---
 title: "GEA Westfalia OSE 10 Separator"
-model: "OSE 10 (and OSE/OSB shared parts)"
+model: "OSE 10 Separator"
 manufacturer: "GEA Westfalia"
 category: "Auxiliary Equipment"
 description: "Spare parts for the GEA Westfalia OSE 10 oil separator (German/English part descriptions)."

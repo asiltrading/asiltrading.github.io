@@ -1,6 +1,6 @@
 ---
 title: "Hyundai Heavy Industries – Электрооборудование и системы управления для судов"
-model: "ACONIS-PMS, HICM860, HGN12A, AOR, HATS"
+model: "Платы системы управления мощностью, воздушные выключатели и модули управления"
 manufacturer: "Hyundai Heavy Industries"
 category: "Electrical"
 description: "Запасные части для судовых систем управления и энергоснабжения Hyundai Heavy Industries, включая платы ACONIS, автоматические выключатели, расцепители и коммуникационные модули. Запросите цену и наличие."

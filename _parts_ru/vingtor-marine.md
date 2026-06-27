@@ -1,6 +1,6 @@
 ---
 title: "Vingtor Marine – Системы связи и запасные части для судов"
-model: "VSP, VMP, VSS, VOC, VPA, ETB, VA, VP"
+model: "Громкоговорители, переговорные устройства, системы оповещения и телефоны"
 manufacturer: "Vingtor Marine"
 category: "Navigation & Electronics"
 description: "Vingtor Marine (Stentofon / Zenitel) поставляет морские системы внутренней связи, трансляции, приема звука и телефонии, а также платы PCB для судов. Запросите цену и наличие."

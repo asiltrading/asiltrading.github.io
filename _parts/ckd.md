@@ -1,6 +1,6 @@
 ---
 title: "CKD – Pneumatic Valves, Cylinders & Filters"
-model: "GFAB35, HO-25A, 4F310, QEV2-8, AB41, 1138-6C, 1126-16C, MXG1-25, MXB1-25, AX9000GS, GAB352-5, GAG413-1, V3000-15, 3QRA120"
+model: "Pneumatic solenoid valves, cylinders, filters & actuators"
 manufacturer: "CKD"
 category: "Pumps & Valves"
 description: "CKD Corporation pneumatic and fluid control components including solenoid valves, quick exhaust valves, pilot valves, pneumatic cylinders, air filters, motorized valves, and servo drivers for industrial automation. Request price and availability."

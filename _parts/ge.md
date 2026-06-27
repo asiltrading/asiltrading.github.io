@@ -1,6 +1,6 @@
 ---
 title: "GE I/O Modules, PLCs & Circuit Breakers"
-model: "Industrial Controls"
+model: "PLCs, contactors, circuit breakers, HMI & drives"
 manufacturer: "GE"
 category: "Electrical"
 description: "GE I/O Modules, PLCs & Circuit Breakers and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

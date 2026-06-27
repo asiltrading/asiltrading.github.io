@@ -1,6 +1,6 @@
 ---
 title: "Samsung – Automation & Control System Spare Parts"
-model: "SSAS-Master Series"
+model: "SSAS-Master Series Alarm & Control Modules"
 manufacturer: "Samsung"
 category: "Navigation & Electronics"
 description: "Genuine Samsung automation and control system spare parts including SSAS-Master I/O modules, alarm extension units, digital tacho meters, and base PCBs for marine and industrial applications. Request price and availability."

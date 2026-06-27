@@ -1,6 +1,6 @@
 ---
 title: "Pepperl+Fuchs Signal Conditioners, Relays & Surge Protection"
-model: "Sensors / Isolators"
+model: "Intrinsic safety isolators, sensors & surge protection"
 manufacturer: "Pepperl+Fuchs"
 category: "Electrical"
 description: "Pepperl+Fuchs Signal Conditioners, Relays & Surge Protection and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

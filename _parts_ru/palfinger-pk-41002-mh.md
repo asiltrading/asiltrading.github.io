@@ -1,5 +1,5 @@
 ---
-title: "Palfinger PK 41002 MH Crane"
+title: "Palfinger PK 41002 MH – кран"
 model: "PK 41002 MH"
 manufacturer: "Palfinger"
 category: "Deck Equipment"

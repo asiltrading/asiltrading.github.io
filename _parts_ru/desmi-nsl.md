@@ -1,6 +1,6 @@
 ---
-title: "DESMI NSL / NSLV / NSLH Centrifugal Pump"
-model: "NSL / NSLV / NSLH 65–250 (-265/-330)"
+title: "DESMI NSL / NSLV / NSLH – центробежный насос"
+model: "Центробежный насос NSL / NSLV / NSLH"
 manufacturer: "DESMI"
 category: "Pumps & Valves"
 description: "Запчасти для DESMI NSL / NSLV / NSLH 65–250 (-265/-330). Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

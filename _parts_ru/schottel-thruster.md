@@ -1,6 +1,6 @@
 ---
-title: "Schottel SRP Rudder Propeller"
-model: "SRP / Rudder Propeller"
+title: "Schottel SRP – винто-рулевая колонка"
+model: "Поворотная колонка SRP"
 manufacturer: "Schottel"
 category: "Auxiliary Equipment"
 description: "Запчасти для Schottel SRP / Rudder Propeller. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

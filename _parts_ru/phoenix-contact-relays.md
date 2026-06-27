@@ -1,6 +1,6 @@
 ---
 title: "Phoenix Contact – Промышленная электроника"
-model: "TRIO / QUINT / PLC-BSC / MCR / FL SWITCH"
+model: "Источники питания, реле, преобразователи сигналов и коммутаторы Ethernet"
 manufacturer: "Phoenix Contact"
 category: "Electrical"
 description: "Phoenix Contact: блоки питания, интерфейсные реле, преобразователи сигналов, защита от перенапряжений, коммутаторы Ethernet и модули ввода-вывода. Подбор по OEM-номерам, оригинал и OEM-аналоги. Запросите цену и наличие."

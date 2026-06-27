@@ -1,6 +1,6 @@
 ---
 title: "Phoenix Contact Industrial Electronics"
-model: "TRIO / QUINT / PLC-BSC / MCR / FL SWITCH"
+model: "Power supplies, relays, signal conditioners & Ethernet switches"
 manufacturer: "Phoenix Contact"
 category: "Electrical"
 description: "Phoenix Contact power supplies, interface relays, signal conditioners, surge protection, Ethernet switches, and I/O modules. Part numbers referenced to OEM order numbers."

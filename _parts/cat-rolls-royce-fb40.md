@@ -1,6 +1,6 @@
 ---
 title: "Rolls-Royce Tenfjord FB40 Feed Back Unit"
-model: "FB40 (drawing A-8771)"
+model: "FB40 Feed Back Unit"
 manufacturer: "Rolls-Royce Marine - Tenfjord"
 category: "Auxiliary Equipment"
 description: "Spare parts reference for the Rolls-Royce/Tenfjord FB40 rudder angle feed back unit (potentiometer box) - component of the hydraulic steering gear system."

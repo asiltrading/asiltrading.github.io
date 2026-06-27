@@ -1,6 +1,6 @@
 ---
 title: "Traco Power – AC/DC Power Supplies and Switch Components"
-model: "TPM / TSL / TSP / TXL / TIS / TCL"
+model: "AC/DC power supplies & DC/DC converters"
 manufacturer: "Traco Power"
 category: "Electrical"
 description: "Traco Power AC/DC power supplies and mini switch components for industrial, marine, and panel-mount applications, covering output power ranges from 30 W to 600 W. Request price and availability."

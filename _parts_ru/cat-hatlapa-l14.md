@@ -1,5 +1,5 @@
 ---
-title: "Hatlapa L 14 Air Compressor"
+title: "Hatlapa L 14 – воздушный компрессор"
 model: "L 14"
 manufacturer: "Hatlapa"
 category: "Auxiliary Equipment"

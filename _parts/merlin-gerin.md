@@ -1,6 +1,6 @@
 ---
 title: "Merlin Gerin – Circuit Breakers, Releases and Protection Accessories"
-model: "C161L, M16 H1, XF-E, MNR-UV, MX-A, VIGIREX, C101H, NS160 L"
+model: "Circuit breakers, releases & protection relays"
 manufacturer: "Merlin Gerin"
 category: "Electrical"
 description: "Genuine Merlin Gerin circuit breakers, closing releases, shunt trips, undervoltage releases and residual current sensors for industrial power distribution and protection applications. Request price and availability."

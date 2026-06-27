@@ -1,5 +1,5 @@
 ---
-title: "Alfa Laval S 826 Separator"
+title: "Alfa Laval S 826 – сепаратор"
 model: "S 826"
 manufacturer: "Alfa Laval"
 category: "Auxiliary Equipment"

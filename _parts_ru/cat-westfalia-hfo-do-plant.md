@@ -1,6 +1,6 @@
 ---
-title: "Westfalia HFO/DO Treatment Plant"
-model: "CENTRI-PACK 9913-0486-000 / 9913-2486-020"
+title: "Westfalia – установка очистки HFO/DO"
+model: "Установка очистки мазута/ДТ CENTRI-PACK"
 manufacturer: "GEA Westfalia Separator"
 category: "Auxiliary Equipment"
 description: "Запчасти для GEA Westfalia Separator CENTRI-PACK 9913-0486-000 / 9913-2486-020. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

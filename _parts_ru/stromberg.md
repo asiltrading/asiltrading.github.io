@@ -1,6 +1,6 @@
 ---
 title: "Stromberg – Платы PCB и панели управления"
-model: "VD85 / USART85 / DI85 / AUPA / SWTM / SWMG / SDT VKB"
+model: "Платы PCB и панели управления"
 manufacturer: "Stromberg"
 category: "Electrical"
 description: "Платы PCB и панели управления систем автоматизации Stromberg, включая модули памяти, связи, цифрового ввода и коммутации для морских и промышленных систем DCS. Запросите цену и наличие."

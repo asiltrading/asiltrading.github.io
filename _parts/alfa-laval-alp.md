@@ -1,6 +1,6 @@
 ---
 title: "Alfa Laval ALP Triple Screw Pump"
-model: "ALP Pump Spare Parts & Kits"
+model: "ALP"
 manufacturer: "Alfa Laval"
 category: "Pumps & Valves"
 description: "Spare parts for Alfa Laval ALP triple-screw pumps."

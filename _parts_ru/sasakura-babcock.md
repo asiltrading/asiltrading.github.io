@@ -1,6 +1,6 @@
 ---
 title: "Sasakura Babcock – Запасные части ODME"
-model: "AW1S / AW2"
+model: "Платы ODME AW1S / AW2"
 manufacturer: "Sasakura Babcock"
 category: "Navigation & Electronics"
 description: "Оригинальные запасные части Sasakura Babcock для систем контроля сброса нефти (ODME), включая платы PCB, материнские платы и выключатели. Запросите цену и наличие."

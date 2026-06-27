@@ -1,6 +1,6 @@
 ---
-title: "McMurdo SmartFind EPIRB & HRU"
-model: "EPIRB Hydrostatic Release Units & Accessories"
+title: "McMurdo SmartFind – АРБ (EPIRB) и ГРУ"
+model: "SmartFind EPIRB"
 manufacturer: "McMurdo (Survitec)"
 category: "Deck Equipment"
 description: "Запчасти для McMurdo (Survitec) SmartFind G8 / E8 / E3 / G4 / E5 / G5. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

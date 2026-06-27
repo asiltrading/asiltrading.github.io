@@ -1,5 +1,5 @@
 ---
-title: "MAN B&W S35MC Marine Diesel"
+title: "MAN B&W S35MC – судовой дизель"
 model: "S35MC"
 manufacturer: "MAN B&W"
 category: "Engine"

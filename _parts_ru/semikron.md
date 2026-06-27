@@ -1,6 +1,6 @@
 ---
 title: "Semikron – Силовые модули"
-model: "Power Modules / Thyristors"
+model: "IGBT-модули и силовые полупроводниковые модули"
 manufacturer: "Semikron"
 category: "Electrical"
 description: "Запчасти Semikron: силовые модули и другое. Подбор по OEM-номерам, оригинал и OEM-аналоги, б/у. Запросите цену и наличие."

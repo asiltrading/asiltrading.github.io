@@ -1,6 +1,6 @@
 ---
 title: "Kamewa Marine Propulsion Control System Spare Parts"
-model: "CPP, Thruster Control"
+model: "CPP & thruster control system PCB cards"
 manufacturer: "Kamewa"
 category: "Deck Equipment"
 description: "Kamewa manufactures controllable pitch propellers, thrusters, and associated electronic control systems for commercial and naval vessels. Request price and availability."

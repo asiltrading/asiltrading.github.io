@@ -1,6 +1,6 @@
 ---
-title: "Behrens Pumpen – Marine Pump Set Mechanical Seals & Bearings Code List"
-model: "Behrens master code list (34 pump positions)"
+title: "Behrens Pumpen – торцевые уплотнения и подшипники судовых насосов (коды)"
+model: "Кодовый перечень механических уплотнений и подшипников для морских насосов"
 manufacturer: "Heinrich Behrens Pumpenfabrik"
 category: "Pumps & Valves"
 description: "Запчасти для Heinrich Behrens Pumpenfabrik Behrens master code list (34 pump positions). Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

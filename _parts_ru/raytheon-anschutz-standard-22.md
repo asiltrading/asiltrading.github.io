@@ -1,5 +1,5 @@
 ---
-title: "Raytheon Anschütz Standard 22 Gyrocompass"
+title: "Raytheon Anschütz Standard 22 – гирокомпас"
 model: "Standard 20 / 22 / 22NX"
 manufacturer: "Raytheon Anschütz"
 category: "Navigation & Electronics"

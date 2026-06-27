@@ -1,6 +1,6 @@
 ---
-title: "Alfa Laval PU-100 Oil Separator"
-model: "PU-100 / MMB"
+title: "Alfa Laval PU-100 – сепаратор масла"
+model: "Маслосепаратор PU-100 / MMB"
 manufacturer: "Alfa Laval"
 category: "Auxiliary Equipment"
 description: "Запчасти для Alfa Laval PU-100 / MMB. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

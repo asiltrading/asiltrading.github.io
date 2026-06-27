@@ -1,6 +1,6 @@
 ---
 title: "Carlo Gavazzi PLCs, Relays & HMIs"
-model: "Relays / Sensors / Monitoring"
+model: "Relays, contactors, sensors & PLCs"
 manufacturer: "Carlo Gavazzi"
 category: "Electrical"
 description: "Carlo Gavazzi PLCs, Relays & HMIs and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

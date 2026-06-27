@@ -1,6 +1,6 @@
 ---
 title: "Behrens Pumpen – Судовые насосы и запчасти"
-model: "VRF, KF, VAL, SFH & SFN Series marine pumps"
+model: "Судовые насосные агрегаты серий VRF, KF, VAL, SFH и SFN"
 manufacturer: "Heinrich Behrens Pumpenfabrik"
 category: "Pumps & Valves"
 description: "Судовые насосы Behrens Pumpen: 34 типа насосов с назначением и характеристиками электродвигателей - забортной воды, балластные, топливные, масляные, осушительные и пожарные. Запросите цену и наличие."

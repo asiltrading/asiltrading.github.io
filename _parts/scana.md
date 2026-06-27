@@ -1,6 +1,6 @@
 ---
 title: "Scana Mar-El – Marine Propulsion Control Systems and PCB Spare Parts"
-model: "MPS110, MPS200, MPS210, MPT100, MPT200, MPT235, MPT400, MP501, Neptune CCP, SP 450"
+model: "Propulsion control PCB cards, display panels & actuators"
 manufacturer: "Scana"
 category: "Navigation & Electronics"
 description: "Scana Mar-El manufactures marine propulsion control systems including ship control panels, PCB controller modules, digital and analog I/O modules, and thruster control units used aboard commercial and offshore vessels. Request price and availability."

@@ -1,6 +1,6 @@
 ---
 title: "Telemecanique Relays, Contactors & Circuit Breakers"
-model: "TeSys / Contactors / Relays"
+model: "Contactors, relays & circuit breakers"
 manufacturer: "Telemecanique"
 category: "Electrical"
 description: "Telemecanique Relays, Contactors & Circuit Breakers and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

@@ -1,6 +1,6 @@
 ---
 title: "WAGO I/O Modules, Power Supplies & Ethernet Switches"
-model: "Terminal Blocks / I/O"
+model: "Terminal blocks, I/O modules, power supplies & PLCs"
 manufacturer: "WAGO"
 category: "Electrical"
 description: "WAGO I/O Modules, Power Supplies & Ethernet Switches and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

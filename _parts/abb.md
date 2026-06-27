@@ -1,6 +1,6 @@
 ---
 title: "ABB I/O Modules, PLCs & Circuit Breakers"
-model: "AF / S200 / Tmax / CP"
+model: "PLCs, contactors, circuit breakers & I/O modules"
 manufacturer: "ABB"
 category: "Electrical"
 description: "ABB I/O Modules, PLCs & Circuit Breakers and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

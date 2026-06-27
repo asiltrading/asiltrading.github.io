@@ -1,6 +1,6 @@
 ---
 title: "Turck Sensors, Signal Conditioners & Safety Relays"
-model: "Sensors / Connectors"
+model: "Sensors, signal conditioners, I/O modules & safety relays"
 manufacturer: "Turck"
 category: "Electrical"
 description: "Turck Sensors, Signal Conditioners & Safety Relays and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

@@ -1,6 +1,6 @@
 ---
 title: "Kawasaki Precision – Запасные части"
-model: "Kawasaki Precision Marine Spare Parts"
+model: "Запчасти для турбин, подруливающих устройств, уплотнений и гидроклапанов"
 manufacturer: "Kawasaki Precision"
 category: "Pumps & Valves"
 description: "Запасные части Kawasaki Precision для турбинных узлов, уплотнений и О-колец, носовых подруливающих устройств, гидравлических клапанов, котлов и конденсаторов для морских и промышленных применений. Запросите цену и наличие."

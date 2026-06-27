@@ -1,6 +1,6 @@
 ---
 title: "Hyundai Heavy Industries Marine Electrical & Control Parts"
-model: "ACONIS-PMS, HICM860, HGN12A, AOR, HATS"
+model: "PMS PCB boards, air circuit breakers & control modules"
 manufacturer: "Hyundai Heavy Industries"
 category: "Electrical"
 description: "Spare parts for Hyundai Heavy Industries marine power management and control systems, including ACONIS PCB boards, air circuit breakers, trip units, and communication modules. Request price and availability."

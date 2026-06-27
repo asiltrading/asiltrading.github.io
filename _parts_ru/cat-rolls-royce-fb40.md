@@ -1,6 +1,6 @@
 ---
-title: "Rolls-Royce Tenfjord FB40 Feed Back Unit"
-model: "FB40 (drawing A-8771)"
+title: "Rolls-Royce Tenfjord FB40 – блок обратной связи"
+model: "Датчик обратной связи FB40"
 manufacturer: "Rolls-Royce Marine - Tenfjord"
 category: "Auxiliary Equipment"
 description: "Запчасти для Rolls-Royce Marine - Tenfjord FB40 (drawing A-8771). Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

@@ -1,6 +1,6 @@
 ---
 title: "H.M. Stein-Sohn – Запасные части систем аварийной сигнализации, мониторинга и управления"
-model: "CAMOS 6809, CAMOS 2000, VISTA, NAUTICPULT, COMOS NET"
+model: "Запчасти для систем аварийной сигнализации, мониторинга и управления"
 manufacturer: "H.M. Stein-Sohn"
 category: "Navigation & Electronics"
 description: "H.M. Stein-Sohn поставляет компоненты систем аварийной сигнализации, мониторинга, телеграфа и автоматизации для торговых судов, включая модули PCB, блоки управления и интерфейсные карты платформ CAMOS, VISTA и NAUTICPULT. Запросите цену и наличие."

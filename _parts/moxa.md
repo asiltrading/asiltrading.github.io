@@ -1,6 +1,6 @@
 ---
 title: "Moxa – Industrial Networking & Connectivity Parts"
-model: "NPort Serial Device Servers, EDS Ethernet Switches & Media Converters"
+model: "Serial servers, Ethernet switches & media converters"
 manufacturer: "Moxa"
 category: "Navigation & Electronics"
 description: "Genuine Moxa industrial networking components including serial device servers, Ethernet switches, media converters, SFP modules, and DIN-rail power supplies for marine and industrial automation applications. Request price and availability."

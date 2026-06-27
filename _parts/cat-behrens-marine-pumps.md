@@ -1,6 +1,6 @@
 ---
 title: "Behrens Pumpen Marine Pump Spares"
-model: "VRF, KF, VAL, SFH & SFN Series marine pumps"
+model: "VRF, KF, VAL, SFH & SFN series marine pump sets"
 manufacturer: "Heinrich Behrens Pumpenfabrik"
 category: "Pumps & Valves"
 description: "Behrens Pumpen marine pump range covering 34 pump types with services and electric motor specifications: sea water, ballast, fuel, lube oil, bilge, and fire-fighting pumps. Request price and availability."

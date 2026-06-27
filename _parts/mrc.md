@@ -1,6 +1,6 @@
 ---
 title: "MRC – Marine Communication & Public Address Systems"
-model: "MTB-5000, MPA-7400DAF, MSR-9200A, PA-271, PC-271, PG-271"
+model: "Public address systems, telephones, speakers & PCB boards"
 manufacturer: "MRC"
 category: "Navigation & Electronics"
 description: "MRC manufactures marine communication equipment including public address systems, sound power telephones, intercom units, and related PCB assemblies for shipboard use. Request price and availability."

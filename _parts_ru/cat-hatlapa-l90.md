@@ -1,5 +1,5 @@
 ---
-title: "Hatlapa L 90 Air Compressor"
+title: "Hatlapa L 90 – воздушный компрессор"
 model: "L 90"
 manufacturer: "Hatlapa"
 category: "Auxiliary Equipment"

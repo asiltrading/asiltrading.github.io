@@ -1,6 +1,6 @@
 ---
-title: "Spirax Sarco Steam Traps"
-model: "UTD30/UTD52 Thermodynamic & FT14/FTS14 Ball Float Trap Spare Parts"
+title: "Spirax Sarco – конденсатоотводчики"
+model: "Запасные части для термодинамических и поплавковых конденсатоотводчиков"
 manufacturer: "Spirax Sarco"
 category: "Pumps & Valves"
 description: "Запчасти для Spirax Sarco TD42 / UTD30 / FT14 / FTS14 / BPS32. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

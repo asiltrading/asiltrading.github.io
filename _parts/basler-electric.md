@@ -1,6 +1,6 @@
 ---
 title: "Basler Electric Generator Voltage Regulators and Control Systems Parts"
-model: "DECS-250, DECS-150, DECS-100, DECS-125, SSR 63-12, SSR125-12, SR4A, DGC-2020"
+model: "Digital AVRs, static voltage regulators & genset controllers"
 manufacturer: "Basler Electric"
 category: "Electrical"
 description: "Genuine Basler Electric spare parts for marine generator sets, including digital excitation control systems, static voltage regulators, and genset controllers. Request price and availability."

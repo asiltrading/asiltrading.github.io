@@ -1,6 +1,6 @@
 ---
 title: "Proces Data – Spare Parts"
-model: "Proces Data Automation Modules"
+model: "DPI controllers, I/O modules & communication interfaces"
 manufacturer: "Proces Data"
 category: "Auxiliary Equipment"
 description: "Proces Data manufactures modular distributed process control and monitoring systems, including DPI controllers, I/O modules, valve control units, and tank gauging modules used in marine automation. Request price and availability."

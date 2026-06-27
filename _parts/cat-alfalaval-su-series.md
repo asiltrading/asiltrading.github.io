@@ -1,6 +1,6 @@
 ---
 title: "Alfa Laval SU-Type Separator Unit (SU 300 / SU 400)"
-model: "SU 300 / SU 400 (E / EL / S / SF / SL variants)"
+model: "SU 300 / SU 400 Separator Unit"
 manufacturer: "Alfa Laval"
 category: "Auxiliary Equipment"
 description: "Alfa Laval SU-series Separation UNIT - packaged centrifugal separator module with motor, frame, oil-feed pump, optional heater, control cabinet (EPC-50 / EPC-41), solenoid valve block, change-over valve, water transducer and pressure transducers. Built around S-series bowl."

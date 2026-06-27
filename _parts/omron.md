@@ -1,6 +1,6 @@
 ---
 title: "Omron Relays, I/O Modules & PLCs"
-model: "MY / H3Y / E5 / CJ"
+model: "Relays, PLCs, I/O modules, drives & sensors"
 manufacturer: "Omron"
 category: "Electrical"
 description: "Omron Relays, I/O Modules & PLCs and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

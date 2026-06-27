@@ -1,6 +1,6 @@
 ---
 title: "Rolls-Royce Marine Control System & Thruster Parts"
-model: "Aquamaster, CANMAN, Helikon X3, Ulstein, Kamewa"
+model: "Thruster control PCB cards, I/O modules & steering components"
 manufacturer: "Rolls-Royce Marine"
 category: "Navigation & Electronics"
 description: "Rolls-Royce Marine spare parts covering CANMAN controller network cards, Aquamaster thruster turning controllers, joystick and display systems, PCB cards, I/O modules, and steering gear components for vessel propulsion and control systems. Request price and availability."

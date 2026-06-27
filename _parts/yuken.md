@@ -1,6 +1,6 @@
 ---
 title: "Yuken – Spare Parts Catalog"
-model: "Yuken"
+model: "Hydraulic pumps, valves, cylinders & control PCBs"
 manufacturer: "Yuken"
 category: "Pumps & Valves"
 description: "Yuken manufactures hydraulic valves, pumps, cylinders, and intrinsically safe barrier and control system components for marine and industrial applications. Request price and availability."

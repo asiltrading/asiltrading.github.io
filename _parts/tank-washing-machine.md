@@ -1,6 +1,6 @@
 ---
 title: "Scanjet / OB Tank Washing Machine"
-model: "OB 3000 Series"
+model: "OB 3000"
 manufacturer: "Scanjet / OB"
 category: "Deck Equipment"
 description: "Spare parts for Scanjet / OB tank washing machines (OB 3000 series) – nozzles, seals, bearings, gears, and rotor components."

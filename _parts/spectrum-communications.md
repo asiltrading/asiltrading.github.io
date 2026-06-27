@@ -1,6 +1,6 @@
 ---
 title: "Spectrum Communications – Tele Flex System PCB Cards and Modules"
-model: "Tele Flex"
+model: "Tele Flex PCB Cards & Modules"
 manufacturer: "Spectrum Communications"
 category: "Navigation & Electronics"
 description: "Spectrum Communications Tele Flex is a modular marine telecommunications and monitoring system offering CPU, I/O, communications, and power supply PCB cards for vessel automation and control. Request price and availability."

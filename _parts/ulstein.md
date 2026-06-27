@@ -1,6 +1,6 @@
 ---
 title: "Ulstein – PCB Cards, Meters & Control Systems"
-model: "Various"
+model: "PCB cards, bridge meters & remote control systems"
 manufacturer: "Ulstein"
 category: "Navigation & Electronics"
 description: "Genuine Ulstein spare parts including PCB cards, bridge meters, and remote control system components for marine automation and vessel control applications. Request price and availability."

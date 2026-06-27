@@ -1,6 +1,6 @@
 ---
 title: "Honeywell – ПЛК, датчики и модули ввода-вывода"
-model: "Switches / Sensors / Controls"
+model: "ПЛК, датчики, реле, модули ввода/вывода и термостаты"
 manufacturer: "Honeywell"
 category: "Electrical"
 description: "Запчасти Honeywell: ПЛК, датчики и модули ввода-вывода и другое. Подбор по OEM-номерам, оригинал и OEM-аналоги, б/у. Запросите цену и наличие."

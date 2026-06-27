@@ -1,6 +1,6 @@
 ---
 title: "Alfa Laval FCM Fuel Conditioning Module"
-model: "FCM 1000 / 2000 / 3000 series"
+model: "FCM 1000 / 2000 / 3000 Fuel Conditioning Module"
 manufacturer: "Alfa Laval"
 category: "Auxiliary Equipment"
 description: "Alfa Laval Fuel Conditioning Module (FCM) - pressurised marine HFO booster / conditioning skid feeding main engines. Includes mixing tank, supply pumps, circulation pumps, final heater, viscosity controller, automatic deaeration. (Also marketed as 'Star Booster')."

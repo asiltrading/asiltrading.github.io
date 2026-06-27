@@ -1,6 +1,6 @@
 ---
-title: "Boll & Kirch Duplex / Simplex Candle Filters"
-model: "Duplex / simplex candle-type"
+title: "Boll & Kirch – свечные фильтры Duplex / Simplex"
+model: "Дуплексный / симплексный свечной фильтр"
 manufacturer: "Boll & Kirch"
 category: "Auxiliary Equipment"
 description: "Запчасти для Boll & Kirch Duplex / simplex candle-type. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

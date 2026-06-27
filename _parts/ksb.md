@@ -1,6 +1,6 @@
 ---
 title: "KSB – Spare Parts Catalog"
-model: "KSB Amri Danais Acto"
+model: "Valve seal kits, bearings & actuator components (Amri, Danais, Acto)"
 manufacturer: "KSB"
 category: "Pumps & Valves"
 description: "KSB spare parts including seal kits, bearing kits, actuator components, fasteners, and valve accessories for KSB and KSB Amri product lines. Request price and availability."

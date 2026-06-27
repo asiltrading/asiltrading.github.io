@@ -1,6 +1,6 @@
 ---
 title: "Bently Nevada Machinery Monitoring Parts"
-model: "3500, 3300 XL, 1900"
+model: "Machinery monitoring probes, sensors & I/O modules"
 manufacturer: "Bently Nevada"
 category: "Auxiliary Equipment"
 description: "Bently Nevada machinery health monitoring parts. Proximity probes, proximitor sensors, extension cables, monitoring modules and I/O cards from the 3300 XL and 3500 series. Request price and availability."

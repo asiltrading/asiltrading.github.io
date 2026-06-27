@@ -1,6 +1,6 @@
 ---
 title: "LS Electric – Spare Parts Catalog"
-model: "XGT / Metasol"
+model: "PLCs, HMI, power supplies, contactors & circuit breakers"
 manufacturer: "LS Electric"
 category: "Electrical"
 description: "LS Electric spare parts including XGT HMI displays, PLC CPU modules, Metasol contactors, circuit breakers, overload relays, and I/O modules for industrial control and automation systems. Request price and availability."

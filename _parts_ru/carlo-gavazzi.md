@@ -1,6 +1,6 @@
 ---
 title: "Carlo Gavazzi – ПЛК, реле и панели оператора"
-model: "Relays / Sensors / Monitoring"
+model: "Реле, контакторы, датчики и ПЛК"
 manufacturer: "Carlo Gavazzi"
 category: "Electrical"
 description: "Запчасти Carlo Gavazzi: ПЛК, реле и панели оператора и другое. Подбор по OEM-номерам, оригинал и OEM-аналоги, б/у. Запросите цену и наличие."

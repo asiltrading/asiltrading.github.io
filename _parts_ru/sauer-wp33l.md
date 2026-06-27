@@ -1,5 +1,5 @@
 ---
-title: "Sauer WP33L Air Compressor"
+title: "Sauer WP33L – воздушный компрессор"
 model: "WP33L"
 manufacturer: "Sauer"
 category: "Auxiliary Equipment"

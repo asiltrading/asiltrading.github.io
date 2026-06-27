@@ -1,6 +1,6 @@
 ---
 title: "Eaton Contactors, Circuit Breakers & Relays"
-model: "Contactors / Breakers / Relays"
+model: "Contactors, circuit breakers, relays & drives"
 manufacturer: "Eaton"
 category: "Electrical"
 description: "Eaton Contactors, Circuit Breakers & Relays and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

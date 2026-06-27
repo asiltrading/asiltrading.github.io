@@ -1,6 +1,6 @@
 ---
 title: "Pilz Safety Relays, I/O Modules & Relays"
-model: "Safety Relays / PNOZ"
+model: "Safety relays, PNOZ modules & I/O system"
 manufacturer: "Pilz"
 category: "Electrical"
 description: "Pilz Safety Relays, I/O Modules & Relays and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

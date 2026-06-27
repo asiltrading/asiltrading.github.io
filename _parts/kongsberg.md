@@ -1,6 +1,6 @@
 ---
 title: "Kongsberg Navigation & Automation Parts"
-model: "Norcontrol, AutoChief C20, Simrad"
+model: "Navigation & automation I/O modules, PCB cards & sensors"
 manufacturer: "Kongsberg"
 category: "Navigation & Electronics"
 description: "Kongsberg maritime automation, navigation, and dynamic positioning parts. I/O modules, controllers, communication boards, and PCB cards for Kongsberg, Norcontrol, and Simrad systems. Request price and availability."

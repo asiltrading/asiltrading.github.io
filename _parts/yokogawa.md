@@ -1,6 +1,6 @@
 ---
 title: "Yokogawa Process Control Instruments"
-model: "ProSafe-RS, CENTUM, UT Series"
+model: "Process controllers, DCS modules & field instruments"
 manufacturer: "Yokogawa"
 category: "Navigation & Electronics"
 description: "Yokogawa process control and instrumentation spare parts. Controllers, processor modules, I/O modules, bus interfaces, analyzers, and safety system components. Request price and availability."

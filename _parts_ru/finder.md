@@ -1,6 +1,6 @@
 ---
 title: "Finder – Реле"
-model: "Relays / Timers / Sockets"
+model: "Реле, таймеры, колодки и термостаты"
 manufacturer: "Finder"
 category: "Electrical"
 description: "Запчасти Finder: реле и другое. Подбор по OEM-номерам, оригинал и OEM-аналоги, б/у. Запросите цену и наличие."

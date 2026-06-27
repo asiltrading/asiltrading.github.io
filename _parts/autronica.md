@@ -1,6 +1,6 @@
 ---
 title: "Autronica Fire and Gas Detection Parts for Marine"
-model: "BHH, BF, BS-420M, EA, GLK, GT"
+model: "Fire & gas detectors, panels & control modules"
 manufacturer: "Autronica"
 category: "Navigation & Electronics"
 description: "Autronica fire and gas detection spare parts including smoke detectors, flame detectors, fire alarm control panels, manual call points, processor units, and pressure transmitters for marine vessels. Request price and availability."

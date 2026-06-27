@@ -1,6 +1,6 @@
 ---
 title: "H.M. Stein-Sohn – Marine Alarm, Monitoring & Control System Spare Parts"
-model: "CAMOS 6809, CAMOS 2000, VISTA, NAUTICPULT, COMOS NET"
+model: "Alarm, monitoring & control system parts"
 manufacturer: "H.M. Stein-Sohn"
 category: "Navigation & Electronics"
 description: "H.M. Stein-Sohn supplies alarm, monitoring, telegraph, and automation system components for commercial vessels, including PCB modules, control units, and interface cards for CAMOS, VISTA, and NAUTICPULT platforms. Request price and availability."

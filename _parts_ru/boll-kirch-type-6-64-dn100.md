@@ -1,5 +1,5 @@
 ---
-title: "Boll & Kirch Type 6.64 DN100 Automatic Filter"
+title: "Boll & Kirch тип 6.64 DN100 – автоматический фильтр"
 model: "Type 6.64 DN100"
 manufacturer: "Boll & Kirch"
 category: "Auxiliary Equipment"

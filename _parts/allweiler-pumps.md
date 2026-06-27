@@ -1,6 +1,6 @@
 ---
 title: "Allweiler Progressive Cavity & Centrifugal Pumps"
-model: "SN / SNP / SEP / NB / NT series"
+model: "Progressive cavity & centrifugal pump spare parts"
 manufacturer: "Allweiler (Circor)"
 category: "Pumps & Valves"
 description: "Spare parts for Allweiler progressing-cavity (SN/SNP/SEP) and NB/NT centrifugal pumps."

@@ -1,6 +1,6 @@
 ---
 title: "Uzushio Electric – Marine Automation PCB Cards, Power Modules and Control Systems"
-model: "UG, UD, UAT, UST, UTL, UMS, SV10003, BEMAC"
+model: "Marine automation PCB cards, power modules & control systems"
 manufacturer: "Uzushio Electric"
 category: "Electrical"
 description: "Uzushio Electric supplies PCB cards, power supply and balancer modules, synchronizer assemblies, UTL system modules, alarm printers, annunciator panels, and micro computer systems for marine automation and power management. Request price and availability."

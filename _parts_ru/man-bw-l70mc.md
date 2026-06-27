@@ -1,5 +1,5 @@
 ---
-title: "MAN B&W L70MC Marine Diesel"
+title: "MAN B&W L70MC – судовой дизель"
 model: "L70MC"
 manufacturer: "MAN B&W"
 category: "Engine"

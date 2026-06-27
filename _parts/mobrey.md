@@ -1,6 +1,6 @@
 ---
 title: "Mobrey – Level Switches, Transmitters & Control Units"
-model: "Magnetic, Float & Squing Series Level Switches, Transmitters & Control Units"
+model: "Level switches, transmitters & control units"
 manufacturer: "Mobrey"
 category: "Pumps & Valves"
 description: "Mobrey level switches, float switches, liquid level switches, level transmitters, and universal control units for industrial process and vessel level measurement applications. Request price and availability."

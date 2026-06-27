@@ -1,6 +1,6 @@
 ---
 title: "Festo – Pneumatic & Automation Components"
-model: "Festo Pneumatic & Automation"
+model: "Pneumatic valves, cylinders, regulators & bus I/O modules"
 manufacturer: "Festo"
 category: "Pumps & Valves"
 description: "Festo pneumatic cylinders, solenoid valves, coils, flow control valves, filter regulators, bus nodes, I/O modules, PCB cards, pressure sensors, and vacuum generators for industrial automation. Request price and availability."

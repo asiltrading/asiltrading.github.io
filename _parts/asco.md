@@ -1,6 +1,6 @@
 ---
 title: "ASCO – Solenoid Valves, Coils & Accessories"
-model: "8000 Series, SC, WPH & JKF solenoid valves, coils & repair kits"
+model: "Solenoid valves, coils & repair kits"
 manufacturer: "ASCO"
 category: "Pumps & Valves"
 description: "ASCO solenoid valves, coils, repair kits, globe valves, and spool valves for fluid and process control applications across marine and industrial systems. Request price and availability."

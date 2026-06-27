@@ -1,6 +1,6 @@
 ---
 title: "Westfalia LO/ME/AE Treatment Plant"
-model: "CENTRI-PACK 9913-0486-000 / 9913-2486-030"
+model: "CENTRI-PACK LO/ME/AE Treatment Plant"
 manufacturer: "GEA Westfalia Separator"
 category: "Auxiliary Equipment"
 description: "Equipment list for the GEA Westfalia LO/ME/AE lube-oil purifier treatment plant. 1x OSD 18-0196-067/15 (LO-ME, 3580 L/h) + 2x OSD 6-0196-067/5 (LO-AE, 920 L/h each)."

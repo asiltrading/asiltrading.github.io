@@ -1,6 +1,6 @@
 ---
-title: "MacGregor / TTS Deck Machinery"
-model: "Cargo cranes, mooring winches"
+title: "MacGregor / TTS – палубное оборудование"
+model: "Запчасти для грузовых кранов и швартовных лебёдок"
 manufacturer: "MacGregor"
 category: "Deck Equipment"
 description: "Запчасти для MacGregor Cargo cranes, mooring winches. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

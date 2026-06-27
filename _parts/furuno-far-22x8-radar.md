@@ -1,6 +1,6 @@
 ---
 title: "Furuno FAR-22x8 / FAR-23x8 Radar"
-model: "FAR-22x8 Series Marine Radar Spare Parts"
+model: "FAR-22x8 / FAR-23x8 Series"
 manufacturer: "Furuno"
 category: "Navigation & Electronics"
 description: "Spare parts for Furuno FAR-22x8 / FAR-23x8 series X-band and S-band marine radars – magnetrons, scanner units, and processor parts."

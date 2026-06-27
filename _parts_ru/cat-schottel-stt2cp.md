@@ -1,6 +1,6 @@
 ---
-title: "Schottel STT 2 CP Bow Thruster"
-model: "STT 2 CP (STT 170-1010 CP series)"
+title: "Schottel STT 2 CP – носовое подруливающее устройство"
+model: "Носовой подруливающий STT 2 CP"
 manufacturer: "SCHOTTEL GmbH & Co. KG"
 category: "Auxiliary Equipment"
 description: "Запчасти для SCHOTTEL GmbH & Co. KG STT 2 CP (STT 170-1010 CP series). Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

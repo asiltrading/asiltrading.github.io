@@ -1,6 +1,6 @@
 ---
-title: "Shinko Pump Units"
-model: "RVP / SVA / SVS / SAE / SVB series"
+title: "Shinko – судовые насосы и насосные агрегаты"
+model: "Насосные агрегаты серий RVP / SVA / SVS / SAE / SVB"
 manufacturer: "Shinko"
 category: "Pumps & Valves"
 description: "Запчасти для Shinko RVP / SVA / SVS / SAE / SVB series. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

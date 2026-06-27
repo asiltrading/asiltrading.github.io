@@ -1,6 +1,6 @@
 ---
 title: "Carrier Transicold – Spare Parts"
-model: "Carrier Transicold"
+model: "Controllers, solenoid valves, sensors & refrigeration spare parts"
 manufacturer: "Carrier Transicold"
 category: "Auxiliary Equipment"
 description: "Genuine and OEM-compatible Carrier Transicold spare parts including solenoid coils, thermostats, sensors, transformers, PCB modules, fans, and controllers for refrigeration units. Request price and availability."

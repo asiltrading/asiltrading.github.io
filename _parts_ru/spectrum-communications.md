@@ -1,6 +1,6 @@
 ---
 title: "Spectrum Communications – Карты и модули системы Tele Flex"
-model: "Tele Flex"
+model: "Платы и модули Tele Flex"
 manufacturer: "Spectrum Communications"
 category: "Navigation & Electronics"
 description: "Spectrum Communications Tele Flex - модульная морская система телекоммуникаций и мониторинга, включающая карты CPU, I/O, связи и блоков питания для автоматизации и управления судном. Запросите цену и наличие."

@@ -1,6 +1,6 @@
 ---
 title: "Thorn Security – Fire Detection & Alarm Parts"
-model: "Thorn Security"
+model: "Fire & smoke detectors, alarm system parts"
 manufacturer: "Thorn Security"
 category: "Auxiliary Equipment"
 description: "Thorn Security manufactures fire detection and alarm systems including smoke detectors, heat detectors, flame detectors, manual call points, and fire alarm panels for industrial and commercial applications. Request price and availability."

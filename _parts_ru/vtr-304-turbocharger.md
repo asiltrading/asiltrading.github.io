@@ -1,5 +1,5 @@
 ---
-title: "ABB VTR 304-11 Turbocharger"
+title: "ABB VTR 304-11 – турбокомпрессор"
 model: "VTR 304-11"
 manufacturer: "ABB"
 category: "Engine"

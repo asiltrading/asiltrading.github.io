@@ -1,5 +1,5 @@
 ---
-title: "MTU 16V2000 P82 (Parts Catalogue)"
+title: "MTU 16V2000 P82 – каталог запчастей"
 model: "16V2000 P82"
 manufacturer: "MTU"
 category: "Engine"

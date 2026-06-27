@@ -1,6 +1,6 @@
 ---
-title: "MAN B&W MC Series Spares"
-model: "MC Series (mixed)"
+title: "MAN B&W серия MC – запасные части"
+model: "Поршневые кольца и запчасти серии MC"
 manufacturer: "MAN B&W"
 category: "Engine"
 description: "Запчасти для MAN B&W MC Series (mixed). Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

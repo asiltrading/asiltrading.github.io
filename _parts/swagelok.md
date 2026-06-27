@@ -1,6 +1,6 @@
 ---
 title: "Swagelok – Tube Fittings, Valves, Regulators & Fluid System Components"
-model: "Swagelok Tube Fittings & Fluid System Components"
+model: "Tube fittings, needle & ball valves, pressure regulators"
 manufacturer: "Swagelok"
 category: "Pumps & Valves"
 description: "Swagelok manufactures precision tube fittings, needle valves, ball valves, pressure regulators, and fluid system components used in marine, offshore, and industrial applications. Request price and availability."

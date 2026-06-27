@@ -1,6 +1,6 @@
 ---
 title: "Semikron IGBT Modules"
-model: "Power Modules / Thyristors"
+model: "IGBT modules & power semiconductor modules"
 manufacturer: "Semikron"
 category: "Electrical"
 description: "Semikron IGBT Modules and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

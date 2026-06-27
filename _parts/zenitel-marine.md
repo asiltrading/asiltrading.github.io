@@ -1,6 +1,6 @@
 ---
 title: "Zenitel Marine – Intercom, Alarm & PA System Spare Parts"
-model: "SPA / VPA / VMP Series"
+model: "Intercom, alarm & PA system amplifiers and panels"
 manufacturer: "Zenitel Marine"
 category: "Auxiliary Equipment"
 description: "Genuine Zenitel Marine spare parts covering public address amplifiers, alarm generator sets, alarm panels, terminal boards, PCBs, and vessel telephone units for marine intercom and PA systems. Request price and availability."

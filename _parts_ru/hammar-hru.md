@@ -1,6 +1,6 @@
 ---
-title: "Hammar Hydrostatic Release Units"
-model: "H20R / H20RX / H20E"
+title: "Hammar – гидростатические разобщающие устройства (ГРУ)"
+model: "Гидростатические устройства расцепления H20R / H20RX / H20E"
 manufacturer: "Hammar"
 category: "Deck Equipment"
 description: "Запчасти для Hammar H20R / H20RX / H20E. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

@@ -1,5 +1,5 @@
 ---
-title: "Aalborg VESTA EH Electric Heater"
+title: "Aalborg VESTA EH – электрический нагреватель"
 model: "VESTA EH"
 manufacturer: "Aalborg Industries"
 category: "Auxiliary Equipment"

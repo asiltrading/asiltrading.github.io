@@ -1,6 +1,6 @@
 ---
 title: "Sperry Marine – Запасные части и навигационные компоненты"
-model: "Sperry Marine Navigation Systems"
+model: "Навигационные системы, радары и гирокомпасы"
 manufacturer: "Sperry Marine"
 category: "Navigation & Electronics"
 description: "Оригинальные запасные части Sperry Marine: платы питания, модуляторные платы PCB, гирокомпасы, указатели угла перекладки руля, предусилители лага и цифровые репитеры для судовых навигационных систем. Запросите цену и наличие."

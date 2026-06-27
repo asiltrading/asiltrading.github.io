@@ -1,6 +1,6 @@
 ---
 title: "DESMI NSL / NSLV / NSLH Centrifugal Pump"
-model: "NSL / NSLV / NSLH 65–250 (-265/-330)"
+model: "NSL / NSLV / NSLH Centrifugal Pump"
 manufacturer: "DESMI"
 category: "Pumps & Valves"
 description: "Spare parts for DESMI NSL / NSLV / NSLH vertical in-line centrifugal pumps (sizes 65–250 mm)."

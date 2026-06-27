@@ -1,5 +1,5 @@
 ---
-title: "Sauer WP400 Air Compressor"
+title: "Sauer WP400 – воздушный компрессор"
 model: "WP400"
 manufacturer: "Sauer"
 category: "Auxiliary Equipment"

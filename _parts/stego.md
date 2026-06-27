@@ -1,6 +1,6 @@
 ---
 title: "STEGO Thermostats"
-model: "Thermostats / Heaters / Fans"
+model: "Thermostats, heaters & cabinet fans"
 manufacturer: "STEGO"
 category: "Electrical"
 description: "STEGO Thermostats and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

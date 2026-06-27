@@ -1,5 +1,5 @@
 ---
-title: "Alfa Laval OS Twin Screw Pump"
+title: "Alfa Laval OS – двухвинтовой насос"
 model: "OS series"
 manufacturer: "Alfa Laval"
 category: "Pumps & Valves"

@@ -1,6 +1,6 @@
 ---
 title: "Carrier Transicold – Запасные части"
-model: "Carrier Transicold"
+model: "Контроллеры, электромагнитные клапаны, датчики и запчасти для рефрижераторов"
 manufacturer: "Carrier Transicold"
 category: "Auxiliary Equipment"
 description: "Оригинальные и OEM-совместимые запасные части Carrier Transicold: соленоидные катушки, термостаты, датчики, трансформаторы, модули PCB, вентиляторы и контроллеры для рефрижераторных установок. Запросите цену и наличие."

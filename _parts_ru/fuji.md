@@ -1,6 +1,6 @@
 ---
 title: "Fuji Electric – ПЛК, панели оператора и контакторы"
-model: "Contactors / Breakers / Drives"
+model: "ПЛК, контакторы, автоматические выключатели, HMI и приводы"
 manufacturer: "Fuji Electric"
 category: "Electrical"
 description: "Запчасти Fuji Electric: ПЛК, панели оператора и контакторы и другое. Подбор по OEM-номерам, оригинал и OEM-аналоги, б/у. Запросите цену и наличие."

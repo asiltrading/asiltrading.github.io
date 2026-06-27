@@ -1,6 +1,6 @@
 ---
 title: "Riken Keiki Marine Gas Detection and Monitoring Systems"
-model: "SD-705, GD-A8, GP-226, GX-111, RX-415, TAN-580/590, RM-590, GP-571, GP-6001, RK-20"
+model: "Gas detectors, monitoring meters & alarm units"
 manufacturer: "Riken Keiki"
 category: "Navigation & Electronics"
 description: "Riken Keiki gas detectors, monitoring meters, alarm units, and replacement PCB assemblies for marine vessel gas detection systems. Request price and availability."

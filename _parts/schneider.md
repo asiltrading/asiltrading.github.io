@@ -1,6 +1,6 @@
 ---
 title: "Schneider Electric I/O Modules, Relays & PLCs"
-model: "TeSys / Modicon / Acti9"
+model: "TeSys contactors, Modicon PLCs, Acti9 breakers & drives"
 manufacturer: "Schneider Electric"
 category: "Electrical"
 description: "Schneider Electric I/O Modules, Relays & PLCs and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

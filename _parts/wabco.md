@@ -1,6 +1,6 @@
 ---
 title: "WABCO – Pneumatic Valves, Solenoids & Controls"
-model: "WABCO Pneumatic Controls"
+model: "Pneumatic valves, solenoids & control components"
 manufacturer: "WABCO"
 category: "Pumps & Valves"
 description: "Genuine WABCO pneumatic directional control valves, solenoid valves, pressure reducing valves, relay valves, check valves, and repair kits for industrial and marine compressed-air systems. Request price and availability."

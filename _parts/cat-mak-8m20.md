@@ -1,6 +1,6 @@
 ---
 title: "MaK 8M20 Marine Diesel Engine"
-model: "Type M20 (8-cylinder)"
+model: "MaK M20 (8-cylinder)"
 manufacturer: "Caterpillar Motoren (MaK)"
 category: "Engine"
 description: "MaK Type M20 medium-speed marine diesel engine, 8-cylinder configuration (M20-M601C series). Engine Nos. 30847 and 30848 (twin set). Manual record 251598 (Doc AA021665, issued 20.02.2006, Kiel)."

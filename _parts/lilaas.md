@@ -1,6 +1,6 @@
 ---
 title: "Lilaas Marine Control Levers and Joysticks"
-model: "LF60, LF70, LF80, LF90, LF120, LF130, LF180, R01, R02"
+model: "Control levers, joysticks & bridge panels"
 manufacturer: "Lilaas"
 category: "Navigation & Electronics"
 description: "Lilaas supplies marine control levers, azimuth controllers, rudder levers, thruster levers, joysticks, and bridge panel units for vessel maneuvering systems. Request price and availability."

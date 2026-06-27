@@ -1,6 +1,6 @@
 ---
 title: "Baumer – Sensors, Encoders, Transmitters and Signal Converters"
-model: "Various"
+model: "Sensors, encoders, pressure transmitters & signal converters"
 manufacturer: "Baumer"
 category: "Navigation & Electronics"
 description: "Genuine Baumer replacement parts including photoelectric sensors, inductive proximity sensors, hall-effect sensors, incremental encoders, pressure transmitters, pressure switches, flow indicators, solenoid valves, and digital signal converters for industrial automation applications. Request price and availability."

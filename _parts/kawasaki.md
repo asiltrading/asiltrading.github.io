@@ -1,6 +1,6 @@
 ---
 title: "Kawasaki Precision – Spare Parts"
-model: "Kawasaki Precision Marine Spare Parts"
+model: "Turbine, thruster, seal & hydraulic valve spare parts"
 manufacturer: "Kawasaki Precision"
 category: "Pumps & Valves"
 description: "Kawasaki Precision spare parts covering turbine components, seals and O-rings, bow thruster sealing, hydraulic valves, and boiler and condenser hardware for marine and industrial applications. Request price and availability."

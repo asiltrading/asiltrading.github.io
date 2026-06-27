@@ -1,6 +1,6 @@
 ---
 title: "Finder Relays"
-model: "Relays / Timers / Sockets"
+model: "Relays, timers, sockets & thermostats"
 manufacturer: "Finder"
 category: "Electrical"
 description: "Finder Relays and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

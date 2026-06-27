@@ -1,5 +1,5 @@
 ---
-title: "Hatlapa L 220 Air Compressor"
+title: "Hatlapa L 220 – воздушный компрессор"
 model: "L 220"
 manufacturer: "Hatlapa"
 category: "Auxiliary Equipment"

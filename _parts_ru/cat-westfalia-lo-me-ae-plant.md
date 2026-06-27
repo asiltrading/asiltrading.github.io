@@ -1,6 +1,6 @@
 ---
-title: "Westfalia LO/ME/AE Treatment Plant"
-model: "CENTRI-PACK 9913-0486-000 / 9913-2486-030"
+title: "Westfalia – установка очистки LO/ME/AE"
+model: "Установка очистки масла/ГД/ВД CENTRI-PACK"
 manufacturer: "GEA Westfalia Separator"
 category: "Auxiliary Equipment"
 description: "Запчасти для GEA Westfalia Separator CENTRI-PACK 9913-0486-000 / 9913-2486-030. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

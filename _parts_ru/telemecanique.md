@@ -1,6 +1,6 @@
 ---
 title: "Telemecanique – Реле, контакторы и автоматические выключатели"
-model: "TeSys / Contactors / Relays"
+model: "Контакторы, реле и автоматические выключатели"
 manufacturer: "Telemecanique"
 category: "Electrical"
 description: "Запчасти Telemecanique: реле, контакторы и автоматические выключатели и другое. Подбор по OEM-номерам, оригинал и OEM-аналоги, б/у. Запросите цену и наличие."

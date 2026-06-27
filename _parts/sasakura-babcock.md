@@ -1,6 +1,6 @@
 ---
 title: "Sasakura Babcock – ODME Spare Parts"
-model: "AW1S / AW2"
+model: "AW1S / AW2 ODME PCB Cards"
 manufacturer: "Sasakura Babcock"
 category: "Navigation & Electronics"
 description: "Genuine Sasakura Babcock spare parts for Oil Discharge Monitoring Equipment (ODME) systems, including PCB cards, motherboards, and switches. Request price and availability."

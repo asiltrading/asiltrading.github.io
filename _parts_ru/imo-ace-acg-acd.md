@@ -1,5 +1,5 @@
 ---
-title: "IMO ACE / ACG / ACF / ACD Triple Screw Pump"
+title: "IMO ACE / ACG / ACF / ACD – трёхвинтовой насос"
 model: "ACE / ACG / ACF / ACD"
 manufacturer: "IMO (Circor)"
 category: "Pumps & Valves"

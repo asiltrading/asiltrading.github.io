@@ -1,6 +1,6 @@
 ---
 title: "Terasaki Marine Electrical Switchgear and Control Spares"
-model: "TL, XS, XH, TOJ, AR, ESM, EMB, EMW, EMI, ECB, ECA, EIN, GAC, TFE-2000"
+model: "Marine switchgear, PCB cards & control spares"
 manufacturer: "Terasaki"
 category: "Electrical"
 description: "Terasaki manufactures marine electrical switchgear, circuit breakers, power management systems, and control modules widely installed on commercial vessels worldwide. Request price and availability."

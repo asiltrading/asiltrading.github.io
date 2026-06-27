@@ -1,6 +1,6 @@
 ---
 title: "Converteam – Spare Parts Catalog"
-model: "IGT / MAE / GDS / P112"
+model: "PCB boards, power supplies & operator panels"
 manufacturer: "Converteam"
 category: "Electrical"
 description: "Genuine Converteam spare parts for dynamic positioning systems, power management, and marine electrical drive systems, including PCBs, controllers, power supplies, and operator panels. Request price and availability."

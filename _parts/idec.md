@@ -1,6 +1,6 @@
 ---
 title: "IDEC I/O Modules, Relays & Switches"
-model: "Relays / Switches / Timers"
+model: "Relays, switches, timers & PLCs"
 manufacturer: "IDEC"
 category: "Electrical"
 description: "IDEC I/O Modules, Relays & Switches and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

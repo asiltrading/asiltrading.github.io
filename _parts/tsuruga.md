@@ -1,6 +1,6 @@
 ---
 title: "Tsuruga Marine Electrical Meters, Relays and Signal Transducers"
-model: "YME 152, TME 152, NRE 152H, TMW 4B, CR series"
+model: "Marine meters, relays & signal transducers"
 manufacturer: "Tsuruga"
 category: "Navigation & Electronics"
 description: "Tsuruga manufactures marine electrical measurement and control instruments including relay meters, analog meters, pressure indicators, detection relays, and signal transducers for shipboard monitoring systems. Request price and availability."

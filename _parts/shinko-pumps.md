@@ -1,6 +1,6 @@
 ---
 title: "Shinko Pump Units"
-model: "RVP / SVA / SVS / SAE / SVB series"
+model: "RVP / SVA / SVS / SAE / SVB series pump units"
 manufacturer: "Shinko"
 category: "Pumps & Valves"
 description: "Confirmed Shinko complete pump-unit references for cargo/ballast/oil service. Individual spare part numbers are not publicly available – quote with vessel and pump-unit serial number."

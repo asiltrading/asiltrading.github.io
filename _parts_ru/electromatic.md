@@ -1,6 +1,6 @@
 ---
 title: "Electromatic – Реле времени и реле уровня"
-model: "SB / SM / SC / SA / S / SP / SJ Series"
+model: "Реле времени, циклические реле и реле уровня"
 manufacturer: "Electromatic"
 category: "Electrical"
 description: "Реле времени, реле тахометра, реле уровня тока и делительные реле Electromatic для систем промышленного управления и автоматизации. Запросите цену и наличие."

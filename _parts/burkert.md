@@ -1,6 +1,6 @@
 ---
 title: "Burkert – Solenoid Valves, Flow Meters & Control Components"
-model: "Burkert Fluid Control"
+model: "Solenoid valves, flow meters & pneumatic valve units"
 manufacturer: "Burkert"
 category: "Pumps & Valves"
 description: "Burkert solenoid valves, plunger valves, flow meters, valve positioners, conductivity transmitters, connectors, and modular pneumatic valve units covering a broad range of industrial fluid control applications. Request price and availability."

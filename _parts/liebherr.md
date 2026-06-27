@@ -1,6 +1,6 @@
 ---
 title: "Liebherr – Crane & Equipment Control Spare Parts"
-model: "Liebherr Crane Control Systems"
+model: "Crane control PCB cards, CAN modules & drive components"
 manufacturer: "Liebherr"
 category: "Electrical"
 description: "Genuine Liebherr spare parts for crane and heavy equipment control systems, including PCB cards, CAN modules, power stage boards, motor control drives, and processor modules used in Liebherr crane electrical and automation systems. Request price and availability."

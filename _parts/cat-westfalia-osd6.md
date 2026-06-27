@@ -1,6 +1,6 @@
 ---
 title: "Westfalia OSD 6 Separator"
-model: "OSD 6-91-067 / OSD 6-0196-067"
+model: "OSD 6 Separator"
 manufacturer: "GEA Westfalia Separator"
 category: "Auxiliary Equipment"
 description: "Spare parts reference for the GEA Westfalia OSD 6 small-capacity marine centrifugal separator. Instruction manual 2058-9001-100."

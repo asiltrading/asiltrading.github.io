@@ -1,6 +1,6 @@
 ---
 title: "Selco Marine Alarm Monitors, Protection Relays and Generator Controllers"
-model: "M1000, M2000, M3000, M4000, T2000, T2200, T2500, T3200, T4400, T4800, C6200, C6500, SIGMA S6000"
+model: "Alarm monitors, protection relays & generator controllers"
 manufacturer: "Selco"
 category: "Electrical"
 description: "Selco manufactures marine electrical monitoring and protection equipment including alarm monitors, protection relays, load sharers, insulation monitors, and generator controllers for shipboard power management. Request price and availability."

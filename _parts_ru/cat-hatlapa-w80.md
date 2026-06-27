@@ -1,5 +1,5 @@
 ---
-title: "Hatlapa W 80 Air Compressor"
+title: "Hatlapa W 80 – воздушный компрессор"
 model: "W 80"
 manufacturer: "Hatlapa"
 category: "Auxiliary Equipment"

@@ -1,6 +1,6 @@
 ---
 title: "TQ Environmental – Gas Detection System Spare Parts"
-model: "TQ Environmental Gas Detection Systems"
+model: "Gas detection systems, sensors & controllers"
 manufacturer: "TQ Environmental"
 category: "Auxiliary Equipment"
 description: "Spare parts for TQ Environmental gas detection and monitoring systems, including PLC controllers, PCB boards, gas sensors, infrared detectors, and solenoid valves for marine and industrial applications. Request price and availability."

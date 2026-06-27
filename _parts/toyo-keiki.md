@@ -1,6 +1,6 @@
 ---
 title: "Toyo Keiki – Marine Electrical Measuring Instruments and Monitors"
-model: "IS-3, DCF-12N, DCF-8, MPC, DGP-1, ERM 3, MT 2, AS 62 LA"
+model: "Marine meters, relays & signal transducers"
 manufacturer: "Toyo Keiki"
 category: "Navigation & Electronics"
 description: "Toyo Keiki supplies marine electrical measuring instruments including insulation resistance monitors, transducers, meter relays, and solid state controllers for shipboard power systems. Request price and availability."

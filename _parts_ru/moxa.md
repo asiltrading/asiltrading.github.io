@@ -1,6 +1,6 @@
 ---
 title: "Moxa – Промышленное сетевое оборудование и компоненты"
-model: "NPort Serial Device Servers, EDS Ethernet Switches & Media Converters"
+model: "Серверы последовательных портов, коммутаторы и медиаконвертеры"
 manufacturer: "Moxa"
 category: "Navigation & Electronics"
 description: "Оригинальные компоненты промышленной сети Moxa, включая серверы последовательных устройств, коммутаторы Ethernet, медиаконвертеры, модули SFP и блоки питания на DIN-рейку для морских и промышленных систем автоматизации. Запросите цену и наличие."

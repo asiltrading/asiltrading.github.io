@@ -1,6 +1,6 @@
 ---
 title: "Rosemount Marine Instrumentation Spare Parts – Pressure Transmitters, Tank Level & Analyzers"
-model: "2051, 3051, 2088, 0065D, Tankradar 9150, 1056, 1055"
+model: "Pressure transmitters, tank radar & analyzer modules"
 manufacturer: "Rosemount"
 category: "Navigation & Electronics"
 description: "Asil Trading supplies genuine Rosemount spare parts for marine vessels, including pressure transmitters, tank radar level systems, analyzers, and associated modules covering the 2051, 3051, 2088, and Tankradar product families. Request price and availability."

@@ -1,6 +1,6 @@
 ---
 title: "Nabtesco Marine Engine Remote Control and Governor System Parts"
-model: "M-800-III, M-800-II, MG-800-III, MG-800-II, EAR-120, ML-800-III"
+model: "Engine remote control, governor & PCB card systems"
 manufacturer: "Nabtesco"
 category: "Engine"
 description: "Nabtesco marine spare parts covering M-800 series engine remote control systems, governor units, actuators, and associated PCB cards for main engine control applications. Request price and availability."

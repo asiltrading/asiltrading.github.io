@@ -1,5 +1,5 @@
 ---
-title: "Armstrong International Steam Traps"
+title: "Armstrong International – конденсатоотводчики"
 model: "Float & Thermostatic, TS Series & Inverted Bucket Steam Traps"
 manufacturer: "Armstrong International"
 category: "Pumps & Valves"

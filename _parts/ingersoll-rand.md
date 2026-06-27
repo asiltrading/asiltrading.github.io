@@ -1,6 +1,6 @@
 ---
 title: "Ingersoll Rand – Spare Parts"
-model: "Ingersoll Rand"
+model: "Pneumatic components, compressor internals & tools"
 manufacturer: "Ingersoll Rand"
 category: "Auxiliary Equipment"
 description: "Genuine Ingersoll Rand spare parts including solenoid valves, pistons, cylinders, brake components, controllers, air compressors, and pneumatic assemblies for industrial and marine applications. Request price and availability."

@@ -1,5 +1,5 @@
 ---
-title: "Becker Vacuum Blower (Sewage System)"
+title: "Becker – вакуумный насос (система сточных вод)"
 model: "Vacuum Blower"
 manufacturer: "Becker"
 category: "Auxiliary Equipment"

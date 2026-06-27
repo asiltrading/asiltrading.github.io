@@ -1,6 +1,6 @@
 ---
 title: "Hatlapa W-Series Air Compressors"
-model: "W-Series Air Compressor Spare Parts"
+model: "W-Series Air Compressors"
 manufacturer: "Hatlapa"
 category: "Auxiliary Equipment"
 description: "Spare parts for Hatlapa W-series air compressors (W55–W220) – valve plates, gaskets, springs, seats, pistons, rings."

@@ -1,6 +1,6 @@
 ---
 title: "Endress+Hauser – Spare Parts & Instruments"
-model: "Endress+Hauser"
+model: "Level, pressure, flow & temperature instruments"
 manufacturer: "Endress+Hauser"
 category: "Navigation & Electronics"
 description: "Endress+Hauser level, pressure, flow, and temperature instruments and spare parts for marine and industrial process automation applications. Request price and availability."

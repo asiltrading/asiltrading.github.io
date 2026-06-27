@@ -1,6 +1,6 @@
 ---
 title: "Hirschmann – Industrial Ethernet Switches, Media Modules & Rail Transceivers"
-model: "Rail Hubs & Switches, MICE Switching & Media Modules"
+model: "Industrial Ethernet switches & hub modules"
 manufacturer: "Hirschmann"
 category: "Navigation & Electronics"
 description: "Hirschmann industrial networking components including Spider hub PCB modules, OZD Genius rail transceivers, RS2 rail switches, RS20 MICE switching modules, and MM series MICE media modules for rugged automation and control networks. Request price and availability."

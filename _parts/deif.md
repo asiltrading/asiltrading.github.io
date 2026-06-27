@@ -1,6 +1,6 @@
 ---
 title: "DEIF Marine Generator Controls"
-model: "DELOMATIC, CSQ-3, TAP, TAS, TAC"
+model: "Generator controllers, synchroscopes & power transducers"
 manufacturer: "DEIF"
 category: "Electrical"
 description: "DEIF marine generator control and power management spare parts. Synchroscopes, RPM indicators, power transducers, alarm units, and generator controllers. Request price and availability."

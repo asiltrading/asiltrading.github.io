@@ -1,6 +1,6 @@
 ---
 title: "Aventics – Pneumatic Valves, Repair Kits & Control Modules"
-model: "Aventics Pneumatics"
+model: "Pneumatic valves, solenoids, coils & repair kits"
 manufacturer: "Aventics"
 category: "Pumps & Valves"
 description: "Aventics pneumatic components including directional control valves, proportional valves, solenoid valves, repair and O-ring kits, coils, and fieldbus valve drivers for industrial and marine applications. Request price and availability."

@@ -1,6 +1,6 @@
 ---
-title: "Grundfos CR / CRI / CRN Vertical Multistage Pump"
-model: "CR / CRI / CRN 1–255"
+title: "Grundfos CR / CRI / CRN – вертикальный многоступенчатый насос"
+model: "Вертикальный многоступенчатый насос CR / CRI / CRN"
 manufacturer: "Grundfos"
 category: "Pumps & Valves"
 description: "Запчасти для Grundfos CR / CRI / CRN 1–255. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

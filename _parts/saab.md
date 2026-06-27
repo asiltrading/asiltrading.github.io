@@ -1,6 +1,6 @@
 ---
 title: "Saab Rosemount Marine Tank Radar System Spare Parts"
-model: "TANKRADAR, Rosemount 9150, TDU 9150023"
+model: "TANKRADAR Rex / Rosemount 9150 Tank Radar System"
 manufacturer: "Saab Rosemount"
 category: "Navigation & Electronics"
 description: "Saab Rosemount marine tank radar spare parts including transmitter electronic boxes, PCB cards, tank display units, and control boards for TANKRADAR level measurement systems. Request price and availability."

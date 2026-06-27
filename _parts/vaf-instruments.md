@@ -1,6 +1,6 @@
 ---
 title: "VAF Instruments – Marine Flow, Viscosity and Torque Monitoring Spares"
-model: "Viscosense, T-Sense, PALCO, SPU-3, SDB-3"
+model: "Flow, viscosity & torque monitoring instruments"
 manufacturer: "VAF Instruments"
 category: "Navigation & Electronics"
 description: "VAF Instruments supplies marine measurement and monitoring systems including viscosity controllers, flow computers, torque monitoring units and propellershaft panels for commercial vessels. Request price and availability."

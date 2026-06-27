@@ -1,5 +1,5 @@
 ---
-title: "Westfalia OSD 18 Separator"
+title: "Westfalia OSD 18 – сепаратор"
 model: "OSD 18-0196-067"
 manufacturer: "GEA Westfalia Separator"
 category: "Auxiliary Equipment"

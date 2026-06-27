@@ -1,6 +1,6 @@
 ---
 title: "Saab Rosemount – Запасные части для морских радарных систем измерения уровня танков"
-model: "TANKRADAR, Rosemount 9150, TDU 9150023"
+model: "Система танк-радара TANKRADAR Rex / Rosemount 9150"
 manufacturer: "Saab Rosemount"
 category: "Navigation & Electronics"
 description: "Запасные части для морских радарных систем измерения уровня Saab Rosemount: электронные блоки передатчиков, платы PCB, дисплейные блоки танков и платы управления для систем TANKRADAR. Запросите цену и наличие."

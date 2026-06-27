@@ -1,6 +1,6 @@
 ---
 title: "Solo – Fire Detector Testing Equipment Parts"
-model: "Solo Fire Detector Testing Equipment"
+model: "Fire detector testers, aerosols & battery batons"
 manufacturer: "Solo"
 category: "Auxiliary Equipment"
 description: "Solo manufactures professional fire detector testing and maintenance equipment including detector testers, battery batons, smoke aerosols, and removal tools used for servicing smoke, heat, and CO detectors on vessels and installations. Request price and availability."

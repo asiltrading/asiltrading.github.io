@@ -1,6 +1,6 @@
 ---
 title: "Sonardyne – Marine Acoustic Positioning and Navigation Systems Spare Parts"
-model: "7784, 7828/7769 LUSBL, 7707 USBL, 8026, 8135, 7768/7970"
+model: "Acoustic positioning transceivers, processors & spare kits"
 manufacturer: "Sonardyne"
 category: "Navigation & Electronics"
 description: "Sonardyne manufactures acoustic positioning, USBL, LBL transceivers, navigation computers, BOP control systems, and subsea instrumentation for offshore and marine operations. Request price and availability."

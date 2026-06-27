@@ -1,6 +1,6 @@
 ---
 title: "Fuji Electric PLCs, HMIs & Contactors"
-model: "Contactors / Breakers / Drives"
+model: "PLCs, contactors, circuit breakers, HMI & drives"
 manufacturer: "Fuji Electric"
 category: "Electrical"
 description: "Fuji Electric PLCs, HMIs & Contactors and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

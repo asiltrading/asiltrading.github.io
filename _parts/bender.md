@@ -1,6 +1,6 @@
 ---
 title: "Bender – Electrical Safety Monitoring Devices"
-model: "AGH150W-4, IR475LY-421, RCM465Y, IR420-D6-2, UG140P, IR 475, RCM465Y-13, UG 100"
+model: "Insulation monitors, residual current monitors & earth fault relays"
 manufacturer: "Bender"
 category: "Electrical"
 description: "Bender manufactures insulation monitoring devices, residual current monitors, isometers, and coupling devices for electrical safety in marine, industrial, and power distribution applications. Request price and availability."

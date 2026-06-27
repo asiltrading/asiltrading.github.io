@@ -1,6 +1,6 @@
 ---
 title: "Nohmi Bosai – Fire Detection System Spare Parts"
-model: "FDK512, FDS523-I, VDCW501-D, VDCW501B-J, FMM 517, FZB012-2, FZB013-4, FTGJ 001-z"
+model: "Smoke & flame detectors, manual call points & bases"
 manufacturer: "Nohmi Bosai"
 category: "Auxiliary Equipment"
 description: "Genuine Nohmi Bosai spare parts for marine and industrial fire detection systems, including smoke detectors, flame detectors, manual call points, detector bases, and test equipment. Request price and availability."

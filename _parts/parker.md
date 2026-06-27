@@ -1,6 +1,6 @@
 ---
 title: "Parker – Hydraulic, Pneumatic & Motion Control Parts"
-model: "Parker Hydraulic Pneumatic Motion Control"
+model: "Hydraulic & pneumatic valves, filters & actuators"
 manufacturer: "Parker"
 category: "Pumps & Valves"
 description: "Parker spare parts covering hydraulic and pneumatic directional control valves, servo motors and controllers, filter elements, cylinders, seals, solenoid coils, and regulators for industrial and marine applications. Request price and availability."

@@ -1,6 +1,6 @@
 ---
 title: "Nakakita Seisakusho – Pneumatic Controllers, Positioners & Valve Parts"
-model: "NS737S-D, NSTM732, NS770C, NS-9-3, NS705-D"
+model: "Pneumatic positioners, controllers & valve internals"
 manufacturer: "Nakakita Seisakusho"
 category: "Pumps & Valves"
 description: "Nakakita Seisakusho manufactures pneumatic positioners, automatic controllers, solenoid valves, diaphragms, gasket kits, and valve trim components for marine and industrial process control applications. Request price and availability."

@@ -1,5 +1,5 @@
 ---
-title: "Westfalia D 10 Control Unit"
+title: "Westfalia D 10 – блок управления"
 model: "D 10"
 manufacturer: "GEA Westfalia Separator"
 category: "Auxiliary Equipment"

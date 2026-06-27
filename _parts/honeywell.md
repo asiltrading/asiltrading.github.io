@@ -1,6 +1,6 @@
 ---
 title: "Honeywell PLCs, Sensors & I/O Modules"
-model: "Switches / Sensors / Controls"
+model: "PLCs, sensors, relays, I/O modules & thermostats"
 manufacturer: "Honeywell"
 category: "Electrical"
 description: "Honeywell PLCs, Sensors & I/O Modules and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

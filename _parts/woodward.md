@@ -1,6 +1,6 @@
 ---
 title: "Woodward Engine & Generator Controls"
-model: "2301D, EGCP-3, MicroNet, EasyGen"
+model: "Engine & generator speed controls, governors & actuators"
 manufacturer: "Woodward"
 category: "Engine"
 description: "Woodward engine and generator control spare parts. Speed controllers, load sharing modules, genset controllers, MicroNet modules, actuators, and synchronizers. OEM part numbers referenced. Request price and availability."

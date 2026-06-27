@@ -1,6 +1,6 @@
 ---
 title: "Mobrey – Датчики уровня, преобразователи и блоки управления"
-model: "Magnetic, Float & Squing Series Level Switches, Transmitters & Control Units"
+model: "Реле уровня, датчики-преобразователи и блоки управления"
 manufacturer: "Mobrey"
 category: "Pumps & Valves"
 description: "Датчики уровня Mobrey, поплавковые выключатели, жидкостные реле уровня, преобразователи уровня и универсальные блоки управления для промышленных технологических применений. Запросите цену и наличие."

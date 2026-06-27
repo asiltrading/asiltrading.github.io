@@ -1,6 +1,6 @@
 ---
 title: "Consilium – Системы пожарной и газовой сигнализации"
-model: "Salwico CS4000, Salwico GS3000, SM13, IBI120, MetAlarm"
+model: "Панели пожарной и газовой сигнализации, извещатели и модули"
 manufacturer: "Consilium"
 category: "Auxiliary Equipment"
 description: "Запасные части для морских систем пожарной и газовой сигнализации Consilium и Salwico, включая панели управления, модули датчиков, изоляторы и интерфейсные блоки. Запросите цену и наличие."

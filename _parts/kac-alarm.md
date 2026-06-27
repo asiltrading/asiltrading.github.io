@@ -1,6 +1,6 @@
 ---
 title: "KAC Alarm – Manual Call Points"
-model: "KR1 / KR670 / KY1 / WCP / WR / MCP / ARV / KSR"
+model: "Manual call points, conventional & addressable"
 manufacturer: "KAC Alarm"
 category: "Auxiliary Equipment"
 description: "KAC Alarm manual call points for fire detection and alarm systems, available in conventional, addressable, weatherproof, surface-mount, and flush-mount configurations for marine and industrial applications. Request price and availability."

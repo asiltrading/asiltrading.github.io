@@ -1,5 +1,5 @@
 ---
-title: "Alfa Laval TS20 Heat Exchanger"
+title: "Alfa Laval TS20 – теплообменник"
 model: "TS20 MFG"
 manufacturer: "Alfa Laval"
 category: "Auxiliary Equipment"

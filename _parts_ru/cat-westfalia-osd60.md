@@ -1,6 +1,6 @@
 ---
-title: "Westfalia OSD 60 Separator"
-model: "OSD 60-0136-067 / OSD 60-0196-067"
+title: "Westfalia OSD 60 – сепаратор"
+model: "Сепаратор OSD 60"
 manufacturer: "GEA Westfalia Separator"
 category: "Auxiliary Equipment"
 description: "Запчасти для GEA Westfalia Separator OSD 60-0136-067 / OSD 60-0196-067. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

@@ -1,5 +1,5 @@
 ---
-title: "Palfinger PK 18500 Crane"
+title: "Palfinger PK 18500 – кран"
 model: "PK 18500"
 manufacturer: "Palfinger"
 category: "Deck Equipment"

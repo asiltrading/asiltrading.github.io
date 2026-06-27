@@ -1,6 +1,6 @@
 ---
 title: "Siemens – Модули ввода-вывода, контакторы и ПЛК"
-model: "SIRIUS / SIMATIC / SITOP / 5S"
+model: "Контакторы SIRIUS, ПЛК SIMATIC, источники питания SITOP и приводы"
 manufacturer: "Siemens"
 category: "Electrical"
 description: "Запчасти Siemens: модули ввода-вывода, контакторы и ПЛК и другое. Подбор по OEM-номерам, оригинал и OEM-аналоги, б/у. Запросите цену и наличие."

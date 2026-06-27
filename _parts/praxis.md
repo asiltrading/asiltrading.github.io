@@ -1,6 +1,6 @@
 ---
 title: "Praxis Automation Technology – Marine Automation Control Systems & Spare Parts"
-model: "Marine PCS, DIN I/O & Analog Input Boards, Display Panels & Network Hardware"
+model: "Marine I/O modules, PCS boards, panels & network hardware"
 manufacturer: "Praxis Automation"
 category: "Navigation & Electronics"
 description: "Praxis Automation Technology supplies marine automation control systems including I/O modules, marine PCs, display panels, network hardware, and PMS modules for vessel monitoring and control applications. Request price and availability."

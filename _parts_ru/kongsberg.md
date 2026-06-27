@@ -1,6 +1,6 @@
 ---
 title: "Kongsberg – Навигация и автоматизация"
-model: "Norcontrol, AutoChief C20, Simrad"
+model: "Модули ввода/вывода, платы и датчики навигации и автоматизации"
 manufacturer: "Kongsberg"
 category: "Navigation & Electronics"
 description: "Запчасти Kongsberg: морская автоматизация, навигация и динамическое позиционирование. Модули ввода-вывода, контроллеры, платы связи для систем Kongsberg, Norcontrol и Simrad. Запросите цену и наличие."

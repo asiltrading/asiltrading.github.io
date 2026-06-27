@@ -1,5 +1,5 @@
 ---
-title: "Wärtsilä SCV 68 Gearbox"
+title: "Wärtsilä SCV 68 – редуктор"
 model: "SCV 68"
 manufacturer: "Wärtsilä"
 category: "Auxiliary Equipment"

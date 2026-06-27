@@ -1,5 +1,5 @@
 ---
-title: "Aalborg MISSION OC 3150"
+title: "Aalborg MISSION OC 3150 – судовой котёл"
 model: "MISSION OC 3150"
 manufacturer: "Aalborg Industries"
 category: "Auxiliary Equipment"

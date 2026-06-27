@@ -1,6 +1,6 @@
 ---
 title: "Westfalia HFO/DO Treatment Plant"
-model: "CENTRI-PACK 9913-0486-000 / 9913-2486-020"
+model: "CENTRI-PACK HFO/DO Treatment Plant"
 manufacturer: "GEA Westfalia Separator"
 category: "Auxiliary Equipment"
 description: "Equipment list for the GEA Westfalia HFO/DO purifier treatment plant. 2x OSD 60-0136-067/60 (HFO, 8700 L/h each) + 1x OSD 6-91-067/3 (MDO, 1400 L/h). Stocznia Szczecinska Nova project 26370, WS order 402.258766."

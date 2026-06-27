@@ -1,6 +1,6 @@
 ---
 title: "STN Atlas – Запасные части систем морской автоматики и управления"
-model: "Central, I/O, Control & Relay Modules, Alarm & Engine Control, Bridge Panels"
+model: "Модули управления, платы PCB и панели операторов мостика"
 manufacturer: "STN Atlas"
 category: "Navigation & Electronics"
 description: "Модули и платы STN Atlas для судовых систем автоматизации, аварийно-предупредительной сигнализации, безопасности и управления пропульсивной установкой. Запросите цену и наличие."

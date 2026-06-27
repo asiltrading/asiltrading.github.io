@@ -1,6 +1,6 @@
 ---
 title: "Rolls-Royce Frydenbø Steering Gear Electrical Spares"
-model: "Frydenbø steering gear electrical control spares (SP-34012 kit)"
+model: "Frydenbø Steering Gear Electrical Spares (SP-34012 Kit)"
 manufacturer: "Rolls-Royce Marine - Frydenbø"
 category: "Auxiliary Equipment"
 description: "Two-year electrical spare parts kit (SP-34012) for Rolls-Royce / Frydenbø hydraulic steering gear electrical control packages. Request price and availability."

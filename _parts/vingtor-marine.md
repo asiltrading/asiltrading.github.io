@@ -1,6 +1,6 @@
 ---
 title: "Vingtor Marine – Communication Systems & Spare Parts for Ships"
-model: "VSP, VMP, VSS, VOC, VPA, ETB, VA, VP"
+model: "Loudspeakers, intercoms, PA systems & telephone units"
 manufacturer: "Vingtor Marine"
 category: "Navigation & Electronics"
 description: "Vingtor Marine (Stentofon / Zenitel) supplies marine intercom, public address, sound reception, and telephone systems along with PCB spare parts for vessels. Request price and availability."

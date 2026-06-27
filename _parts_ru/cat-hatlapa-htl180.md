@@ -1,5 +1,5 @@
 ---
-title: "Hatlapa HTL 180 Screw Compressor"
+title: "Hatlapa HTL 180 – винтовой компрессор"
 model: "HTL 180 (Atlas Copco GA 11-30C)"
 manufacturer: "Hatlapa / Atlas Copco"
 category: "Auxiliary Equipment"

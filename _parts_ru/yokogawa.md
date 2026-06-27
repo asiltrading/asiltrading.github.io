@@ -1,6 +1,6 @@
 ---
 title: "Yokogawa – Приборы контроля процессов"
-model: "ProSafe-RS, CENTUM, UT Series"
+model: "Промышленные контроллеры, модули DCS и полевые приборы"
 manufacturer: "Yokogawa"
 category: "Navigation & Electronics"
 description: "Запчасти Yokogawa: системы управления технологическими процессами. Контроллеры, процессорные модули, модули ввода-вывода, анализаторы и системы безопасности. Запросите цену и наличие."

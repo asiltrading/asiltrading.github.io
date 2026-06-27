@@ -1,6 +1,6 @@
 ---
 title: "Sperry Marine – Spare Parts & Navigation Components"
-model: "Sperry Marine Navigation Systems"
+model: "Navigation systems, radar & gyrocompass parts"
 manufacturer: "Sperry Marine"
 category: "Navigation & Electronics"
 description: "Sperry Marine OEM spare parts covering power supply boards, modulator PCBs, gyro compass units, rudder angle indicators, speed log preamplifiers, and digital repeaters for vessel navigation systems. Request price and availability."

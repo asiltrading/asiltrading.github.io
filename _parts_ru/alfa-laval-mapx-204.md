@@ -1,6 +1,6 @@
 ---
-title: "Alfa Laval MAPX 204 Separator"
-model: "MAPX 204 / 204 TGT-24"
+title: "Alfa Laval MAPX 204 – сепаратор"
+model: "Сепаратор MAPX 204 TGT-24"
 manufacturer: "Alfa Laval"
 category: "Auxiliary Equipment"
 description: "Запчасти для Alfa Laval MAPX 204 / 204 TGT-24. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

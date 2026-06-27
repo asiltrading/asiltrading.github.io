@@ -1,6 +1,6 @@
 ---
 title: "Behrens Pumpen – Marine Pump Set Mechanical Seals & Bearings Code List"
-model: "Behrens master code list (34 pump positions)"
+model: "Mechanical seals & bearings code list for marine pumps"
 manufacturer: "Heinrich Behrens Pumpenfabrik"
 category: "Pumps & Valves"
 description: "Behrens Pumpen master code list of mechanical seals and bearings for a complete marine pump set (serial range 60277-60494). Cross-reference table mapping pump service / type / serial → seal + bearing part numbers."

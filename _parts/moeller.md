@@ -1,6 +1,6 @@
 ---
 title: "Moeller Circuit Breakers, Relays & Contactors"
-model: "DIL / PKZ / FAZ / easy"
+model: "Circuit breakers, contactors, relays & PLCs"
 manufacturer: "Moeller"
 category: "Electrical"
 description: "Moeller Circuit Breakers, Relays & Contactors and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

@@ -1,6 +1,6 @@
 ---
 title: "Westfalia OSD 60 Separator"
-model: "OSD 60-0136-067 / OSD 60-0196-067"
+model: "OSD 60 Separator"
 manufacturer: "GEA Westfalia Separator"
 category: "Auxiliary Equipment"
 description: "Spare parts reference for the GEA Westfalia OSD 60 marine centrifugal separator (self-cleaning bowl). Instruction manual 2060-9001-000."

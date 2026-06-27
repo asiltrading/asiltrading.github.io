@@ -1,6 +1,6 @@
 ---
 title: "Mean Well Power Supplies"
-model: "DR / SDR / RS / NDR Series"
+model: "DR / SDR / RS / NDR series DIN-rail power supplies"
 manufacturer: "Mean Well"
 category: "Electrical"
 description: "Mean Well Power Supplies and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

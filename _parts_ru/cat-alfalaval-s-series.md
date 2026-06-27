@@ -1,5 +1,5 @@
 ---
-title: "Alfa Laval S-Type Separator (S 200 - S 800)"
+title: "Alfa Laval S-серия – сепаратор (S 200 – S 800)"
 model: "S 200-700 Series Separators"
 manufacturer: "Alfa Laval"
 category: "Auxiliary Equipment"

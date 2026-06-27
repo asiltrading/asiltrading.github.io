@@ -1,6 +1,6 @@
 ---
 title: "Hatteland Marine Display Systems and Panel Computers – Spare Parts"
-model: "HD, JH, HM / MMC, MMD, KMC, KSD, TRD, TRS"
+model: "Marine display panels & panel computers"
 manufacturer: "Hatteland"
 category: "Navigation & Electronics"
 description: "Hatteland supplies rugged marine display panels and panel computers used on the bridge and throughout vessel control systems. Request price and availability."

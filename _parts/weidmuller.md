@@ -1,6 +1,6 @@
 ---
 title: "Weidmuller Signal Conditioners, Power Supplies & I/O Modules"
-model: "Terminal Blocks / Relays"
+model: "Signal conditioners, power supplies & I/O modules"
 manufacturer: "Weidmuller"
 category: "Electrical"
 description: "Weidmuller Signal Conditioners, Power Supplies & I/O Modules and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

@@ -1,6 +1,6 @@
 ---
 title: "MaK 6M20 Marine Diesel Engine"
-model: "Type M20 (6-cylinder)"
+model: "MaK M20 (6-cylinder)"
 manufacturer: "Caterpillar Motoren (MaK)"
 category: "Engine"
 description: "MaK Type M20 medium-speed marine diesel engine, 6-cylinder configuration (M20-M601C series). Engine No. 30890. Manual record 251599 (Doc AA021665, issued 21.02.2006, Kiel)."

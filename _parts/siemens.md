@@ -1,6 +1,6 @@
 ---
 title: "Siemens I/O Modules, Contactors & PLCs"
-model: "SIRIUS / SIMATIC / SITOP / 5S"
+model: "SIRIUS contactors, SIMATIC PLCs, SITOP power supplies & drives"
 manufacturer: "Siemens"
 category: "Electrical"
 description: "Siemens I/O Modules, Contactors & PLCs and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."
