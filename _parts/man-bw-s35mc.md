@@ -2538,7 +2538,7 @@ image: "/assets/img/og/man-bw-s35mc.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91366 – INSTRUMENTS <span class="parts-cnt">4</span></div>
+  <div class="parts-section-label">PLATE 91366 – INSTRUMENTS <span class="parts-cnt">14</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>

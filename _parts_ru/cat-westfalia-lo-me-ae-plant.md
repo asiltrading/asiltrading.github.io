@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-westfalia-lo-me-ae-plant.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SEPARATORS &amp; MOTORS <span class="parts-cnt">6</span></div>
+  <div class="parts-section-label">SEPARATORS &amp; MOTORS <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Westfalia P/N</th><th>Description</th></tr></thead>
     <tbody>
@@ -35,7 +35,7 @@ image: "/assets/img/og-ru/cat-westfalia-lo-me-ae-plant.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">VALVES <span class="parts-cnt">15</span></div>
+  <div class="parts-section-label">VALVES <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Westfalia P/N</th><th>Description</th></tr></thead>
     <tbody>
@@ -62,7 +62,7 @@ image: "/assets/img/og-ru/cat-westfalia-lo-me-ae-plant.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">STRAINERS <span class="parts-cnt">3</span></div>
+  <div class="parts-section-label">STRAINERS <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Westfalia P/N</th><th>Description</th></tr></thead>
     <tbody>

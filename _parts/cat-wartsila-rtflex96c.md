@@ -28,7 +28,7 @@ image: "/assets/img/og/cat-wartsila-rtflex96c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDER COVER &amp; VALVES (27) <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">CYLINDER COVER &amp; VALVES (27) <span class="parts-cnt">21</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -91,7 +91,7 @@ image: "/assets/img/og/cat-wartsila-rtflex96c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">GLAND BOX (23) <span class="parts-cnt">6</span></div>
+  <div class="parts-section-label">GLAND BOX (23) <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -105,7 +105,7 @@ image: "/assets/img/og/cat-wartsila-rtflex96c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SCAVENGE / HYDRAULIC / FUEL PIPING <span class="parts-cnt">10</span></div>
+  <div class="parts-section-label">SCAVENGE / HYDRAULIC / FUEL PIPING <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -125,7 +125,7 @@ image: "/assets/img/og/cat-wartsila-rtflex96c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CONTROL SYSTEM (WECS-9500 / DENIS-9) <span class="parts-cnt">26</span></div>
+  <div class="parts-section-label">CONTROL SYSTEM (WECS-9500 / DENIS-9) <span class="parts-cnt">34</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -168,7 +168,7 @@ image: "/assets/img/og/cat-wartsila-rtflex96c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SUPPLY UNIT (FUEL / SERVO OIL) <span class="parts-cnt">14</span></div>
+  <div class="parts-section-label">SUPPLY UNIT (FUEL / SERVO OIL) <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>

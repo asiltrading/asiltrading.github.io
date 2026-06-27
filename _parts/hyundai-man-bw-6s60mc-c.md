@@ -1406,7 +1406,7 @@ image: "/assets/img/og/hyundai-man-bw-6s60mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91215 – HOLDING-DOWN BOLTS AND END-CHOCK BOLTS <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">PLATE 91215 – HOLDING-DOWN BOLTS AND END-CHOCK BOLTS <span class="parts-cnt">44</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>

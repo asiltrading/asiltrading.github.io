@@ -9,7 +9,7 @@ image: "/assets/img/og/cat-hatlapa-l90.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CRANK CASE <span class="parts-cnt">22</span></div>
+  <div class="parts-section-label">CRANK CASE <span class="parts-cnt">25</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>

@@ -29,7 +29,7 @@ image: "/assets/img/og-ru/cat-westfalia-osd18.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">DRIVE &amp; SPINDLE <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">DRIVE &amp; SPINDLE <span class="parts-cnt">15</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -90,7 +90,7 @@ image: "/assets/img/og-ru/cat-westfalia-osd18.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">DISK STACK &amp; CENTRIPETAL PUMP <span class="parts-cnt">6</span></div>
+  <div class="parts-section-label">DISK STACK &amp; CENTRIPETAL PUMP <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

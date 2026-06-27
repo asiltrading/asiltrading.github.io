@@ -22,7 +22,7 @@ image: "/assets/img/og/cat-wartsila-rtflex58tb.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDER COVER &amp; VALVES (27) <span class="parts-cnt">14</span></div>
+  <div class="parts-section-label">CYLINDER COVER &amp; VALVES (27) <span class="parts-cnt">15</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -77,7 +77,7 @@ image: "/assets/img/og/cat-wartsila-rtflex58tb.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">GLAND BOX / SCAVENGE / HYDRAULIC PIPING <span class="parts-cnt">10</span></div>
+  <div class="parts-section-label">GLAND BOX / SCAVENGE / HYDRAULIC PIPING <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -97,7 +97,7 @@ image: "/assets/img/og/cat-wartsila-rtflex58tb.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CONTROL SYSTEM (WECS-9500 / DENIS-9) <span class="parts-cnt">22</span></div>
+  <div class="parts-section-label">CONTROL SYSTEM (WECS-9500 / DENIS-9) <span class="parts-cnt">29</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -135,7 +135,7 @@ image: "/assets/img/og/cat-wartsila-rtflex58tb.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SUPPLY UNIT (FUEL / SERVO OIL) <span class="parts-cnt">9</span></div>
+  <div class="parts-section-label">SUPPLY UNIT (FUEL / SERVO OIL) <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>

@@ -9,7 +9,7 @@ image: "/assets/img/og/cat-hatlapa-htl180.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">EQUIPMENT IDENTIFICATION <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">EQUIPMENT IDENTIFICATION <span class="parts-cnt">6</span></div>
   <table>
     <thead><tr><th>Document</th><th>Description</th></tr></thead>
     <tbody>

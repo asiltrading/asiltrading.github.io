@@ -36,7 +36,7 @@ image: "/assets/img/og/cat-hatlapa-l14.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDERS &amp; CYLINDER HEADS <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">CYLINDERS &amp; CYLINDER HEADS <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -70,7 +70,7 @@ image: "/assets/img/og/cat-hatlapa-l14.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PISTONS <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">PISTONS <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>

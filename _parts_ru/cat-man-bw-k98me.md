@@ -221,7 +221,7 @@ image: "/assets/img/og-ru/cat-man-bw-k98me.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">HIGH-PRESSURE FUEL PIPES (P90913-0161) <span class="parts-cnt">23</span></div>
+  <div class="parts-section-label">HIGH-PRESSURE FUEL PIPES (P90913-0161) <span class="parts-cnt">24</span></div>
   <table>
     <thead><tr><th>Item</th><th>Description</th></tr></thead>
     <tbody>
@@ -254,7 +254,7 @@ image: "/assets/img/og-ru/cat-man-bw-k98me.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">FUEL OIL PRESSURE BOOSTER (P90917-0002) <span class="parts-cnt">30</span></div>
+  <div class="parts-section-label">FUEL OIL PRESSURE BOOSTER (P90917-0002) <span class="parts-cnt">33</span></div>
   <table>
     <thead><tr><th>Item</th><th>Description</th></tr></thead>
     <tbody>

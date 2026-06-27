@@ -65,7 +65,7 @@ image: "/assets/img/og-ru/cat-man-bw-na70-t9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">GAS OUTLET DIFFUSER (509) <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">GAS OUTLET DIFFUSER (509) <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -82,7 +82,7 @@ image: "/assets/img/og-ru/cat-man-bw-na70-t9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">TURBINE NOZZLE RING (513) <span class="parts-cnt">10</span></div>
+  <div class="parts-section-label">TURBINE NOZZLE RING (513) <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -102,7 +102,7 @@ image: "/assets/img/og-ru/cat-man-bw-na70-t9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">BEARING CASING (517) <span class="parts-cnt">39</span></div>
+  <div class="parts-section-label">BEARING CASING (517) <span class="parts-cnt">40</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -164,7 +164,7 @@ image: "/assets/img/og-ru/cat-man-bw-na70-t9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">ROTOR COMPLETE (520) <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">ROTOR COMPLETE (520) <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -185,7 +185,7 @@ image: "/assets/img/og-ru/cat-man-bw-na70-t9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">INSERT (540) <span class="parts-cnt">4</span></div>
+  <div class="parts-section-label">INSERT (540) <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -209,7 +209,7 @@ image: "/assets/img/og-ru/cat-man-bw-na70-t9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SILENCER (544) <span class="parts-cnt">20</span></div>
+  <div class="parts-section-label">SILENCER (544) <span class="parts-cnt">21</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -239,7 +239,7 @@ image: "/assets/img/og-ru/cat-man-bw-na70-t9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">COMPRESSOR CASING (546) <span class="parts-cnt">15</span></div>
+  <div class="parts-section-label">COMPRESSOR CASING (546) <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -266,7 +266,7 @@ image: "/assets/img/og-ru/cat-man-bw-na70-t9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">POST LUBRICATION TANK (554) <span class="parts-cnt">42</span></div>
+  <div class="parts-section-label">POST LUBRICATION TANK (554) <span class="parts-cnt">41</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -316,7 +316,7 @@ image: "/assets/img/og-ru/cat-man-bw-na70-t9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SPEED MEASURING DEVICE (562) <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">SPEED MEASURING DEVICE (562) <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -338,7 +338,7 @@ image: "/assets/img/og-ru/cat-man-bw-na70-t9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CLEANING DEVICE - TURBINE WET (578.01) <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">CLEANING DEVICE - TURBINE WET (578.01) <span class="parts-cnt">6</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -353,7 +353,7 @@ image: "/assets/img/og-ru/cat-man-bw-na70-t9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CLEANING DEVICE - TURBINE DRY (578.03) <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">CLEANING DEVICE - TURBINE DRY (578.03) <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -380,7 +380,7 @@ image: "/assets/img/og-ru/cat-man-bw-na70-t9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CLEANING DEVICE - COMPRESSOR (579) <span class="parts-cnt">25</span></div>
+  <div class="parts-section-label">CLEANING DEVICE - COMPRESSOR (579) <span class="parts-cnt">23</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

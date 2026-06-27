@@ -9,7 +9,7 @@ image: "/assets/img/og/cat-hatlapa-w80.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CRANK CASE <span class="parts-cnt">28</span></div>
+  <div class="parts-section-label">CRANK CASE <span class="parts-cnt">27</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -84,7 +84,7 @@ image: "/assets/img/og/cat-hatlapa-w80.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDER &amp; CYLINDER HEAD <span class="parts-cnt">25</span></div>
+  <div class="parts-section-label">CYLINDER &amp; CYLINDER HEAD <span class="parts-cnt">31</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -209,7 +209,7 @@ image: "/assets/img/og/cat-hatlapa-w80.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDER LUBRICATION 1ST STAGE <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">CYLINDER LUBRICATION 1ST STAGE <span class="parts-cnt">15</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -284,7 +284,7 @@ image: "/assets/img/og/cat-hatlapa-w80.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">BASE FRAME - RIGID <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">BASE FRAME - RIGID <span class="parts-cnt">9</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -302,7 +302,7 @@ image: "/assets/img/og/cat-hatlapa-w80.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">BASE FRAME - RESILIENT <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">BASE FRAME - RESILIENT <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>

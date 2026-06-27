@@ -44,7 +44,7 @@ image: "/assets/img/og-ru/cat-wartsila-rtflex60c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDER COVER (27) <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">CYLINDER COVER (27) <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -152,7 +152,7 @@ image: "/assets/img/og-ru/cat-wartsila-rtflex60c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SCAVENGE AIR / HYDRAULIC / FUEL PIPING <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">SCAVENGE AIR / HYDRAULIC / FUEL PIPING <span class="parts-cnt">9</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

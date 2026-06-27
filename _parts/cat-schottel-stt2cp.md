@@ -9,7 +9,7 @@ image: "/assets/img/og/cat-schottel-stt2cp.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">ASSEMBLY DOCUMENT REFERENCES <span class="parts-cnt">14</span></div>
+  <div class="parts-section-label">ASSEMBLY DOCUMENT REFERENCES <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Schottel Doc No.</th><th>Assembly</th></tr></thead>
     <tbody>

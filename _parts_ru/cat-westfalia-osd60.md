@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-westfalia-osd60.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">FRAME &amp; SPINDLE ASSEMBLIES <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">FRAME &amp; SPINDLE ASSEMBLIES <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -28,7 +28,7 @@ image: "/assets/img/og-ru/cat-westfalia-osd60.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SPINDLE (2060-3429-000) <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">SPINDLE (2060-3429-000) <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -47,7 +47,7 @@ image: "/assets/img/og-ru/cat-westfalia-osd60.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">DRIVE (CENTRIFUGAL CLUTCH) <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">DRIVE (CENTRIFUGAL CLUTCH) <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -74,7 +74,7 @@ image: "/assets/img/og-ru/cat-westfalia-osd60.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SOLENOID VALVE BLOCK <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">SOLENOID VALVE BLOCK <span class="parts-cnt">14</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -97,7 +97,7 @@ image: "/assets/img/og-ru/cat-westfalia-osd60.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">BOWL ASSEMBLY (2044-6600-170) <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">BOWL ASSEMBLY (2044-6600-170) <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -132,7 +132,7 @@ image: "/assets/img/og-ru/cat-westfalia-osd60.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">MISC <span class="parts-cnt">3</span></div>
+  <div class="parts-section-label">MISC <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

@@ -157,7 +157,7 @@ image: "/assets/img/og-ru/cat-hatlapa-l220.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SEPARATORS 2ND &amp; 3RD STAGE <span class="parts-cnt">21</span></div>
+  <div class="parts-section-label">SEPARATORS 2ND &amp; 3RD STAGE <span class="parts-cnt">23</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
