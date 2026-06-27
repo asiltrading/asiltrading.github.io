@@ -4,7 +4,9 @@ model: "VRF, KF, VAL, SFH & SFN Series marine pumps"
 manufacturer: "Heinrich Behrens Pumpenfabrik"
 category: "Pumps & Valves"
 description: "Судовые насосы Behrens Pumpen: 34 типа насосов с назначением и характеристиками электродвигателей - забортной воды, балластные, топливные, масляные, осушительные и пожарные. Запросите цену и наличие."
-image: "/assets/img/og-ru/cat-behrens-yzj668c.png"
+image: "/assets/img/og-ru/cat-behrens-marine-pumps.png"
+redirect_from:
+  - /ru/parts/cat-behrens-yzj668c/
 
 ---
 
