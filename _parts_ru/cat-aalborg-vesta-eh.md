@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-aalborg-vesta-eh.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">HEATER COMPONENTS <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">КОМПОНЕНТЫ НАГРЕВАТЕЛЯ <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Item</th><th>Description</th></tr></thead>
     <tbody>
@@ -25,7 +25,7 @@ image: "/assets/img/og-ru/cat-aalborg-vesta-eh.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">MAIN FLANGE BOLTS BY FRAME SIZE <span class="parts-cnt">6</span></div>
+  <div class="parts-section-label">БОЛТЫ ГЛАВНОГО ФЛАНЦА ПО РАЗМЕРУ РАМЫ <span class="parts-cnt">6</span></div>
   <table>
     <thead><tr><th>Frame</th><th>Bolts &amp; Torque</th></tr></thead>
     <tbody>

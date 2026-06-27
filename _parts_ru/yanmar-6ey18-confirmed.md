@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/yanmar-6ey18-confirmed.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDER HEAD <span class="parts-cnt">2</span></div>
+  <div class="parts-section-label">ЦИЛИНДРОВАЯ КРЫШКА <span class="parts-cnt">2</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -20,7 +20,7 @@ image: "/assets/img/og-ru/yanmar-6ey18-confirmed.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">FUEL INJECTION <span class="parts-cnt">1</span></div>
+  <div class="parts-section-label">ТОПЛИВНАЯ ФОРСУНКА <span class="parts-cnt">1</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -30,7 +30,7 @@ image: "/assets/img/og-ru/yanmar-6ey18-confirmed.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">GASKETS &amp; SEALS <span class="parts-cnt">2</span></div>
+  <div class="parts-section-label">ПРОКЛАДКИ И УПЛОТНЕНИЯ <span class="parts-cnt">2</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -41,7 +41,7 @@ image: "/assets/img/og-ru/yanmar-6ey18-confirmed.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">ONBOARD TOOLS <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">БОРТОВОЙ ИНСТРУМЕНТ <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

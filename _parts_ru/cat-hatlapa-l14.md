@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-hatlapa-l14.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CRANK CASE <span class="parts-cnt">18</span></div>
+  <div class="parts-section-label">КАРТЕР <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -36,7 +36,7 @@ image: "/assets/img/og-ru/cat-hatlapa-l14.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDERS &amp; CYLINDER HEADS <span class="parts-cnt">10</span></div>
+  <div class="parts-section-label">ЦИЛИНДРЫ И ЦИЛИНДРОВЫЕ КРЫШКИ <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -55,7 +55,7 @@ image: "/assets/img/og-ru/cat-hatlapa-l14.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">VALVES <span class="parts-cnt">6</span></div>
+  <div class="parts-section-label">КЛАПАНЫ <span class="parts-cnt">6</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -70,7 +70,7 @@ image: "/assets/img/og-ru/cat-hatlapa-l14.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PISTONS <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">ПОРШНИ <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>

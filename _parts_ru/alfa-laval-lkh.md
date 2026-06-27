@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/alfa-laval-lkh.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">ALFA LAVAL LKH CENTRIFUGAL PUMP – SEAL KITS <span class="parts-cnt">15</span></div>
+  <div class="parts-section-label">ALFA LAVAL LKH ЦЕНТРОБЕЖНЫЙ НАСОС - КОМПЛЕКТЫ УПЛОТНЕНИЙ <span class="parts-cnt">15</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -33,7 +33,7 @@ image: "/assets/img/og-ru/alfa-laval-lkh.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">ALFA LAVAL LKH – AGITATOR / SPARE PART KITS <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">ALFA LAVAL LKH - МЕШАЛКА / КОМПЛЕКТЫ ЗАПАСНЫХ ЧАСТЕЙ <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

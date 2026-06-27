@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/yanmar-6n18al.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">MAJOR ENGINE COMPONENTS <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">ОСНОВНЫЕ КОМПОНЕНТЫ ДВИГАТЕЛЯ <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -23,7 +23,7 @@ image: "/assets/img/og-ru/yanmar-6n18al.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDER HEAD <span class="parts-cnt">1</span></div>
+  <div class="parts-section-label">ЦИЛИНДРОВАЯ КРЫШКА <span class="parts-cnt">1</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -33,7 +33,7 @@ image: "/assets/img/og-ru/yanmar-6n18al.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">TURBOCHARGER <span class="parts-cnt">1</span></div>
+  <div class="parts-section-label">ТУРБОКОМПРЕССОР <span class="parts-cnt">1</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -43,7 +43,7 @@ image: "/assets/img/og-ru/yanmar-6n18al.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">INSTRUMENTS <span class="parts-cnt">3</span></div>
+  <div class="parts-section-label">ПРИБОРЫ <span class="parts-cnt">3</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

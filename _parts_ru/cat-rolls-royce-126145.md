@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-rolls-royce-126145.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SP-34012 ELECTRICAL SPARES KIT (2-YEAR) <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">SP-34012 КОМПЛЕКТ ЭЛЕКТРИЧЕСКИХ ЗАПАСНЫХ ЧАСТЕЙ (НА 2 ГОДА) <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

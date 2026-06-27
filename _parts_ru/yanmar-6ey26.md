@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/yanmar-6ey26.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDER HEAD / VALVES <span class="parts-cnt">4</span></div>
+  <div class="parts-section-label">ЦИЛИНДРОВАЯ КРЫШКА / КЛАПАНЫ <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -22,7 +22,7 @@ image: "/assets/img/og-ru/yanmar-6ey26.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDER LINER SEALS <span class="parts-cnt">2</span></div>
+  <div class="parts-section-label">УПЛОТНЕНИЯ ЦИЛИНДРОВОЙ ВТУЛКИ <span class="parts-cnt">2</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -33,7 +33,7 @@ image: "/assets/img/og-ru/yanmar-6ey26.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CONNECTING ROD <span class="parts-cnt">2</span></div>
+  <div class="parts-section-label">ШАТУН <span class="parts-cnt">2</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -44,7 +44,7 @@ image: "/assets/img/og-ru/yanmar-6ey26.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PUMPS &amp; COOLING <span class="parts-cnt">3</span></div>
+  <div class="parts-section-label">НАСОСЫ И ОХЛАЖДЕНИЕ <span class="parts-cnt">3</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -56,7 +56,7 @@ image: "/assets/img/og-ru/yanmar-6ey26.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PIPING &amp; FITTINGS <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">ТРУБОПРОВОДЫ И ФИТИНГИ <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -72,7 +72,7 @@ image: "/assets/img/og-ru/yanmar-6ey26.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SEALS, GASKETS &amp; O-RINGS <span class="parts-cnt">3</span></div>
+  <div class="parts-section-label">УПЛОТНЕНИЯ, ПРОКЛАДКИ И О-КОЛЬЦА <span class="parts-cnt">3</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -84,7 +84,7 @@ image: "/assets/img/og-ru/yanmar-6ey26.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">INSTRUMENTS &amp; CONTROLS <span class="parts-cnt">2</span></div>
+  <div class="parts-section-label">ПРИБОРЫ И СРЕДСТВА УПРАВЛЕНИЯ <span class="parts-cnt">2</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

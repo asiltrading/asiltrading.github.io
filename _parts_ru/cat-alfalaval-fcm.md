@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-alfalaval-fcm.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">FCM MODELS <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">МОДЕЛИ FCM <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Model</th><th>Description</th></tr></thead>
     <tbody>

@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-westfalia-d10.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">D 10 PARTS LIST <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">ПЕРЕЧЕНЬ ЗАПАСНЫХ ЧАСТЕЙ D 10 <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

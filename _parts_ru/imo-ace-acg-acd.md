@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/imo-ace-acg-acd.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">IMO SPARE PARTS KIT CODING SYSTEM <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">IMO СИСТЕМА КОДИРОВАНИЯ КОМПЛЕКТОВ ЗАПАСНЫХ ЧАСТЕЙ <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -29,7 +29,7 @@ image: "/assets/img/og-ru/imo-ace-acg-acd.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">ACD 025 NUMBERS <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">ACD 025 НОМЕРА <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -46,7 +46,7 @@ image: "/assets/img/og-ru/imo-ace-acg-acd.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">ACE / ACG SERIES NUMBERS <span class="parts-cnt">21</span></div>
+  <div class="parts-section-label">ACE / ACG СЕРИЙНЫЕ НОМЕРА <span class="parts-cnt">21</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -76,7 +76,7 @@ image: "/assets/img/og-ru/imo-ace-acg-acd.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">IMO AFTERMARKET / OEM CROSS-REFERENCE PART NUMBERS <span class="parts-cnt">15</span></div>
+  <div class="parts-section-label">IMO AFTERMARKET / OEM ПЕРЕКРЁСТНЫЕ НОМЕРА ДЕТАЛЕЙ <span class="parts-cnt">15</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -100,7 +100,7 @@ image: "/assets/img/og-ru/imo-ace-acg-acd.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">IMO COMPONENT POSITION REFERENCE <span class="parts-cnt">16</span></div>
+  <div class="parts-section-label">IMO СПРАВОЧНИК ПОЗИЦИЙ КОМПОНЕНТОВ <span class="parts-cnt">16</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

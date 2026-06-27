@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-rolls-royce-fb40.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">FB40 ASSEMBLY <span class="parts-cnt">24</span></div>
+  <div class="parts-section-label">СБОРОЧНЫЙ УЗЕЛ FB40 <span class="parts-cnt">24</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

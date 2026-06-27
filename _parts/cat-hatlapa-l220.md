@@ -87,7 +87,7 @@ image: "/assets/img/og/cat-hatlapa-l220.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">VALVES (3-stage) <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">VALVES (3-STAGE) <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -109,7 +109,7 @@ image: "/assets/img/og/cat-hatlapa-l220.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PISTONS (3-stage) <span class="parts-cnt">18</span></div>
+  <div class="parts-section-label">PISTONS (3-STAGE) <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>

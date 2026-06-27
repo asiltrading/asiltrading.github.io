@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-mak-6m20.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">DOCUMENTATION STRUCTURE <span class="parts-cnt">10</span></div>
+  <div class="parts-section-label">СТРУКТУРА ДОКУМЕНТАЦИИ <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Book / Chapter</th><th>Content</th></tr></thead>
     <tbody>

@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/armstrong-steam-traps.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">FLOAT &amp; THERMOSTATIC TRAPS - 15B / 30B / 75A / 125A / 175A SERIES <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">ПОПЛАВКОВЫЕ И ТЕРМОСТАТИЧЕСКИЕ КОНДЕНСАТООТВОДЧИКИ - СЕРИИ 15B / 30B / 75A / 125A / 175A <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -31,7 +31,7 @@ image: "/assets/img/og-ru/armstrong-steam-traps.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">TS SERIES + DISC TRAPS <span class="parts-cnt">2</span></div>
+  <div class="parts-section-label">СЕРИЯ TS + ДИСКОВЫЕ КОНДЕНСАТООТВОДЧИКИ <span class="parts-cnt">2</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -42,7 +42,7 @@ image: "/assets/img/og-ru/armstrong-steam-traps.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">INVERTED BUCKET TRAPS - 880/881/882/883 SERIES <span class="parts-cnt">2</span></div>
+  <div class="parts-section-label">КОНДЕНСАТООТВОДЧИКИ С ОПРОКИНУТЫМ СТАКАНОМ - СЕРИЯ 880/881/882/883 <span class="parts-cnt">2</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

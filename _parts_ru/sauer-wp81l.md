@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/sauer-wp81l.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SPARE PARTS RANGE B+A <span class="parts-cnt">21</span></div>
+  <div class="parts-section-label">АССОРТИМЕНТ ЗАПАСНЫХ ЧАСТЕЙ B+A <span class="parts-cnt">21</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -39,7 +39,7 @@ image: "/assets/img/og-ru/sauer-wp81l.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PRESSURE SWITCHES <span class="parts-cnt">3</span></div>
+  <div class="parts-section-label">ДАТЧИКИ-РЕЛЕ ДАВЛЕНИЯ <span class="parts-cnt">3</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

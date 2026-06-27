@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-westfalia-osd6.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">RECOMMENDED SPARE PARTS SETS <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">РЕКОМЕНДУЕМЫЕ КОМПЛЕКТЫ ЗАПАСНЫХ ЧАСТЕЙ <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -23,7 +23,7 @@ image: "/assets/img/og-ru/cat-westfalia-osd6.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">BOWL/HOOD KIT GASKETS (within 2058-9902-000) <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">ПРОКЛАДКИ КОМПЛЕКТА БАРАБАНА/КРЫШКИ (в составе 2058-9902-000) <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -49,7 +49,7 @@ image: "/assets/img/og-ru/cat-westfalia-osd6.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">DRIVE KIT COMPONENTS <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">КОМПОНЕНТЫ КОМПЛЕКТА ПРИВОДА <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

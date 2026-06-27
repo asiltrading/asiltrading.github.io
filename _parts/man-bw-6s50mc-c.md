@@ -9,7 +9,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90101 – CYLINDER COVER <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">PLATE 90101 - CYLINDER COVER <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -31,7 +31,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90103 – INDICATOR COCK - MOUNTING <span class="parts-cnt">14</span></div>
+  <div class="parts-section-label">PLATE 90103 - INDICATOR COCK - MOUNTING <span class="parts-cnt">14</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -54,7 +54,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90201 – PISTON AND PISTON ROD <span class="parts-cnt">16</span></div>
+  <div class="parts-section-label">PLATE 90201 - PISTON AND PISTON ROD <span class="parts-cnt">16</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -79,7 +79,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90205 – PISTON ROD STUFFING BOX <span class="parts-cnt">18</span></div>
+  <div class="parts-section-label">PLATE 90205 - PISTON ROD STUFFING BOX <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -106,7 +106,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90301 – CYLINDER FRAME <span class="parts-cnt">33</span></div>
+  <div class="parts-section-label">PLATE 90301 - CYLINDER FRAME <span class="parts-cnt">33</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -148,7 +148,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90302 – CYLINDER LINER AND COOLING JACKET <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">PLATE 90302 - CYLINDER LINER AND COOLING JACKET <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1045,7 +1045,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90804 – EXHAUST EXHAUST EXHAUST EXHAUST EXHAUST V V VALVE V V ALVE ALVE ALVE ALVE - - - - - UPPER UPPER UPPER UPPER UPPER PARTS, PARTS, PARTS, PARTS, PARTS, DETAILS DETAILS DETAILS DETAILS DETAILS <span class="parts-cnt">3</span></div>
+  <div class="parts-section-label">PLATE 90804 – EXHAUST VALVE - UPPER PARTS, DETAILS <span class="parts-cnt">3</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1154,7 +1154,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90902 – FUEL PUMP GEAR <span class="parts-cnt">49</span></div>
+  <div class="parts-section-label">PLATE 90902 - FUEL PUMP GEAR <span class="parts-cnt">49</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1212,7 +1212,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90905 – REVERSING MECHANISM <span class="parts-cnt">19</span></div>
+  <div class="parts-section-label">PLATE 90905 - REVERSING MECHANISM <span class="parts-cnt">19</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1240,7 +1240,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90910 – FUEL VALVE <span class="parts-cnt">21</span></div>
+  <div class="parts-section-label">PLATE 90910 - FUEL VALVE <span class="parts-cnt">21</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1270,7 +1270,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90915 – FUEL OIL SYSTEM - DETAILS <span class="parts-cnt">33</span></div>
+  <div class="parts-section-label">PLATE 90915 - FUEL OIL SYSTEM - DETAILS <span class="parts-cnt">33</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1312,7 +1312,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91001 – SCAVENGE AIR RECEIVER <span class="parts-cnt">31</span></div>
+  <div class="parts-section-label">PLATE 91001 - SCAVENGE AIR RECEIVER <span class="parts-cnt">31</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1352,7 +1352,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91003 – EXHAUST PIPES AND RECEIVER <span class="parts-cnt">44</span></div>
+  <div class="parts-section-label">PLATE 91003 - EXHAUST PIPES AND RECEIVER <span class="parts-cnt">44</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1405,7 +1405,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91004 – EXHAUST RECEIVER - DETAILS <span class="parts-cnt">26</span></div>
+  <div class="parts-section-label">PLATE 91004 - EXHAUST RECEIVER - DETAILS <span class="parts-cnt">26</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1440,7 +1440,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91005 – AIR COOLER <span class="parts-cnt">2</span></div>
+  <div class="parts-section-label">PLATE 91005 - AIR COOLER <span class="parts-cnt">2</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1451,7 +1451,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91006 – ARRANGEMENT OF AUXILIARY BLOWER <span class="parts-cnt">9</span></div>
+  <div class="parts-section-label">PLATE 91006 - ARRANGEMENT OF AUXILIARY BLOWER <span class="parts-cnt">9</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1469,7 +1469,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91007 – BUTTERFLY VALVE <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">PLATE 91007 - BUTTERFLY VALVE <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1489,7 +1489,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91009 – AIR COOLER SYSTEM - CLEANING <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">PLATE 91009 - AIR COOLER SYSTEM - CLEANING <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1515,7 +1515,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91010 – AIR COOLER FRAME <span class="parts-cnt">15</span></div>
+  <div class="parts-section-label">PLATE 91010 - AIR COOLER FRAME <span class="parts-cnt">15</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1539,7 +1539,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91011 – ARRANGEMENT OF NON-RETURN VALVE <span class="parts-cnt">10</span></div>
+  <div class="parts-section-label">PLATE 91011 - ARRANGEMENT OF NON-RETURN VALVE <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1558,7 +1558,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91101 – SAFETY SAFETY SAFETY SAFETY SAFETY V V VALVE V V ALVE ALVE ALVE ALVE - - - - - CYLINDER CYLINDER CYLINDER CYLINDER CYLINDER <span class="parts-cnt">10</span></div>
+  <div class="parts-section-label">PLATE 91101 - SAFETY VALVE - CYLINDER <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1577,7 +1577,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91102 – RELIEF VALVE <span class="parts-cnt">4</span></div>
+  <div class="parts-section-label">PLATE 91102 - RELIEF VALVE <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1590,7 +1590,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91103 – SAFETY VALVE - SCAVENGE AIR SYSTEM <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">PLATE 91103 - SAFETY VALVE - SCAVENGE AIR SYSTEM <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1611,7 +1611,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91104 – ARRANGEMENT OF SAFETY CAP <span class="parts-cnt">16</span></div>
+  <div class="parts-section-label">PLATE 91104 - ARRANGEMENT OF SAFETY CAP <span class="parts-cnt">16</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1636,7 +1636,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91201 – ARRANGEMENT OF STAY BOLTS <span class="parts-cnt">6</span></div>
+  <div class="parts-section-label">PLATE 91201 - ARRANGEMENT OF STAY BOLTS <span class="parts-cnt">6</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1651,7 +1651,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91203 – FRAME BOX - DETAILS <span class="parts-cnt">9</span></div>
+  <div class="parts-section-label">PLATE 91203 - FRAME BOX - DETAILS <span class="parts-cnt">9</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1669,7 +1669,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91204 – FRAME - DETAILS <span class="parts-cnt">23</span></div>
+  <div class="parts-section-label">PLATE 91204 - FRAME - DETAILS <span class="parts-cnt">23</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1701,7 +1701,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91205 – FRAME BOX <span class="parts-cnt">28</span></div>
+  <div class="parts-section-label">PLATE 91205 - FRAME BOX <span class="parts-cnt">28</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1738,7 +1738,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91207 – ARRANGEMENT OF PISTON COOLING <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">PLATE 91207 - ARRANGEMENT OF PISTON COOLING <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1760,7 +1760,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91208 – CHAIN WHEEL FRAME - UPPER <span class="parts-cnt">35</span></div>
+  <div class="parts-section-label">PLATE 91208 - CHAIN WHEEL FRAME - UPPER <span class="parts-cnt">35</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1804,7 +1804,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91211 – AXIAL VIBRATION DAMPER <span class="parts-cnt">18</span></div>
+  <div class="parts-section-label">PLATE 91211 - AXIAL VIBRATION DAMPER <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1831,7 +1831,7 @@ image: "/assets/img/og/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91216 – HOLDING-DOWN (EPOXY BOLTS AND CHOCKS) END-CHOCK BOLTS <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">PLATE 91216 - HOLDING-DOWN (EPOXY BOLTS AND CHOCKS) END-CHOCK BOLTS <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>

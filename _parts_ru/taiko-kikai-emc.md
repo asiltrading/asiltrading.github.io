@@ -52,7 +52,7 @@ image: "/assets/img/og-ru/taiko-kikai-emc.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">TAIKO STANDARD POSITION NUMBERS <span class="parts-cnt">25</span></div>
+  <div class="parts-section-label">TAIKO СТАНДАРТНЫЕ ПОЗИЦИОННЫЕ НОМЕРА <span class="parts-cnt">25</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -86,7 +86,7 @@ image: "/assets/img/og-ru/taiko-kikai-emc.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">TAIKO COMPLETE PUMP MODELS <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">TAIKO ПОЛНЫЕ МОДЕЛИ НАСОСОВ <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

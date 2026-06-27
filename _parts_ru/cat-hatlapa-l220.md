@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-hatlapa-l220.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CRANK CASE <span class="parts-cnt">34</span></div>
+  <div class="parts-section-label">КАРТЕР <span class="parts-cnt">34</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -52,7 +52,7 @@ image: "/assets/img/og-ru/cat-hatlapa-l220.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDERS &amp; CYLINDER HEADS (3-stage) <span class="parts-cnt">26</span></div>
+  <div class="parts-section-label">ЦИЛИНДРЫ И ЦИЛИНДРОВЫЕ КРЫШКИ (3-СТУПЕНЧАТЫЕ) <span class="parts-cnt">26</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -87,7 +87,7 @@ image: "/assets/img/og-ru/cat-hatlapa-l220.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">VALVES (3-stage) <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">КЛАПАНЫ (3-СТУПЕНЧАТЫЕ) <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -109,7 +109,7 @@ image: "/assets/img/og-ru/cat-hatlapa-l220.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PISTONS (3-stage) <span class="parts-cnt">18</span></div>
+  <div class="parts-section-label">ПОРШНИ (3-СТУПЕНЧАТЫЕ) <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -136,7 +136,7 @@ image: "/assets/img/og-ru/cat-hatlapa-l220.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CONNECTING RODS <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">ШАТУНЫ <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -157,7 +157,7 @@ image: "/assets/img/og-ru/cat-hatlapa-l220.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SEPARATORS 2ND &amp; 3RD STAGE <span class="parts-cnt">23</span></div>
+  <div class="parts-section-label">СЕПАРАТОРЫ 2-Й И 3-Й СТУПЕНИ <span class="parts-cnt">23</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>

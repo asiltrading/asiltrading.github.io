@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-aalborg-mission-oc-3150.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">BOILER <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">КОТЁЛ <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -26,7 +26,7 @@ image: "/assets/img/og-ru/cat-aalborg-mission-oc-3150.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">BURNER <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">ГОРЕЛКА <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -40,7 +40,7 @@ image: "/assets/img/og-ru/cat-aalborg-mission-oc-3150.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CONTROL PANEL <span class="parts-cnt">2</span></div>
+  <div class="parts-section-label">ПАНЕЛЬ УПРАВЛЕНИЯ <span class="parts-cnt">2</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

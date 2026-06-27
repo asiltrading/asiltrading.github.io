@@ -2538,7 +2538,7 @@ image: "/assets/img/og-ru/man-bw-s35mc.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91366 – INSTRUMENTS <span class="parts-cnt">14</span></div>
+  <div class="parts-section-label">ПЛИТА 91366 - ПРИБОРЫ <span class="parts-cnt">14</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

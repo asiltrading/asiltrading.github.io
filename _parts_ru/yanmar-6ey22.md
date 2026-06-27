@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/yanmar-6ey22.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDER HEAD <span class="parts-cnt">2</span></div>
+  <div class="parts-section-label">ЦИЛИНДРОВАЯ КРЫШКА <span class="parts-cnt">2</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -20,7 +20,7 @@ image: "/assets/img/og-ru/yanmar-6ey22.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">FUEL INJECTION <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">ТОПЛИВНАЯ ФОРСУНКА <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -34,7 +34,7 @@ image: "/assets/img/og-ru/yanmar-6ey22.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">GASKETS &amp; SEALS <span class="parts-cnt">2</span></div>
+  <div class="parts-section-label">ПРОКЛАДКИ И УПЛОТНЕНИЯ <span class="parts-cnt">2</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -45,7 +45,7 @@ image: "/assets/img/og-ru/yanmar-6ey22.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">INSTRUMENTS &amp; SENSORS <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">ПРИБОРЫ И ДАТЧИКИ <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -61,7 +61,7 @@ image: "/assets/img/og-ru/yanmar-6ey22.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">BEARINGS <span class="parts-cnt">1</span></div>
+  <div class="parts-section-label">ПОДШИПНИКИ <span class="parts-cnt">1</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -71,7 +71,7 @@ image: "/assets/img/og-ru/yanmar-6ey22.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">STANDARD FASTENERS <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">СТАНДАРТНЫЕ КРЕПЁЖНЫЕ ИЗДЕЛИЯ <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

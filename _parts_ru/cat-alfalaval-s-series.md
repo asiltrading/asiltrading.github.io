@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-alfalaval-s-series.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">MODEL FAMILY <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">СЕМЕЙСТВО МОДЕЛЕЙ <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Model</th><th>Description</th></tr></thead>
     <tbody>

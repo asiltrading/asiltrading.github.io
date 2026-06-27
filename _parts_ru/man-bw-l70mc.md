@@ -1348,7 +1348,7 @@ image: "/assets/img/og-ru/man-bw-l70mc.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91205 – FRAME BOX <span class="parts-cnt">29</span></div>
+  <div class="parts-section-label">ПЛИТА 91205 - КАРТЕР <span class="parts-cnt">29</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

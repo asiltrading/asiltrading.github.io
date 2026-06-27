@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90101 – CYLINDER COVER <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">ТАБЛИЦА 90101 - ЦИЛИНДРОВАЯ КРЫШКА <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -31,7 +31,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90103 – INDICATOR COCK - MOUNTING <span class="parts-cnt">14</span></div>
+  <div class="parts-section-label">ТАБЛИЦА 90103 - ИНДИКАТОРНЫЙ КРАН - МОНТАЖ <span class="parts-cnt">14</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -54,7 +54,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90201 – PISTON AND PISTON ROD <span class="parts-cnt">16</span></div>
+  <div class="parts-section-label">ТАБЛИЦА 90201 - ПОРШЕНЬ И ШТОК ПОРШНЯ <span class="parts-cnt">16</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -79,7 +79,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90205 – PISTON ROD STUFFING BOX <span class="parts-cnt">18</span></div>
+  <div class="parts-section-label">ТАБЛИЦА 90205 - САЛЬНИКОВАЯ НАБИВКА ШТОКА ПОРШНЯ <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -106,7 +106,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90301 – CYLINDER FRAME <span class="parts-cnt">33</span></div>
+  <div class="parts-section-label">ТАБЛИЦА 90301 - РАМА ЦИЛИНДРА <span class="parts-cnt">33</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -148,7 +148,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90302 – CYLINDER LINER AND COOLING JACKET <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">ТАБЛИЦА 90302 - ЦИЛИНДРОВАЯ ВТУЛКА И ОХЛАЖДАЮЩАЯ РУБАШКА <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -174,7 +174,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90304 – CYLINDER LINER - DETAILS <span class="parts-cnt">4</span></div>
+  <div class="parts-section-label">PLATE 90304 - ЦИЛИНДРОВАЯ ВТУЛКА - ДЕТАЛИ <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -187,7 +187,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90305 – CYLINDER LUBRICATORS <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">PLATE 90305 - ЦИЛИНДРОВЫЕ ЛУБРИКАТОРЫ <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -208,7 +208,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90307 – CYLINDER LUBRICATOR UNIT <span class="parts-cnt">44</span></div>
+  <div class="parts-section-label">PLATE 90307 - БЛОК ЦИЛИНДРОВОГО ЛУБРИКАТОРА <span class="parts-cnt">44</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -261,7 +261,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90308 – INTERMEDIATE BOX <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">PLATE 90308 - ПРОМЕЖУТОЧНАЯ КОРОБКА <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -275,7 +275,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90309 – CYLINDER LUBRICATION SYSTEM - DETAILS <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">PLATE 90309 - СИСТЕМА ЦИЛИНДРОВОЙ СМАЗКИ - ДЕТАЛИ <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -301,7 +301,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90312 – CYLINDER LUBRICATION - ELECTRONIC COMPONENTS <span class="parts-cnt">26</span></div>
+  <div class="parts-section-label">PLATE 90312 - ЦИЛИНДРОВАЯ СМАЗКА - ЭЛЕКТРОННЫЕ КОМПОНЕНТЫ <span class="parts-cnt">26</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -336,7 +336,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90501 – CRANKSHAFT <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">PLATE 90501 - КОЛЕНЧАТЫЙ ВАЛ <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -350,7 +350,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90502 – ARRANGEMENT OF FORE END <span class="parts-cnt">24</span></div>
+  <div class="parts-section-label">PLATE 90502 - КОМПОНОВКА НОСОВОЙ ЧАСТИ <span class="parts-cnt">24</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -383,7 +383,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90503 – ARRANGEMENT OF ANGLE ENCODER <span class="parts-cnt">18</span></div>
+  <div class="parts-section-label">PLATE 90503 - КОМПОНОВКА ДАТЧИКА УГЛА ПОВОРОТА <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -410,7 +410,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90504 – AXIAL VIBRATION MONITOR <span class="parts-cnt">9</span></div>
+  <div class="parts-section-label">PLATE 90504 - МОНИТОР ОСЕВЫХ ВИБРАЦИЙ <span class="parts-cnt">9</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -428,7 +428,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90505 – THRUST- AND GUIDE BEARING <span class="parts-cnt">44</span></div>
+  <div class="parts-section-label">PLATE 90505 - УПОРНЫЙ И НАПРАВЛЯЮЩИЙ ПОДШИПНИКИ <span class="parts-cnt">44</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -481,7 +481,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90510 – TURNING GEAR <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">PLATE 90510 - ВАЛОПОВОРОТНОЕ УСТРОЙСТВО <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -498,7 +498,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90511 – TURNING WHEEL <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">PLATE 90511 - ПОВОРОТНЫЙ МАХОВИК <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -515,7 +515,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90512 – TURNING GEAR - DETAILS <span class="parts-cnt">21</span></div>
+  <div class="parts-section-label">PLATE 90512 - ВАЛОПОВОРОТНОЕ УСТРОЙСТВО - ДЕТАЛИ <span class="parts-cnt">21</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -545,7 +545,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90513 – TACHO EQUIPMENT <span class="parts-cnt">22</span></div>
+  <div class="parts-section-label">PLATE 90513 - ТАХОМЕТРИЧЕСКОЕ ОБОРУДОВАНИЕ <span class="parts-cnt">22</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -576,7 +576,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90602 – CHAIN DRIVE - LUBRICATION <span class="parts-cnt">19</span></div>
+  <div class="parts-section-label">PLATE 90602 - ЦЕПНОЙ ПРИВОД - СМАЗКА <span class="parts-cnt">19</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -604,7 +604,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90603 – CHAIN TIGHTENER <span class="parts-cnt">34</span></div>
+  <div class="parts-section-label">PLATE 90603 - НАТЯЖИТЕЛЬ ЦЕПИ <span class="parts-cnt">34</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -647,7 +647,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90604 – INTERMEDIATE CHAIN WHEEL <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">PLATE 90604 - ПРОМЕЖУТОЧНАЯ ЦЕПНАЯ ЗВЁЗДОЧКА <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -669,7 +669,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90610 – BEARING HOUSING - MOUNTING <span class="parts-cnt">14</span></div>
+  <div class="parts-section-label">PLATE 90610 - КОРПУС ПОДШИПНИКА - МОНТАЖ <span class="parts-cnt">14</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -692,7 +692,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90612 – ARRANGEMENT OF INDICATOR SYSTEM <span class="parts-cnt">18</span></div>
+  <div class="parts-section-label">PLATE 90612 - КОМПОНОВКА СИСТЕМЫ ИНДИКАТОРА <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -719,7 +719,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90613 – CAMSHAFT BEARING <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">PLATE 90613 - ПОДШИПНИК РАСПРЕДЕЛИТЕЛЬНОГО ВАЛА <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -736,7 +736,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90615 – ARRANGEMENT OF GOVERNOR <span class="parts-cnt">10</span></div>
+  <div class="parts-section-label">PLATE 90615 - КОМПОНОВКА РЕГУЛЯТОРА <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -755,7 +755,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90620 – ENGINE SIDE CONTROL CONSOLE <span class="parts-cnt">50</span></div>
+  <div class="parts-section-label">PLATE 90620 - ПУЛЬТ УПРАВЛЕНИЯ НА СТОРОНЕ ДВИГАТЕЛЯ <span class="parts-cnt">50</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -814,7 +814,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90621 – ENGINE SIDE CONTROL CONSOLE - DETAILS <span class="parts-cnt">16</span></div>
+  <div class="parts-section-label">PLATE 90621 - ПУЛЬТ УПРАВЛЕНИЯ НА СТОРОНЕ ДВИГАТЕЛЯ - ДЕТАЛИ <span class="parts-cnt">16</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -839,7 +839,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90702 – MAIN STARTING VALVE <span class="parts-cnt">45</span></div>
+  <div class="parts-section-label">PLATE 90702 - ГЛАВНЫЙ ПУСКОВОЙ КЛАПАН <span class="parts-cnt">45</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -893,7 +893,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90703 – STARTING AIR DISTRIBUTOR <span class="parts-cnt">35</span></div>
+  <div class="parts-section-label">PLATE 90703 - РАСПРЕДЕЛИТЕЛЬ ПУСКОВОГО ВОЗДУХА <span class="parts-cnt">35</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -937,7 +937,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90704 – STARTING VALVE <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">PLATE 90704 - ПУСКОВОЙ КЛАПАН <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -957,7 +957,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90801 – EXHAUST VALVE - LOWER PARTS <span class="parts-cnt">21</span></div>
+  <div class="parts-section-label">PLATE 90801 - ВЫПУСКНОЙ КЛАПАН - НИЖНИЕ ДЕТАЛИ <span class="parts-cnt">21</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -987,7 +987,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90803 – EXHAUST VALVE - UPPER PARTS <span class="parts-cnt">49</span></div>
+  <div class="parts-section-label">PLATE 90803 - ВЫПУСКНОЙ КЛАПАН - ВЕРХНИЕ ДЕТАЛИ <span class="parts-cnt">49</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1045,7 +1045,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90804 – EXHAUST EXHAUST EXHAUST EXHAUST EXHAUST V V VALVE V V ALVE ALVE ALVE ALVE - - - - - UPPER UPPER UPPER UPPER UPPER PARTS, PARTS, PARTS, PARTS, PARTS, DETAILS DETAILS DETAILS DETAILS DETAILS <span class="parts-cnt">3</span></div>
+  <div class="parts-section-label">PLATE 90804 - ВЫПУСКНОЙ КЛАПАН - ВЕРХНИЕ ДЕТАЛИ, ПОДРОБНОСТИ <span class="parts-cnt">3</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1057,7 +1057,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90805 – EXHAUST VALVE - ACTUATOR <span class="parts-cnt">24</span></div>
+  <div class="parts-section-label">PLATE 90805 - ВЫПУСКНОЙ КЛАПАН - ПРИВОД <span class="parts-cnt">24</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1090,7 +1090,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90806 – VALVE GEAR - DETAILS <span class="parts-cnt">22</span></div>
+  <div class="parts-section-label">PLATE 90806 - КЛАПАННЫЙ МЕХАНИЗМ - ДЕТАЛИ <span class="parts-cnt">22</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1121,7 +1121,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90810 – ARRANGEMENT OF COOLING WATER PIPES <span class="parts-cnt">24</span></div>
+  <div class="parts-section-label">PLATE 90810 - КОМПОНОВКА ТРУБОПРОВОДОВ ОХЛАЖДАЮЩЕЙ ВОДЫ <span class="parts-cnt">24</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1154,7 +1154,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90902 – FUEL PUMP GEAR <span class="parts-cnt">49</span></div>
+  <div class="parts-section-label">ПЛИТА 90902 - ШЕСТЕРНЯ ТОПЛИВНОГО НАСОСА <span class="parts-cnt">49</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1212,7 +1212,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90905 – REVERSING MECHANISM <span class="parts-cnt">19</span></div>
+  <div class="parts-section-label">ПЛИТА 90905 - МЕХАНИЗМ РЕВЕРСА <span class="parts-cnt">19</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1240,7 +1240,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90910 – FUEL VALVE <span class="parts-cnt">21</span></div>
+  <div class="parts-section-label">ПЛИТА 90910 - ТОПЛИВНЫЙ КЛАПАН <span class="parts-cnt">21</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1270,7 +1270,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90915 – FUEL OIL SYSTEM - DETAILS <span class="parts-cnt">33</span></div>
+  <div class="parts-section-label">ПЛИТА 90915 - СИСТЕМА ТОПЛИВНОГО МАСЛА - ДЕТАЛИ <span class="parts-cnt">33</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1312,7 +1312,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91001 – SCAVENGE AIR RECEIVER <span class="parts-cnt">31</span></div>
+  <div class="parts-section-label">ПЛИТА 91001 - РЕСИВЕР ПРОДУВОЧНОГО ВОЗДУХА <span class="parts-cnt">31</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1352,7 +1352,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91003 – EXHAUST PIPES AND RECEIVER <span class="parts-cnt">44</span></div>
+  <div class="parts-section-label">ПЛИТА 91003 - ВЫХЛОПНЫЕ ТРУБЫ И РЕСИВЕР <span class="parts-cnt">44</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1405,7 +1405,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91004 – EXHAUST RECEIVER - DETAILS <span class="parts-cnt">26</span></div>
+  <div class="parts-section-label">ПЛИТА 91004 - ВЫХЛОПНОЙ РЕСИВЕР - ДЕТАЛИ <span class="parts-cnt">26</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1440,7 +1440,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91005 – AIR COOLER <span class="parts-cnt">2</span></div>
+  <div class="parts-section-label">ПЛИТА 91005 - ВОЗДУХООХЛАДИТЕЛЬ <span class="parts-cnt">2</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1451,7 +1451,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91006 – ARRANGEMENT OF AUXILIARY BLOWER <span class="parts-cnt">9</span></div>
+  <div class="parts-section-label">ПЛИТА 91006 - КОМПОНОВКА ВСПОМОГАТЕЛЬНОГО ВЕНТИЛЯТОРА <span class="parts-cnt">9</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1469,7 +1469,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91007 – BUTTERFLY VALVE <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">ПЛИТА 91007 - ДРОССЕЛЬНАЯ ЗАСЛОНКА <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1489,7 +1489,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91009 – AIR COOLER SYSTEM - CLEANING <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">ПЛИТА 91009 - СИСТЕМА ВОЗДУХООХЛАДИТЕЛЯ - ОЧИСТКА <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1515,7 +1515,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91010 – AIR COOLER FRAME <span class="parts-cnt">15</span></div>
+  <div class="parts-section-label">ПЛИТА 91010 - КОРПУС ВОЗДУХООХЛАДИТЕЛЯ <span class="parts-cnt">15</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1539,7 +1539,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91011 – ARRANGEMENT OF NON-RETURN VALVE <span class="parts-cnt">10</span></div>
+  <div class="parts-section-label">ПЛИТА 91011 - КОМПОНОВКА ОБРАТНОГО КЛАПАНА <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1558,7 +1558,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91101 – SAFETY SAFETY SAFETY SAFETY SAFETY V V VALVE V V ALVE ALVE ALVE ALVE - - - - - CYLINDER CYLINDER CYLINDER CYLINDER CYLINDER <span class="parts-cnt">10</span></div>
+  <div class="parts-section-label">ПЛИТА 91101 - ПРЕДОХРАНИТЕЛЬНЫЙ КЛАПАН - ЦИЛИНДР <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1577,7 +1577,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91102 – RELIEF VALVE <span class="parts-cnt">4</span></div>
+  <div class="parts-section-label">ПЛИТА 91102 - ПЕРЕПУСКНОЙ КЛАПАН <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1590,7 +1590,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91103 – SAFETY VALVE - SCAVENGE AIR SYSTEM <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">ПЛИТА 91103 - ПРЕДОХРАНИТЕЛЬНЫЙ КЛАПАН - СИСТЕМА ПРОДУВОЧНОГО ВОЗДУХА <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1611,7 +1611,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91104 – ARRANGEMENT OF SAFETY CAP <span class="parts-cnt">16</span></div>
+  <div class="parts-section-label">ПЛИТА 91104 - КОМПОНОВКА ПРЕДОХРАНИТЕЛЬНОГО КОЛПАКА <span class="parts-cnt">16</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1636,7 +1636,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91201 – ARRANGEMENT OF STAY BOLTS <span class="parts-cnt">6</span></div>
+  <div class="parts-section-label">ПЛИТА 91201 - КОМПОНОВКА АНКЕРНЫХ БОЛТОВ <span class="parts-cnt">6</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1651,7 +1651,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91203 – FRAME BOX - DETAILS <span class="parts-cnt">9</span></div>
+  <div class="parts-section-label">ПЛИТА 91203 - КАРТЕР - ДЕТАЛИ <span class="parts-cnt">9</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1669,7 +1669,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91204 – FRAME - DETAILS <span class="parts-cnt">23</span></div>
+  <div class="parts-section-label">ПЛИТА 91204 - РАМА - ДЕТАЛИ <span class="parts-cnt">23</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1701,7 +1701,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91205 – FRAME BOX <span class="parts-cnt">28</span></div>
+  <div class="parts-section-label">ПЛИТА 91205 - КАРТЕР <span class="parts-cnt">28</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1738,7 +1738,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91207 – ARRANGEMENT OF PISTON COOLING <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">ПЛИТА 91207 - КОМПОНОВКА ОХЛАЖДЕНИЯ ПОРШНЯ <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1760,7 +1760,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91208 – CHAIN WHEEL FRAME - UPPER <span class="parts-cnt">35</span></div>
+  <div class="parts-section-label">ПЛИТА 91208 - КОРПУС ЦЕПНОГО КОЛЕСА - ВЕРХНЯЯ ЧАСТЬ <span class="parts-cnt">35</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1804,7 +1804,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91211 – AXIAL VIBRATION DAMPER <span class="parts-cnt">18</span></div>
+  <div class="parts-section-label">ПЛИТА 91211 - ДЕМПФЕР ОСЕВЫХ КОЛЕБАНИЙ <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1831,7 +1831,7 @@ image: "/assets/img/og-ru/man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91216 – HOLDING-DOWN (EPOXY BOLTS AND CHOCKS) END-CHOCK BOLTS <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">ПЛИТА 91216 - ФУНДАМЕНТНЫЕ (ЭПОКСИДНЫЕ БОЛТЫ И КЛИНЬЯ) КОНЦЕВЫЕ КЛИНОВЫЕ БОЛТЫ <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

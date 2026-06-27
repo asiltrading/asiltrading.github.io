@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-wartsila-rtflex60c.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">MAIN BEARINGS &amp; THRUST <span class="parts-cnt">6</span></div>
+  <div class="parts-section-label">ГЛАВНЫЕ ПОДШИПНИКИ И УПОРНЫЙ ПОДШИПНИК <span class="parts-cnt">6</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -24,7 +24,7 @@ image: "/assets/img/og-ru/cat-wartsila-rtflex60c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDER LINER &amp; LUBRICATION (21) <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">ЦИЛИНДРОВАЯ ВТУЛКА И СМАЗКА (21) <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -44,7 +44,7 @@ image: "/assets/img/og-ru/cat-wartsila-rtflex60c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDER COVER (27) <span class="parts-cnt">4</span></div>
+  <div class="parts-section-label">КРЫШКА ЦИЛИНДРА (27) <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -57,7 +57,7 @@ image: "/assets/img/og-ru/cat-wartsila-rtflex60c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">INJECTION VALVE / STARTING AIR VALVE <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">ФОРСУНКА / КЛАПАН ПУСКОВОГО ВОЗДУХА <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -73,7 +73,7 @@ image: "/assets/img/og-ru/cat-wartsila-rtflex60c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">EXHAUST VALVE (27) <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">ВЫПУСКНОЙ КЛАПАН (27) <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -89,7 +89,7 @@ image: "/assets/img/og-ru/cat-wartsila-rtflex60c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">INDICATOR / RELIEF VALVES <span class="parts-cnt">4</span></div>
+  <div class="parts-section-label">ИНДИКАТОРНЫЕ / ПРЕДОХРАНИТЕЛЬНЫЕ КЛАПАНЫ <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -102,7 +102,7 @@ image: "/assets/img/og-ru/cat-wartsila-rtflex60c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CONNECTING ROD BEARINGS (33) <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">ШАТУННЫЕ ПОДШИПНИКИ (33) <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -119,7 +119,7 @@ image: "/assets/img/og-ru/cat-wartsila-rtflex60c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PISTON (34) <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">ПОРШЕНЬ (34) <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -135,7 +135,7 @@ image: "/assets/img/og-ru/cat-wartsila-rtflex60c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">GLAND BOX / STUFFING BOX (23) <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">САЛЬНИКОВАЯ КОРОБКА / НАБИВНАЯ КОРОБКА (23) <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -152,7 +152,7 @@ image: "/assets/img/og-ru/cat-wartsila-rtflex60c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SCAVENGE AIR / HYDRAULIC / FUEL PIPING <span class="parts-cnt">9</span></div>
+  <div class="parts-section-label">ПРОДУВОЧНЫЙ ВОЗДУХ / ГИДРАВЛИЧЕСКИЙ / ТОПЛИВНЫЙ ТРУБОПРОВОД <span class="parts-cnt">9</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -170,7 +170,7 @@ image: "/assets/img/og-ru/cat-wartsila-rtflex60c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CONTROL SYSTEM (WECS-9520 / DENIS-9520) <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">СИСТЕМА УПРАВЛЕНИЯ (WECS-9520 / DENIS-9520) <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -196,7 +196,7 @@ image: "/assets/img/og-ru/cat-wartsila-rtflex60c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SUPPLY UNIT (FUEL / SERVO OIL) <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">БЛОК ПОДАЧИ (ТОПЛИВО / СЕРВОМАСЛО) <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

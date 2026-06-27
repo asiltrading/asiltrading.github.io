@@ -9,7 +9,7 @@ image: "/assets/img/og/grundfos-cr.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">GASKET KITS – CR/CRI/CRN 1 &amp; 3 <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">GASKET KITS - CR/CRI/CRN 1 &amp; 3 <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -30,7 +30,7 @@ image: "/assets/img/og/grundfos-cr.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SHAFT SEALS – CR/CRI/CRN 1 &amp; 3 <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">SHAFT SEALS - CR/CRI/CRN 1 &amp; 3 <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -50,7 +50,7 @@ image: "/assets/img/og/grundfos-cr.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">WEAR PARTS KITS – CR/CRI/CRN 1 &amp; 3 <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">WEAR PARTS KITS - CR/CRI/CRN 1 &amp; 3 <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -72,7 +72,7 @@ image: "/assets/img/og/grundfos-cr.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CHAMBER STACK COMPLETE – CR/CRI 1 <span class="parts-cnt">22</span></div>
+  <div class="parts-section-label">CHAMBER STACK COMPLETE - CR/CRI 1 <span class="parts-cnt">22</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -103,7 +103,7 @@ image: "/assets/img/og/grundfos-cr.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CHAMBER STACK COMPLETE – CRN 1 <span class="parts-cnt">22</span></div>
+  <div class="parts-section-label">CHAMBER STACK COMPLETE - CRN 1 <span class="parts-cnt">22</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -134,7 +134,7 @@ image: "/assets/img/og/grundfos-cr.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CHAMBER STACK COMPLETE – CR/CRI 3 <span class="parts-cnt">23</span></div>
+  <div class="parts-section-label">CHAMBER STACK COMPLETE - CR/CRI 3 <span class="parts-cnt">23</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -166,7 +166,7 @@ image: "/assets/img/og/grundfos-cr.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">COUPLING KITS – CR/CRI/CRN 1 &amp; 3 <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">COUPLING KITS - CR/CRI/CRN 1 &amp; 3 <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -182,7 +182,7 @@ image: "/assets/img/og/grundfos-cr.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">LARGER CR/CRN MODELS NUMBERS <span class="parts-cnt">21</span></div>
+  <div class="parts-section-label">LARGER CR/CRN MODEL NUMBERS <span class="parts-cnt">21</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>

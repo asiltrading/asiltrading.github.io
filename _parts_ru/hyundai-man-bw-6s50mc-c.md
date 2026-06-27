@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90101 – CYLINDER COVER <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">ТАБЛИЦА 90101 - ЦИЛИНДРОВАЯ КРЫШКА <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -31,7 +31,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90205 – PISTON ROD STUFFING BOX <span class="parts-cnt">18</span></div>
+  <div class="parts-section-label">ТАБЛИЦА 90205 - САЛЬНИКОВАЯ НАБИВКА ШТОКА ПОРШНЯ <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -58,7 +58,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90301 – CYLINDER FRAME <span class="parts-cnt">33</span></div>
+  <div class="parts-section-label">ТАБЛИЦА 90301 - РАМА ЦИЛИНДРА <span class="parts-cnt">33</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -100,7 +100,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90302 – CYLINDER LINER AND COOLING JACKET <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">ТАБЛИЦА 90302 - ЦИЛИНДРОВАЯ ВТУЛКА И ОХЛАЖДАЮЩАЯ РУБАШКА <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -126,7 +126,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90307 – CYLINDER LUBRICATOR UNIT <span class="parts-cnt">45</span></div>
+  <div class="parts-section-label">PLATE 90307 - БЛОК ЦИЛИНДРОВОГО ЛУБРИКАТОРА <span class="parts-cnt">45</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -180,7 +180,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90309 – CYLINDER LUBRICATION SYSTEM - DETAILS <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">PLATE 90309 - СИСТЕМА ЦИЛИНДРОВОЙ СМАЗКИ - ДЕТАЛИ <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -206,7 +206,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90312 – CYLINDER LUBRICATION - ELECTRONIC COMPONENTS <span class="parts-cnt">14</span></div>
+  <div class="parts-section-label">PLATE 90312 - ЦИЛИНДРОВАЯ СМАЗКА - ЭЛЕКТРОННЫЕ КОМПОНЕНТЫ <span class="parts-cnt">14</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -229,7 +229,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90401 – CONNECTING ROD AND CROSSHEAD <span class="parts-cnt">38</span></div>
+  <div class="parts-section-label">PLATE 90401 - ШАТУН И КРЕЙЦКОПФ <span class="parts-cnt">38</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -276,7 +276,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90502 – ARRANGEMENT OF FORE END <span class="parts-cnt">24</span></div>
+  <div class="parts-section-label">PLATE 90502 - КОМПОНОВКА НОСОВОЙ ЧАСТИ <span class="parts-cnt">24</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -309,7 +309,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90503 – ARRANGEMENT OF ANGLE ENCODER <span class="parts-cnt">19</span></div>
+  <div class="parts-section-label">PLATE 90503 - КОМПОНОВКА ДАТЧИКА УГЛА ПОВОРОТА <span class="parts-cnt">19</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -337,7 +337,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90505 – THRUST- AND GUIDE BEARING <span class="parts-cnt">44</span></div>
+  <div class="parts-section-label">PLATE 90505 - УПОРНЫЙ И НАПРАВЛЯЮЩИЙ ПОДШИПНИКИ <span class="parts-cnt">44</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -390,7 +390,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90601 – CHAIN DRIVE AND GUIDE BARS <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">PLATE 90601 - ЦЕПНОЙ ПРИВОД И НАПРАВЛЯЮЩИЕ <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -412,7 +412,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90602 – CHAIN DRIVE - LUBRICATION <span class="parts-cnt">18</span></div>
+  <div class="parts-section-label">PLATE 90602 - ЦЕПНОЙ ПРИВОД - СМАЗКА <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -439,7 +439,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90603 – DESCR PTION CHAIN TIGHTENER <span class="parts-cnt">34</span></div>
+  <div class="parts-section-label">PLATE 90603 - ОПИСАНИЕ НАТЯЖИТЕЛЯ ЦЕПИ <span class="parts-cnt">34</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -482,7 +482,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90610 – BEARING HOUSING - L\/LOUNTING <span class="parts-cnt">14</span></div>
+  <div class="parts-section-label">PLATE 90610 - КОРПУС ПОДШИПНИКА - МОНТАЖ <span class="parts-cnt">14</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -505,7 +505,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90619 – LOAD TRANSMITTER <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">PLATE 90619 - ДАТЧИК НАГРУЗКИ <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -527,7 +527,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90625 – MOMENT COMPENSATOR <span class="parts-cnt">25</span></div>
+  <div class="parts-section-label">PLATE 90625 - КОМПЕНСАТОР МОМЕНТА <span class="parts-cnt">25</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -561,7 +561,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90626 – CHAIN TIGHTENER FOR IVLOMENT COMPENSATOR <span class="parts-cnt">30</span></div>
+  <div class="parts-section-label">PLATE 90626 - НАТЯЖИТЕЛЬ ЦЕПИ ДЛЯ КОМПЕНСАТОРА МОМЕНТА <span class="parts-cnt">30</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -600,7 +600,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90702 – MAIN STARTING VALVE <span class="parts-cnt">45</span></div>
+  <div class="parts-section-label">PLATE 90702 - ГЛАВНЫЙ ПУСКОВОЙ КЛАПАН <span class="parts-cnt">45</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -654,7 +654,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90704 – STARTING VALVE <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">PLATE 90704 - ПУСКОВОЙ КЛАПАН <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -674,7 +674,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90801 – EXHAUST VALVE - LOWER PARTS <span class="parts-cnt">21</span></div>
+  <div class="parts-section-label">PLATE 90801 - ВЫПУСКНОЙ КЛАПАН - НИЖНИЕ ДЕТАЛИ <span class="parts-cnt">21</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -704,7 +704,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90803 – EXHAUST VALVE - UPPER PARTS <span class="parts-cnt">43</span></div>
+  <div class="parts-section-label">PLATE 90803 - ВЫПУСКНОЙ КЛАПАН - ВЕРХНИЕ ДЕТАЛИ <span class="parts-cnt">43</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -756,7 +756,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90904 – FUEL PUMP - DETAILS <span class="parts-cnt">40</span></div>
+  <div class="parts-section-label">ПЛИТА 90904 - ТОПЛИВНЫЙ НАСОС - ДЕТАЛИ <span class="parts-cnt">40</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -805,7 +805,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90905 – REVERSING MECHANISM <span class="parts-cnt">19</span></div>
+  <div class="parts-section-label">ПЛИТА 90905 - МЕХАНИЗМ РЕВЕРСА <span class="parts-cnt">19</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -833,7 +833,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90910 – FUEL VALVE <span class="parts-cnt">21</span></div>
+  <div class="parts-section-label">ПЛИТА 90910 - ТОПЛИВНЫЙ КЛАПАН <span class="parts-cnt">21</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -863,7 +863,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90913 – HIGH-PRESSURE PIPES <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">ПЛИТА 90913 - ТРУБОПРОВОДЫ ВЫСОКОГО ДАВЛЕНИЯ <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -883,7 +883,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91001 – SCAVENGE AIR RECEIVER <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">ПЛИТА 91001 - РЕСИВЕР ПРОДУВОЧНОГО ВОЗДУХА <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -909,7 +909,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91003 – EXHAUST PIPES AND RECEIVER <span class="parts-cnt">46</span></div>
+  <div class="parts-section-label">ПЛИТА 91003 - ВЫХЛОПНЫЕ ТРУБЫ И РЕСИВЕР <span class="parts-cnt">46</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -964,7 +964,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91004 – EXHAUST RECEIVER - DETAILS <span class="parts-cnt">20</span></div>
+  <div class="parts-section-label">ПЛИТА 91004 - ВЫХЛОПНОЙ РЕСИВЕР - ДЕТАЛИ <span class="parts-cnt">20</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -993,7 +993,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91006 – ARRANGEMENT OF AUXILIARY BLOWER <span class="parts-cnt">3</span></div>
+  <div class="parts-section-label">ПЛИТА 91006 - КОМПОНОВКА ВСПОМОГАТЕЛЬНОГО ВЕНТИЛЯТОРА <span class="parts-cnt">3</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1005,7 +1005,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91008 – SEALING AIR SYSTEM FOR TURBOCHARGER <span class="parts-cnt">27</span></div>
+  <div class="parts-section-label">ПЛИТА 91008 - СИСТЕМА УПЛОТНИТЕЛЬНОГО ВОЗДУХА ТУРБОКОМПРЕССОРА <span class="parts-cnt">27</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1041,7 +1041,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91009 – AIR COOLER SYSTEM - CLEANING <span class="parts-cnt">19</span></div>
+  <div class="parts-section-label">ПЛИТА 91009 - СИСТЕМА ВОЗДУХООХЛАДИТЕЛЯ - ОЧИСТКА <span class="parts-cnt">19</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1069,7 +1069,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91010 – MANB&amp;W AIR COOLER FRAME <span class="parts-cnt">31</span></div>
+  <div class="parts-section-label">ПЛИТА 91010 - MAN B&amp;W КОРПУС ВОЗДУХООХЛАДИТЕЛЯ <span class="parts-cnt">31</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1109,7 +1109,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91011 – ARRANGEMENT OF NON-RETURN VALVE <span class="parts-cnt">18</span></div>
+  <div class="parts-section-label">ПЛИТА 91011 - КОМПОНОВКА ОБРАТНОГО КЛАПАНА <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1136,7 +1136,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91104 – ARRANGEMENT OF SAFETY CAP <span class="parts-cnt">16</span></div>
+  <div class="parts-section-label">ПЛИТА 91104 - КОМПОНОВКА ПРЕДОХРАНИТЕЛЬНОГО КОЛПАКА <span class="parts-cnt">16</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1161,7 +1161,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91204 – FRAME - DETAILS <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">ПЛИТА 91204 - РАМА - ДЕТАЛИ <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1182,7 +1182,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91210 – BEDPLATE <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">ПЛИТА 91210 - ФУНДАМЕНТНАЯ РАМА <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1204,7 +1204,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91211 – P91211-55 AXIAL VIBRATION DAMPER <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">ПЛИТА 91211 - P91211-55 ДЕМПФЕР ОСЕВЫХ КОЛЕБАНИЙ <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1230,7 +1230,7 @@ image: "/assets/img/og-ru/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91216 – HOLDING-DOWN (EPOXY BOLTS CHOCKS) AND END-CHOCK BOLTS <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">ПЛИТА 91216 - ФУНДАМЕНТНЫЕ (ЭПОКСИДНЫЕ БОЛТЫ КЛИНЬЯ) И КОНЦЕВЫЕ КЛИНОВЫЕ БОЛТЫ <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

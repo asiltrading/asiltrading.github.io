@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/spirax-sarco.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">ORDERING METHOD - CRITICAL FOR SPIRAX SARCO <span class="parts-cnt">3</span></div>
+  <div class="parts-section-label">МЕТОД ЗАКАЗА - КРИТИЧЕСКИ ВАЖНО ДЛЯ SPIRAX SARCO <span class="parts-cnt">3</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -21,7 +21,7 @@ image: "/assets/img/og-ru/spirax-sarco.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">UTD30 / UTD52 THERMODYNAMIC STEAM TRAPS - SPARE PARTS <span class="parts-cnt">1</span></div>
+  <div class="parts-section-label">UTD30 / UTD52 ТЕРМОДИНАМИЧЕСКИЕ КОНДЕНСАТООТВОДЧИКИ - ЗАПАСНЫЕ ЧАСТИ <span class="parts-cnt">1</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -31,7 +31,7 @@ image: "/assets/img/og-ru/spirax-sarco.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">FT14 / FTS14 BALL FLOAT &amp; THERMOSTATIC TRAPS - SPARE PARTS <span class="parts-cnt">1</span></div>
+  <div class="parts-section-label">КОНДЕНСАТООТВОДЧИКИ FT14 / FTS14 С ШАРОВЫМ ПОПЛАВКОМ И ТЕРМОСТАТИЧЕСКИЕ - ЗАПАСНЫЕ ЧАСТИ <span class="parts-cnt">1</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

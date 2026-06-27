@@ -9,7 +9,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90101 – CYLINDER COVER <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">PLATE 90101 - CYLINDER COVER <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -31,7 +31,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90205 – PISTON ROD STUFFING BOX <span class="parts-cnt">18</span></div>
+  <div class="parts-section-label">PLATE 90205 - PISTON ROD STUFFING BOX <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -58,7 +58,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90301 – CYLINDER FRAME <span class="parts-cnt">33</span></div>
+  <div class="parts-section-label">PLATE 90301 - CYLINDER FRAME <span class="parts-cnt">33</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -100,7 +100,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90302 – CYLINDER LINER AND COOLING JACKET <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">PLATE 90302 - CYLINDER LINER AND COOLING JACKET <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -439,7 +439,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90603 – DESCR PTION CHAIN TIGHTENER <span class="parts-cnt">34</span></div>
+  <div class="parts-section-label">PLATE 90603 – DESCRIPTION CHAIN TIGHTENER <span class="parts-cnt">34</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -482,7 +482,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90610 – BEARING HOUSING - L\/LOUNTING <span class="parts-cnt">14</span></div>
+  <div class="parts-section-label">PLATE 90610 – BEARING HOUSING - MOUNTING <span class="parts-cnt">14</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -561,7 +561,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90626 – CHAIN TIGHTENER FOR IVLOMENT COMPENSATOR <span class="parts-cnt">30</span></div>
+  <div class="parts-section-label">PLATE 90626 – CHAIN TIGHTENER FOR MOMENT COMPENSATOR <span class="parts-cnt">30</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -756,7 +756,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90904 – FUEL PUMP - DETAILS <span class="parts-cnt">40</span></div>
+  <div class="parts-section-label">PLATE 90904 - FUEL PUMP - DETAILS <span class="parts-cnt">40</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -805,7 +805,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90905 – REVERSING MECHANISM <span class="parts-cnt">19</span></div>
+  <div class="parts-section-label">PLATE 90905 - REVERSING MECHANISM <span class="parts-cnt">19</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -833,7 +833,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90910 – FUEL VALVE <span class="parts-cnt">21</span></div>
+  <div class="parts-section-label">PLATE 90910 - FUEL VALVE <span class="parts-cnt">21</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -863,7 +863,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 90913 – HIGH-PRESSURE PIPES <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">PLATE 90913 - HIGH-PRESSURE PIPES <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -883,7 +883,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91001 – SCAVENGE AIR RECEIVER <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">PLATE 91001 - SCAVENGE AIR RECEIVER <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -909,7 +909,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91003 – EXHAUST PIPES AND RECEIVER <span class="parts-cnt">46</span></div>
+  <div class="parts-section-label">PLATE 91003 - EXHAUST PIPES AND RECEIVER <span class="parts-cnt">46</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -964,7 +964,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91004 – EXHAUST RECEIVER - DETAILS <span class="parts-cnt">20</span></div>
+  <div class="parts-section-label">PLATE 91004 - EXHAUST RECEIVER - DETAILS <span class="parts-cnt">20</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -993,7 +993,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91006 – ARRANGEMENT OF AUXILIARY BLOWER <span class="parts-cnt">3</span></div>
+  <div class="parts-section-label">PLATE 91006 - ARRANGEMENT OF AUXILIARY BLOWER <span class="parts-cnt">3</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1005,7 +1005,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91008 – SEALING AIR SYSTEM FOR TURBOCHARGER <span class="parts-cnt">27</span></div>
+  <div class="parts-section-label">PLATE 91008 - SEALING AIR SYSTEM FOR TURBOCHARGER <span class="parts-cnt">27</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1041,7 +1041,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91009 – AIR COOLER SYSTEM - CLEANING <span class="parts-cnt">19</span></div>
+  <div class="parts-section-label">PLATE 91009 - AIR COOLER SYSTEM - CLEANING <span class="parts-cnt">19</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1069,7 +1069,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91010 – MANB&amp;W AIR COOLER FRAME <span class="parts-cnt">31</span></div>
+  <div class="parts-section-label">PLATE 91010 - MAN B&amp;W AIR COOLER FRAME <span class="parts-cnt">31</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1109,7 +1109,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91011 – ARRANGEMENT OF NON-RETURN VALVE <span class="parts-cnt">18</span></div>
+  <div class="parts-section-label">PLATE 91011 - ARRANGEMENT OF NON-RETURN VALVE <span class="parts-cnt">18</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1136,7 +1136,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91104 – ARRANGEMENT OF SAFETY CAP <span class="parts-cnt">16</span></div>
+  <div class="parts-section-label">PLATE 91104 - ARRANGEMENT OF SAFETY CAP <span class="parts-cnt">16</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1161,7 +1161,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91204 – FRAME - DETAILS <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">PLATE 91204 - FRAME - DETAILS <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1182,7 +1182,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91210 – BEDPLATE <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">PLATE 91210 - BEDPLATE <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1204,7 +1204,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91211 – P91211-55 AXIAL VIBRATION DAMPER <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">PLATE 91211 - P91211-55 AXIAL VIBRATION DAMPER <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -1230,7 +1230,7 @@ image: "/assets/img/og/hyundai-man-bw-6s50mc-c.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PLATE 91216 – HOLDING-DOWN (EPOXY BOLTS CHOCKS) AND END-CHOCK BOLTS <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">PLATE 91216 - HOLDING-DOWN (EPOXY BOLTS CHOCKS) AND END-CHOCK BOLTS <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>

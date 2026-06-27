@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/yanmar-6ey18-lw-opm.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDER BLOCK &amp; FRAME <span class="parts-cnt">51</span></div>
+  <div class="parts-section-label">БЛОК ЦИЛИНДРОВ И РАМА <span class="parts-cnt">51</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -69,7 +69,7 @@ image: "/assets/img/og-ru/yanmar-6ey18-lw-opm.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDER HEAD <span class="parts-cnt">41</span></div>
+  <div class="parts-section-label">ЦИЛИНДРОВАЯ КРЫШКА <span class="parts-cnt">41</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -119,7 +119,7 @@ image: "/assets/img/og-ru/yanmar-6ey18-lw-opm.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PISTONS &amp; RINGS <span class="parts-cnt">9</span></div>
+  <div class="parts-section-label">ПОРШНИ И КОЛЬЦА <span class="parts-cnt">9</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -137,7 +137,7 @@ image: "/assets/img/og-ru/yanmar-6ey18-lw-opm.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CONNECTING ROD <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">ШАТУН <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -151,7 +151,7 @@ image: "/assets/img/og-ru/yanmar-6ey18-lw-opm.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CRANKSHAFT &amp; BEARINGS <span class="parts-cnt">16</span></div>
+  <div class="parts-section-label">КОЛЕНЧАТЫЙ ВАЛ И ПОДШИПНИКИ <span class="parts-cnt">16</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -176,7 +176,7 @@ image: "/assets/img/og-ru/yanmar-6ey18-lw-opm.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">FLYWHEEL <span class="parts-cnt">4</span></div>
+  <div class="parts-section-label">МАХОВИК <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -189,7 +189,7 @@ image: "/assets/img/og-ru/yanmar-6ey18-lw-opm.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CAMSHAFT &amp; TIMING GEAR <span class="parts-cnt">19</span></div>
+  <div class="parts-section-label">РАСПРЕДЕЛИТЕЛЬНЫЙ ВАЛ И ПРИВОД ГРМ <span class="parts-cnt">19</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -217,7 +217,7 @@ image: "/assets/img/og-ru/yanmar-6ey18-lw-opm.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">AIR &amp; EXHAUST SYSTEM <span class="parts-cnt">89</span></div>
+  <div class="parts-section-label">ВОЗДУШНАЯ И ВЫХЛОПНАЯ СИСТЕМА <span class="parts-cnt">89</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -315,7 +315,7 @@ image: "/assets/img/og-ru/yanmar-6ey18-lw-opm.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">FUEL OIL SYSTEM <span class="parts-cnt">197</span></div>
+  <div class="parts-section-label">СИСТЕМА ТОПЛИВНОГО МАСЛА <span class="parts-cnt">197</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -521,7 +521,7 @@ image: "/assets/img/og-ru/yanmar-6ey18-lw-opm.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">LUBRICATION SYSTEM <span class="parts-cnt">121</span></div>
+  <div class="parts-section-label">СИСТЕМА СМАЗКИ <span class="parts-cnt">121</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -651,7 +651,7 @@ image: "/assets/img/og-ru/yanmar-6ey18-lw-opm.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CRANKCASE &amp; LO MIST <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">КАРТЕР И МАСЛЯНЫЙ ТУМАН <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -673,7 +673,7 @@ image: "/assets/img/og-ru/yanmar-6ey18-lw-opm.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">COOLING WATER SYSTEM <span class="parts-cnt">80</span></div>
+  <div class="parts-section-label">СИСТЕМА ОХЛАЖДАЮЩЕЙ ВОДЫ <span class="parts-cnt">80</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -762,7 +762,7 @@ image: "/assets/img/og-ru/yanmar-6ey18-lw-opm.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SEA WATER COOLING PUMP <span class="parts-cnt">15</span></div>
+  <div class="parts-section-label">НАСОС ОХЛАЖДЕНИЯ МОРСКОЙ ВОДОЙ <span class="parts-cnt">15</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -786,7 +786,7 @@ image: "/assets/img/og-ru/yanmar-6ey18-lw-opm.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">STARTING SYSTEM <span class="parts-cnt">99</span></div>
+  <div class="parts-section-label">СИСТЕМА ПУСКА <span class="parts-cnt">99</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -894,7 +894,7 @@ image: "/assets/img/og-ru/yanmar-6ey18-lw-opm.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">GOVERNOR &amp; SPEED CONTROL <span class="parts-cnt">197</span></div>
+  <div class="parts-section-label">РЕГУЛЯТОР И УПРАВЛЕНИЕ ЧАСТОТОЙ ВРАЩЕНИЯ <span class="parts-cnt">197</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1100,7 +1100,7 @@ image: "/assets/img/og-ru/yanmar-6ey18-lw-opm.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">INSTRUMENTS &amp; SENSORS <span class="parts-cnt">38</span></div>
+  <div class="parts-section-label">ПРИБОРЫ И ДАТЧИКИ <span class="parts-cnt">38</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -1147,7 +1147,7 @@ image: "/assets/img/og-ru/yanmar-6ey18-lw-opm.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SPECIAL TOOLS <span class="parts-cnt">67</span></div>
+  <div class="parts-section-label">СПЕЦИАЛЬНЫЙ ИНСТРУМЕНТ <span class="parts-cnt">67</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

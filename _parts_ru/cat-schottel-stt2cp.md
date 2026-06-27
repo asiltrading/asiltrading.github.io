@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-schottel-stt2cp.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">ASSEMBLY DOCUMENT REFERENCES <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">ССЫЛКИ НА СБОРОЧНЫЕ ДОКУМЕНТЫ <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Schottel Doc No.</th><th>Assembly</th></tr></thead>
     <tbody>
@@ -31,7 +31,7 @@ image: "/assets/img/og-ru/cat-schottel-stt2cp.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">REFERENCE / SERVICE INSTRUCTIONS <span class="parts-cnt">14</span></div>
+  <div class="parts-section-label">СПРАВОЧНЫЕ / СЕРВИСНЫЕ ИНСТРУКЦИИ <span class="parts-cnt">14</span></div>
   <table>
     <thead><tr><th>Schottel Doc No.</th><th>Description</th></tr></thead>
     <tbody>

@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-hatlapa-w80.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CRANK CASE <span class="parts-cnt">27</span></div>
+  <div class="parts-section-label">КАРТЕР <span class="parts-cnt">27</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -45,7 +45,7 @@ image: "/assets/img/og-ru/cat-hatlapa-w80.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CRANKSHAFT <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">КОЛЕНЧАТЫЙ ВАЛ <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -59,7 +59,7 @@ image: "/assets/img/og-ru/cat-hatlapa-w80.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">LUBRICATION SYSTEM <span class="parts-cnt">16</span></div>
+  <div class="parts-section-label">СИСТЕМА СМАЗКИ <span class="parts-cnt">16</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -84,7 +84,7 @@ image: "/assets/img/og-ru/cat-hatlapa-w80.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDER &amp; CYLINDER HEAD <span class="parts-cnt">31</span></div>
+  <div class="parts-section-label">ЦИЛИНДР И ЦИЛИНДРОВАЯ КРЫШКА <span class="parts-cnt">31</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -124,7 +124,7 @@ image: "/assets/img/og-ru/cat-hatlapa-w80.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">VALVES <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">КЛАПАНЫ <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -141,7 +141,7 @@ image: "/assets/img/og-ru/cat-hatlapa-w80.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PISTON <span class="parts-cnt">6</span></div>
+  <div class="parts-section-label">ПОРШЕНЬ <span class="parts-cnt">6</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -156,7 +156,7 @@ image: "/assets/img/og-ru/cat-hatlapa-w80.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CONNECTING ROD <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">ШАТУН <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -170,7 +170,7 @@ image: "/assets/img/og-ru/cat-hatlapa-w80.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PIPES &amp; COOLING <span class="parts-cnt">9</span></div>
+  <div class="parts-section-label">ТРУБОПРОВОДЫ И ОХЛАЖДЕНИЕ <span class="parts-cnt">9</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -188,7 +188,7 @@ image: "/assets/img/og-ru/cat-hatlapa-w80.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">FITTINGS <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">АРМАТУРА И ФИТИНГИ <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -209,7 +209,7 @@ image: "/assets/img/og-ru/cat-hatlapa-w80.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDER LUBRICATION 1ST STAGE <span class="parts-cnt">15</span></div>
+  <div class="parts-section-label">СМАЗКА ЦИЛИНДРА - 1-Я СТУПЕНЬ <span class="parts-cnt">15</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -233,7 +233,7 @@ image: "/assets/img/og-ru/cat-hatlapa-w80.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">FLYWHEEL &amp; COUPLING <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">МАХОВИК И МУФТА <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -247,7 +247,7 @@ image: "/assets/img/og-ru/cat-hatlapa-w80.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">COOLING WATER SUPPLY <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">ПОДАЧА ОХЛАЖДАЮЩЕЙ ВОДЫ <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -269,7 +269,7 @@ image: "/assets/img/og-ru/cat-hatlapa-w80.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SUCTION SYSTEM <span class="parts-cnt">6</span></div>
+  <div class="parts-section-label">ВСАСЫВАЮЩАЯ СИСТЕМА <span class="parts-cnt">6</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -284,7 +284,7 @@ image: "/assets/img/og-ru/cat-hatlapa-w80.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">BASE FRAME - RIGID <span class="parts-cnt">9</span></div>
+  <div class="parts-section-label">РАМА ОСНОВАНИЯ - ЖЁСТКАЯ <span class="parts-cnt">9</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -302,7 +302,7 @@ image: "/assets/img/og-ru/cat-hatlapa-w80.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">BASE FRAME - RESILIENT <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">РАМА ОСНОВАНИЯ - ВИБРОИЗОЛИРУЮЩАЯ <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -322,7 +322,7 @@ image: "/assets/img/og-ru/cat-hatlapa-w80.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">OIL PRESSURE SWITCH MOUNTING <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">МОНТАЖ ДАТЧИКА ДАВЛЕНИЯ МАСЛА <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>
@@ -338,7 +338,7 @@ image: "/assets/img/og-ru/cat-hatlapa-w80.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">AUTOMATIC DRAINAGE <span class="parts-cnt">6</span></div>
+  <div class="parts-section-label">АВТОМАТИЧЕСКИЙ ДРЕНАЖ <span class="parts-cnt">6</span></div>
   <table>
     <thead><tr><th>Ident-Nr.</th><th>Description</th></tr></thead>
     <tbody>

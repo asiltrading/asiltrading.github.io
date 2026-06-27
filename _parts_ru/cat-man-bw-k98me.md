@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-man-bw-k98me.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDER COVER (P90101-0148) <span class="parts-cnt">24</span></div>
+  <div class="parts-section-label">КРЫШКА ЦИЛИНДРА (P90101-0148) <span class="parts-cnt">24</span></div>
   <table>
     <thead><tr><th>Item</th><th>Description</th></tr></thead>
     <tbody>
@@ -42,7 +42,7 @@ image: "/assets/img/og-ru/cat-man-bw-k98me.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">INDICATOR COCK MOUNTING (P90103-0002) <span class="parts-cnt">16</span></div>
+  <div class="parts-section-label">МОНТАЖ ИНДИКАТОРНОГО КРАНА (P90103-0002) <span class="parts-cnt">16</span></div>
   <table>
     <thead><tr><th>Item</th><th>Description</th></tr></thead>
     <tbody>
@@ -67,7 +67,7 @@ image: "/assets/img/og-ru/cat-man-bw-k98me.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PISTON &amp; PISTON ROD (P90201-0224) <span class="parts-cnt">23</span></div>
+  <div class="parts-section-label">ПОРШЕНЬ И ШТОК ПОРШНЯ (P90201-0224) <span class="parts-cnt">23</span></div>
   <table>
     <thead><tr><th>Item</th><th>Description</th></tr></thead>
     <tbody>
@@ -99,7 +99,7 @@ image: "/assets/img/og-ru/cat-man-bw-k98me.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PISTON ROD STUFFING BOX (P90205-0116) <span class="parts-cnt">20</span></div>
+  <div class="parts-section-label">САЛЬНИКОВАЯ НАБИВКА ШТОКА ПОРШНЯ (P90205-0116) <span class="parts-cnt">20</span></div>
   <table>
     <thead><tr><th>Item</th><th>Description</th></tr></thead>
     <tbody>
@@ -128,7 +128,7 @@ image: "/assets/img/og-ru/cat-man-bw-k98me.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDER LINER &amp; COOLING JACKET (P90302-0147) <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">ЦИЛИНДРОВАЯ ВТУЛКА И ОХЛАЖДАЮЩАЯ РУБАШКА (P90302-0147) <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Item</th><th>Description</th></tr></thead>
     <tbody>
@@ -154,7 +154,7 @@ image: "/assets/img/og-ru/cat-man-bw-k98me.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDER FRAME DETAILS (P90303-0010) <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">ДЕТАЛИ РАМЫ ЦИЛИНДРА (P90303-0010) <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Item</th><th>Description</th></tr></thead>
     <tbody>
@@ -168,7 +168,7 @@ image: "/assets/img/og-ru/cat-man-bw-k98me.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CYLINDER LINER NON-RETURN VALVES (P90304-0039) <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">НЕВОЗВРАТНЫЕ КЛАПАНЫ ЦИЛИНДРОВОЙ ВТУЛКИ (P90304-0039) <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Item</th><th>Description</th></tr></thead>
     <tbody>
@@ -190,7 +190,7 @@ image: "/assets/img/og-ru/cat-man-bw-k98me.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">FUEL VALVE (P90910-0154) <span class="parts-cnt">22</span></div>
+  <div class="parts-section-label">ТОПЛИВНЫЙ КЛАПАН (P90910-0154) <span class="parts-cnt">22</span></div>
   <table>
     <thead><tr><th>Item</th><th>Description</th></tr></thead>
     <tbody>
@@ -221,7 +221,7 @@ image: "/assets/img/og-ru/cat-man-bw-k98me.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">HIGH-PRESSURE FUEL PIPES (P90913-0161) <span class="parts-cnt">24</span></div>
+  <div class="parts-section-label">ТОПЛИВНЫЕ ТРУБОПРОВОДЫ ВЫСОКОГО ДАВЛЕНИЯ (P90913-0161) <span class="parts-cnt">24</span></div>
   <table>
     <thead><tr><th>Item</th><th>Description</th></tr></thead>
     <tbody>
@@ -254,7 +254,7 @@ image: "/assets/img/og-ru/cat-man-bw-k98me.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">FUEL OIL PRESSURE BOOSTER (P90917-0002) <span class="parts-cnt">33</span></div>
+  <div class="parts-section-label">БУСТЕРНЫЙ НАСОС ТОПЛИВНОГО МАСЛА (P90917-0002) <span class="parts-cnt">33</span></div>
   <table>
     <thead><tr><th>Item</th><th>Description</th></tr></thead>
     <tbody>

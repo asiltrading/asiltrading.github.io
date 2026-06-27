@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-alfalaval-su-series.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">MODELS COVERED <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">ОХВАТЫВАЕМЫЕ МОДЕЛИ <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Model</th><th>Description</th></tr></thead>
     <tbody>
@@ -25,7 +25,7 @@ image: "/assets/img/og-ru/cat-alfalaval-su-series.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">OPERATING WATER DOSING (Reference Values) <span class="parts-cnt">4</span></div>
+  <div class="parts-section-label">ДОЗИРОВАНИЕ РАБОЧЕЙ ВОДЫ (СПРАВОЧНЫЕ ЗНАЧЕНИЯ) <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Cycle</th><th>Conditioning / Displacement</th></tr></thead>
     <tbody>

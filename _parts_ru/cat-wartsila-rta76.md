@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-wartsila-rta76.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CLU CYLINDER LUBRICATION RETROFIT KITS <span class="parts-cnt">2</span></div>
+  <div class="parts-section-label">CLU КОМПЛЕКТЫ ДООСНАЩЕНИЯ ЦИЛИНДРОВОЙ СМАЗКИ <span class="parts-cnt">2</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

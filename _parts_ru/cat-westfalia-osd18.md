@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-westfalia-osd18.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">FRAME &amp; BRAKE <span class="parts-cnt">11</span></div>
+  <div class="parts-section-label">РАМА И ТОРМОЗ <span class="parts-cnt">11</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -29,7 +29,7 @@ image: "/assets/img/og-ru/cat-westfalia-osd18.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">DRIVE &amp; SPINDLE <span class="parts-cnt">15</span></div>
+  <div class="parts-section-label">ПРИВОД И ШПИНДЕЛЬ <span class="parts-cnt">15</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -53,7 +53,7 @@ image: "/assets/img/og-ru/cat-westfalia-osd18.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CENTRIFUGAL CLUTCH <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">ЦЕНТРОБЕЖНАЯ МУФТА <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -69,7 +69,7 @@ image: "/assets/img/og-ru/cat-westfalia-osd18.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">BOWL ASSEMBLY (2048-6600-090) <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">БАРАБАН В СБОРЕ (2048-6600-090) <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -90,7 +90,7 @@ image: "/assets/img/og-ru/cat-westfalia-osd18.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">DISK STACK &amp; CENTRIPETAL PUMP <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">ПАКЕТ ДИСКОВ И ЦЕНТРОСТРЕМИТЕЛЬНЫЙ НАСОС <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

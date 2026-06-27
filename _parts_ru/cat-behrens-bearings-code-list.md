@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-behrens-bearings-code-list.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SEA WATER &amp; FRESH WATER PUMPS <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">НАСОСЫ МОРСКОЙ ВОДЫ И ПРЕСНОЙ ВОДЫ <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Service / Type / Serial</th><th>Mech Seal | Bearings (Pump) | Motor + Bearings</th></tr></thead>
     <tbody>
@@ -25,7 +25,7 @@ image: "/assets/img/og-ru/cat-behrens-bearings-code-list.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">FUEL &amp; LUBE OIL TRANSFER PUMPS <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">ПЕРЕКАЧИВАЮЩИЕ НАСОСЫ ТОПЛИВА И СМАЗОЧНОГО МАСЛА <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Service / Type / Serial</th><th>Mech Seal | Bearings (Pump) | Motor + Bearings</th></tr></thead>
     <tbody>
@@ -41,7 +41,7 @@ image: "/assets/img/og-ru/cat-behrens-bearings-code-list.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">M/E LO CIRCULATION &amp; CROSSHEAD PUMPS <span class="parts-cnt">4</span></div>
+  <div class="parts-section-label">НАСОСЫ ЦИРКУЛЯЦИИ LO И КРЕЙЦКОПФНЫЕ НАСОСЫ ГЛАВНОГО ДВИГАТЕЛЯ <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Service / Type / Serial</th><th>Mech Seal | Bearings (Pump) | Motor + Bearings</th></tr></thead>
     <tbody>
@@ -54,7 +54,7 @@ image: "/assets/img/og-ru/cat-behrens-bearings-code-list.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">BILGE &amp; SLUDGE PUMPS <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">ЛЬЯЛЬНЫЕ НАСОСЫ И НАСОСЫ ШЛАМА <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Service / Type / Serial</th><th>Mech Seal | Bearings (Pump) | Motor + Bearings</th></tr></thead>
     <tbody>
@@ -68,7 +68,7 @@ image: "/assets/img/og-ru/cat-behrens-bearings-code-list.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">BALLAST &amp; FIRE-FIGHTING PUMPS <span class="parts-cnt">3</span></div>
+  <div class="parts-section-label">БАЛЛАСТНЫЕ НАСОСЫ И НАСОСЫ ПОЖАРОТУШЕНИЯ <span class="parts-cnt">3</span></div>
   <table>
     <thead><tr><th>Service / Type / Serial</th><th>Mech Seal | Bearings (Pump) | Motor + Bearings</th></tr></thead>
     <tbody>
@@ -80,7 +80,7 @@ image: "/assets/img/og-ru/cat-behrens-bearings-code-list.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">FW SUPPLY / HOT WATER / HEATER / SERVICE PUMPS <span class="parts-cnt">8</span></div>
+  <div class="parts-section-label">НАСОСЫ ПОДАЧИ ПРЕСНОЙ ВОДЫ / ГОРЯЧЕЙ ВОДЫ / НАГРЕВАТЕЛЯ / СЕРВИСНЫЕ НАСОСЫ <span class="parts-cnt">8</span></div>
   <table>
     <thead><tr><th>Service / Type / Serial</th><th>Mech Seal | Bearings (Pump) | Motor + Bearings</th></tr></thead>
     <tbody>

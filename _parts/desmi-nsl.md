@@ -9,7 +9,7 @@ image: "/assets/img/og/desmi-nsl.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SPARE PARTS KIT 677584 – NSL/NSLV/NSLH 65–200 × 265 <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">SPARE PARTS KIT 677584 - NSL/NSLV/NSLH 65-200 × 265 <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -35,7 +35,7 @@ image: "/assets/img/og/desmi-nsl.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SPARE PARTS KIT 677570 – NSL/NSLV 65–250 × 265 <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">SPARE PARTS KIT 677570 - NSL/NSLV 65-250 × 265 <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -57,7 +57,7 @@ image: "/assets/img/og/desmi-nsl.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SPARE PARTS KIT 677573 – NSL/NSLV 150–250 × 330 <span class="parts-cnt">13</span></div>
+  <div class="parts-section-label">SPARE PARTS KIT 677573 - NSL/NSLV 150-250 × 330 <span class="parts-cnt">13</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -93,7 +93,7 @@ image: "/assets/img/og/desmi-nsl.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">DESMI ROTAN INTERNAL GEAR PUMP – POSITION CODES <span class="parts-cnt">19</span></div>
+  <div class="parts-section-label">DESMI ROTAN INTERNAL GEAR PUMP - POSITION CODES <span class="parts-cnt">19</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>

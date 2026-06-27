@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-westfalia-hfo-do-plant.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SEPARATORS &amp; MOTORS <span class="parts-cnt">4</span></div>
+  <div class="parts-section-label">СЕПАРАТОРЫ И ЭЛЕКТРОДВИГАТЕЛИ <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Westfalia P/N</th><th>Description</th></tr></thead>
     <tbody>
@@ -22,7 +22,7 @@ image: "/assets/img/og-ru/cat-westfalia-hfo-do-plant.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">FEED PUMPS &amp; HEAT EXCHANGERS <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">ПИТАТЕЛЬНЫЕ НАСОСЫ И ТЕПЛООБМЕННИКИ <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Westfalia P/N</th><th>Description</th></tr></thead>
     <tbody>
@@ -36,7 +36,7 @@ image: "/assets/img/og-ru/cat-westfalia-hfo-do-plant.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">VALVES <span class="parts-cnt">26</span></div>
+  <div class="parts-section-label">КЛАПАНЫ <span class="parts-cnt">26</span></div>
   <table>
     <thead><tr><th>Westfalia P/N</th><th>Description</th></tr></thead>
     <tbody>
@@ -71,7 +71,7 @@ image: "/assets/img/og-ru/cat-westfalia-hfo-do-plant.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">STRAINERS &amp; CONTROL VALVES <span class="parts-cnt">5</span></div>
+  <div class="parts-section-label">ФИЛЬТРЫ-СЕТКИ И РЕГУЛИРУЮЩИЕ КЛАПАНЫ <span class="parts-cnt">5</span></div>
   <table>
     <thead><tr><th>Westfalia P/N</th><th>Description</th></tr></thead>
     <tbody>
@@ -85,7 +85,7 @@ image: "/assets/img/og-ru/cat-westfalia-hfo-do-plant.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">STEAM TRAPS <span class="parts-cnt">2</span></div>
+  <div class="parts-section-label">КОНДЕНСАТООТВОДЧИКИ <span class="parts-cnt">2</span></div>
   <table>
     <thead><tr><th>Westfalia P/N</th><th>Description</th></tr></thead>
     <tbody>
@@ -96,7 +96,7 @@ image: "/assets/img/og-ru/cat-westfalia-hfo-do-plant.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">INSTRUMENTS &amp; SENSORS <span class="parts-cnt">10</span></div>
+  <div class="parts-section-label">ПРИБОРЫ И ДАТЧИКИ <span class="parts-cnt">10</span></div>
   <table>
     <thead><tr><th>Westfalia P/N</th><th>Description</th></tr></thead>
     <tbody>

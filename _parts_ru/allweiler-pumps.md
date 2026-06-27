@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/allweiler-pumps.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PROGRESSIVE CAVITY PUMPS – SN / SNP / SEP SERIES <span class="parts-cnt">4</span></div>
+  <div class="parts-section-label">ВИНТОВЫЕ НАСОСЫ - СЕРИЯ SN / SNP / SEP <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -22,7 +22,7 @@ image: "/assets/img/og-ru/allweiler-pumps.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CENTRIFUGAL PUMPS – NB / NT SERIES <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">ЦЕНТРОБЕЖНЫЕ НАСОСЫ - СЕРИЯ NB / NT <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -43,7 +43,7 @@ image: "/assets/img/og-ru/allweiler-pumps.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">ALLWEILER COMMON PUMP SERIES ON BOARD SHIPS <span class="parts-cnt">7</span></div>
+  <div class="parts-section-label">ALLWEILER РАСПРОСТРАНЁННЫЕ СЕРИИ НАСОСОВ НА СУДАХ <span class="parts-cnt">7</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

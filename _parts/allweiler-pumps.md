@@ -9,7 +9,7 @@ image: "/assets/img/og/allweiler-pumps.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PROGRESSIVE CAVITY PUMPS – SN / SNP / SEP SERIES <span class="parts-cnt">4</span></div>
+  <div class="parts-section-label">PROGRESSIVE CAVITY PUMPS - SN / SNP / SEP SERIES <span class="parts-cnt">4</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>
@@ -22,7 +22,7 @@ image: "/assets/img/og/allweiler-pumps.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">CENTRIFUGAL PUMPS – NB / NT SERIES <span class="parts-cnt">12</span></div>
+  <div class="parts-section-label">CENTRIFUGAL PUMPS - NB / NT SERIES <span class="parts-cnt">12</span></div>
   <table>
     <thead><tr><th>Part Number</th><th>Description</th></tr></thead>
     <tbody>

@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-c9.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">ENGINE CORE <span class="parts-cnt">38</span></div>
+  <div class="parts-section-label">ОСНОВНОЙ БЛОК ДВИГАТЕЛЯ <span class="parts-cnt">38</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -56,7 +56,7 @@ image: "/assets/img/og-ru/cat-c9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">FUEL SYSTEM <span class="parts-cnt">17</span></div>
+  <div class="parts-section-label">ТОПЛИВНАЯ СИСТЕМА <span class="parts-cnt">17</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -82,7 +82,7 @@ image: "/assets/img/og-ru/cat-c9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">AIR, EXHAUST &amp; TURBOCHARGER <span class="parts-cnt">21</span></div>
+  <div class="parts-section-label">ВОЗДУХ, ВЫХЛОП И ТУРБОНАГНЕТАТЕЛЬ <span class="parts-cnt">21</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -112,7 +112,7 @@ image: "/assets/img/og-ru/cat-c9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">DRIVE TRAIN <span class="parts-cnt">24</span></div>
+  <div class="parts-section-label">ТРАНСМИССИЯ <span class="parts-cnt">24</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -145,7 +145,7 @@ image: "/assets/img/og-ru/cat-c9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PUMPS <span class="parts-cnt">24</span></div>
+  <div class="parts-section-label">НАСОСЫ <span class="parts-cnt">24</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -178,7 +178,7 @@ image: "/assets/img/og-ru/cat-c9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">VALVES &amp; REGULATORS <span class="parts-cnt">50</span></div>
+  <div class="parts-section-label">КЛАПАНЫ И РЕГУЛЯТОРЫ <span class="parts-cnt">50</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -237,7 +237,7 @@ image: "/assets/img/og-ru/cat-c9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">SENSORS, SWITCHES &amp; GAUGES <span class="parts-cnt">62</span></div>
+  <div class="parts-section-label">ДАТЧИКИ, ВЫКЛЮЧАТЕЛИ И МАНОМЕТРЫ <span class="parts-cnt">62</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -308,7 +308,7 @@ image: "/assets/img/og-ru/cat-c9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">ELECTRICAL <span class="parts-cnt">114</span></div>
+  <div class="parts-section-label">ЭЛЕКТРООБОРУДОВАНИЕ <span class="parts-cnt">114</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -431,7 +431,7 @@ image: "/assets/img/og-ru/cat-c9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">FILTERS &amp; ELEMENTS <span class="parts-cnt">37</span></div>
+  <div class="parts-section-label">ФИЛЬТРЫ И ЭЛЕМЕНТЫ <span class="parts-cnt">37</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -477,7 +477,7 @@ image: "/assets/img/og-ru/cat-c9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">BEARINGS &amp; BUSHINGS <span class="parts-cnt">28</span></div>
+  <div class="parts-section-label">ПОДШИПНИКИ И ВТУЛКИ <span class="parts-cnt">28</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -514,7 +514,7 @@ image: "/assets/img/og-ru/cat-c9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">GASKETS &amp; SEALS <span class="parts-cnt">131</span></div>
+  <div class="parts-section-label">ПРОКЛАДКИ И УПЛОТНЕНИЯ <span class="parts-cnt">131</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -654,7 +654,7 @@ image: "/assets/img/og-ru/cat-c9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">COVERS, HOUSINGS &amp; MOUNTS <span class="parts-cnt">105</span></div>
+  <div class="parts-section-label">КРЫШКИ, КОРПУСА И КРЕПЛЕНИЯ <span class="parts-cnt">105</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -768,7 +768,7 @@ image: "/assets/img/og-ru/cat-c9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">HOSES, TUBES &amp; FITTINGS <span class="parts-cnt">169</span></div>
+  <div class="parts-section-label">ШЛАНГИ, ТРУБКИ И ФИТИНГИ <span class="parts-cnt">169</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>
@@ -946,7 +946,7 @@ image: "/assets/img/og-ru/cat-c9.png"
 </div>
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">FASTENERS &amp; HARDWARE <span class="parts-cnt">338</span></div>
+  <div class="parts-section-label">КРЕПЕЖНЫЕ ИЗДЕЛИЯ И ФУРНИТУРА <span class="parts-cnt">338</span></div>
   <table>
     <thead><tr><th>Номер детали</th><th>Описание</th></tr></thead>
     <tbody>

@@ -9,7 +9,7 @@ image: "/assets/img/og-ru/cat-behrens-yzj668c.png"
 ---
 
 <div class="parts-table-wrap">
-  <div class="parts-section-label">PUMP SET (Pos / Service / Type / Serial) <span class="parts-cnt">35</span></div>
+  <div class="parts-section-label">КОМПЛЕКТ НАСОСОВ (ПОЗ. / НАЗНАЧЕНИЕ / ТИП / СЕРИЙНЫЙ) <span class="parts-cnt">35</span></div>
   <table>
     <thead><tr><th>Type / Serial</th><th>Service &amp; Motor</th></tr></thead>
     <tbody>
