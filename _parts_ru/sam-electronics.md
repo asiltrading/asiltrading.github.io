@@ -1,10 +1,12 @@
 ---
-title: "Lyngsø Marine / SAM Electronics – Системы сигнализации, мониторинга и управления"
-model: "UMS 2000/2100, DMS 2100, DAS-40M, ESS 40M, DAP 2200, IOM/AEM/DRM/DEM 401"
-manufacturer: "Lyngsø Marine / SAM Electronics"
+title: "SAM Electronics – сигнализация, мониторинг и управление"
+model: "Системы сигнализации, мониторинга и управления"
+manufacturer: "SAM Electronics"
 category: "Navigation & Electronics"
-description: "Запасные части для систем сигнализации, мониторинга и управления Lyngsø Marine и SAM Electronics, включая панели UMS/DMS, модули ввода-вывода и конверторы радарного сканирования для торговых и офшорных судов. Запросите цену и наличие."
-image: "/assets/img/og-ru/lyngso-marine-sam-electronics.png"
+description: "Запасные части систем сигнализации, мониторинга и управления SAM Electronics: панели сигнализации, модули ввода-вывода, дисплеи Nautic и конверторы радарного сканирования для торговых и офшорных судов. Запросите цену и наличие."
+image: "/assets/img/og-ru/sam-electronics.png"
+redirect_from:
+  - /ru/parts/lyngso-marine-sam-electronics/
 
 ---
 

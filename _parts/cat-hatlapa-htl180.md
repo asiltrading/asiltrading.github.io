@@ -1,7 +1,7 @@
 ---
 title: "Hatlapa HTL 180 Screw Compressor"
-model: "HTL 180 (Atlas Copco GA 11-30C)"
-manufacturer: "Hatlapa / Atlas Copco"
+model: "HTL 180"
+manufacturer: "Hatlapa"
 category: "Auxiliary Equipment"
 description: "Marine oil-injected stationary screw air compressor package. Hatlapa HTL 180 = re-branded Atlas Copco GA 11-30C series air-end with Elektronikon I/II regulator. Doc 01.5479/4."
 image: "/assets/img/og/cat-hatlapa-htl180.png"
