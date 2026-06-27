@@ -1,9 +1,9 @@
 ---
-title: "Behrens Pumpen Pump Set – Hull YZJ2003-668C"
-model: "Order 224755 / Hull YZJ2003-668C (34 pumps)"
+title: "Behrens Pumpen Marine Pump Spares"
+model: "VRF, KF, VAL, SFH & SFN Series marine pumps"
 manufacturer: "Heinrich Behrens Pumpenfabrik"
 category: "Pumps & Valves"
-description: "Complete Behrens Pumpen marine pump set for Yangzijiang hull YZJ2003-668C: 34 pump positions with types, serial numbers, services, and electric motor specs. Sea water, ballast, fuel, lube oil, bilge, and fire-fighting pumps. Request price and availability."
+description: "Behrens Pumpen marine pump range covering 34 pump types with services and electric motor specifications: sea water, ballast, fuel, lube oil, bilge, and fire-fighting pumps. Request price and availability."
 image: "/assets/img/og/cat-behrens-yzj668c.png"
 
 ---

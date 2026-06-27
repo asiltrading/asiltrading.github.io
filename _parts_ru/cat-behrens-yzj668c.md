@@ -1,9 +1,9 @@
 ---
-title: "Behrens Pumpen – Судовой комплект насосов, корпус YZJ2003-668C"
-model: "Order 224755 / Hull YZJ2003-668C (34 pumps)"
+title: "Behrens Pumpen – Судовые насосы и запчасти"
+model: "VRF, KF, VAL, SFH & SFN Series marine pumps"
 manufacturer: "Heinrich Behrens Pumpenfabrik"
 category: "Pumps & Valves"
-description: "Полный судовой комплект насосов Behrens Pumpen для корпуса Yangzijiang YZJ2003-668C: 34 позиции с типами, серийными номерами, назначением и характеристиками электродвигателей. Насосы забортной воды, балластные, топливные, масляные, осушительные и пожарные. Запросите цену и наличие."
+description: "Судовые насосы Behrens Pumpen: 34 типа насосов с назначением и характеристиками электродвигателей - забортной воды, балластные, топливные, масляные, осушительные и пожарные. Запросите цену и наличие."
 image: "/assets/img/og-ru/cat-behrens-yzj668c.png"
 
 ---

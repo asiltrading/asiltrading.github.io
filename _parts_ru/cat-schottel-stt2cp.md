@@ -53,4 +53,4 @@ image: "/assets/img/og-ru/cat-schottel-stt2cp.png"
   </table>
 </div>
 
-<p><em>Note: Individual Schottel part numbers live inside each list/drawing pair above and are not exposed in the manual table of contents. Order through Schottel quoting Order 14103478, factory number 101664, or vessel keyword DOEHLE 3 BOW.</em></p>
+<p><em>Примечание: индивидуальные номера деталей Schottel указаны внутри каждой пары список / чертёж выше. При заказе укажите тип подруливающего устройства и серийный номер.</em></p>

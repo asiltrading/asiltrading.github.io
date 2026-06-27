@@ -1,9 +1,9 @@
 ---
-title: "Rolls-Royce Frydenbø Steering Gear Electrical Spares (Order 126145)"
-model: "Order 126145 / Hull YZJ2003-668C"
+title: "Rolls-Royce Frydenbø – Электрические запчасти рулевой машины"
+model: "Frydenbø steering gear electrical control spares (SP-34012 kit)"
 manufacturer: "Rolls-Royce Marine - Frydenbø"
 category: "Auxiliary Equipment"
-description: "Запчасти для Rolls-Royce Marine - Frydenbø Order 126145 / Hull YZJ2003-668C. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
+description: "Двухлетний комплект электрических запчастей (SP-34012) для систем управления гидравлической рулевой машиной Rolls-Royce / Frydenbø. Запросите цену и наличие."
 image: "/assets/img/og-ru/cat-rolls-royce-126145.png"
 
 ---

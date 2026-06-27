@@ -3,7 +3,7 @@ title: "Schottel STT 2 CP Bow Thruster"
 model: "STT 2 CP (STT 170-1010 CP series)"
 manufacturer: "SCHOTTEL GmbH & Co. KG"
 category: "Auxiliary Equipment"
-description: "Schottel transverse tunnel bow thruster, controllable pitch (STT 2 CP, STT 170-1010 CP series). 750 kW input, propeller diameter 1540 mm, 4 blades, 4.27:1 reduction. Vessel DOEHLE 3 BOW (1574 TEU container vessel, Yangzijiang YZJ2003-667C..670C). Service Manual No. 14103478-1."
+description: "Schottel transverse tunnel bow thruster, controllable pitch (STT 2 CP, STT 170-1010 CP series). 750 kW input, 1540 mm propeller diameter, 4 blades, 4.27:1 reduction ratio. Request price and availability."
 image: "/assets/img/og/cat-schottel-stt2cp.png"
 
 ---
@@ -53,4 +53,4 @@ image: "/assets/img/og/cat-schottel-stt2cp.png"
   </table>
 </div>
 
-<p><em>Note: Individual Schottel part numbers live inside each list/drawing pair above and are not exposed in the manual table of contents. Order through Schottel quoting Order 14103478, factory number 101664, or vessel keyword DOEHLE 3 BOW.</em></p>
+<p><em>Note: Individual Schottel part numbers live inside each list / drawing pair above. Quote the thruster type and serial number when ordering.</em></p>
