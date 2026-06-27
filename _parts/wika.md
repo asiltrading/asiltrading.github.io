@@ -1,6 +1,6 @@
 ---
 title: "WIKA – Pressure Gauges, Transmitters & Temperature Instruments"
-model: "EN 837-1 / 232.50 / 230.20 / S-10 / S-11 / S-20 / A-10 / IS-3"
+model: "Bourdon Tube Gauges, S-10/S-20/A-10 Pressure Transmitters & Temperature Instruments"
 manufacturer: "WIKA"
 category: "Pumps & Valves"
 description: "WIKA is a global manufacturer of pressure, temperature, and level measurement instruments used throughout marine, industrial, and process applications. Request price and availability."

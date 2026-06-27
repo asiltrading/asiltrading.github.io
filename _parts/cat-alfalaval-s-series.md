@@ -1,6 +1,6 @@
 ---
 title: "Alfa Laval S-Type Separator (S 200 - S 800)"
-model: "S 200 / S 300 / S 400 / S 500 / S 600 / S 700 / S 800"
+model: "S 200-700 Series Separators"
 manufacturer: "Alfa Laval"
 category: "Auxiliary Equipment"
 description: "Alfa Laval S-series marine centrifugal separator (oil purifier - HFO / MDO / lube oil). ALCAP operating principle. Seven bowl sizes from S 200 to S 800. Overhaul interval 18 months / 12,000 operating hours (renew seals, bearings, friction blocks, flat belt). Service Manual publication 1810827-02."

@@ -1,6 +1,6 @@
 ---
 title: "Stahl – Запасные части взрывозащищённого оборудования управления и сигнализации"
-model: "ICS 1000 / 9100 Series / 9160 Series / 6042 Series"
+model: "Ex-Rated Signal Isolators, Temperature Transmitters, PCB Modules & Starting Equipment"
 manufacturer: "Stahl"
 category: "Electrical"
 description: "Stahl производит взрывозащищённое коммутационное оборудование, изолирующие повторители, блоки питания передатчиков, платы PCB и модули обработки сигналов для работы в опасных зонах морской и офшорной промышленности. Запросите цену и наличие."

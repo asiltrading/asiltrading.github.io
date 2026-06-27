@@ -1,6 +1,6 @@
 ---
 title: "Trafag – Pressure Transmitters, Density Monitors & Temperature Instruments"
-model: "8264 / 8202 / 8498 / 8842 / 8783 / 8736 / 8100 / 9B0 / 9B3 / 9B4 / 471 / 900 / PVF-9 / IS31N"
+model: "Pressure & Temperature Transmitters, Switches, Density Monitors & Sensors"
 manufacturer: "Trafag"
 category: "Pumps & Valves"
 description: "Trafag manufactures precision pressure transmitters, density monitors, pressure switches, and temperature instruments for industrial and switchgear applications. Request price and availability."

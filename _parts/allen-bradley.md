@@ -1,6 +1,6 @@
 ---
 title: "Allen-Bradley I/O Modules, Contactors & PLCs"
-model: "Bulletin 100 / 1492 / 1746 / 1769"
+model: "Power Supplies, PLCs, Drives, HMI, I/O, Sensors & Safety Relays"
 manufacturer: "Allen-Bradley"
 category: "Electrical"
 description: "Allen-Bradley I/O Modules, Contactors & PLCs and related industrial electrical spare parts and components, referenced to OEM part numbers. Request price and availability."

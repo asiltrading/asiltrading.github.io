@@ -1,6 +1,6 @@
 ---
 title: "Hirschmann – Промышленные коммутаторы Ethernet, медиа-модули и рельсовые трансиверы"
-model: "Spider 5Tx / OZD Genius G12 / RS2 / RS20 / MM Series"
+model: "Rail Hubs & Switches, MICE Switching & Media Modules"
 manufacturer: "Hirschmann"
 category: "Navigation & Electronics"
 description: "Промышленные сетевые компоненты Hirschmann: хаб-модули Spider, рельсовые трансиверы OZD Genius, коммутаторы RS2, модули коммутации MICE серии RS20 и медиа-модули MICE серии MM для промышленных сетей автоматизации. Запросите цену и наличие."

@@ -1,6 +1,6 @@
 ---
 title: "Meiyo Electric – Resistance Bulbs, Thermocouples & Pressure Transmitters"
-model: "PTR-M / PTR-A11 / PTR-LN7 / PTR-S / PTR-SD / SMP-2LB / MCA-S / D1-100W"
+model: "PTR Series Resistance Bulbs, SMP-2LB Pressure Transmitters & MCA-S Thermocouples"
 manufacturer: "Meiyo Electric"
 category: "Engine"
 description: "Meiyo Electric resistance bulbs (PTR series), thermocouples (MCA-S series), pressure transmitters (SMP-2LB), and ancillary heating equipment for marine and industrial instrumentation applications. Request price and availability."

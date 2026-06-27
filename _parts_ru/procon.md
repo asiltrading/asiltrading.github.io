@@ -1,6 +1,6 @@
 ---
 title: "Procon PAS – Модули сервоусилителей, источников питания и управления"
-model: "60WKS-M240 / 64WKS-M240 / 56WKS-P240 / MP600"
+model: "Servo Amplifier PCBs, Inverter Drive Modules & PLC Control Boards"
 manufacturer: "Procon PAS Elektronik"
 category: "Electrical"
 description: "Procon PAS Elektronik производит платы аналоговых сервоусилителей, транзисторные инверторные приводы, платы источников питания и модули управления ПЛК для промышленных систем управления движением и автоматизации. Запросите цену и наличие."

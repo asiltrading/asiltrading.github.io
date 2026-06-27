@@ -1,6 +1,6 @@
 ---
 title: "Bartec – Explosion-Proof Electrical Components and Accessories"
-model: "07-7311-97WP/5200 | HSF 200-T3-5 | 07-3363-3813 | 07-3363-3823 | 07-3323-3103 | 07-3323-3203 | 07-3363-3833 | GB-122/11"
+model: "Ex-Rated Junction Box Components, Switch & Communication Modules"
 manufacturer: "Bartec"
 category: "Electrical"
 description: "Bartec manufactures certified explosion-proof electrical components including Profibus couplers, switch modules, heating elements, and junction box terminals for hazardous area installations. Request price and availability."

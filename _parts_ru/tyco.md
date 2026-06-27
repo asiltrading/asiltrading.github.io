@@ -1,6 +1,6 @@
 ---
 title: "Tyco – Морские детекторы пожара, панели и модули управления"
-model: "MD901, MF601M, 601PH, 811PH, T1216, T1204DC, MX Series, 600/700/800/900 Series"
+model: "Fire Detectors, Manual Call Points, Alarm Panels & Interface Modules"
 manufacturer: "Tyco"
 category: "Auxiliary Equipment"
 description: "Компоненты морских систем пожарной сигнализации Tyco включают адресные и конвенциональные детекторы дыма, тепла и пламени, ручные извещатели, панели управления, интерфейсные модули и блоки питания. Запросите цену и наличие."

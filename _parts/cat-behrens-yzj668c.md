@@ -3,7 +3,7 @@ title: "Behrens Pumpen Pump Set – Hull YZJ2003-668C"
 model: "Order 224755 / Hull YZJ2003-668C (34 pumps)"
 manufacturer: "Heinrich Behrens Pumpenfabrik"
 category: "Pumps & Valves"
-description: "Complete Behrens Pumpen marine pump set delivered to Yangzijiang Shipyard hull YZJ2003-668C (Anhui Tech & Export). Pump positions, types, serial numbers, electric motors. GL classification. Drawing dated 20.09.2005."
+description: "Complete Behrens Pumpen marine pump set for Yangzijiang hull YZJ2003-668C: 34 pump positions with types, serial numbers, services, and electric motor specs. Sea water, ballast, fuel, lube oil, bilge, and fire-fighting pumps. Request price and availability."
 image: "/assets/img/og/cat-behrens-yzj668c.png"
 
 ---
@@ -52,4 +52,4 @@ image: "/assets/img/og/cat-behrens-yzj668c.png"
   </table>
 </div>
 
-<p><em>For mechanical seal and bearing part numbers per pump type, refer to <a href="cat-behrens-bearings-code-list.html">Behrens Pumpen Bearings &amp; Seals Code List</a>.</em></p>
+<p><em>For mechanical seal and bearing part numbers per pump type, refer to the <a href="/parts/cat-behrens-bearings-code-list/">Behrens Pumpen Bearings &amp; Seals Code List</a>.</em></p>

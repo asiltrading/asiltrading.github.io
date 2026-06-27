@@ -1,6 +1,6 @@
 ---
 title: "Hochiki Fire Detection Components"
-model: "YBO-R/5M, YBN-R/6, YBN-R/4IS, YBN-R/4C, ACA-E, SLR-E-IS, WCP1A-R470SF-H029-01"
+model: "Fire Detector Bases, Smoke & Heat Detectors & Manual Call Points"
 manufacturer: "Hochiki"
 category: "Auxiliary Equipment"
 description: "Hochiki fire detection components including detector bases, manual call points, analog multisensors, and smoke detectors for marine and industrial fire alarm systems. Request price and availability."

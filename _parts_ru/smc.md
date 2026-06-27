@@ -1,6 +1,6 @@
 ---
 title: "SMC – Пневматические компоненты и аксессуары"
-model: "SY5120 / VXZ242FZ2A / MHS3-32D / AME-EL650 / LECPMJT / AV5000 / ITV2010"
+model: "Solenoid Valves, Cylinders, Air Preparation Units & Pneumatic Fittings"
 manufacturer: "SMC"
 category: "Pumps & Valves"
 description: "Пневматические компоненты SMC: электромагнитные клапаны, цилиндры, пневматические захваты, фильтры-регуляторы, маслораспылители, сепараторы и контроллеры движения для промышленной автоматизации. Запросите цену и наличие."

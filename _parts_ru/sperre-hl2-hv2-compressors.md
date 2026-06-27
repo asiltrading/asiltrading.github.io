@@ -1,6 +1,6 @@
 ---
 title: "Sperre HL2 / HV2 Air Compressors"
-model: "HL2/140 · HL2/105 · HV2/210"
+model: "HL2 & HV2 Compressor Spare Parts"
 manufacturer: "Sperre"
 category: "Auxiliary Equipment"
 description: "Запчасти для Sperre HL2/140 · HL2/105 · HV2/210. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

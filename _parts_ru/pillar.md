@@ -1,6 +1,6 @@
 ---
 title: "Nippon Pillar – Прокладки, набивки и торцевые уплотнения"
-model: "6633 / 2603-aee / 2603-eee / US-2 / ES10 / 6315Ch / 6501L / 4506L"
+model: "Gaskets, Gland Packings, Mechanical Seals & Valve Seat Packings"
 manufacturer: "Nippon Pillar"
 category: "Pumps & Valves"
 description: "Уплотнительная продукция Nippon Pillar включает спирально-навитые прокладки, прокладки для паропроводов, сальниковые набивки и комплекты торцевых уплотнений для широкого диапазона давлений и типоразмеров в судовых и промышленных трубопроводных системах. Запросите цену и наличие."

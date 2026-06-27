@@ -1,6 +1,6 @@
 ---
 title: "JRCS – Marine Alarm & Control System Spare Parts"
-model: "SCU-AN8 / SCU-AN7 / SCU-RT2 / SGD-640-N2E / SMS-U20F"
+model: "Starter Control Units, Alarm Printers, PCB Modules & Power Units"
 manufacturer: "JRCS"
 category: "Navigation & Electronics"
 description: "Genuine JRCS spare parts for marine alarm monitoring and control systems, including starter control units, PCB cards, LCD terminals, alarm printers, and power units. Request price and availability."

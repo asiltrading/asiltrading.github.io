@@ -1,6 +1,6 @@
 ---
 title: "Procon PAS – Servo Amplifier, Power Supply & Control Modules"
-model: "60WKS-M240 / 64WKS-M240 / 56WKS-P240 / MP600"
+model: "Servo Amplifier PCBs, Inverter Drive Modules & PLC Control Boards"
 manufacturer: "Procon PAS Elektronik"
 category: "Electrical"
 description: "Procon PAS Elektronik manufactures analog servo amplifier PCB modules, transistor-inverter drives, power supply boards, and PLC control modules for industrial motion control and automation systems. Request price and availability."

@@ -1,6 +1,6 @@
 ---
 title: "Moxa – Industrial Networking & Connectivity Parts"
-model: "DR-120-24 / NPORT 5650I-8-DT / EDS-G308 / EDS-518A"
+model: "NPort Serial Device Servers, EDS Ethernet Switches & Media Converters"
 manufacturer: "Moxa"
 category: "Navigation & Electronics"
 description: "Genuine Moxa industrial networking components including serial device servers, Ethernet switches, media converters, SFP modules, and DIN-rail power supplies for marine and industrial automation applications. Request price and availability."

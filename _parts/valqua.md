@@ -1,6 +1,6 @@
 ---
 title: "Valqua – Gaskets & Sealing Products"
-model: "6500 / 7590V / 540-ZMSZ / CTF / 8590VL"
+model: "CTF, Spiral Wound & Metal Gaskets, Sheet Fiber & Rubber Packings"
 manufacturer: "Valqua"
 category: "Pumps & Valves"
 description: "Valqua gaskets and sealing products cover spiral wound gaskets, non-asbestos fiber sheet gaskets, CTF flange gaskets, oval ring gaskets, cloth-reinforced rubber packings, and sawtooth metal gaskets for marine and industrial piping systems. Request price and availability."

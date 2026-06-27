@@ -1,6 +1,6 @@
 ---
 title: "Stahl – Explosion-Protected Control and Signal Equipment Spare Parts"
-model: "ICS 1000 / 9100 Series / 9160 Series / 6042 Series"
+model: "Ex-Rated Signal Isolators, Temperature Transmitters, PCB Modules & Starting Equipment"
 manufacturer: "Stahl"
 category: "Electrical"
 description: "Stahl manufactures explosion-protected switchgear, isolating repeaters, transmitter supply units, PCB cards, and signal conditioning modules for hazardous-area applications in the marine and offshore industries. Request price and availability."

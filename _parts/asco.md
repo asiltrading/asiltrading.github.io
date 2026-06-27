@@ -1,6 +1,6 @@
 ---
 title: "ASCO – Solenoid Valves, Coils & Accessories"
-model: "8345G1 / 8210G3 / 8344G070MO / SC E210D004 / SC8320G013 / JKF8262G022 / WPHTB266D101L / WPHBB266C203V / WPHBB266D001V / SCB307B065U / SCXE238D002 / G325B035V / E290A792-006 / 52000079"
+model: "8000 Series, SC, WPH & JKF solenoid valves, coils & repair kits"
 manufacturer: "ASCO"
 category: "Pumps & Valves"
 description: "ASCO solenoid valves, coils, repair kits, globe valves, and spool valves for fluid and process control applications across marine and industrial systems. Request price and availability."

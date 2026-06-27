@@ -1,6 +1,6 @@
 ---
 title: "Utsunomiya Electric – Предохранители серии Cello-Lite"
-model: "NC0 / NC1 / NC2 / UC1 / JG1"
+model: "NC0, NC1, NC2, UC1 & JG1 Series Cello-Lite Fuses"
 manufacturer: "Utsunomiya Electric"
 category: "Electrical"
 description: "Предохранители Utsunomiya Electric серий NC0, NC1, NC2, UC1 и JG1 типа Cello-Lite и картриджные, рассчитанные на переменное напряжение 500 В и постоянное 250 В. Запросите цену и наличие."

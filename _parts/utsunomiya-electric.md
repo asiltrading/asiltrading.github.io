@@ -1,6 +1,6 @@
 ---
 title: "Utsunomiya Electric – Cello-Lite Fuse Series"
-model: "NC0 / NC1 / NC2 / UC1 / JG1"
+model: "NC0, NC1, NC2, UC1 & JG1 Series Cello-Lite Fuses"
 manufacturer: "Utsunomiya Electric"
 category: "Electrical"
 description: "Utsunomiya Electric Cello-Lite and cartridge fuses covering NC0, NC1, NC2, UC1, and JG1 series rated for AC 500V and DC 250V applications. Request price and availability."

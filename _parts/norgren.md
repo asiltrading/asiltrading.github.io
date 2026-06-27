@@ -1,6 +1,6 @@
 ---
 title: "Norgren – Pneumatic Components and Spare Parts"
-model: "L22-405-opda / R73G-2Ak-rmg / T1000C2800 / V60A513A-a3000"
+model: "Pneumatic FRL Units, Solenoid Valves, Flow Regulators & Cylinder Seal Kits"
 manufacturer: "Norgren"
 category: "Pumps & Valves"
 description: "Genuine Norgren pneumatic components including pressure regulators, solenoid valves, filters, lubricators, flow regulators, and cylinder seal kits for industrial and marine applications. Request price and availability."

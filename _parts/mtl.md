@@ -1,6 +1,6 @@
 ---
 title: "MTL Instruments – Intrinsic Safety Barriers and Isolators"
-model: "MTL5000 / MTL7000 / MTL2000 / MTL3000 Series"
+model: "Shunt-Diode Safety Barriers, Isolating Signal Conditioners & Relay Modules"
 manufacturer: "MTL Instruments"
 category: "Electrical"
 description: "MTL Instruments manufactures shunt-diode safety barriers, galvanic isolators, and signal conditioning modules for hazardous-area installations in process industries. Request price and availability."

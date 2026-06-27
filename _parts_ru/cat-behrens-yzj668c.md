@@ -1,9 +1,9 @@
 ---
-title: "Behrens Pumpen Pump Set – Hull YZJ2003-668C"
+title: "Behrens Pumpen – Судовой комплект насосов, корпус YZJ2003-668C"
 model: "Order 224755 / Hull YZJ2003-668C (34 pumps)"
 manufacturer: "Heinrich Behrens Pumpenfabrik"
 category: "Pumps & Valves"
-description: "Запчасти для Heinrich Behrens Pumpenfabrik Order 224755 / Hull YZJ2003-668C (34 pumps). Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."
+description: "Полный судовой комплект насосов Behrens Pumpen для корпуса Yangzijiang YZJ2003-668C: 34 позиции с типами, серийными номерами, назначением и характеристиками электродвигателей. Насосы забортной воды, балластные, топливные, масляные, осушительные и пожарные. Запросите цену и наличие."
 image: "/assets/img/og-ru/cat-behrens-yzj668c.png"
 
 ---
@@ -52,4 +52,4 @@ image: "/assets/img/og-ru/cat-behrens-yzj668c.png"
   </table>
 </div>
 
-<p><em>For mechanical seal and bearing part numbers per pump type, refer to <a href="cat-behrens-bearings-code-list.html">Behrens Pumpen Bearings &amp; Seals Code List</a>.</em></p>
+<p><em>Номера механических уплотнений и подшипников по типу насоса смотрите в <a href="/ru/parts/cat-behrens-bearings-code-list/">справочнике уплотнений и подшипников Behrens Pumpen</a>.</em></p>

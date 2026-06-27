@@ -1,6 +1,6 @@
 ---
 title: "Praxis Automation Technology – запчасти для морских систем автоматизации и управления"
-model: "91.6 / 98.6 / 20.8 / 93.6 / 95.6, DIN I/O, DIN-PMS, Marine PC"
+model: "Marine PCS, DIN I/O & Analog Input Boards, Display Panels & Network Hardware"
 manufacturer: "Praxis Automation"
 category: "Navigation & Electronics"
 description: "Praxis Automation Technology поставляет морские системы автоматизации и управления, включая модули ввода-вывода, морские ПК, панели отображения, сетевое оборудование и модули СУТ для судовых систем мониторинга и управления. Запросите цену и наличие."

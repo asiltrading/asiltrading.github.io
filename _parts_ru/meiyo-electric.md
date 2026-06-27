@@ -1,6 +1,6 @@
 ---
 title: "Meiyo Electric – Термосопротивления, термопары и датчики давления"
-model: "PTR-M / PTR-A11 / PTR-LN7 / PTR-S / PTR-SD / SMP-2LB / MCA-S / D1-100W"
+model: "PTR Series Resistance Bulbs, SMP-2LB Pressure Transmitters & MCA-S Thermocouples"
 manufacturer: "Meiyo Electric"
 category: "Engine"
 description: "Термосопротивления серии PTR, термопары серии MCA-S, датчики давления SMP-2LB и вспомогательное нагревательное оборудование Meiyo Electric для морских и промышленных систем измерения. Запросите цену и наличие."

@@ -1,6 +1,6 @@
 ---
 title: "PR Electronics – Signal Conditioners, Isolators and Transmitters"
-model: "5111 / 5104A / 5114 / 5114A / 5114B / 5131.1 / 6185 / 2204 / 2204D / 2220B / 2230 / 2231P / 2232 / 2274"
+model: "Programmable Transmitters, Isolators, Power Supplies & Trip Amplifiers"
 manufacturer: "PR Electronics"
 category: "Electrical"
 description: "Genuine PR Electronics spare parts including universal and programmable transmitters, loop-powered isolators, isolation amplifiers, switchmode power supplies, trip amplifiers, and limit switches for industrial process control systems. Request price and availability."

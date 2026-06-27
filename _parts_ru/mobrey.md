@@ -1,6 +1,6 @@
 ---
 title: "Mobrey – Датчики уровня, преобразователи и блоки управления"
-model: "SMB1 / S-K16ES / S179DB / S195DB / MSP900GH / S250DA / S01D / S36DA / SQUING / FLLB500 / 9720MA1A4F0X9 / MCU901WX"
+model: "Magnetic, Float & Squing Series Level Switches, Transmitters & Control Units"
 manufacturer: "Mobrey"
 category: "Pumps & Valves"
 description: "Датчики уровня Mobrey, поплавковые выключатели, жидкостные реле уровня, преобразователи уровня и универсальные блоки управления для промышленных технологических применений. Запросите цену и наличие."

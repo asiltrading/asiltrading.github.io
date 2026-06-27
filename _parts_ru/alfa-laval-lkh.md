@@ -1,6 +1,6 @@
 ---
 title: "Alfa Laval LKH Centrifugal Pump"
-model: "LKH 10 / 15 / 20 / 25 / 35 / 40 / 50 / 60"
+model: "LKH Centrifugal Pump Seal Kits & Agitator Spare Parts"
 manufacturer: "Alfa Laval"
 category: "Pumps & Valves"
 description: "Запчасти для Alfa Laval LKH 10 / 15 / 20 / 25 / 35 / 40 / 50 / 60. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

@@ -1,6 +1,6 @@
 ---
 title: "Siox Telefrang – Control System Modules and I/O Cards"
-model: "S49 / S45 / S27 / S12 / N48 / K48 / G12"
+model: "Analogue Output, Digital I/O, AD Modules & Local Controllers"
 manufacturer: "Siox Telefrang"
 category: "Navigation & Electronics"
 description: "Siox Telefrang analogue and digital I/O modules, local controllers, and AD subsystem cards for marine automation and process control systems. Request price and availability."

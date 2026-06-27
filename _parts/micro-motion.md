@@ -1,6 +1,6 @@
 ---
 title: "Micro Motion – Flow Transmitters, Core Processors, PCB Modules & Sensors"
-model: "IFT9701 / 2700 / 1700 / 2400S / 3700 / RFT9739 / 9739MVD / 700 / 800 / F050 / F300"
+model: "Coriolis Flow Sensors, 1700/2400/2700 Transmitters & Core Processors"
 manufacturer: "Micro Motion"
 category: "Pumps & Valves"
 description: "Genuine Micro Motion spare parts including flow transmitters, core processor assemblies, printed circuit board modules, power supply boards, LED display modules, and Coriolis mass flow sensors for Coriolis metering systems. Request price and availability."

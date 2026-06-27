@@ -1,6 +1,6 @@
 ---
 title: "WIKA – Манометры, датчики давления и термоприборы"
-model: "EN 837-1 / 232.50 / 230.20 / S-10 / S-11 / S-20 / A-10 / IS-3"
+model: "Bourdon Tube Gauges, S-10/S-20/A-10 Pressure Transmitters & Temperature Instruments"
 manufacturer: "WIKA"
 category: "Pumps & Valves"
 description: "WIKA является мировым производителем приборов для измерения давления, температуры и уровня, применяемых в морской, промышленной и технологической отраслях. Запросите цену и наличие."

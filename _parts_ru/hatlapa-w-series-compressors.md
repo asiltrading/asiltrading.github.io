@@ -1,6 +1,6 @@
 ---
 title: "Hatlapa W-Series Air Compressors"
-model: "W55 / W80 / W110 / W140 / W220"
+model: "W-Series Air Compressor Spare Parts"
 manufacturer: "Hatlapa"
 category: "Auxiliary Equipment"
 description: "Запчасти для Hatlapa W55 / W80 / W110 / W140 / W220. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

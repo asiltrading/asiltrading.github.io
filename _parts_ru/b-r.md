@@ -1,6 +1,6 @@
 ---
 title: "B&R Automation – Каталог запасных частей"
-model: "ACOPOS / X20 / 8LSA / 4PP / 5D"
+model: "ACOPOS Servo Drives & Power Supplies, Servo Motors, X20 I/O & PLC, HMI Panels"
 manufacturer: "B&R Automation"
 category: "Electrical"
 description: "Запасные части B&R Automation: сервоприводы и инверторные модули ACOPOS, синхронные серводвигатели, модули системы X20 I/O, операторские панели HMI, модули питания и интерфейсные платы для промышленной автоматизации. Запросите цену и наличие."

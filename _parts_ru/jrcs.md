@@ -1,6 +1,6 @@
 ---
 title: "JRCS – Запасные части систем сигнализации и управления"
-model: "SCU-AN8 / SCU-AN7 / SCU-RT2 / SGD-640-N2E / SMS-U20F"
+model: "Starter Control Units, Alarm Printers, PCB Modules & Power Units"
 manufacturer: "JRCS"
 category: "Navigation & Electronics"
 description: "Оригинальные запасные части JRCS для судовых систем сигнализации и управления, включая блоки управления пуском, платы PCB, LCD-терминалы, принтеры аварийной сигнализации и блоки питания. Запросите цену и наличие."

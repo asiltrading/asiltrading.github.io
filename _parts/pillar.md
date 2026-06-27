@@ -1,6 +1,6 @@
 ---
 title: "Nippon Pillar – Gaskets, Packings & Mechanical Seals"
-model: "6633 / 2603-aee / 2603-eee / US-2 / ES10 / 6315Ch / 6501L / 4506L"
+model: "Gaskets, Gland Packings, Mechanical Seals & Valve Seat Packings"
 manufacturer: "Nippon Pillar"
 category: "Pumps & Valves"
 description: "Nippon Pillar sealing products include spiral wound gaskets, steam piping gaskets, gland packings, and mechanical seal sets covering a wide range of pressure ratings and sizes for marine and industrial piping systems. Request price and availability."

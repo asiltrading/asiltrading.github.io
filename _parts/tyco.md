@@ -1,6 +1,6 @@
 ---
 title: "Tyco Fire Detection – Marine Smoke, Heat & Flame Detectors, Panels and Modules"
-model: "MD901, MF601M, 601PH, 811PH, T1216, T1204DC, MX Series, 600/700/800/900 Series"
+model: "Fire Detectors, Manual Call Points, Alarm Panels & Interface Modules"
 manufacturer: "Tyco"
 category: "Auxiliary Equipment"
 description: "Tyco marine fire detection components include addressable and conventional smoke, heat, and flame detectors, manual call points, control panels, interface modules, and power supplies for vessel fire safety systems. Request price and availability."

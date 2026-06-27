@@ -1,6 +1,6 @@
 ---
 title: "Spirax Sarco Steam Traps"
-model: "TD42 / UTD30 / FT14 / FTS14 / BPS32"
+model: "UTD30/UTD52 Thermodynamic & FT14/FTS14 Ball Float Trap Spare Parts"
 manufacturer: "Spirax Sarco"
 category: "Pumps & Valves"
 description: "Confirmed numeric OEM spare-part codes for Spirax Sarco steam traps (US-market codes only – Spirax's European catalogue is description-based; orders for non-listed parts state size, model, and component)."

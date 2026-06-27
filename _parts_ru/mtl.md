@@ -1,6 +1,6 @@
 ---
 title: "MTL Instruments – Барьеры искробезопасности и изоляторы"
-model: "MTL5000 / MTL7000 / MTL2000 / MTL3000 Series"
+model: "Shunt-Diode Safety Barriers, Isolating Signal Conditioners & Relay Modules"
 manufacturer: "MTL Instruments"
 category: "Electrical"
 description: "MTL Instruments производит шунтирующие диодные барьеры искробезопасности, гальванические изоляторы и модули кондиционирования сигналов для взрывоопасных зон в промышленности. Запросите цену и наличие."

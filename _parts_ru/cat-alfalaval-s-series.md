@@ -1,6 +1,6 @@
 ---
 title: "Alfa Laval S-Type Separator (S 200 - S 800)"
-model: "S 200 / S 300 / S 400 / S 500 / S 600 / S 700 / S 800"
+model: "S 200-700 Series Separators"
 manufacturer: "Alfa Laval"
 category: "Auxiliary Equipment"
 description: "Запчасти для Alfa Laval S 200 / S 300 / S 400 / S 500 / S 600 / S 700 / S 800. Подбор по OEM-номерам, срочные поставки, оригинал, OEM-аналоги, б/у. Запросите цену и наличие."

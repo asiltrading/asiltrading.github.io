@@ -1,6 +1,6 @@
 ---
 title: "Allen-Bradley – Модули ввода-вывода, контакторы и ПЛК"
-model: "Bulletin 100 / 1492 / 1746 / 1769"
+model: "Power Supplies, PLCs, Drives, HMI, I/O, Sensors & Safety Relays"
 manufacturer: "Allen-Bradley"
 category: "Electrical"
 description: "Запчасти Allen-Bradley: модули ввода-вывода, контакторы и ПЛК и другое. Подбор по OEM-номерам, оригинал и OEM-аналоги, б/у. Запросите цену и наличие."

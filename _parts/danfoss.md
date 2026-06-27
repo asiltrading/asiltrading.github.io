@@ -1,6 +1,6 @@
 ---
 title: "Danfoss Marine and Industrial Parts"
-model: "HM-0420 / 068U3420 / PVRE-L / BRC 012-A1 / RT 116 / BE240CS / KK20805 / 067B2708 / 067B4023 / BFP 21 L5 / VPI / TEX-20 / MBS 33M / 159-2227 / VCM 10 / GBC 35S / 157B4032 / DML 163"
+model: "Expansion Valves, Solenoid Valves, Hydraulic Actuators, Pressure Switches & Burner Pumps"
 manufacturer: "Danfoss"
 category: "Pumps & Valves"
 description: "Danfoss replacement parts for marine and industrial applications including expansion valves, solenoid valves, hydraulic actuators, pressure transmitters, and burner pumps. Request price and availability."

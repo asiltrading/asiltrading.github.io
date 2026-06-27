@@ -1,6 +1,6 @@
 ---
 title: "Baylor – Control & Alarm PCB Boards"
-model: "D28380-3 J / 55853 / BB75A / 57296 / 55856 / 56036 / 56038 / 56194"
+model: "Control, Firing, Monitoring & Alarm Boards"
 manufacturer: "Baylor"
 category: "Electrical"
 description: "Baylor printed circuit boards for marine and industrial control systems, including main control, firing, auxiliary, alarm, and ground detection PCBs. Request price and availability."

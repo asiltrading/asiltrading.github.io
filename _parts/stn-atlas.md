@@ -1,6 +1,6 @@
 ---
 title: "STN Atlas – Marine Automation and Control System Spare Parts"
-model: "DAM 401 / BAP 401 / ZM 401 / ZDM 401 / MXM 401 / VSM 401 / ESS 40M / DAS 40M / BMS 40M"
+model: "Central, I/O, Control & Relay Modules, Alarm & Engine Control, Bridge Panels"
 manufacturer: "STN Atlas"
 category: "Navigation & Electronics"
 description: "STN Atlas marine electronics modules and PCB assemblies for vessel automation, alarm, safety, and propulsion control systems. Request price and availability."

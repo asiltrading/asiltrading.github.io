@@ -1,6 +1,6 @@
 ---
 title: "Mobrey – Level Switches, Transmitters & Control Units"
-model: "SMB1 / S-K16ES / S179DB / S195DB / MSP900GH / S250DA / S01D / S36DA / SQUING / FLLB500 / 9720MA1A4F0X9 / MCU901WX"
+model: "Magnetic, Float & Squing Series Level Switches, Transmitters & Control Units"
 manufacturer: "Mobrey"
 category: "Pumps & Valves"
 description: "Mobrey level switches, float switches, liquid level switches, level transmitters, and universal control units for industrial process and vessel level measurement applications. Request price and availability."

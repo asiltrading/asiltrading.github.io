@@ -1,6 +1,6 @@
 ---
 title: "SMC – Pneumatic Components and Accessories"
-model: "SY5120 / VXZ242FZ2A / MHS3-32D / AME-EL650 / LECPMJT / AV5000 / ITV2010"
+model: "Solenoid Valves, Cylinders, Air Preparation Units & Pneumatic Fittings"
 manufacturer: "SMC"
 category: "Pumps & Valves"
 description: "SMC pneumatic components including solenoid valves, cylinders, air grippers, filter regulators, lubricators, separators, and motion controllers for industrial automation. Request price and availability."

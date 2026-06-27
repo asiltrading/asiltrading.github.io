@@ -2,13 +2,18 @@
 layout: default
 ---
 {%- assign part_image_url = page.image | default: '/assets/img/og-image.png' -%}
+{%- comment -%} mpn is only valid as a single manufacturer part number; omit it when model is a multi-part catalog summary (contains a space, slash, comma, or pipe). {%- endcomment -%}
+{%- assign model_is_single_pn = true -%}
+{%- if page.model contains " " or page.model contains "/" or page.model contains "," or page.model contains "|" -%}{%- assign model_is_single_pn = false -%}{%- endif -%}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": {{ page.title | jsonify }},
   "model": {{ page.model | jsonify }},
+{%- if model_is_single_pn %}
   "mpn": {{ page.model | jsonify }},
+{%- endif %}
   "category": {{ page.category | jsonify }},
   "description": {{ page.description | jsonify }},
   "image": "{{ site.url }}{{ part_image_url | relative_url }}",

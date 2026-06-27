@@ -1,6 +1,6 @@
 ---
 title: "Precima – Control Levers and Lever Gear"
-model: "440001 / 400001 / 310001 / 300001 / 100002B"
+model: "440001, 400001, 310001 & 300001 Series Marine Control Levers"
 manufacturer: "Precima"
 category: "Deck Equipment"
 description: "Precima control levers and lever gear assemblies for marine propulsion and maneuvering control systems, covering single and double handle configurations across multiple series. Request price and availability."

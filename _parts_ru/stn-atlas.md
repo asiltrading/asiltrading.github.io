@@ -1,6 +1,6 @@
 ---
 title: "STN Atlas – Запасные части систем морской автоматики и управления"
-model: "DAM 401 / BAP 401 / ZM 401 / ZDM 401 / MXM 401 / VSM 401 / ESS 40M / DAS 40M / BMS 40M"
+model: "Central, I/O, Control & Relay Modules, Alarm & Engine Control, Bridge Panels"
 manufacturer: "STN Atlas"
 category: "Navigation & Electronics"
 description: "Модули и платы STN Atlas для судовых систем автоматизации, аварийно-предупредительной сигнализации, безопасности и управления пропульсивной установкой. Запросите цену и наличие."

@@ -1,6 +1,6 @@
 ---
 title: "Trafag – Датчики давления, мониторы плотности и температурные приборы"
-model: "8264 / 8202 / 8498 / 8842 / 8783 / 8736 / 8100 / 9B0 / 9B3 / 9B4 / 471 / 900 / PVF-9 / IS31N"
+model: "Pressure & Temperature Transmitters, Switches, Density Monitors & Sensors"
 manufacturer: "Trafag"
 category: "Pumps & Valves"
 description: "Trafag производит прецизионные датчики давления, мониторы плотности, реле давления и температурные приборы для промышленных установок и распределительных устройств. Запросите цену и наличие."

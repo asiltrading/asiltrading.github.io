@@ -1,6 +1,6 @@
 ---
 title: "Micro Motion – Преобразователи расхода, процессоры, платы PCB и датчики"
-model: "IFT9701 / 2700 / 1700 / 2400S / 3700 / RFT9739 / 9739MVD / 700 / 800 / F050 / F300"
+model: "Coriolis Flow Sensors, 1700/2400/2700 Transmitters & Core Processors"
 manufacturer: "Micro Motion"
 category: "Pumps & Valves"
 description: "Оригинальные запасные части Micro Motion, включая преобразователи расхода, процессорные блоки, модули печатных плат, блоки питания, светодиодные дисплейные модули и датчики кориолисового расходомера. Запросите цену и наличие."

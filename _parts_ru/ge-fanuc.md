@@ -1,6 +1,6 @@
 ---
 title: "GE Fanuc – Каталог запасных частей"
-model: "IC693 / IC697 / IC200 / IC660 / IC670"
+model: "CPU, I/O, Analog, Power & Genius Block Modules (Series 90)"
 manufacturer: "GE Fanuc"
 category: "Engine"
 description: "Запасные части для ПЛК и автоматизации GE Fanuc, включая модули Series 90-30, Series 90-70, VersaMax и Genius I/O для промышленных систем управления. Запросите цену и наличие."
